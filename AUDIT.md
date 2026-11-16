@@ -7,3 +7,5 @@ Release oEmbed checks: 16 of 16 distinct YouTube media and image-source URLs ret
 External reader URL checks were run during the earlier full-archive audit on 16 November 2026. The subset for Edition 01 is retained in verification/urls.json. A successful HTTP response does not authenticate every claim. Browser playback and every regional restriction remain unverified.
 
 The earlier checker recorded errors for the bare preconnect origins https://fonts.googleapis.com and https://fonts.gstatic.com. These are connection hints rather than reader links or stylesheet paths. The actual font stylesheet passed in the full-archive check.
+
+Live release checks: all 15 public thumbnail files returned HTTP 200 and matched local SHA-256 hashes. Browser checks confirmed the Twitch filter shows two cases, search for Jawed Karim shows one case, case expansion works and the first screening player opens the correct YouTube iframe. Full playback and mobile layout are not certified by these checks.
