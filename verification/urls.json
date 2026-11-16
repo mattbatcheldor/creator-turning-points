@@ -1,524 +1,837 @@
 [
   {
     "url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record",
+    "check_url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record",
     "status": 200,
     "final_url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "MrBeast now has the most YouTube subscribers of any channel",
-    "checked_at": "2026-11-16T17:06:46.200938+00:00",
-    "bytes_read": 158475,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:15.816452+00:00"
   },
   {
     "url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
+    "check_url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
     "status": 200,
     "final_url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "MrBeast now has the most YouTube subscribers of any channel",
-    "checked_at": "2026-11-16T17:20:42.266289+00:00",
-    "bytes_read": 158475,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:11.774225+00:00"
+  },
+  {
+    "url": "https://9to5mac.com/2024/08/07/humane-ai-pin-woes-worsen-as-recent-returns-exceed-sales/",
+    "check_url": "https://9to5mac.com/2024/08/07/humane-ai-pin-woes-worsen-as-recent-returns-exceed-sales/",
+    "status": 200,
+    "final_url": "https://9to5mac.com/2024/08/07/humane-ai-pin-woes-worsen-as-recent-returns-exceed-sales/",
+    "title": "Humane Ai Pin woes worsen as recent returns exceed sales - 9to5Mac",
+    "checked_at": "2026-11-16T19:28:11.948403+00:00"
+  },
+  {
+    "url": "https://abc7.com/post/stanley-cup-fire-tumblers-viral-tiktok-videos/14082972/",
+    "check_url": "https://abc7.com/post/stanley-cup-fire-tumblers-viral-tiktok-videos/14082972/",
+    "status": 200,
+    "final_url": "https://abc7.com/post/stanley-cup-fire-tumblers-viral-tiktok-videos/14082972/",
+    "title": "Woman&#x27;s Stanley tumbler survived a car fire - Now the company is giving her free cups and a new ride - ABC7 Los Angeles",
+    "checked_at": "2026-11-16T19:28:12.615237+00:00"
   },
   {
     "url": "https://abcnews.com/gma/weekend/teen-pop-star-justin-bieber-discovered-youtube/story?id=9068403",
+    "check_url": "https://abcnews.com/gma/weekend/teen-pop-star-justin-bieber-discovered-youtube/story?id=9068403",
     "status": 200,
     "final_url": "https://abcnews.com/gma/weekend/teen-pop-star-justin-bieber-discovered-youtube/story?id=9068403",
-    "content_type": "text/html; charset=utf-8",
     "title": "Pop Star Justin Bieber Is on the Brink of Superstardom  - ABC News",
-    "checked_at": "2026-11-16T17:26:39.744713+00:00",
-    "bytes_read": 148153,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:12.841074+00:00"
   },
   {
     "url": "https://afrotech.com/kai-cenat-surpasses-1-million-subscribers-on-twitch-and-pledges-a-portion-of-the-proceeds-to-building-a-school-in-nigeria",
+    "check_url": "https://afrotech.com/kai-cenat-surpasses-1-million-subscribers-on-twitch-and-pledges-a-portion-of-the-proceeds-to-building-a-school-in-nigeria",
     "status": 200,
     "final_url": "https://afrotech.com/kai-cenat-surpasses-1-million-subscribers-on-twitch-and-pledges-a-portion-of-the-proceeds-to-building-a-school-in-nigeria",
-    "content_type": "text/html; charset=utf-8",
     "title": "Kai Cenat Surpasses 1 Million Subscribers On Twitch And Pledges A Portion Of The Proceeds To Building A School In Nigeria - AfroTech | AfroTech",
-    "checked_at": "2026-11-16T17:06:46.206611+00:00",
-    "bytes_read": 106198,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:12.374294+00:00"
   },
   {
     "url": "https://bbc.in/3yE5eHa",
+    "check_url": "https://bbc.in/3yE5eHa",
     "status": 200,
     "final_url": "https://www.bbc.co.uk/news/newsbeat-57227290",
-    "content_type": "text/html",
     "title": "Charlie Bit My Finger video to be taken off YouTube after selling for £500,000 - BBC News",
-    "checked_at": "2026-11-16T17:06:46.218216+00:00",
-    "bytes_read": 438079,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:16.792256+00:00"
   },
   {
     "url": "https://dailydot.com/numa-numa-turns-12",
+    "check_url": "https://dailydot.com/numa-numa-turns-12",
     "status": 200,
     "final_url": "https://dailydot.com/numa-numa-turns-12",
-    "content_type": "text/html; charset=utf-8",
-    "title": "The history of 'Numa Numa,' the world's first viral video",
-    "checked_at": "2026-11-16T17:06:51.613951+00:00",
-    "bytes_read": 266338,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "The history of &#x27;Numa Numa,&#x27; the world&#x27;s first viral video",
+    "checked_at": "2026-11-16T19:28:11.852293+00:00"
   },
   {
     "url": "https://decrypt.co/72725/charlie-bit-my-finger-nft-will-pay-for-brothers-university-tuition/",
+    "check_url": "https://decrypt.co/72725/charlie-bit-my-finger-nft-will-pay-for-brothers-university-tuition/",
     "status": 200,
     "final_url": "https://decrypt.co/72725/charlie-bit-my-finger-nft-will-pay-for-brothers-university-tuition",
-    "content_type": "text/html; charset=utf-8",
-    "title": "'Charlie Bit My Finger' NFT Will Pay For Brothers’ University Tuition - Decrypt",
-    "checked_at": "2026-11-16T17:06:52.011461+00:00",
-    "bytes_read": 744865,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "&#x27;Charlie Bit My Finger&#x27; NFT Will Pay For Brothers’ University Tuition - Decrypt",
+    "checked_at": "2026-11-16T19:28:17.780776+00:00"
   },
   {
     "url": "https://finance.yahoo.com/news/ksi-logan-paul-probably-banked-095858084.html",
+    "check_url": "https://finance.yahoo.com/news/ksi-logan-paul-probably-banked-095858084.html",
     "status": 200,
     "final_url": "https://finance.yahoo.com/news/ksi-logan-paul-probably-banked-095858084.html",
-    "content_type": "text/html; charset=utf-8",
     "title": "KSI and Logan Paul probably generated up to $11 million with their YouTube boxing match",
-    "checked_at": "2026-11-16T17:26:39.797922+00:00",
-    "bytes_read": 829955,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:12.801232+00:00"
   },
   {
     "url": "https://fonts.googleapis.com",
+    "check_url": "https://fonts.googleapis.com",
     "status": "ERROR",
     "error": "HTTP Error 404: Not Found",
-    "checked_at": "2026-11-16T17:20:42.271255+00:00",
-    "role": "Preconnect origin",
-    "http_status": 404
+    "checked_at": "2026-11-16T19:28:12.457439+00:00"
   },
   {
     "url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap",
+    "check_url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap",
     "status": 200,
     "final_url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap",
-    "content_type": "text/css; charset=utf-8",
     "title": "",
-    "checked_at": "2026-11-16T17:20:42.272227+00:00",
-    "bytes_read": 1963,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:12.410110+00:00"
   },
   {
     "url": "https://fonts.gstatic.com",
+    "check_url": "https://fonts.gstatic.com",
     "status": "ERROR",
     "error": "HTTP Error 404: Not Found",
-    "checked_at": "2026-11-16T17:20:42.274842+00:00",
-    "role": "Preconnect origin",
-    "http_status": 404
+    "checked_at": "2026-11-16T19:28:15.955129+00:00"
+  },
+  {
+    "url": "https://gameworldobserver.com/2021/12/24/plarium-spent-8-66-million-on-youtube-ads-for-raid-shadow-legends-over-last-six-months",
+    "check_url": "https://gameworldobserver.com/2021/12/24/plarium-spent-8-66-million-on-youtube-ads-for-raid-shadow-legends-over-last-six-months",
+    "status": 200,
+    "final_url": "https://gameworldobserver.com/2021/12/24/plarium-spent-8-66-million-on-youtube-ads-for-raid-shadow-legends-over-last-six-months",
+    "title": "Plarium spent $8.66 million on YouTube ads for RAID: Shadow Legends over last six months | Game World Observer",
+    "checked_at": "2026-11-16T19:28:17.006006+00:00"
+  },
+  {
+    "url": "https://goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "check_url": "https://goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "status": 200,
+    "final_url": "https://goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "title": "We made Emily Mariko&#x27;s viral salmon rice bowl for lunch and it is worth the hype - Good Morning America",
+    "checked_at": "2026-11-16T19:28:16.352978+00:00"
+  },
+  {
+    "url": "https://grocerytrader.co.uk/zoflora-production-hits-record-high/",
+    "check_url": "https://grocerytrader.co.uk/zoflora-production-hits-record-high/",
+    "status": 200,
+    "final_url": "https://grocerytrader.co.uk/zoflora-production-hits-record-high/",
+    "title": "Zoflora Production Hits Record High | Grocery Trader",
+    "checked_at": "2026-11-16T19:28:17.715737+00:00"
   },
   {
     "url": "https://guinnessworldrecords.de/world-records/109112-first-video-uploaded-to-youtube",
+    "check_url": "https://guinnessworldrecords.de/world-records/109112-first-video-uploaded-to-youtube",
     "status": 200,
     "final_url": "https://guinnessworldrecords.de/world-records/109112-first-video-uploaded-to-youtube",
-    "content_type": "text/html; charset=UTF-8",
     "title": "First video uploaded to YouTube | Guinness World Records",
-    "checked_at": "2026-11-16T17:06:52.650542+00:00",
-    "bytes_read": 25548,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:17.077062+00:00"
   },
   {
     "url": "https://jdlasica.com/citizen-sleuthing-the-unmasking-of-lonelygirl15/",
+    "check_url": "https://jdlasica.com/citizen-sleuthing-the-unmasking-of-lonelygirl15/",
     "status": 200,
     "final_url": "https://jdlasica.com/citizen-sleuthing-the-unmasking-of-lonelygirl15/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "Citizen sleuthing: The unmasking of Lonelygirl15 - Author JD Lasica",
-    "checked_at": "2026-11-16T17:06:57.344988+00:00",
-    "bytes_read": 179825,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:22.573520+00:00"
+  },
+  {
+    "url": "https://kantar.turtl.co/story/british-homecare-brand-footprint/page/6",
+    "check_url": "https://kantar.turtl.co/story/british-homecare-brand-footprint/page/6",
+    "status": 200,
+    "final_url": "https://kantar.turtl.co/story/british-homecare-brand-footprint/page/6",
+    "title": "Small and mighty - British Homecare Brand Footprint",
+    "checked_at": "2026-11-16T19:28:16.512760+00:00"
   },
   {
     "url": "https://mattbatcheldor.github.io/brand-turning-points/the-index/",
+    "check_url": "https://mattbatcheldor.github.io/brand-turning-points/the-index/",
     "status": 200,
     "final_url": "https://mattbatcheldor.github.io/brand-turning-points/the-index/",
-    "content_type": "text/html; charset=utf-8",
     "title": "Brand Turning Points | The Index",
-    "checked_at": "2026-11-16T17:20:42.294919+00:00",
-    "bytes_read": 169191,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:17.384169+00:00"
   },
   {
     "url": "https://mattbatcheldor.github.io/partnership-turning-points/the-index/",
+    "check_url": "https://mattbatcheldor.github.io/partnership-turning-points/the-index/",
     "status": 200,
     "final_url": "https://mattbatcheldor.github.io/partnership-turning-points/the-index/",
-    "content_type": "text/html; charset=utf-8",
     "title": "Partnership Turning Points | The Index",
-    "checked_at": "2026-11-16T17:20:47.256573+00:00",
-    "bytes_read": 225461,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:17.420744+00:00"
+  },
+  {
+    "url": "https://petapixel.com/2024/04/16/marques-brownlee-criticized-for-unethical-review-of-humane-ai-pin/",
+    "check_url": "https://petapixel.com/2024/04/16/marques-brownlee-criticized-for-unethical-review-of-humane-ai-pin/",
+    "status": 200,
+    "final_url": "https://petapixel.com/2024/04/16/marques-brownlee-criticized-for-unethical-review-of-humane-ai-pin/",
+    "title": "MKBHD Calls Humane AI Pin the &#039;Worst Product&#039; He&#039;s Ever Reviewed | PetaPixel",
+    "checked_at": "2026-11-16T19:28:19.856705+00:00"
+  },
+  {
+    "url": "https://sensortower.com/blog/raid-shadow-legends-crosses-one-billion-revenue",
+    "check_url": "https://sensortower.com/blog/raid-shadow-legends-crosses-one-billion-revenue",
+    "status": 200,
+    "final_url": "https://sensortower.com/blog/raid-shadow-legends-crosses-one-billion-revenue",
+    "title": "RAID: Shadow Legends Crosses $1 Billion in Lifetime Player Spending on Mobile",
+    "checked_at": "2026-11-16T19:28:20.020776+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/humane-ends-its-ai-pin-in-ten-days-sells-technology-to-hp-for-116-million/",
+    "check_url": "https://the-decoder.com/humane-ends-its-ai-pin-in-ten-days-sells-technology-to-hp-for-116-million/",
+    "status": 200,
+    "final_url": "https://the-decoder.com/humane-ends-its-ai-pin-in-ten-days-sells-technology-to-hp-for-116-million/",
+    "title": "Humane ends its AI pin in ten days, sells technology to HP for $116 million",
+    "checked_at": "2026-11-16T19:28:22.608274+00:00"
+  },
+  {
+    "url": "https://thespinoff.co.nz/business/23-11-2019/why-the-shane-dawson-and-jeffree-star-youtube-series-is-a-big-deal",
+    "check_url": "https://thespinoff.co.nz/business/23-11-2019/why-the-shane-dawson-and-jeffree-star-youtube-series-is-a-big-deal",
+    "status": 200,
+    "final_url": "https://thespinoff.co.nz/business/23-11-2019/why-the-shane-dawson-and-jeffree-star-youtube-series-is-a-big-deal",
+    "title": "Why the Shane Dawson and Jeffree Star YouTube series is a big deal | The Spinoff",
+    "checked_at": "2026-11-16T19:28:21.432336+00:00"
+  },
+  {
+    "url": "https://thetakeout.com/viral-tiktok-recipe-leads-to-feta-shortage-1846287905",
+    "check_url": "https://thetakeout.com/viral-tiktok-recipe-leads-to-feta-shortage-1846287905",
+    "status": 200,
+    "final_url": "https://thetakeout.com/viral-tiktok-recipe-leads-to-feta-shortage-1846287905",
+    "title": "Site Unavailable",
+    "checked_at": "2026-11-16T19:28:20.794995+00:00"
+  },
+  {
+    "url": "https://theweek.com/feature/briefing/1018899/booktok-is-tiktok-changing-the-publishing-industry",
+    "check_url": "https://theweek.com/feature/briefing/1018899/booktok-is-tiktok-changing-the-publishing-industry",
+    "status": 200,
+    "final_url": "https://theweek.com/feature/briefing/1018899/booktok-is-tiktok-changing-the-publishing-industry",
+    "title": "#BookTok: Is TikTok changing the publishing industry? | The Week US",
+    "checked_at": "2026-11-16T19:28:21.238869+00:00"
   },
   {
     "url": "https://tubefilter.com/2018/08/27/logan-paul-ksi-boxing-match-money/",
+    "check_url": "https://tubefilter.com/2018/08/27/logan-paul-ksi-boxing-match-money/",
     "status": 200,
     "final_url": "https://www.tubefilter.com/2018/08/27/logan-paul-ksi-boxing-match-money/",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "How Much Did Logan Paul And KSI Make From Their 'YouTube World Boxing Championship'? A Lot. - Tubefilter",
-    "checked_at": "2026-11-16T17:07:03.156299+00:00",
-    "bytes_read": 52776,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "How Much Did Logan Paul And KSI Make From Their &#039;YouTube World Boxing Championship&#039;? A Lot. - Tubefilter",
+    "checked_at": "2026-11-16T19:28:25.543227+00:00"
   },
   {
     "url": "https://tubefilter.com/2019/08/26/youtube-embraces-pewdiepie-after-two-year-cold-shoulder-congratulates-him-on-100-million-subs/",
+    "check_url": "https://tubefilter.com/2019/08/26/youtube-embraces-pewdiepie-after-two-year-cold-shoulder-congratulates-him-on-100-million-subs/",
     "status": 200,
     "final_url": "https://www.tubefilter.com/2019/08/26/youtube-embraces-pewdiepie-after-two-year-cold-shoulder-congratulates-him-on-100-million-subs/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "YouTube Embraces PewDiePie After Two-Year Cold Shoulder, Congratulates Him On 100 Million Subs - Tubefilter",
-    "checked_at": "2026-11-16T17:07:03.449108+00:00",
-    "bytes_read": 53286,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:26.015277+00:00"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/business-43163544",
+    "check_url": "https://www.bbc.co.uk/news/business-43163544",
+    "status": 200,
+    "final_url": "https://www.bbc.co.uk/news/business-43163544",
+    "title": "Kylie Jenner &#x27;sooo over&#x27; Snapchat - and shares tumble - BBC News",
+    "checked_at": "2026-11-16T19:28:21.696466+00:00"
   },
   {
     "url": "https://www.bbc.com/news/articles/c8440yxd92xo",
+    "check_url": "https://www.bbc.com/news/articles/c8440yxd92xo",
     "status": 200,
     "final_url": "https://www.bbc.com/news/articles/c8440yxd92xo",
-    "content_type": "text/html; charset=utf-8",
     "title": "MrBeast: YouTuber topples T-Series for most subscribers",
-    "checked_at": "2026-11-16T17:20:47.260355+00:00",
-    "bytes_read": 250914,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:22.580052+00:00"
+  },
+  {
+    "url": "https://www.charlotteobserver.com/charlottefive/c5-food-drink/article249182880.html",
+    "check_url": "https://www.charlotteobserver.com/charlottefive/c5-food-drink/article249182880.html",
+    "status": "ERROR",
+    "error": "HTTP Error 503: Service Unavailable",
+    "checked_at": "2026-11-16T19:28:21.737562+00:00"
   },
   {
     "url": "https://www.creatorhandbook.net/mrbeast-makes-history-as-first-youtuber-to-reach-300-million-subscribers/",
+    "check_url": "https://www.creatorhandbook.net/mrbeast-makes-history-as-first-youtuber-to-reach-300-million-subscribers/",
     "status": 200,
     "final_url": "https://www.creatorhandbook.net/mrbeast-makes-history-as-first-youtuber-to-reach-300-million-subscribers/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "MrBeast makes history as first YouTuber to reach 300 million subscribers - Creator Handbook",
-    "checked_at": "2026-11-16T17:07:07.802351+00:00",
-    "bytes_read": 158794,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:24.327175+00:00"
+  },
+  {
+    "url": "https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs",
+    "check_url": "https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs",
+    "status": 200,
+    "final_url": "https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs",
+    "title": "How Stanley President Terence Reilly Skyrocketed the Brand’s Revenue From $70M to $750M by Chasing Hearts Over Wallets",
+    "checked_at": "2026-11-16T19:28:24.199489+00:00"
+  },
+  {
+    "url": "https://www.eadt.co.uk/news/21353694.clean-sweep-shops-cant-keep-demand-mrs-hinchs-favourite-products/",
+    "check_url": "https://www.eadt.co.uk/news/21353694.clean-sweep-shops-cant-keep-demand-mrs-hinchs-favourite-products/",
+    "status": 200,
+    "final_url": "https://www.eadt.co.uk/news/21353694.clean-sweep-shops-cant-keep-demand-mrs-hinchs-favourite-products/",
+    "title": "Clean sweep as shops can’t keep up with demand for Mrs Hinch’s favourite products | East Anglian Daily Times",
+    "checked_at": "2026-11-16T19:28:25.234285+00:00"
   },
   {
     "url": "https://www.engadget.com/2018-03-15-ninja-drake-twitch.html",
+    "check_url": "https://www.engadget.com/2018-03-15-ninja-drake-twitch.html",
     "status": 200,
     "final_url": "https://www.engadget.com/2018-03-15-ninja-drake-twitch.html",
-    "content_type": "text/html;charset=UTF-8",
     "title": "'Fortnite' streamer breaks Twitch records with help from Drake",
-    "checked_at": "2026-11-16T17:07:08.313660+00:00",
-    "bytes_read": 60935,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:27.477374+00:00"
+  },
+  {
+    "url": "https://www.entrepreneur.com/science-technology/for-teenagers-youtube-stars-hold-more-sway-than-mainstream/236315",
+    "check_url": "https://www.entrepreneur.com/science-technology/for-teenagers-youtube-stars-hold-more-sway-than-mainstream/236315",
+    "status": 200,
+    "final_url": "https://www.entrepreneur.com/science-technology/for-teenagers-youtube-stars-hold-more-sway-than-mainstream/236315",
+    "title": "For Teenagers, YouTube Stars Hold More Sway Than Mainstream Celebrities",
+    "checked_at": "2026-11-16T19:28:25.008353+00:00"
+  },
+  {
+    "url": "https://www.fittechglobal.com/fit-tech-news/Joe-Wicks-body-coach-Youtube-PE-lesson-goes-global-attracts-23m-views-in-first-nine-hours/345081",
+    "check_url": "https://www.fittechglobal.com/fit-tech-news/Joe-Wicks-body-coach-Youtube-PE-lesson-goes-global-attracts-23m-views-in-first-nine-hours/345081",
+    "status": 200,
+    "final_url": "https://www.fittechglobal.com/fit-tech-news/Joe-Wicks-body-coach-Youtube-PE-lesson-goes-global-attracts-23m-views-in-first-nine-hours/345081",
+    "title": "Joe Wicks' Youtube PE lesson goes global  to  attracts 2.3m views in first nine hours | @FitTechGlobal",
+    "checked_at": "2026-11-16T19:28:26.125089+00:00"
+  },
+  {
+    "url": "https://www.foodnetwork.com/fn-dish/news/instacart-sales-increase-emily-mariko-salmon-bowl-tiktok",
+    "check_url": "https://www.foodnetwork.com/fn-dish/news/instacart-sales-increase-emily-mariko-salmon-bowl-tiktok",
+    "status": "ERROR",
+    "error": "HTTP Error 404: Not Found",
+    "checked_at": "2026-11-16T19:28:37.965140+00:00"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/sol-de-janeiros-heela-yang-over-90-of-our-growth-this-year-is-from-social-and-its-organic/",
+    "check_url": "https://www.glossy.co/beauty/sol-de-janeiros-heela-yang-over-90-of-our-growth-this-year-is-from-social-and-its-organic/",
+    "status": 200,
+    "final_url": "https://www.glossy.co/beauty/sol-de-janeiros-heela-yang-over-90-of-our-growth-this-year-is-from-social-and-its-organic/",
+    "title": "Sol de Janeiro&#039;s Heela Yang: &#039;Over 90% of our growth this year is from social, and it’s organic&#039; - Glossy",
+    "checked_at": "2026-11-16T19:28:26.235318+00:00"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/tiktoks-skinfluencers-emerge-as-gen-zs-go-to-source/",
+    "check_url": "https://www.glossy.co/beauty/tiktoks-skinfluencers-emerge-as-gen-zs-go-to-source/",
+    "status": 200,
+    "final_url": "https://www.glossy.co/beauty/tiktoks-skinfluencers-emerge-as-gen-zs-go-to-source/",
+    "title": "TikTok’s skinfluencers emerge as Gen Z’s go-to source",
+    "checked_at": "2026-11-16T19:28:26.233466+00:00"
+  },
+  {
+    "url": "https://www.goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "check_url": "https://www.goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "status": 200,
+    "final_url": "https://www.goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+    "title": "We made Emily Mariko&#x27;s viral salmon rice bowl for lunch and it is worth the hype - Good Morning America",
+    "checked_at": "2026-11-16T19:28:26.508954+00:00"
   },
   {
     "url": "https://www.grammy.com/artists/ok-go/17689/",
+    "check_url": "https://www.grammy.com/artists/ok-go/17689/",
     "status": 200,
     "final_url": "https://www.grammy.com/artists/ok-go/17689/",
-    "content_type": "text/html",
-    "title": "OK Go Grammy Awards and Nominations, Song & Bio",
-    "checked_at": "2026-11-16T17:20:47.300265+00:00",
-    "bytes_read": 129755,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "OK Go Grammy Awards and Nominations, Song &amp; Bio",
+    "checked_at": "2026-11-16T19:28:27.781029+00:00"
+  },
+  {
+    "url": "https://www.grocerygazette.co.uk/2021/02/07/tesco-reports-700-increase-in-mochi-sales-due-to-viral-tiktok-trend/",
+    "check_url": "https://www.grocerygazette.co.uk/2021/02/07/tesco-reports-700-increase-in-mochi-sales-due-to-viral-tiktok-trend/",
+    "status": 200,
+    "final_url": "https://www.grocerygazette.co.uk/2021/02/07/tesco-reports-700-increase-in-mochi-sales-due-to-viral-tiktok-trend/",
+    "title": "Tesco reports 700% increase in Mochi sales due to viral TikTok trend - Grocery Gazette - Latest Grocery Industry News",
+    "checked_at": "2026-11-16T19:28:30.211446+00:00"
+  },
+  {
+    "url": "https://www.grocerygazette.co.uk/2022/07/13/little-moons-cmo/",
+    "check_url": "https://www.grocerygazette.co.uk/2022/07/13/little-moons-cmo/",
+    "status": 200,
+    "final_url": "https://www.grocerygazette.co.uk/2022/07/13/little-moons-cmo/",
+    "title": "From TikTok to TV: Little Moons&#039; CMO on social media success and effective TV ads - Grocery Gazette - Latest Grocery Industry News",
+    "checked_at": "2026-11-16T19:28:29.763089+00:00"
+  },
+  {
+    "url": "https://www.guinnessworldrecords.com/news/2020/4/joe-wicks-pe-with-joe-smashes-youtube-livestream-record-614934",
+    "check_url": "https://www.guinnessworldrecords.com/news/2020/4/joe-wicks-pe-with-joe-smashes-youtube-livestream-record-614934",
+    "status": 200,
+    "final_url": "https://www.guinnessworldrecords.com/news/2020/4/joe-wicks-pe-with-joe-smashes-youtube-livestream-record-614934",
+    "title": "Joe Wicks' PE with Joe smashes YouTube livestream record  | Guinness World Records",
+    "checked_at": "2026-11-16T19:28:29.848410+00:00"
   },
   {
     "url": "https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views",
+    "check_url": "https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views",
     "status": 200,
     "final_url": "https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views",
-    "content_type": "text/html; charset=UTF-8",
     "title": "First video to receive one billion views on YouTube | Guinness World Records",
-    "checked_at": "2026-11-16T17:07:10.306872+00:00",
-    "bytes_read": 31247,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:30.084735+00:00"
   },
   {
     "url": "https://www.guinnessworldrecords.com/world-records/508990-first-youtuber-to-reach-1-million-subscribers",
+    "check_url": "https://www.guinnessworldrecords.com/world-records/508990-first-youtuber-to-reach-1-million-subscribers",
     "status": 200,
     "final_url": "https://www.guinnessworldrecords.com/world-records/508990-first-youtuber-to-reach-1-million-subscribers",
-    "content_type": "text/html; charset=UTF-8",
     "title": "First YouTuber to reach 1 million subscribers | Guinness World Records",
-    "checked_at": "2026-11-16T17:07:10.570102+00:00",
-    "bytes_read": 30738,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:29.680114+00:00"
   },
   {
     "url": "https://www.guinnessworldrecords.com/world-records/779754-most-subscribers-on-a-twitch-channel",
+    "check_url": "https://www.guinnessworldrecords.com/world-records/779754-most-subscribers-on-a-twitch-channel",
     "status": 200,
     "final_url": "https://www.guinnessworldrecords.com/world-records/779754-most-subscribers-on-a-twitch-channel",
-    "content_type": "text/html; charset=UTF-8",
     "title": "Most subscribers on a Twitch channel | Guinness World Records",
-    "checked_at": "2026-11-16T17:07:11.994042+00:00",
-    "bytes_read": 30392,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:30.216221+00:00"
   },
   {
     "url": "https://www.history.com/this-day-in-history/december-21/gangnam-style-first-youtube-video-to-hit-one-billion-views",
+    "check_url": "https://www.history.com/this-day-in-history/december-21/gangnam-style-first-youtube-video-to-hit-one-billion-views",
     "status": 200,
     "final_url": "https://www.history.com/this-day-in-history/december-21/gangnam-style-first-youtube-video-to-hit-one-billion-views",
-    "content_type": "text/html; charset=utf-8",
-    "title": "\"Gangnam Style\" becomes the first YouTube video to reach one billion views | December 21, 2012 | HISTORY",
-    "checked_at": "2026-11-16T17:07:12.788743+00:00",
-    "bytes_read": 546173,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "&quot;Gangnam Style&quot; becomes the first YouTube video to reach one billion views | December 21, 2012 | HISTORY",
+    "checked_at": "2026-11-16T19:28:30.725414+00:00"
   },
   {
     "url": "https://www.hollywoodreporter.com/news/vidcon-at-10-how-a-thrown-together-event-gave-rise-influencer-era-1224136",
+    "check_url": "https://www.hollywoodreporter.com/news/vidcon-at-10-how-a-thrown-together-event-gave-rise-influencer-era-1224136",
     "status": 200,
     "final_url": "https://www.hollywoodreporter.com/news/general-news/vidcon-at-10-how-a-thrown-together-event-gave-rise-influencer-era-1224136/",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "VidCon at 10: How a \"Thrown-Together\" Event Gave Rise to the Influencer Era",
-    "checked_at": "2026-11-16T17:07:13.146863+00:00",
-    "bytes_read": 606567,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "VidCon at 10: How a &quot;Thrown-Together&quot; Event Gave Rise to the Influencer Era",
+    "checked_at": "2026-11-16T19:28:37.894156+00:00"
+  },
+  {
+    "url": "https://www.huffingtonpost.co.uk/entry/kylie-jenner-snapchat-tweet_n_5a8f421ae4b01e9e56b9d258",
+    "check_url": "https://www.huffingtonpost.co.uk/entry/kylie-jenner-snapchat-tweet_n_5a8f421ae4b01e9e56b9d258",
+    "status": 200,
+    "final_url": "https://www.huffingtonpost.co.uk/entry/kylie-jenner-snapchat-tweet_n_5a8f421ae4b01e9e56b9d258",
+    "title": "Snapchat's Value Drops $1.3 Billion After 1 Kylie Jenner Tweet | HuffPost UK Tech",
+    "checked_at": "2026-11-16T19:28:30.294030+00:00"
+  },
+  {
+    "url": "https://www.irishtimes.com/life-and-style/food-and-drink/diet-book-pinch-of-nom-is-fastest-selling-non-fiction-title-in-history-1.3839399",
+    "check_url": "https://www.irishtimes.com/life-and-style/food-and-drink/diet-book-pinch-of-nom-is-fastest-selling-non-fiction-title-in-history-1.3839399",
+    "status": 200,
+    "final_url": "https://www.irishtimes.com/life-and-style/food-and-drink/diet-book-pinch-of-nom-is-fastest-selling-non-fiction-title-in-history-1.3839399",
+    "title": "Diet book Pinch of Nom is fastest selling non-fiction title in history  to  The Irish Times",
+    "checked_at": "2026-11-16T19:28:32.093548+00:00"
+  },
+  {
+    "url": "https://www.kirkusreviews.com:443/news-and-features/articles/colleen-hoover-dominated-book-sales-in-2022/",
+    "check_url": "https://www.kirkusreviews.com:443/news-and-features/articles/colleen-hoover-dominated-book-sales-in-2022/",
+    "status": 200,
+    "final_url": "https://www.kirkusreviews.com:443/news-and-features/articles/colleen-hoover-dominated-book-sales-in-2022/",
+    "title": "\n            Colleen Hoover Dominated Book Sales in 2022 | Kirkus Reviews\n        ",
+    "checked_at": "2026-11-16T19:28:31.996913+00:00"
+  },
+  {
+    "url": "https://www.lbc.co.uk/article/joe-wicks-guinness-world-record-pe-lockdown-covid-DWyc5y_2/",
+    "check_url": "https://www.lbc.co.uk/article/joe-wicks-guinness-world-record-pe-lockdown-covid-DWyc5y_2/",
+    "status": 200,
+    "final_url": "https://www.lbc.co.uk/article/joe-wicks-guinness-world-record-pe-lockdown-covid-DWyc5y_2/",
+    "title": "Joe Wicks wins Guinness World Record for coronavirus PE lesson | LBC",
+    "checked_at": "2026-11-16T19:28:34.878018+00:00"
+  },
+  {
+    "url": "https://www.loreal-finance.com/eng/news-release/2020-annual-results",
+    "check_url": "https://www.loreal-finance.com/eng/news-release/2020-annual-results",
+    "status": 200,
+    "final_url": "https://www.loreal-finance.com/eng/news-release/2020-annual-results",
+    "title": "2020 Annual Results | L&#039;Oréal Finance",
+    "checked_at": "2026-11-16T19:28:38.268347+00:00"
   },
   {
     "url": "https://www.newgrounds.com/wiki/about-newgrounds/history/stories/numa-numa",
+    "check_url": "https://www.newgrounds.com/wiki/about-newgrounds/history/stories/numa-numa",
     "status": 200,
     "final_url": "https://www.newgrounds.com/wiki/about-newgrounds/history/stories/numa-numa",
-    "content_type": "text/html",
     "title": "Site Unavailable",
-    "checked_at": "2026-11-16T17:28:45.648616+00:00",
-    "bytes_read": 195,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:34.224354+00:00"
+  },
+  {
+    "url": "https://www.newstatesman.com/science-tech/2019/05/meet-instagram-cleaning-icon-making-women-scrub-harder",
+    "check_url": "https://www.newstatesman.com/science-tech/2019/05/meet-instagram-cleaning-icon-making-women-scrub-harder",
+    "status": 200,
+    "final_url": "https://www.newstatesman.com/science-tech/2019/05/meet-instagram-cleaning-icon-making-women-scrub-harder",
+    "title": "Meet the Instagram cleaning icon making women scrub harder",
+    "checked_at": "2026-11-16T19:28:33.408177+00:00"
+  },
+  {
+    "url": "https://www.nylon.com/beauty/how-cerave-became-a-tiktok-favorite",
+    "check_url": "https://www.nylon.com/beauty/how-cerave-became-a-tiktok-favorite",
+    "status": 200,
+    "final_url": "https://www.nylon.com/beauty/how-cerave-became-a-tiktok-favorite",
+    "title": "How CeraVe Became TikTok's Favorite Skincare Brand",
+    "checked_at": "2026-11-16T19:28:34.672061+00:00"
   },
   {
     "url": "https://www.officialcharts.com/chart-news/lil-nas-xs-record-breaking-stint-at-number-1-in-america-is-over-as-old-town-road-is-knocked-off-the-top-by-billie-eilishs-bad-guy__27105/",
+    "check_url": "https://www.officialcharts.com/chart-news/lil-nas-xs-record-breaking-stint-at-number-1-in-america-is-over-as-old-town-road-is-knocked-off-the-top-by-billie-eilishs-bad-guy__27105/",
     "status": 200,
     "final_url": "https://www.officialcharts.com/chart-news/lil-nas-xs-record-breaking-stint-at-number-1-in-america-is-over-as-old-town-road-is-knocked-off-the-top-by-billie-eilishs-bad-guy__27105/",
-    "content_type": "text/html;charset=utf-8",
-    "title": "Lil Nas X's record-breaking stint at Number 1 in America is over as Old Town Road is knocked off the top by Billie Eilish's Bad Guy | Official Charts",
-    "checked_at": "2026-11-16T17:26:39.819187+00:00",
-    "bytes_read": 298712,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "Lil Nas X&#x27;s record-breaking stint at Number 1 in America is over as Old Town Road is knocked off the top by Billie Eilish&#x27;s Bad Guy | Official Charts",
+    "checked_at": "2026-11-16T19:28:35.946911+00:00"
+  },
+  {
+    "url": "https://www.panmacmillan.com/authors/kay-allinson/pinch-of-nom/9781529014068",
+    "check_url": "https://www.panmacmillan.com/authors/kay-allinson/pinch-of-nom/9781529014068",
+    "status": 200,
+    "final_url": "https://www.panmacmillan.com/authors/kay-allinson/pinch-of-nom/9781529014068",
+    "title": "Pinch of Nom by Kay Allinson - Pan Macmillan",
+    "checked_at": "2026-11-16T19:28:35.612298+00:00"
   },
   {
     "url": "https://www.post-gazette.com/business/tech-news/2006/09/17/The-actress-behind-the-mysterious-video-soap-opera-Lonelygirl15-amazed-by-her-sudden-fame/stories/200609170286",
+    "check_url": "https://www.post-gazette.com/business/tech-news/2006/09/17/The-actress-behind-the-mysterious-video-soap-opera-Lonelygirl15-amazed-by-her-sudden-fame/stories/200609170286",
     "status": 200,
     "final_url": "https://www.post-gazette.com/business/tech-news/2006/09/17/The-actress-behind-the-mysterious-video-soap-opera-Lonelygirl15-amazed-by-her-sudden-fame/stories/200609170286",
-    "content_type": "text/html; charset=utf-8",
     "title": "The actress behind the mysterious video soap opera 'Lonelygirl15' amazed by her sudden fame | Pittsburgh Post-Gazette",
-    "checked_at": "2026-11-16T17:07:18.402649+00:00",
-    "bytes_read": 64740,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:36.440235+00:00"
+  },
+  {
+    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/91256-colleen-hoover-was-queen-of-2022-s-bestseller-list.html",
+    "check_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/91256-colleen-hoover-was-queen-of-2022-s-bestseller-list.html",
+    "status": 200,
+    "final_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/91256-colleen-hoover-was-queen-of-2022-s-bestseller-list.html",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:36.659704+00:00"
+  },
+  {
+    "url": "https://www.refinery29.com/en-us/2021/02/10308754/feta-cheese-tiktok-pasta-recipe-ingredients-sales",
+    "check_url": "https://www.refinery29.com/en-us/2021/02/10308754/feta-cheese-tiktok-pasta-recipe-ingredients-sales",
+    "status": 200,
+    "final_url": "https://www.refinery29.com/en-us/2021/02/10308754/feta-cheese-tiktok-pasta-recipe-ingredients-sales",
+    "title": "Is This Tiktok Pasta Causing Feta Cheese To Sell Out?",
+    "checked_at": "2026-11-16T19:28:35.644235+00:00"
+  },
+  {
+    "url": "https://www.rollingstone.com/culture/culture-features/alix-earle-tiktok-get-ready-with-me-1234711508/",
+    "check_url": "https://www.rollingstone.com/culture/culture-features/alix-earle-tiktok-get-ready-with-me-1234711508/",
+    "status": 200,
+    "final_url": "https://www.rollingstone.com/culture/culture-features/alix-earle-tiktok-get-ready-with-me-1234711508/",
+    "title": "Alix Earle: TikTok&#039;s &#039;Get Ready With Me&#039; Star on Becoming an It Girl",
+    "checked_at": "2026-11-16T19:28:36.965440+00:00"
+  },
+  {
+    "url": "https://www.salon.com/2021/02/05/the-tiktok-feta-pasta-craze-started-in-finland_partner/",
+    "check_url": "https://www.salon.com/2021/02/05/the-tiktok-feta-pasta-craze-started-in-finland_partner/",
+    "status": 200,
+    "final_url": "https://www.salon.com/2021/02/05/the-tiktok-feta-pasta-craze-started-in-finland_partner/",
+    "title": "The TikTok feta pasta craze started in . . . Finland? - Salon.com",
+    "checked_at": "2026-11-16T19:28:37.961718+00:00"
+  },
+  {
+    "url": "https://www.thebookseller.com/news/pinch-packs-punch-slimming-cookbook-breaks-scales-become-fastest-selling-non-fiction-title-all",
+    "check_url": "https://www.thebookseller.com/news/pinch-packs-punch-slimming-cookbook-breaks-scales-become-fastest-selling-non-fiction-title-all",
+    "status": "ERROR",
+    "error": "HTTP Error 429: Too Many Requests",
+    "checked_at": "2026-11-16T19:28:38.876977+00:00"
+  },
+  {
+    "url": "https://www.thegrocer.co.uk/analysis-and-features/mrs-hinch-how-cleanfluencers-are-transforming-household-/592609.article",
+    "check_url": "https://www.thegrocer.co.uk/analysis-and-features/mrs-hinch-how-cleanfluencers-are-transforming-household-/592609.article",
+    "status": 200,
+    "final_url": "https://www.thegrocer.co.uk/analysis-and-features/mrs-hinch-how-cleanfluencers-are-transforming-household-/592609.article",
+    "title": "Mrs Hinch: how 'cleanfluencers' are transforming household  | Analysis &amp; Features | The Grocer",
+    "checked_at": "2026-11-16T19:28:40.073409+00:00"
+  },
+  {
+    "url": "https://www.thegrocer.co.uk/news/mochi-tiktok-craze-sees-little-moons-sales-rocket-700-at-tesco/652665.article",
+    "check_url": "https://www.thegrocer.co.uk/news/mochi-tiktok-craze-sees-little-moons-sales-rocket-700-at-tesco/652665.article",
+    "status": 200,
+    "final_url": "https://www.thegrocer.co.uk/news/mochi-tiktok-craze-sees-little-moons-sales-rocket-700-at-tesco/652665.article",
+    "title": "Mochi TikTok craze sees Little Moons sales rocket 700% at Tesco | News | The Grocer",
+    "checked_at": "2026-11-16T19:28:40.181105+00:00"
   },
   {
     "url": "https://www.thewrap.com/pewdiepie-overtakes-smosh-youtube-s-top-channel-111246/",
+    "check_url": "https://www.thewrap.com/pewdiepie-overtakes-smosh-youtube-s-top-channel-111246/",
     "status": 200,
     "final_url": "https://www.thewrap.com/pewdiepie-overtakes-smosh-youtube-s-top-channel-111246/",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "PewDiePie Overtakes Smosh as YouTube's Top Channel - TheWrap",
-    "checked_at": "2026-11-16T17:28:45.651705+00:00",
-    "bytes_read": 173593,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "PewDiePie Overtakes Smosh as YouTube&#039;s Top Channel - TheWrap",
+    "checked_at": "2026-11-16T19:28:39.268413+00:00"
+  },
+  {
+    "url": "https://www.tubefilter.com/2014/08/05/variety-survey-youtube-stars-more-popular/",
+    "check_url": "https://www.tubefilter.com/2014/08/05/variety-survey-youtube-stars-more-popular/",
+    "status": 200,
+    "final_url": "https://www.tubefilter.com/2014/08/05/variety-survey-youtube-stars-more-popular/",
+    "title": "Survey: For Teens, YouTubers More Popular Than Traditional Media Stars",
+    "checked_at": "2026-11-16T19:28:40.803587+00:00"
+  },
+  {
+    "url": "https://www.tubefilter.com/2015/07/23/variety-youtube-famechangers-pewdiepie-tubular-labs/",
+    "check_url": "https://www.tubefilter.com/2015/07/23/variety-youtube-famechangers-pewdiepie-tubular-labs/",
+    "status": 200,
+    "final_url": "https://www.tubefilter.com/2015/07/23/variety-youtube-famechangers-pewdiepie-tubular-labs/",
+    "title": "Variety Tracks Most Influential YouTube Stars, Led By Cover Boy PewDiePie",
+    "checked_at": "2026-11-16T19:28:40.857526+00:00"
   },
   {
     "url": "https://www.tubefilter.com/2018/06/07/vidcon-2018-vs-vidcon-2010-how-the-convention-has-evolved-over-the-years/amp/",
+    "check_url": "https://www.tubefilter.com/2018/06/07/vidcon-2018-vs-vidcon-2010-how-the-convention-has-evolved-over-the-years/amp/",
     "status": 200,
     "final_url": "https://www.tubefilter.com/2018/06/07/vidcon-2018-vs-vidcon-2010-how-the-convention-has-evolved-over-the-years/",
-    "content_type": "text/html; charset=UTF-8",
     "title": "VidCon 2018 vs. VidCon 2010: How The Convention Has Evolved Over The Years",
-    "checked_at": "2026-11-16T17:07:23.142088+00:00",
-    "bytes_read": 53014,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "checked_at": "2026-11-16T19:28:45.858059+00:00"
+  },
+  {
+    "url": "https://www.tubefilter.com/2019/11/05/jeffree-star-shane-dawson-conspiracy-collection-restock/",
+    "check_url": "https://www.tubefilter.com/2019/11/05/jeffree-star-shane-dawson-conspiracy-collection-restock/",
+    "status": 200,
+    "final_url": "https://www.tubefilter.com/2019/11/05/jeffree-star-shane-dawson-conspiracy-collection-restock/",
+    "title": "After Selling 1 Million Palettes In 30 Minutes, Jeffree Star And Shane Dawson Announce &#039;Conspiracy Collection&#039; Restock - Tubefilter",
+    "checked_at": "2026-11-16T19:28:40.849194+00:00"
   },
   {
     "url": "https://www.tubefilter.com/2025/10/01/twitch-kai-cenat-mafiathon-3-highlights-lebron-james/amp/",
+    "check_url": "https://www.tubefilter.com/2025/10/01/twitch-kai-cenat-mafiathon-3-highlights-lebron-james/amp/",
     "status": 200,
     "final_url": "https://www.tubefilter.com/2025/10/01/twitch-kai-cenat-mafiathon-3-highlights-lebron-james/",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "1.1 million Twitch subs and a haircut from LeBron: Highlights from Kai Cenat's Mafiathon 3 - Tubefilter",
-    "checked_at": "2026-11-16T17:07:24.736346+00:00",
-    "bytes_read": 51412,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "title": "1.1 million Twitch subs and a haircut from LeBron: Highlights from Kai Cenat&#039;s Mafiathon 3 - Tubefilter",
+    "checked_at": "2026-11-16T19:28:45.384488+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-5xHHnks7IU",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-5xHHnks7IU&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-5xHHnks7IU&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.095854+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=-goXKtd6cPo",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-goXKtd6cPo&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=-goXKtd6cPo",
-    "content_type": "text/html; charset=utf-8",
-    "title": "First Blog / Dorkiness Prevails - YouTube",
-    "checked_at": "2026-11-16T17:20:47.328963+00:00",
-    "bytes_read": 1364538,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-goXKtd6cPo&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.106498+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=13YTCu0WpH8",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D13YTCu0WpH8&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D13YTCu0WpH8&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.102121+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6v-a_dpwhro",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6v-a_dpwhro&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6v-a_dpwhro&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.117308+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8CbCLZjhgd8",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8CbCLZjhgd8&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8CbCLZjhgd8&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.156160+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9MoDGIkAudI",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9MoDGIkAudI&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9MoDGIkAudI&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.103502+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9bZkp7q19f0&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-    "content_type": "text/html; charset=utf-8",
-    "title": "PSY - GANGNAM STYLE(강남스타일) M/V - YouTube",
-    "checked_at": "2026-11-16T17:07:27.065605+00:00",
-    "bytes_read": 1436777,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9bZkp7q19f0&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.098283+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCqd1Gvq-RBY&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Numa Numa - YouTube",
-    "checked_at": "2026-11-16T17:20:52.478586+00:00",
-    "bytes_read": 1417145,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCqd1Gvq-RBY&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.139916+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DwsZggwPRKc",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDwsZggwPRKc&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDwsZggwPRKc&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.137802+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=Fp8msa5uYsc",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFp8msa5uYsc&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=Fp8msa5uYsc",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Justin Bieber - Ghost - YouTube",
-    "checked_at": "2026-11-16T17:20:56.632769+00:00",
-    "bytes_read": 1412696,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFp8msa5uYsc&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:43.135413+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GpbaM7j_LEA",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGpbaM7j_LEA&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGpbaM7j_LEA&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:46.981850+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=HPJKxAhLw5I",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHPJKxAhLw5I&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=HPJKxAhLw5I",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Planting 20,000,000 Trees, My Biggest Project Ever! - YouTube",
-    "checked_at": "2026-11-16T17:20:56.697014+00:00",
-    "bytes_read": 1569888,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHPJKxAhLw5I&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.074344+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LuroDGsJkMA",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLuroDGsJkMA&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLuroDGsJkMA&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.085829+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4hk1jPRSrM&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Squads with Ninja, Drake, Travis Scott and JuJu!! - Fortnite Battle Royale Gameplay - YouTube",
-    "checked_at": "2026-11-16T17:21:02.493205+00:00",
-    "bytes_read": 1470008,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4hk1jPRSrM&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.084589+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ROaj3bCpZEM",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DROaj3bCpZEM&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DROaj3bCpZEM&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.068749+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rvv95DV6NuM",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRvv95DV6NuM&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRvv95DV6NuM&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.073324+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TitZV6k8zfA",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTitZV6k8zfA&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTitZV6k8zfA&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.070621+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVsStIiPtWo8&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=VsStIiPtWo8",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Lucas Cruikshank AKA \"Fred\" Interview | NMR Feature - YouTube",
-    "checked_at": "2026-11-16T17:21:02.750381+00:00",
-    "bytes_read": 1459877,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVsStIiPtWo8&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.072457+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWyGVhjyRkfI&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
-    "content_type": "text/html; charset=utf-8",
-    "title": "KSI Vs. Logan Paul: The “Biggest Event In Internet History” - YouTube",
-    "checked_at": "2026-11-16T17:21:02.756871+00:00",
-    "bytes_read": 1397602,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWyGVhjyRkfI&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.078311+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_OBlgSz8sSM&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Charlie bit my finger - again ! - YouTube",
-    "checked_at": "2026-11-16T17:07:27.070716+00:00",
-    "bytes_read": 1275226,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_OBlgSz8sSM&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.079746+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdTAAsCNK7RA&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
-    "content_type": "text/html; charset=utf-8",
-    "title": "OK Go - Here It Goes Again (Official Music Video) - YouTube",
-    "checked_at": "2026-11-16T17:07:27.071564+00:00",
-    "bytes_read": 1388758,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdTAAsCNK7RA&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.082106+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dYVNrIHHcg8",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdYVNrIHHcg8&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdYVNrIHHcg8&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:47.076889+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=eQOFRZ1wNLw",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQOFRZ1wNLw&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=eQOFRZ1wNLw",
-    "content_type": "text/html; charset=utf-8",
-    "title": "With You - Chris Brown Cover - Justin singing - YouTube",
-    "checked_at": "2026-11-16T17:21:08.757266+00:00",
-    "bytes_read": 1450462,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQOFRZ1wNLw&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.148642+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=f7mdu7GLJps",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df7mdu7GLJps&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=f7mdu7GLJps",
-    "content_type": "text/html; charset=utf-8",
-    "title": "ANNOUNCING! VidCon: Online Video IRL - YouTube",
-    "checked_at": "2026-11-16T17:21:08.770737+00:00",
-    "bytes_read": 1482069,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df7mdu7GLJps&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.105926+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjNQXAC9IVRw&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Me at the zoo - YouTube",
-    "checked_at": "2026-11-16T17:07:27.074497+00:00",
-    "bytes_read": 1421860,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjNQXAC9IVRw&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.117488+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jkl29PgMtvo",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Djkl29PgMtvo&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Djkl29PgMtvo&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.153938+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpJkSY0HF3y0&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Kai Cenat Hits 1,000,000 Twitch Subscribers! - YouTube",
-    "checked_at": "2026-11-16T17:21:15.777502+00:00",
-    "bytes_read": 1430702,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpJkSY0HF3y0&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.151911+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2Ov5jzm3j8&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
-    "content_type": "text/html; charset=utf-8",
-    "title": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus - YouTube",
-    "checked_at": "2026-11-16T17:07:27.252589+00:00",
-    "bytes_read": 1551184,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2Ov5jzm3j8&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.164422+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xA-BxSKV0aU",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxA-BxSKV0aU&format=json",
+    "status": 200,
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxA-BxSKV0aU&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.151261+00:00"
   },
   {
     "url": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+    "check_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyJlbLNKMRZM&format=json",
     "status": 200,
-    "final_url": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
-    "content_type": "text/html; charset=utf-8",
-    "title": "HOW TO GET BIG ON YOUTUBE? - YouTube",
-    "checked_at": "2026-11-16T17:21:21.079034+00:00",
-    "bytes_read": 1434497,
-    "role": "Reader link or asset",
-    "http_status": 200
+    "final_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyJlbLNKMRZM&format=json",
+    "title": "",
+    "checked_at": "2026-11-16T19:28:51.154197+00:00"
   }
 ]

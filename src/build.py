@@ -411,7 +411,13 @@ EDITIONS = [
     {
         'number': '02', 'name': 'Proof first', 'data': 'campaigns-02.json', 'template': 'page-template-02.html',
         'output': 'edition-02/index.html', 'asset_prefix': '../', 'art': proof_art,
-        'test_heading': 'How the outcome was measured', 'mechanism_label': 'Shift', 'screening': (('pe-with-joe', 'Watch how the repeated instructions make a living-room workout easy to join.', 'workout'), ('mkbhd-humane', 'Look for the practical tests behind the purchasing judgement.', 'review'), ('ren-sick-boi', 'Watch the sustained performance that helped listeners discover Ren before the album campaign.', 'guitar'), ('team-trees', 'Notice how the donation unit and delivery partner enter the creator’s explanation.', 'trees')),
+        'test_heading': 'How the outcome was measured', 'mechanism_label': 'Shift',
+        'screening': (
+            ('mkbhd-humane-ai-pin', 'Watch the product tests behind the verdict, then separate the review from the later shipment figures.', 'review'),
+            ('joe-wicks-pe-with-joe', 'Watch the record-setting second lesson and notice how clear instructions make joining in straightforward.', 'workout'),
+            ('hyram-cerave', 'This related product comparison shows the practical review format; it does not measure the 2020 sales effect.', 'cleanser'),
+            ('shane-dawson-jeffree-star', 'Look at how the reveal turns a continuing documentary into a product offer.', 'palette'),
+        ),
     },
     {
         'number': '03', 'name': 'Money first', 'data': 'campaigns-03.json', 'template': 'page-template-03.html',

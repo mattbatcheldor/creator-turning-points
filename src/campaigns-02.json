@@ -1,0 +1,954 @@
+[
+  {
+    "id": "mkbhd-humane-ai-pin",
+    "brand": "Marques Brownlee",
+    "title": "The Worst Product I’ve Ever Reviewed",
+    "year": 2024,
+    "place": "Kearny, United States",
+    "sector": "Technology reviews",
+    "mechanism": "Trust",
+    "data_role": "YouTube",
+    "data_source": "Product review",
+    "stage": "Product failed",
+    "hook": "A company raised more than $200 million for an AI assistant. Brownlee tested the $699 device and told his audience where it failed.",
+    "situation": "Humane had spent years and more than $200 million building the Ai Pin, a wearable AI assistant meant to replace the phone. Its launch depended on early reviews persuading people to pay $699 plus a monthly subscription.",
+    "exchange": "Marques Brownlee, known as MKBHD, tested the device for his channel and titled his review The Worst Product I’ve Ever Reviewed... For Now. He listed what failed, from slow answers to a projector that was hard to see outdoors.",
+    "brought": [
+      [
+        "Marques Brownlee",
+        "Fifteen years of reviews and an audience that trusts his verdict on hardware."
+      ],
+      [
+        "Humane",
+        "An ambitious product that wasn’t ready for the scrutiny."
+      ]
+    ],
+    "turning_point": "The review in April 2024 set off a public debate about whether one creator should hold that much power. By August, reporting showed returns outpacing sales. In February 2025 HP bought Humane’s technology for $116 million and the pins stopped working.",
+    "metric": "About 10,000",
+    "metric_label": "Ai Pins and accessories shipped by August 2024, as reported",
+    "measure": "Roughly 10,000 Pins and accessories shipped, according to internal data reported by The Verge. This is not 10,000 Pins sold or a measure of the review’s causal effect. Humane disputed aspects of the reporting.",
+    "evidence": "Reporting records the shipment shortfall and returns. The count includes accessories. Other reviewers also criticised the product, and the review’s separate contribution to demand was not measured.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A trusted reviewer is not a channel you can buy. If the product isn’t ready, the most credible creators will say so, and their audience will listen.",
+    "take": "This is the clearest modern example of a creator acting like a critic with the reach of a broadcaster. The debate about fairness misses the point: his audience follows him because he says what he thinks.",
+    "credit": "Marques Brownlee, 2024",
+    "creative": {
+      "medium": "Original creator review, 2024",
+      "label": "Watch The Worst Product I’ve Ever Reviewed... For Now · Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=TitZV6k8zfA",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Watch the original review · Marques Brownlee",
+      "https://www.youtube.com/watch?v=TitZV6k8zfA"
+    ],
+    "impact_source": [
+      "Read about returns outpacing sales · 9to5Mac",
+      "https://9to5mac.com/2024/08/07/humane-ai-pin-woes-worsen-as-recent-returns-exceed-sales/"
+    ],
+    "links": [
+      [
+        "Read about the sale to HP · The Decoder",
+        "https://the-decoder.com/humane-ends-its-ai-pin-in-ten-days-sells-technology-to-hp-for-116-million/"
+      ],
+      [
+        "Read the debate over fairness · PetaPixel",
+        "https://petapixel.com/2024/04/16/marques-brownlee-criticized-for-unethical-review-of-humane-ai-pin/"
+      ]
+    ],
+    "deal_value": "$116 million paid by HP for Humane’s technology, February 2025",
+    "how_to_measure": "For review-led launches, compare pre-orders and returns in markets and segments where a review was widely watched with those where it wasn’t, and track search sentiment for the product in the week after.",
+    "image": {
+      "src": "assets/edition-02/mkbhd-humane-ai-pin.webp",
+      "alt": "Marques Brownlee holding a Humane Ai Pin in his review thumbnail.",
+      "credit": "Video thumbnail · Marques Brownlee",
+      "source": "https://www.youtube.com/watch?v=TitZV6k8zfA",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "variety-teen-survey",
+    "brand": "Smosh and the YouTubers",
+    "title": "The Survey That Ranked YouTubers Above Film Stars",
+    "year": 2014,
+    "place": "Sacramento, United States",
+    "sector": "Online video and celebrity",
+    "mechanism": "Trust",
+    "data_role": "YouTube",
+    "data_source": "Teen survey",
+    "stage": "Survey published",
+    "hook": "Variety asked 1,500 American teenagers who they admired. The top five were all YouTubers.",
+    "situation": "In 2014 brands and studios still treated YouTube stars as niche. Advertising budgets followed television ratings and film stars, and most marketers had not heard of the creators teenagers watched every day.",
+    "exchange": "Variety commissioned a survey of 1,500 Americans aged 13 to 18, scoring ten YouTube creators and ten traditional stars on qualities such as approachability and authenticity.",
+    "brought": [
+      [
+        "The creators",
+        "Years of frequent, personal uploads that made teenagers feel they knew them."
+      ],
+      [
+        "Variety",
+        "A trade title that put the finding in front of the people who set budgets."
+      ]
+    ],
+    "turning_point": "Smosh came first, followed by The Fine Bros, PewDiePie, KSI and Ryan Higa. The highest traditional star was Paul Walker, in sixth. The ranking became the most quoted statistic in early creator marketing pitches.",
+    "metric": "Top 5",
+    "metric_label": "All five most influential figures for US teens were YouTubers",
+    "measure": "A survey of 1,500 teenagers scoring 20 named stars. It measures perception, not purchasing",
+    "evidence": "The survey design, sample and ranking are reported by Tubefilter and others. It shows how teenagers felt about creators, but it cannot show that the feeling turned into sales, and the list of stars tested was chosen by the publisher.",
+    "evidence_level": "Survey",
+    "stat_type": "result",
+    "lesson": "Familiarity builds trust. Creators who show up often and talk directly to their audience earn a kind of credibility that a famous face in an advert doesn’t.",
+    "take": "This survey did more to unlock brand budgets than any single video. It gave marketers a number to put on a slide, and the number said the old celebrity model was losing teenagers.",
+    "credit": "Variety, 2014",
+    "creative": {
+      "medium": "Later creator announcement, 2023; related illustration",
+      "label": "Watch a later Smosh announcement, 2023 · Smosh",
+      "url": "https://www.youtube.com/watch?v=DwsZggwPRKc",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read the survey results · Tubefilter",
+      "https://www.tubefilter.com/2014/08/05/variety-survey-youtube-stars-more-popular/"
+    ],
+    "impact_source": [
+      "Read what it meant for brands · Entrepreneur",
+      "https://www.entrepreneur.com/science-technology/for-teenagers-youtube-stars-hold-more-sway-than-mainstream/236315"
+    ],
+    "links": [
+      [
+        "Read Variety’s follow-up ranking · Tubefilter",
+        "https://www.tubefilter.com/2015/07/23/variety-youtube-famechangers-pewdiepie-tubular-labs/"
+      ]
+    ],
+    "how_to_measure": "Pair a trust survey with behaviour: ask the same audience which products they bought on a creator’s recommendation, and check a sample against sales data from tracked links.",
+    "image": {
+      "src": "assets/edition-02/variety-teen-survey.webp",
+      "alt": "Ian Hecox and Anthony Padilla announcing their Smosh buyback in 2023, used as a later portrait.",
+      "credit": "Video thumbnail · Smosh",
+      "source": "https://www.youtube.com/watch?v=DwsZggwPRKc",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "mrs-hinch",
+    "brand": "Mrs Hinch",
+    "title": "The Hinch Effect",
+    "year": 2018,
+    "place": "Maldon, United Kingdom",
+    "sector": "Household cleaning",
+    "mechanism": "Trust",
+    "data_role": "Instagram",
+    "data_source": "Cleaning stories",
+    "stage": "Shelves cleared",
+    "hook": "A hairdresser filmed herself cleaning her house. Shops ran out of disinfectant.",
+    "situation": "Cleaning products were sold through supermarket promotions and television advertising, and nobody thought of cleaning as content people would choose to watch.",
+    "exchange": "Sophie Hinchliffe posted Instagram stories of her cleaning routines, naming the cheap products she used and giving them nicknames. Her followers, who called themselves Hinchers, went out and bought them.",
+    "brought": [
+      [
+        "Sophie Hinchliffe",
+        "Daily routines, warmth and product names her followers could copy."
+      ],
+      [
+        "The Hinchers",
+        "A community that shared hauls and cleared shelves of the products she used."
+      ]
+    ],
+    "turning_point": "In 2018 retailers reported shortages of products she used. Zoflora, a disinfectant she favoured, doubled production to almost a million bottles a week and reported sales up 28% for the year. Her first book followed in 2019 and became a bestseller.",
+    "metric": "+28%",
+    "metric_label": "Zoflora sales growth, 2018 year to date",
+    "measure": "Sales growth reported by the brand from Kantar data. Zoflora credited its new fragrances and did not name Mrs Hinch",
+    "evidence": "Trade and regional press linked shortages to her stories, and Zoflora’s growth is reported. The brand itself attributed the rise to new fragrances and loyal customers, so her contribution is widely assumed but not shown.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A creator can lift a category without any deal in place. Watch for the creators already using your product, and talk to them before your competitors do.",
+    "take": "Mrs Hinch made cleaning a spectator sport and turned cheap products into collectables. It is also a reminder that the brands that benefit most from a creator sometimes never say her name.",
+    "credit": "Sophie Hinchliffe, 2018",
+    "creative": {
+      "medium": "Contemporary television interview, 2018",
+      "label": "Watch Instagram Star Mrs Hinch Shares Her Best Cleaning Hacks | This Morning · This Morning",
+      "url": "https://www.youtube.com/watch?v=13YTCu0WpH8",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read how cleanfluencers changed the category · The Grocer",
+      "https://www.thegrocer.co.uk/analysis-and-features/mrs-hinch-how-cleanfluencers-are-transforming-household-/592609.article"
+    ],
+    "impact_source": [
+      "Read Zoflora’s production statement · Grocery Trader",
+      "https://grocerytrader.co.uk/zoflora-production-hits-record-high/"
+    ],
+    "links": [
+      [
+        "Read about shops running short · East Anglian Daily Times",
+        "https://www.eadt.co.uk/news/21353694.clean-sweep-shops-cant-keep-demand-mrs-hinchs-favourite-products/"
+      ],
+      [
+        "Read a profile of the phenomenon · New Statesman",
+        "https://www.newstatesman.com/science-tech/2019/05/meet-instagram-cleaning-icon-making-women-scrub-harder"
+      ],
+      [
+        "Read the later shopper analysis · Kantar",
+        "https://kantar.turtl.co/story/british-homecare-brand-footprint/page/6"
+      ]
+    ],
+    "how_to_measure": "Map a creator’s mentions against weekly sales by product and region. A spike that follows a named mention, in the regions where her audience lives, is the closest thing to proof without a deal.",
+    "image": {
+      "src": "assets/edition-02/mrs-hinch.webp",
+      "alt": "Sophie Hinchliffe speaking in a This Morning studio interview.",
+      "credit": "Video thumbnail · This Morning",
+      "source": "https://www.youtube.com/watch?v=13YTCu0WpH8",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "kylie-jenner-snapchat",
+    "brand": "Kylie Jenner",
+    "title": "Sooo Does Anyone Else Not Open Snapchat Anymore?",
+    "year": 2018,
+    "place": "Los Angeles, United States",
+    "sector": "Social media",
+    "mechanism": "Trust",
+    "data_role": "Snapchat",
+    "data_source": "A single post",
+    "stage": "Shares fell",
+    "hook": "One of Snapchat’s biggest users said she had stopped opening it. The company lost $1.3 billion in a day.",
+    "situation": "Snapchat had redesigned its app in late 2017, and many users disliked it. A petition to reverse the change had around a million signatures. Investors were already nervous.",
+    "exchange": "On 21 February 2018 Kylie Jenner, then one of the platform’s most followed users, posted asking whether anyone else had stopped opening Snapchat. She followed up minutes later to say she still loved it.",
+    "brought": [
+      [
+        "Kylie Jenner",
+        "An audience in the tens of millions and a personal verdict on the app."
+      ],
+      [
+        "Snap’s investors",
+        "A share price already under pressure from an analyst downgrade earlier that week."
+      ]
+    ],
+    "turning_point": "Snap’s shares fell about 6% the next day, an estimated $1.3 billion of market value, and the story went round the world as proof of influencer power.",
+    "metric": "$1.3 billion",
+    "metric_label": "Estimated market value lost in one day",
+    "measure": "A one-day share price fall, estimated by CNN Money. An analyst downgrade earlier in the week also weighed on the price",
+    "evidence": "The fall and the timing are well reported. So is the earlier downgrade, which means the tweet’s share of the fall cannot be isolated. The share price recovered some ground in the following weeks.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Platforms depend on creators as much as creators depend on platforms. Keep your most influential users close when you change the product they work in.",
+    "take": "The number is probably overstated, but the lesson isn’t. When the people who make a platform interesting say they are bored, investors listen.",
+    "credit": "Kylie Jenner, 2018",
+    "creative": {
+      "medium": "Contemporary reporting, CNN Business, 2018",
+      "label": "Watch Snapchat stock loses $1.3 billion after Kylie Jenner tweet · CNN Business",
+      "url": "https://www.youtube.com/watch?v=-5xHHnks7IU",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read the contemporary report · BBC News",
+      "https://www.bbc.co.uk/news/business-43163544"
+    ],
+    "impact_source": [
+      "Read about the fall and the downgrade · HuffPost UK",
+      "https://www.huffingtonpost.co.uk/entry/kylie-jenner-snapchat-tweet_n_5a8f421ae4b01e9e56b9d258"
+    ],
+    "links": [],
+    "how_to_measure": "To isolate a creator’s effect on a public company, compare the move with the market and with peers over the same hours, and check for other news in the window, as an event study would.",
+    "image": {
+      "src": "assets/edition-02/kylie-jenner-snapchat.webp",
+      "alt": "Kylie Jenner and a Snapchat logo in CNN Business’s report on Snap’s share-price fall.",
+      "credit": "Video thumbnail · CNN Business",
+      "source": "https://www.youtube.com/watch?v=-5xHHnks7IU",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "pinch-of-nom",
+    "brand": "Kate Allinson and Kay Featherstone",
+    "title": "The Fastest-Selling Non-Fiction Book",
+    "year": 2019,
+    "place": "Wirral, United Kingdom",
+    "sector": "Food and publishing",
+    "mechanism": "Crossover",
+    "data_role": "Blog",
+    "data_source": "Recipe blog",
+    "stage": "Book record",
+    "hook": "Two food bloggers built a community around everyday recipes. Their first cookbook set a Nielsen BookScan launch record.",
+    "situation": "Kate Allinson and Kay Featherstone had built an audience around recipes people could use at home. A cookbook had to give those readers enough new, tested material to justify paying for it.",
+    "exchange": "Kate Allinson and Kay Featherstone built Pinch of Nom, a free website and social community of lower-calorie recipes, then published a cookbook with Bluebird that their audience had been asking for.",
+    "brought": [
+      [
+        "Kate Allinson and Kay Featherstone",
+        "Tested recipes and a large, loyal community that already cooked them every week."
+      ],
+      [
+        "Bluebird",
+        "Print, distribution and a launch pushed through supermarkets and bookshops."
+      ]
+    ],
+    "turning_point": "The book sold 210,506 copies in its first days on sale in March 2019, the fastest-selling non-fiction title since Nielsen BookScan records began. It later passed a million copies.",
+    "metric": "210,506",
+    "metric_label": "Copies sold at launch, a Nielsen BookScan record for non-fiction",
+    "measure": "Copies sold through the till, recorded by Nielsen BookScan and reported by The Bookseller",
+    "evidence": "Point-of-sale data makes this one of the best-recorded cases in the edition. It shows the audience bought the book. Pre-orders and supermarket placement played a part and are not separated out.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "An audience that already uses your free content is the best evidence of demand. Publishers and brands should read engagement, not follower counts.",
+    "take": "I see the book as an extension of a useful relationship. Readers already cooked the recipes and helped test them. Bluebird gave that practice a paid format and wider distribution.",
+    "credit": "Kate Allinson and Kay Featherstone, 2019",
+    "creative": {
+      "medium": "Official publisher launch film, 2019",
+      "label": "Watch Pinch of Nom: 100 Slimming, Home-style Recipes · Pan Macmillan",
+      "url": "https://www.youtube.com/watch?v=Rvv95DV6NuM",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the first cookbook · Pan Macmillan",
+      "https://www.panmacmillan.com/authors/kay-allinson/pinch-of-nom/9781529014068"
+    ],
+    "impact_source": [
+      "Read the launch sales record · The Bookseller",
+      "https://www.thebookseller.com/news/pinch-packs-punch-slimming-cookbook-breaks-scales-become-fastest-selling-non-fiction-title-all"
+    ],
+    "links": [
+      [
+        "Read the launch coverage · The Irish Times",
+        "https://www.irishtimes.com/life-and-style/food-and-drink/diet-book-pinch-of-nom-is-fastest-selling-non-fiction-title-in-history-1.3839399"
+      ]
+    ],
+    "how_to_measure": "Before a creator product launch, measure intent: email sign-ups for the launch, pre-orders per thousand engaged followers and repeat visits to the free content the product builds on.",
+    "image": {
+      "src": "assets/edition-02/pinch-of-nom.webp",
+      "alt": "A hand adding garlic to a pan in Pan Macmillan’s Pinch of Nom launch film.",
+      "credit": "Video thumbnail · Pan Macmillan",
+      "source": "https://www.youtube.com/watch?v=Rvv95DV6NuM",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "raid-shadow-legends",
+    "brand": "Internet Historian and YouTube’s gaming creators",
+    "title": "This Video Is Sponsored by Raid: Shadow Legends",
+    "year": 2019,
+    "place": "City not disclosed, Australia",
+    "sector": "Mobile gaming",
+    "mechanism": "Trust",
+    "data_role": "YouTube",
+    "data_source": "Sponsored segments",
+    "stage": "Player spend",
+    "hook": "So many creators read the same sponsorship that it became a joke. The game made a billion dollars.",
+    "situation": "Mobile games competed for players through app store adverts and performance marketing. Creator sponsorships were used, but rarely as the main engine of growth.",
+    "exchange": "After its worldwide launch in February 2019, Plarium paid thousands of YouTube creators, from the biggest to the mid-sized, to read sponsored segments for Raid: Shadow Legends, many with a tracked link and a signing bonus. Internet Historian made the sponsor read part of the entertainment.",
+    "brought": [
+      [
+        "Internet Historian and other creators",
+        "Audience knowledge and a way to make a familiar sponsor message part of their programmes."
+      ],
+      [
+        "Plarium",
+        "Acquisition budget, tracked offers and repeat sponsorships."
+      ]
+    ],
+    "turning_point": "The sponsorships became a meme that creators themselves joked about. By July 2022 the game had passed $1 billion in player spending on mobile, with the United States its biggest market.",
+    "metric": "$1 billion",
+    "metric_label": "Lifetime player spending on mobile by July 2022",
+    "measure": "Estimated spending on the App Store and Google Play from Sensor Tower. It includes players from every channel, not only creator sponsorships",
+    "evidence": "Sensor Tower’s estimate and BuzzGuru’s analysis of the creator spend are public. The scale of the sponsorships is well documented, but the share of revenue they drove is not.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Performance creator marketing works at scale when every creator has a tracked link and the budget follows the results. The joke is part of the reach.",
+    "take": "I’d ask which creator audiences bring players who stay. Internet Historian’s integrated sponsorship shows that delivery can be a creative choice. The billion-dollar total still cannot tell me what that choice earned.",
+    "credit": "Plarium and creators, 2019 to 2022",
+    "creative": {
+      "medium": "Creator film with a Raid sponsorship, 2019",
+      "label": "Watch Very Serious Business · Internet Historian",
+      "url": "https://www.youtube.com/watch?v=ROaj3bCpZEM",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read the analysis of the YouTube spend · Game World Observer",
+      "https://gameworldobserver.com/2021/12/24/plarium-spent-8-66-million-on-youtube-ads-for-raid-shadow-legends-over-last-six-months"
+    ],
+    "impact_source": [
+      "Read the spending estimate · Sensor Tower",
+      "https://sensortower.com/blog/raid-shadow-legends-crosses-one-billion-revenue"
+    ],
+    "links": [],
+    "how_to_measure": "Give every creator a unique link and code, measure installs and 30-day spend per creator, and cut the ones whose players don’t stay. Then test a holdout region with no sponsorships to estimate the true lift.",
+    "image": {
+      "src": "assets/edition-02/raid-shadow-legends.webp",
+      "alt": "Illustrated business figures in Internet Historian’s Very Serious Business video, which includes a Raid sponsorship.",
+      "credit": "Video thumbnail · Internet Historian",
+      "source": "https://www.youtube.com/watch?v=ROaj3bCpZEM",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "shane-dawson-jeffree-star",
+    "brand": "Shane Dawson and Jeffree Star",
+    "title": "The Conspiracy Collection",
+    "year": 2019,
+    "place": "Los Angeles, United States",
+    "sector": "Beauty and online video",
+    "mechanism": "Format",
+    "data_role": "YouTube",
+    "data_source": "Documentary series",
+    "stage": "Sold out",
+    "hook": "A YouTube documentary series showed a palette being made. It sold out the moment it launched.",
+    "situation": "Make-up launches relied on teaser posts and influencer seeding. Few brands showed customers how a product was developed, priced and argued over.",
+    "exchange": "Shane Dawson made The Beautiful World of Jeffree Star, a multi-part series following the development of a palette with the make-up entrepreneur Jeffree Star, including disagreements about cost and design.",
+    "brought": [
+      [
+        "Shane Dawson",
+        "A documentary format, a huge audience and years of long-form storytelling."
+      ],
+      [
+        "Jeffree Star",
+        "A beauty company able to make and ship the product at scale."
+      ]
+    ],
+    "turning_point": "The Conspiracy collection launched on 1 November 2019 and the site struggled under the demand. The pair said a million palettes sold within about 30 minutes, and a restock followed.",
+    "metric": "1 million",
+    "metric_label": "Palettes sold in about 30 minutes, as claimed by the creators",
+    "measure": "A figure stated by the creators and reported by Tubefilter. Not independently audited",
+    "evidence": "The launch, website problems and restock are documented. The one-million figure covers both eyeshadow palettes and comes from Star’s own account, reported by Tubefilter. It is not an independently audited count of the flagship palette alone.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Letting an audience watch a product being made builds demand before launch. The same openness means the audience will see the problems too.",
+    "take": "The series turned the launch into television, and the audience paid to see the ending. It is a strong format and a fragile one, because it ties a product to two personalities.",
+    "credit": "Shane Dawson and Jeffree Star, 2019",
+    "creative": {
+      "medium": "Original collection reveal, 2019",
+      "label": "Watch The Conspiracy Collection Reveal | Jeffree Star x Shane Dawson · shane",
+      "url": "https://www.youtube.com/watch?v=9MoDGIkAudI",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Watch the original collection reveal · shane",
+      "https://www.youtube.com/watch?v=9MoDGIkAudI"
+    ],
+    "impact_source": [
+      "Read about the sales claim and restock · Tubefilter",
+      "https://www.tubefilter.com/2019/11/05/jeffree-star-shane-dawson-conspiracy-collection-restock/"
+    ],
+    "links": [
+      [
+        "Read why the series mattered · The Spinoff",
+        "https://thespinoff.co.nz/business/23-11-2019/why-the-shane-dawson-and-jeffree-star-youtube-series-is-a-big-deal"
+      ]
+    ],
+    "how_to_measure": "For a launch built on a series, track pre-launch sign-ups after each episode, sell-through in the first hour, and returns and complaints in the first month.",
+    "image": {
+      "src": "assets/edition-02/shane-dawson-jeffree-star.webp",
+      "alt": "Shane Dawson and Jeffree Star with their Conspiracy collection in the official reveal thumbnail.",
+      "credit": "Video thumbnail · shane",
+      "source": "https://www.youtube.com/watch?v=9MoDGIkAudI",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "hyram-cerave",
+    "brand": "Hyram Yarbro",
+    "title": "The review reached the pharmacy shelf",
+    "year": 2020,
+    "place": "Honolulu, United States",
+    "sector": "Skincare",
+    "mechanism": "Trust",
+    "data_role": "TikTok",
+    "data_source": "Skincare reviews",
+    "stage": "Brand doubled",
+    "hook": "Hyram reviewed affordable skincare for his followers. CeraVe gained attention while its wider business grew.",
+    "situation": "CeraVe was a dermatologist-developed brand sold in pharmacies, trusted but unglamorous. Younger shoppers bought skincare from beauty brands with big marketing budgets.",
+    "exchange": "Hyram Yarbro, known as Skincare by Hyram, reviewed products and routines on YouTube and then TikTok, praising affordable, simple products and criticising expensive ones. CeraVe was among his favourites.",
+    "brought": [
+      [
+        "Hyram Yarbro",
+        "Plain explanations of ingredients and an audience of young people at home during lockdown."
+      ],
+      [
+        "CeraVe",
+        "Affordable products that held up to scrutiny, and a dermatological story to tell."
+      ]
+    ],
+    "turning_point": "During 2020 his following grew into the millions and CeraVe became a TikTok fixture. L’Oréal reported that CeraVe had almost doubled in size that year, and its general manager credited Yarbro’s support with bringing the brand major attention.",
+    "metric": "Almost doubled",
+    "metric_label": "CeraVe’s size in 2020, according to L’Oréal",
+    "measure": "Growth stated in L’Oréal’s 2020 annual results. It includes every channel, not only creator-driven sales",
+    "evidence": "L’Oréal’s results confirm the growth, and CeraVe’s own general manager credited Yarbro with the brand’s rise in attention. A pandemic boom in skincare also helped, and the two effects are not separated.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Educational creators move products that pass their test. Give them substance to examine rather than lines to read.",
+    "take": "This is the case for making products that hold up to a sceptic. CeraVe didn’t buy Hyram’s praise. It earned it, then later worked with him openly.",
+    "credit": "Hyram Yarbro, 2020",
+    "creative": {
+      "medium": "Related creator product comparison",
+      "label": "Watch Cetaphil vs CeraVe: Which is Best? · Hyram",
+      "url": "https://www.youtube.com/watch?v=xA-BxSKV0aU",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read how CeraVe became a TikTok favourite · Nylon",
+      "https://www.nylon.com/beauty/how-cerave-became-a-tiktok-favorite"
+    ],
+    "impact_source": [
+      "Read L’Oréal’s 2020 annual results",
+      "https://www.loreal-finance.com/eng/news-release/2020-annual-results"
+    ],
+    "links": [
+      [
+        "Read about the rise of skinfluencers · Glossy",
+        "https://www.glossy.co/beauty/tiktoks-skinfluencers-emerge-as-gen-zs-go-to-source/"
+      ]
+    ],
+    "how_to_measure": "Track retailer sales by product against a creator’s mentions, and survey new customers on where they first heard of the brand. Report creator-sourced customers as a share of new ones.",
+    "image": {
+      "src": "assets/edition-02/hyram-cerave.webp",
+      "alt": "Hyram Yarbro comparing Cetaphil and CeraVe skincare products.",
+      "credit": "Video thumbnail · Hyram",
+      "source": "https://www.youtube.com/watch?v=xA-BxSKV0aU",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "joe-wicks-pe-with-joe",
+    "brand": "Joe Wicks",
+    "title": "PE With Joe",
+    "year": 2020,
+    "place": "London, United Kingdom",
+    "sector": "Fitness and education",
+    "mechanism": "Live",
+    "data_role": "YouTube",
+    "data_source": "Live workout",
+    "stage": "Record",
+    "hook": "Schools closed overnight. A fitness coach became the nation’s PE teacher at 9am every weekday.",
+    "situation": "When the UK went into lockdown in March 2020, millions of children were suddenly at home with no school day and no exercise routine. Public broadcasters were still planning their response.",
+    "exchange": "Joe Wicks, The Body Coach, streamed a free 30-minute workout for children live on YouTube every weekday morning, starting on 23 March 2020, and said he would give the advertising income to NHS charities.",
+    "brought": [
+      [
+        "Joe Wicks",
+        "A daily routine, energy and a channel already built for workouts."
+      ],
+      [
+        "Families",
+        "A captive audience looking for structure, sharing the stream with schools and friends."
+      ]
+    ],
+    "turning_point": "The first lesson drew 2.3 million views in its first nine hours. The second, on 24 March, set a Guinness World Record for the most viewers of a fitness live stream on YouTube.",
+    "metric": "955,185",
+    "metric_label": "Concurrent viewers of the 24 March 2020 lesson, a Guinness World Record",
+    "measure": "Peak concurrent viewers counted for Guinness’s record. This is neither total video views nor a count of individual people exercising in each household.",
+    "evidence": "Guinness World Records verified the record. The effect on children’s activity was not measured at the time, and the advertising income donated was reported in stages rather than as a single audited total.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "In a crisis, the creator who shows up first, at a fixed time, every day, becomes part of people’s lives. Reliability is a format.",
+    "take": "PE With Joe is the public service moment of the creator economy. It did what a broadcaster would have done, faster, and earned Wicks a national standing no advertising campaign could buy.",
+    "credit": "Joe Wicks, 2020",
+    "creative": {
+      "medium": "Record-setting PE With Joe lesson, 24 March 2020",
+      "label": "Watch P.E with Joe | Tuesday 24th March 2020 · The Body Coach TV by Joe Wicks",
+      "url": "https://www.youtube.com/watch?v=6v-a_dpwhro",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read about the first lesson’s reach · Fit Tech",
+      "https://www.fittechglobal.com/fit-tech-news/Joe-Wicks-body-coach-Youtube-PE-lesson-goes-global-attracts-23m-views-in-first-nine-hours/345081"
+    ],
+    "impact_source": [
+      "Read about the record · Guinness World Records",
+      "https://www.guinnessworldrecords.com/news/2020/4/joe-wicks-pe-with-joe-smashes-youtube-livestream-record-614934"
+    ],
+    "links": [
+      [
+        "Read about the record award · LBC",
+        "https://www.lbc.co.uk/article/joe-wicks-guinness-world-record-pe-lockdown-covid-DWyc5y_2/"
+      ]
+    ],
+    "how_to_measure": "For a habit-forming series, track daily returning viewers across weeks, not peak audience. Pair it with a short survey on whether households exercised more.",
+    "image": {
+      "src": "assets/edition-02/joe-wicks-pe-with-joe.webp",
+      "alt": "Joe Wicks demonstrating an exercise in his living room during PE With Joe.",
+      "credit": "Video thumbnail · The Body Coach TV by Joe Wicks",
+      "source": "https://www.youtube.com/watch?v=6v-a_dpwhro",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "little-moons-tiktok",
+    "brand": "TikTok’s mochi hunters",
+    "title": "The Hunt for Little Moons",
+    "year": 2021,
+    "place": "London, United Kingdom",
+    "sector": "Frozen desserts",
+    "mechanism": "Community",
+    "data_role": "TikTok",
+    "data_source": "Shopping videos",
+    "stage": "Sales spike",
+    "hook": "In lockdown, people filmed trips to big Tesco to find a mochi ice cream. Sales rose 700% in a week.",
+    "situation": "Little Moons, a London mochi brand founded by siblings Howard and Vivien Wong, was a small supermarket line with modest awareness and no big advertising budget.",
+    "exchange": "In January 2021 TikTok users began posting videos of themselves searching supermarkets for Little Moons, tasting them and rating the flavours. The brand had not paid for the trend and moved quickly to support it.",
+    "brought": [
+      [
+        "TikTok users",
+        "Thousands of videos that turned a frozen dessert into a lockdown treasure hunt."
+      ],
+      [
+        "Little Moons",
+        "A product that looked good on camera, and a team that leaned into the moment."
+      ]
+    ],
+    "turning_point": "Tesco reported sales up more than 700% in a week against an average December week, Waitrose 350% over two days, and online grocers sold out. Videos tagged with the brand passed 19.5 million views.",
+    "metric": "700%",
+    "metric_label": "Rise in weekly Tesco sales, January 2021",
+    "measure": "Retailer sales growth against an average week in December 2020, as reported by The Grocer",
+    "evidence": "Retailer figures are specific and dated. The spike happened during a lockdown when supermarket trips were one of few outings, which helped. The longer-term effect showed in the brand’s later growth and a move into television advertising.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "When a community makes your product famous, support it rather than taking it over. Supply and speed matter more than a campaign.",
+    "take": "Little Moons shows a creator moment with no creator in charge: thousands of ordinary users made the ad. The brand’s best decision was to keep the shelves full and say thank you.",
+    "credit": "TikTok users and Little Moons, 2021",
+    "creative": {
+      "medium": "Reporting and interview; original trend posts not authenticated",
+      "label": "Watch Little Moons founders on their TikTok rise and running a business as siblings · The Grocer",
+      "url": "https://www.youtube.com/watch?v=8CbCLZjhgd8",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read the Tesco report · Grocery Gazette",
+      "https://www.grocerygazette.co.uk/2021/02/07/tesco-reports-700-increase-in-mochi-sales-due-to-viral-tiktok-trend/"
+    ],
+    "impact_source": [
+      "Read the sales figures · The Grocer",
+      "https://www.thegrocer.co.uk/news/mochi-tiktok-craze-sees-little-moons-sales-rocket-700-at-tesco/652665.article"
+    ],
+    "links": [
+      [
+        "Read the brand’s view, from TikTok to TV · Grocery Gazette",
+        "https://www.grocerygazette.co.uk/2022/07/13/little-moons-cmo/"
+      ]
+    ],
+    "how_to_measure": "Track weekly views of user videos mentioning the brand against weekly retailer sales by store, then follow repeat purchase in the months after the spike.",
+    "image": {
+      "src": "assets/edition-02/little-moons-tiktok.webp",
+      "alt": "Little Moons founders Howard and Vivien Wong in The Grocer’s interview about the TikTok trend.",
+      "credit": "Video thumbnail · The Grocer",
+      "source": "https://www.youtube.com/watch?v=8CbCLZjhgd8",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "baked-feta-pasta",
+    "brand": "Jenni Häyrinen and recipe creators",
+    "title": "Uunifetapasta",
+    "year": 2021,
+    "place": "Helsinki, Finland",
+    "sector": "Food",
+    "mechanism": "Discovery",
+    "data_role": "TikTok",
+    "data_source": "Recipe video",
+    "stage": "Shortage",
+    "hook": "A Finnish food blogger baked a block of feta with tomatoes. Two years later, American shops ran out of feta.",
+    "situation": "Recipes spread through food magazines, cookery programmes and big recipe sites. A home cook in Finland had no obvious route to an American audience.",
+    "exchange": "Jenni Häyrinen published a recipe for pasta tossed with feta baked alongside cherry tomatoes, adapted from another Finnish cook. It became so popular in Finland that shops sold out of feta. In early 2021 American food creators made it on TikTok.",
+    "brought": [
+      [
+        "Jenni Häyrinen",
+        "A recipe simple enough to film in under a minute."
+      ],
+      [
+        "TikTok food creators",
+        "Videos that carried the recipe from Finland to millions of American kitchens."
+      ]
+    ],
+    "turning_point": "In February 2021 American grocers reported feta selling out. The Fresh Market chain said its feta sales were up 45%.",
+    "metric": "+45%",
+    "metric_label": "Feta sales at The Fresh Market, as reported",
+    "measure": "One retailer’s reported sales rise. Wider market data was cited in some reports but not consistently",
+    "evidence": "The Finnish recipe and its later adaptations are documented. The Fresh Market’s reported 45% rise covers one chain, so shortages elsewhere do not establish a measured national sales effect.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Short video makes recipes travel across borders and languages. For food brands, the most valuable creators may be the ones who give a common ingredient a new job.",
+    "take": "I like that the original creator is a Finnish blogger, not an American TikTok star. The internet often forgets where a trend began. This archive shouldn’t.",
+    "credit": "Jenni Häyrinen, 2019 to 2021",
+    "creative": {
+      "medium": "Yumna Jawad’s recipe demonstration; later adaptation",
+      "label": "Watch The Viral Baked Feta Pasta | Three Versions · Feelgoodfoodie",
+      "url": "https://www.youtube.com/watch?v=LuroDGsJkMA",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read how the craze started in Finland · Salon",
+      "https://www.salon.com/2021/02/05/the-tiktok-feta-pasta-craze-started-in-finland_partner/"
+    ],
+    "impact_source": [
+      "Read about the shortage · The Takeout",
+      "https://thetakeout.com/viral-tiktok-recipe-leads-to-feta-shortage-1846287905"
+    ],
+    "links": [
+      [
+        "Read about the effect on sales · Refinery29",
+        "https://www.refinery29.com/en-us/2021/02/10308754/feta-cheese-tiktok-pasta-recipe-ingredients-sales"
+      ],
+      [
+        "Read the direct retailer response · Charlotte Observer",
+        "https://www.charlotteobserver.com/charlottefive/c5-food-drink/article249182880.html"
+      ]
+    ],
+    "how_to_measure": "For an ingredient that trends, compare weekly sales in stores near large creator audiences with stores elsewhere, and track whether the lift lasts once the trend fades.",
+    "image": {
+      "src": "assets/edition-02/baked-feta-pasta.webp",
+      "alt": "Baked feta pasta prepared three ways in Feel Good Foodie’s recipe video.",
+      "credit": "Video thumbnail · Feelgoodfoodie",
+      "source": "https://www.youtube.com/watch?v=LuroDGsJkMA",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "emily-mariko-salmon-bowl",
+    "brand": "Emily Mariko",
+    "title": "The Salmon Rice Bowl",
+    "year": 2021,
+    "place": "San Francisco, United States",
+    "sector": "Food and lifestyle",
+    "mechanism": "Trust",
+    "data_role": "TikTok",
+    "data_source": "Silent cooking video",
+    "stage": "Sales spike",
+    "hook": "No talking, no music to speak of, just leftover salmon and rice. Kewpie mayonnaise sales jumped 155%.",
+    "situation": "Food content on social media was loud: fast cuts, voiceovers and recipe cards. Calm, everyday cooking seemed too slow for short video.",
+    "exchange": "Emily Mariko posted a quiet video of her lunch: leftover salmon mashed with rice, an ice cube to steam it, Kewpie mayonnaise, sriracha and seaweed. No voiceover, no recipe card.",
+    "brought": [
+      [
+        "Emily Mariko",
+        "A calm style that made viewers want her life as much as her lunch."
+      ],
+      [
+        "Her viewers",
+        "Millions who copied the bowl and filmed themselves doing it."
+      ]
+    ],
+    "turning_point": "The video, posted on 21 September 2021, passed 50 million views. Instacart reported that orders containing both salmon and dried seaweed doubled, and Kewpie mayonnaise sales rose 155% the following week.",
+    "metric": "+155%",
+    "metric_label": "Kewpie mayonnaise sales on Instacart in the week after the video",
+    "measure": "Instacart’s reported Kewpie purchase increase for the week after the post, reported by Food Network. It covers one delivery platform and does not establish a national sales effect.",
+    "evidence": "Food Network reported Instacart’s product and basket figures for the week of the trend. They cover one delivery platform. National sales and a controlled estimate of Mariko’s contribution were not supplied.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Brands can be the hero of a creator’s video without being the subject. Kewpie never paid for its moment. It just happened to be in the shot.",
+    "take": "This is my favourite proof that calm content sells. Mariko wasn’t selling anything, which is exactly why people bought what was in her fridge.",
+    "credit": "Emily Mariko, 2021",
+    "creative": {
+      "medium": "Contemporary reporting and recipe recreation; original TikTok not authenticated",
+      "label": "Read the recipe recreation · Good Morning America",
+      "url": "https://www.goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read about the trend · Good Morning America",
+      "https://goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263"
+    ],
+    "impact_source": [
+      "Read about the Instacart figures · Food Network",
+      "https://www.foodnetwork.com/fn-dish/news/instacart-sales-increase-emily-mariko-salmon-bowl-tiktok"
+    ],
+    "links": [],
+    "how_to_measure": "Partner with a retail or delivery platform to read basket data around a creator’s post: which items rose, by how much and for how long.",
+    "image": {
+      "src": "assets/edition-02/emily-mariko-salmon-bowl.webp",
+      "alt": "A salmon rice bowl with avocado and kimchi, recreated by Good Morning America.",
+      "credit": "Recipe recreation photograph · Angeline Bernabe / Good Morning America",
+      "source": "https://www.goodmorningamerica.com/food/story/made-emily-marikos-viral-salmon-rice-bowl-lunch-80439263",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "colleen-hoover-booktok",
+    "brand": "Colleen Hoover and BookTok",
+    "title": "BookTok sent readers to the backlist",
+    "year": 2022,
+    "place": "Sulphur Springs, United States",
+    "sector": "Books and publishing",
+    "mechanism": "Community",
+    "data_role": "TikTok",
+    "data_source": "Reader videos",
+    "stage": "Bestseller record",
+    "hook": "Readers filmed themselves crying over her novels. In 2022 she held the top three places on America’s bestseller list.",
+    "situation": "Colleen Hoover had self-published and built a loyal readership, but her older novels were not best-seller fixtures. Publishing still relied on reviews, prizes and bookshop displays.",
+    "exchange": "On TikTok, a community of readers known as BookTok posted emotional reactions, recommendations and reading challenges. Hoover’s novels, especially It Ends with Us from 2016, became its favourite subject.",
+    "brought": [
+      [
+        "BookTok creators",
+        "Raw, personal recommendations that made books feel like events."
+      ],
+      [
+        "Colleen Hoover",
+        "A backlist of emotional novels and a direct relationship with her readers."
+      ]
+    ],
+    "turning_point": "In 2022 Hoover sold about 14.3 million print books in the United States, held the top three places on the year’s bestseller list, and It Ends with Us alone sold more than two million copies, six years after publication.",
+    "metric": "14.3 million",
+    "metric_label": "Print books sold in the US in 2022",
+    "measure": "Print sales recorded by NPD BookScan and reported by Publishers Weekly",
+    "evidence": "BookScan data makes the sales unusually well recorded. The link to BookTok is widely reported and fits the timing, as older titles rose without new marketing, but the share of sales driven by TikTok is not measured.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Communities revive back catalogues. Look at what a creator community is recommending before you decide what to promote.",
+    "take": "BookTok proved that creators can sell something as slow as a novel. The publishers who did best simply put tables labelled BookTok in their shops and got out of the way.",
+    "credit": "Colleen Hoover and BookTok, 2020 to 2022",
+    "creative": {
+      "medium": "Reporting and interview; community posts not authenticated",
+      "label": "Watch Colleen Hoover shares how she accidentally became a best-selling author · TODAY",
+      "url": "https://www.youtube.com/watch?v=jkl29PgMtvo",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read how BookTok is changing publishing · The Week",
+      "https://theweek.com/feature/briefing/1018899/booktok-is-tiktok-changing-the-publishing-industry"
+    ],
+    "impact_source": [
+      "Read the 2022 print-sales record · Publishers Weekly",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/91256-colleen-hoover-was-queen-of-2022-s-bestseller-list.html"
+    ],
+    "links": [
+      [
+        "Read the year in bestsellers · Kirkus",
+        "https://www.kirkusreviews.com:443/news-and-features/articles/colleen-hoover-dominated-book-sales-in-2022/"
+      ]
+    ],
+    "how_to_measure": "Track sales of a backlist title against weekly views of community videos about it, with no other marketing running. That gives a cleaner read than a new release ever can.",
+    "image": {
+      "src": "assets/edition-02/colleen-hoover-booktok.webp",
+      "alt": "Colleen Hoover interviewed by TODAY about becoming a bestselling author.",
+      "credit": "Video thumbnail · TODAY",
+      "source": "https://www.youtube.com/watch?v=jkl29PgMtvo",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "stanley-car-fire",
+    "brand": "The Buy Guide and Danielle",
+    "title": "The Cup That Survived a Car Fire",
+    "year": 2023,
+    "place": "City not disclosed, United States",
+    "sector": "Drinkware",
+    "mechanism": "Community",
+    "data_role": "TikTok",
+    "data_source": "Creator and customer videos",
+    "stage": "Revenue grew",
+    "hook": "Three bloggers championed a forgotten cup. Then a customer’s car burned and the cup still had ice in it.",
+    "situation": "Stanley was a century-old brand of flasks for builders and campers. Its Quencher tumbler was close to being discontinued, and the brand had little presence with younger women.",
+    "exchange": "The Buy Guide, a shopping blog run by three women, kept recommending the Quencher to its audience and persuaded Stanley to restock it. Stanley signed a partnership with them and leaned into the community that formed around the cup.",
+    "brought": [
+      [
+        "The Buy Guide",
+        "Early belief in the product and an audience that bought what they recommended."
+      ],
+      [
+        "Stanley",
+        "A willingness to change its whole audience strategy, and fast responses when customers posted."
+      ]
+    ],
+    "turning_point": "In November 2023 Danielle posted a TikTok showing her car burned out but her Stanley cup intact, still holding ice. CreatorIQ reported 94 million views by January 2024, and Stanley’s president, Terence Reilly, replied with a video offering to replace her car.",
+    "metric": "$750 million",
+    "metric_label": "Stanley’s reported full-year 2023 revenue, across all products and channels",
+    "measure": "Full-year 2023 revenue reported by CreatorIQ in January 2024 alongside its interview with Stanley’s president. Earlier CNBC coverage called $750 million a projection. No audited accounts were reviewed; the total covers all products and channels, including sales before the car fire.",
+    "evidence": "CreatorIQ reported the $750 million annual total and the president’s account of the bloggers’ contribution. That supports a reported company sales trend. It does not measure the car-fire video’s separate sales effect. CreatorIQ’s earned media value is a proprietary estimate, so I do not treat it as revenue.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Find the creators who already love the product and give them a real role. When a customer creates a moment, respond as a person, quickly.",
+    "take": "Stanley is the best example of a brand following its creators rather than directing them. The car-fire reply worked because the cup had already been made famous by people who meant it.",
+    "credit": "The Buy Guide and Danielle Lettering, 2020 to 2023",
+    "creative": {
+      "medium": "Contemporary reporting with the car-fire clip",
+      "label": "Watch Woman’s Stanley cup survives car fire; company offers to replace ride · ABC7",
+      "url": "https://www.youtube.com/watch?v=dYVNrIHHcg8",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read about the car fire and Stanley’s response · ABC7",
+      "https://abc7.com/post/stanley-cup-fire-tumblers-viral-tiktok-videos/14082972/"
+    ],
+    "impact_source": [
+      "Hear Stanley’s president on the growth · CreatorIQ",
+      "https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs"
+    ],
+    "links": [],
+    "how_to_measure": "Track sales through the creators’ own links separately from everything else, and measure how many new customers came from the audience segment the creators reached.",
+    "image": {
+      "src": "assets/edition-02/stanley-car-fire.webp",
+      "alt": "A Stanley tumbler shown in ABC7’s report on the cup that survived Danielle’s car fire.",
+      "credit": "Video thumbnail · ABC7",
+      "source": "https://www.youtube.com/watch?v=dYVNrIHHcg8",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "alix-earle-sol-de-janeiro",
+    "brand": "Alix Earle",
+    "title": "Get Ready With Me",
+    "year": 2023,
+    "place": "Miami, United States",
+    "sector": "Beauty",
+    "mechanism": "Trust",
+    "data_role": "TikTok",
+    "data_source": "Get ready with me videos",
+    "stage": "Sales surge",
+    "hook": "A student talked to her phone while doing her make-up. Brands she mentioned sold out.",
+    "situation": "Beauty brands depended on paid influencer posts that audiences had learned to scroll past. Organic recommendations were valuable but rare.",
+    "exchange": "Alix Earle, then a University of Miami student, posted get ready with me videos, chatting about her life while using products she liked, including Sol de Janeiro’s Brazilian Bum Bum Cream.",
+    "brought": [
+      [
+        "Alix Earle",
+        "Candour, long talking videos and an audience that felt like friends."
+      ],
+      [
+        "Sol de Janeiro",
+        "A product with a distinctive scent and a brand that let creators lead."
+      ]
+    ],
+    "turning_point": "In 2023 Sol de Janeiro’s sales rose 174% to $454 million for the six months to September, and its chief executive said more than 90% of that year’s growth came from organic social. Earle was among the creators named as driving the buzz.",
+    "metric": "+174%",
+    "metric_label": "Sol de Janeiro sales growth, six months to September 2023",
+    "measure": "Sales reported by its owner L’Occitane. Growth came from many creators, not one",
+    "evidence": "The sales figure is from company results and the organic share is the chief executive’s estimate. Earle is one of several creators credited, so her individual effect is not separated.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "The most powerful product placement is the one nobody paid for. Make products creators want on camera, then support the organic moments.",
+    "take": "Earle is the face of a format, the chatty get ready with me video, that turned bathroom shelves into shop windows. Sol de Janeiro is the brand that understood this was earned, not bought.",
+    "credit": "Alix Earle, 2023",
+    "creative": {
+      "medium": "Later creator podcast, 2025; related illustration",
+      "label": "Watch a later creator discussion, 2025 · Alix Earle",
+      "url": "https://www.youtube.com/watch?v=GpbaM7j_LEA",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read the profile · Rolling Stone",
+      "https://www.rollingstone.com/culture/culture-features/alix-earle-tiktok-get-ready-with-me-1234711508/"
+    ],
+    "impact_source": [
+      "Read Sol de Janeiro’s results and the CEO’s view · Glossy",
+      "https://www.glossy.co/beauty/sol-de-janeiros-heela-yang-over-90-of-our-growth-this-year-is-from-social-and-its-organic/"
+    ],
+    "links": [],
+    "how_to_measure": "Separate organic creator mentions from paid ones, and track sales lift by retailer in the days after each. Ask new customers which creator they saw first.",
+    "image": {
+      "src": "assets/edition-02/alix-earle-sol-de-janeiro.webp",
+      "alt": "Alix Earle and her sister Ashtin outdoors in the cover image for a later podcast episode.",
+      "credit": "Video thumbnail · Alix Earle",
+      "source": "https://www.youtube.com/watch?v=GpbaM7j_LEA",
+      "width": 800,
+      "height": 450
+    }
+  }
+]

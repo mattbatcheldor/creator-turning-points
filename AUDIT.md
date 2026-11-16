@@ -1,11 +1,21 @@
-# Edition 01 release audit
+# Creator Turning Points release audit
 
-16 November 2026. Built with python3 src/build.py. Internal audit passed: 2 pages, 15 cases, 16 local images. Case thumbnails have credits, descriptions, unique fingerprints and 800 by 450 WebP dimensions. Edition 02 and The Index are not published.
+16 November 2026. Editions 01 and 02: 15 cases each, 30 total. The Index remains disabled. Built with python3 src/build.py and checked with python3 src/audit.py. All internal links, anchors, case counts, required fields, credited 800 by 450 WebP images and image fingerprints pass. No em or en dash characters occur in repository text.
 
-Release oEmbed checks: 16 of 16 distinct YouTube media and image-source URLs returned HTTP 200. MrBeast’s milestone uses labelled reporting rather than an authenticated original video. See verification/oembed-release.json and NOT_VERIFIED.md.
+All 15 Edition 02 thumbnails were visually inspected. Four screening selections use creator-owned YouTube channels. YouTube metadata availability is checked with oEmbed, separately from regional playback or embedding permission.
 
-External reader URL checks were run during the earlier full-archive audit on 16 November 2026. The subset for Edition 01 is retained in verification/urls.json. A successful HTTP response does not authenticate every claim. Browser playback and every regional restriction remain unverified.
+## External checks
 
-The earlier checker recorded errors for the bare preconnect origins https://fonts.googleapis.com and https://fonts.gstatic.com. These are connection hints rather than reader links or stylesheet paths. The actual font stylesheet passed in the full-archive check.
+105 distinct external URLs checked in this release. YouTube watch URLs were checked through oEmbed. 100 checks returned HTTP 200. The complete log is verification/urls.json. Bare Google Fonts preconnect origins are connection hints, not reader destinations; they can return errors while the actual font stylesheet works.
 
-Live release checks: all 15 public thumbnail files returned HTTP 200 and matched local SHA-256 hashes. Browser checks confirmed the Twitch filter shows two cases, search for Jawed Karim shows one case, case expansion works and the first screening player opens the correct YouTube iframe. Full playback and mobile layout are not certified by these checks.
+## Failed or blocked reader URLs
+
+- https://www.charlotteobserver.com/charlottefive/c5-food-drink/article249182880.html : HTTP Error 503: Service Unavailable
+- https://www.foodnetwork.com/fn-dish/news/instacart-sales-increase-emily-mariko-salmon-bowl-tiktok : HTTP Error 404: Not Found
+- https://www.thebookseller.com/news/pinch-packs-punch-slimming-cookbook-breaks-scales-become-fastest-selling-non-fiction-title-all : HTTP Error 429: Too Many Requests
+
+Food Network’s article was readable through web retrieval and supplied the Instacart attribution, but that does not turn a failed direct GET into a pass. The Bookseller’s launch figure was corroborated in The Irish Times and on its searchable article. No failed endpoint is marked checked successfully.
+
+## Limits
+
+No controlled estimate of creator sales lift was established. Self-reported sales, platform-limited data and company-wide totals are labelled in the cases. Substituted and later media, location limits, regional playback and any browser checks not performed are listed in NOT_VERIFIED.md.
