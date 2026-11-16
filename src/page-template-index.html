@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The Index to Creator Turning Points. Seven editions and a hundred creator moments in one place: what the series found, the lessons that hold across editions, the creators that came back and every case, searchable by platform, industry, place and evidence.">
+<meta name="theme-color" content="#1D1A2C">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<title>Creator Turning Points | The Index</title>
+<style>
+@@CSS@@
+.ix-stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--ink);border-bottom:1px solid var(--line);margin-top:clamp(2rem,4vw,3rem)}
+.ix-stats div{padding:1rem .8rem 1.1rem 0;border-right:1px solid var(--line)}.ix-stats div:last-child{border-right:0}
+.ix-stats b{display:block;font:normal clamp(2rem,4vw,3.2rem)/1 var(--serif);letter-spacing:-.03em}.ix-stats span{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.ix-section{padding-top:clamp(3.2rem,7vw,5.5rem);scroll-margin-top:1rem}
+.ix-section .section-head{margin-bottom:1.2rem}.ix-section .section-head>p{max-width:34rem;color:var(--muted)}
+.ix-about{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:1.5rem 3rem;padding-top:clamp(2.6rem,6vw,4.5rem)}
+.ix-about h2{margin:0;padding-top:.3rem;border-top:1px solid var(--ink)}.ix-about-copy{border-top:1px solid var(--ink);padding-top:.3rem}
+.ix-about-copy p{font:normal clamp(1.15rem,1.8vw,1.4rem)/1.45 var(--serif);margin:.6rem 0 0;max-width:40rem}
+.ix-about-copy .ix-about-note{font:normal .95rem/1.55 var(--sans);color:var(--muted);border-left:3px solid #D99A2B;padding-left:.9rem;margin-top:1.1rem}
+.ev-caveat{margin:1.1rem 0 0;max-width:46rem;font-size:.9rem;color:var(--muted);border-left:3px solid #D99A2B;padding-left:.9rem}.ev-caveat strong{color:var(--ink)}
+.ed-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.ed-card{display:flex;flex-direction:column;gap:.55rem;background:var(--light);border:1px solid var(--line);border-top:3px solid var(--ink);padding:1.1rem 1.1rem 1.2rem;text-decoration:none;color:var(--ink);min-width:0}
+.ed-card:hover{border-top-color:#A8352A}.ed-card:hover .ed-finding{text-decoration:underline}
+.ed-num{font:bold .7rem/1 var(--sans);letter-spacing:.12em;color:var(--muted)}.ed-name{font:normal 1.9rem/1.05 var(--serif);letter-spacing:-.02em}
+.ed-finding{font:italic 1.05rem/1.35 var(--serif)}.ed-meta{margin-top:auto;color:var(--muted)}
+.ed-card:last-child:nth-child(3n+1){grid-column:1/-1}
+.ev-chart{display:grid;gap:.55rem}.ev-row{display:grid;grid-template-columns:13rem minmax(0,1fr);align-items:center;gap:1rem}
+.ev-label{font-size:.9rem}.ev-label a{font-weight:bold;color:var(--ink)}.ev-label span{color:var(--muted)}
+.ev-bar{display:flex;height:2.1rem;gap:2px}.ev-seg{flex:var(--n) 0 0;display:grid;place-items:center;font:bold .78rem/1 var(--sans);color:var(--ink);min-width:1.4rem}.ev-seg.dark{color:#fffdf7}
+.ev-legend{display:flex;flex-wrap:wrap;gap:.5rem 1.3rem;margin-top:1rem;font-size:.78rem;color:var(--muted)}.ev-legend i{display:inline-block;width:.8rem;height:.8rem;margin-right:.35rem;vertical-align:-1px}.ev-legend b{color:var(--ink)}
+.lesson-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.lesson{background:var(--light);border:1px solid var(--line);padding:1.2rem 1.2rem 1.3rem;min-width:0}
+.lesson h3{font:normal 1.6rem/1.1 var(--serif);letter-spacing:-.02em;margin:.2rem 0 .6rem}.lesson>p{margin:0 0 .9rem}.lesson-num{color:var(--muted);margin:0}
+.lesson-chips{display:flex;flex-wrap:wrap;gap:.4rem}.lesson-chip{font-size:.8rem;padding:.3rem .65rem;border:1px solid #a8aa9d;border-radius:2rem;color:var(--ink);text-decoration:none;background:var(--paper)}
+.lesson-chip:hover{background:#E8E1F0;border-color:var(--ink)}.lesson-chip .small{font-size:.62rem;color:var(--muted);margin-right:.15rem}
+.brand-list{border-top:1px solid var(--ink)}
+.brand-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr);gap:1.5rem;padding:1.1rem 0;border-bottom:1px solid var(--line)}
+.brand-heading{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:start;gap:1rem}
+.brand-heading:not(:has(img)){display:block}.brand-logo{display:block;width:5.125rem;height:3.875rem;padding:.45rem;object-fit:contain;background:var(--light);border:1px solid var(--line);border-radius:.35rem}
+.brand-row h3{font:normal 1.7rem/1.1 var(--serif);margin:0 0 .35rem}.brand-row p{margin:0;color:var(--muted);font-size:.92rem}
+.brand-row ol{list-style:none;margin:0;padding:0;display:grid;gap:.35rem}.brand-row li a{display:flex;gap:.6rem;align-items:baseline;color:var(--ink);text-decoration:none;font-size:.95rem}
+.brand-row li a:hover{text-decoration:underline}.brand-row .small{min-width:5.6rem;color:var(--muted);font-size:.64rem}.brand-row .yr{color:var(--muted);font-size:.85rem}
+.ix-list{list-style:none;margin:0;padding:0;border-top:1px solid var(--ink)}
+.ix-case{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:.65rem;align-items:center;border-bottom:1px solid var(--line)}
+.ix-case-link{display:grid;grid-template-columns:6.2rem minmax(0,1fr) minmax(8rem,12rem);gap:1rem;align-items:center;padding:.8rem 0;color:var(--ink);text-decoration:none}
+.ix-case-link:hover .ix-title{text-decoration:underline}.ix-year{font:normal 1rem/1 var(--serif);color:var(--muted)}
+.ix-visual{display:flex;flex-direction:column;gap:.35rem}
+.ix-thumbnail{display:block;aspect-ratio:16/10;background:#e8e4d9;overflow:hidden}
+.ix-thumbnail img{display:block;width:100%;height:100%;object-fit:cover}
+.ix-thumbnail.image-contain img{object-fit:contain}
+.ix-watch{font-size:.8rem;font-weight:bold;white-space:nowrap;padding:.3rem .2rem}
+.ix-main{display:flex;flex-direction:column;gap:.15rem;min-width:0}.ix-brand{color:var(--muted);font-size:.64rem}.ix-title{font:normal 1.3rem/1.15 var(--serif)}.ix-place{font-size:.8rem;color:var(--muted)}
+.ix-side{display:flex;flex-direction:column;gap:.3rem;align-items:flex-start;font-size:.8rem}.ix-ed{color:var(--ink)}
+.gap-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.6rem 3rem;margin-top:1.4rem}.gap-grid h3{font-size:1.05rem;margin:0 0 .4rem}.gap-grid p{margin:0;color:#d3d1c5}
+@media(max-width:900px){.ed-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ed-card:last-child:nth-child(3n+1){grid-column:auto}.ed-card:last-child:nth-child(odd){grid-column:1/-1}.ix-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.ix-stats div:nth-child(3){border-right:0}}
+@media(max-width:700px){.ed-card:last-child:nth-child(odd){grid-column:auto}.ix-about{grid-template-columns:1fr;gap:.4rem}.ix-about-copy{border-top:0}
+.ed-grid,.lesson-grid,.gap-grid{grid-template-columns:1fr}.brand-row{grid-template-columns:1fr;gap:.6rem}
+.brand-heading{gap:.75rem}.brand-logo{width:4.25rem;height:3.375rem;padding:.35rem}
+.ev-row{grid-template-columns:1fr;gap:.3rem}.ix-case-link{grid-template-columns:4.4rem minmax(0,1fr);gap:.4rem .65rem}.ix-visual{grid-row:span 2;align-self:start}.ix-side{grid-column:2}
+.ix-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.ix-stats div{border-right:0}.ix-stats div:nth-child(odd){border-right:1px solid var(--line)}}
+</style>
+<link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon.png"></head>
+<body id="top">
+<a class="skip" href="#all-cases">Skip to every case</a>
+<header class="top"><div class="wrap">
+<a class="wordmark small" href="#top"><span class="signal" aria-hidden="true"></span> Creator Turning Points</a>
+<nav class="small" aria-label="Main navigation"><a href="#about">About</a><a href="#lessons">Lessons</a><a href="#partners">Creators</a><a href="#all-cases">All cases</a><a href="#gaps">Gaps</a>@@EDITION_NAV@@</nav>
+</div></header>
+<main>
+<div class="wrap">
+<section class="mast" aria-labelledby="mast-title">
+<div><p class="issue small">The creator archive / The Index</p><h1 id="mast-title">Creator Turning<br><em>Points.</em></h1></div>
+<div class="mast-intro" aria-labelledby="founder-note">
+<h2 id="founder-note" class="small">Why this page exists</h2>
+<figure class="founder-quote">
+<img src="../assets/matthew-batcheldor.webp" width="256" height="256" alt="Matthew Batcheldor in Niseko">
+<blockquote><p>“A hundred creator moments left me asking who made the work, who received the value and what the evidence can really show.”</p></blockquote>
+<figcaption class="founder-byline">Matthew Batcheldor <span>Curator</span></figcaption>
+</figure>
+<p class="founder-context">Commercial and partnerships leader with experience at Uchi and Google, working across technology, digital media and creator businesses. <a href="https://mattbatcheldor.github.io/career-portfolio/commercial-edition/">Career Portfolio</a> · <a href="https://www.linkedin.com/in/mattbatcheldor/">LinkedIn</a></p>
+<p class="founder-context">Each edition looks at creators from one angle: fame, proof, money, platform, failure, brand and the edge. This page reads them together. It shows what the series found, the lessons that hold across editions, the creators that came back and every case in one searchable list.</p>
+</div>
+</section>
+<div class="ix-stats" role="list">
+<div role="listitem"><b>@@EDITION_COUNT@@</b><span>Editions</span></div>
+<div role="listitem"><b>@@TOTAL@@</b><span>Creator moments</span></div>
+<div role="listitem"><b>@@MODELLED@@</b><span>With a modelled effect</span></div>
+<div role="listitem"><b>@@DEALS@@</b><span>With a deal value</span></div>
+<div role="listitem"><b>@@FIRST_YEAR@@</b><span>To @@LAST_YEAR@@</span></div>
+</div>
+
+<section class="ix-about" id="about" aria-labelledby="about-title">
+<h2 id="about-title" class="small">About this archive</h2>
+<div class="ix-about-copy">
+<p>Creator Turning Points is the third archive, alongside Brand Turning Points and Partnership Turning Points. It puts the creator at the centre: what they made, what became possible and which part of the outcome can be traced.</p>
+<p>Seven editions contain 100 moments from @@FIRST_YEAR@@ to @@LAST_YEAR@@. The evidence ranges from original uploads and public rule changes to chart positions, donations and reported sales. Every case separates its media record from its outcome source, and gives the headline number a definition.</p>
+<p>Creators rarely work alone. Performers, editors, developers, moderators, production teams and commercial partners help make the work possible. The two contributions in each case name part of that collaboration, rather than an exhaustive production credit.</p>
+<p class="ix-about-note">This is a selection, not a ranking or a representative sample. The rating describes what the public record supports. It does not rate a creator’s talent or a programme’s worth. With no modelled effects or representative surveys in this selection, the lessons are questions to test in a future programme.</p>
+</div>
+</section>
+
+<section class="ix-section" id="editions" aria-labelledby="editions-title">
+<div class="section-head"><div><p class="small">01 / The editions</p><h2 id="editions-title">@@EDITION_WORD@@ angles, one question</h2></div><p>Every edition asks what changed because of the creator, and what the evidence can support. Each one reached its own finding.</p></div>
+<div class="ed-grid">
+@@EDITION_CARDS@@
+</div>
+</section>
+
+<section class="ix-section" id="evidence" aria-labelledby="evidence-title">
+<div class="section-head"><div><p class="small">02 / The evidence</p><h2 id="evidence-title">What the series can prove</h2></div><p>Every case carries one of five evidence ratings. Read across the editions and one pattern stands out: counts of attention and records of events are easier to find than attributable commercial effects.</p></div>
+<div class="ev-chart" role="group" aria-label="Evidence ratings by edition">
+@@EVIDENCE_ROWS@@
+</div>
+<p class="ev-legend">@@EVIDENCE_LEGEND@@</p>
+<p class="ev-caveat"><strong>How to read this chart.</strong> The counts describe this selection. A Sales trend includes gross crowdfunding, chart consumption and charitable delivery. It does not automatically demonstrate an incremental creator effect. Archival includes dates, deal terms and documented organisational decisions.</p>
+</section>
+
+<section class="ix-section" id="lessons" aria-labelledby="lessons-title">
+<div class="section-head"><div><p class="small">03 / The lessons</p><h2 id="lessons-title">Six lessons that hold across editions</h2></div><p>None of these belongs to one edition. Each is backed by cases from at least two angles. Choose a case to read it in full.</p></div>
+<div class="lesson-grid">
+@@LESSONS@@
+</div>
+</section>
+
+<section class="ix-section" id="partners" aria-labelledby="partners-title">
+<div class="section-head"><div><p class="small">04 / Creators that came back</p><h2 id="partners-title">The same creator, different questions</h2></div><p>@@PARTNER_COUNT@@ creator names appear across editions, including named collaborators within group cases. Their stories show different stages of a practice, audience relationship or business.</p></div>
+<div class="brand-list">
+@@PARTNERS@@
+</div>
+</section>
+
+<section class="ix-section" id="sister-stories" aria-labelledby="sister-title"><div class="section-head"><div><p class="small">Companion reading</p><h2 id="sister-title">Creator stories in the sister archives</h2></div><p>These stories already have a home in the other archives. They are linked here and excluded from this collection. A different moment involving the same creator can still appear in Creator Turning Points.</p></div><ul class="sources"><li><a href="https://mattbatcheldor.github.io/brand-turning-points/#old-spice">Old Spice: The Man Your Man Could Smell Like</a></li><li><a href="https://mattbatcheldor.github.io/brand-turning-points/edition-07/#blendtec-will-it-blend">Blendtec: Will It Blend?</a></li><li><a href="https://mattbatcheldor.github.io/brand-turning-points/edition-07/#dollar-shave-club">Dollar Shave Club: Our Blades Are F***ing Great</a></li><li><a href="https://mattbatcheldor.github.io/brand-turning-points/edition-07/#ice-bucket-challenge">ALS Association: The Ice Bucket Challenge</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-03/#spotify-joe-rogan">Spotify × Joe Rogan: The Exclusive</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#dunkin-charli-damelio">Dunkin’ × Charli D’Amelio: The Charli</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#nike-casey-neistat">Nike × Casey Neistat: Make It Count</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#gymshark-creators">Gymshark × its first creators: Built on YouTube</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#zoella-penguin">Penguin × Zoella: Girl Online</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#taylor-swift-apple-music">Apple Music × Taylor Swift: To Apple, Love Taylor</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#ninja-mixer">Mixer × Ninja: The Exclusive</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#ocean-spray-nathan-apodaca">Ocean Spray × Nathan Apodaca: Dreams</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#lil-nas-x-roblox">Roblox × Lil Nas X: The First Roblox Concert</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#mrbeast-burger">MrBeast × Virtual Dining Concepts: MrBeast Burger</a></li><li><a href="https://mattbatcheldor.github.io/partnership-turning-points/edition-06/#prime-logan-paul-ksi">Prime × Logan Paul and KSI: Prime Hydration</a></li></ul></section>
+<section class="ix-section archive" id="all-cases" aria-labelledby="all-title">
+<div class="section-head"><div><p class="small">05 / Every case</p><h2 id="all-title">All @@TOTAL@@ creator moments</h2></div><p>The whole archive in date order. Filter by edition, platform, industry, place or evidence, or search by name. Open a case to read it and see its image credit, or choose Watch to open the linked media. Watch report identifies contemporary news coverage.</p></div>
+<div class="filter-bar" id="filters" hidden aria-label="Filter creator moments">
+@@FILTERS@@
+<label class="search">Search <input id="search" type="search" placeholder="Creator, idea or year" autocomplete="off"></label>
+</div>
+<p id="result" class="result" aria-live="polite">@@TOTAL@@ creator moments</p>
+<ol class="ix-list">
+@@CASES@@
+</ol>
+<p class="empty" id="empty" hidden>No creator moments match. Try clearing the search or setting a filter back to All.</p>
+</section>
+</div>
+
+<section class="method" id="gaps" aria-labelledby="gaps-title"><div class="wrap">
+<p class="small">06 / What’s missing</p><h2 id="gaps-title">What the series doesn’t cover yet</h2>
+<div class="gap-grid">@@GAPS@@</div>
+</div></section>
+
+<section class="wrap next" id="next" aria-labelledby="next-title"><div><p class="small">07 / Start reading</p><h2 id="next-title">Pick an angle.</h2></div><div class="next-copy"><p>Every edition stands on its own, and they read best in order. Start with the famous moments, then examine proof, payment, format, failure, owned brands and a wider map.</p><p>The companion archives, <a href="https://mattbatcheldor.github.io/brand-turning-points/the-index/">Brand Turning Points</a> and <a href="https://mattbatcheldor.github.io/partnership-turning-points/the-index/">Partnership Turning Points</a>, add 200 campaigns and collaborations.</p><p>@@READS@@.</p></div></section>
+</main>
+<footer class="wrap foot small"><span>Curated by Matthew Batcheldor · <a href="https://mattbatcheldor.github.io/career-portfolio/commercial-edition/">Career Portfolio</a> · <a href="https://www.linkedin.com/in/mattbatcheldor/">LinkedIn</a></span><a href="#top">Back to top ↑</a><span class="foot-copy">© 2026 Matthew Batcheldor. Text and ratings by Matthew Batcheldor. Brand names, images and films belong to their owners and are credited in each case.</span></footer>
+<script>
+const buttons = Array.from(document.querySelectorAll('.filter'));
+const rows = Array.from(document.querySelectorAll('.ix-case'));
+const search = document.querySelector('#search');
+const result = document.querySelector('#result');
+const empty = document.querySelector('#empty');
+const selected = {};
+for (const b of buttons) selected[b.dataset.group] = 'All';
+const norm = t => t.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/['’]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+function update() {
+  const terms = norm(search.value).split(' ').filter(Boolean);
+  let n = 0;
+  for (const r of rows) {
+    const ok = Object.keys(selected).every(g => selected[g] === 'All' || r.dataset[g].split('|').includes(selected[g])) && terms.every(t => norm(r.querySelector('.ix-case-link').textContent).includes(t));
+    r.hidden = !ok; if (ok) n += 1;
+  }
+  for (const b of buttons) b.setAttribute('aria-pressed', String(selected[b.dataset.group] === b.dataset.value));
+  result.textContent = n === 1 ? '1 creator moment' : n + ' creator moments';
+  empty.hidden = n !== 0;
+}
+document.querySelector('#filters').hidden = false;
+for (const b of buttons) b.addEventListener('click', () => { selected[b.dataset.group] = b.dataset.value; update(); });
+search.addEventListener('input', update);
+</script>
+</body>
+</html>

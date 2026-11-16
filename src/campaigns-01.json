@@ -1,0 +1,937 @@
+[
+  {
+    "id": "me-at-the-zoo",
+    "brand": "Jawed Karim",
+    "title": "Me at the Zoo",
+    "year": 2005,
+    "place": "San Diego, United States",
+    "sector": "Online video",
+    "mechanism": "Format",
+    "data_role": "YouTube",
+    "data_source": "Self-shot clip",
+    "stage": "First upload",
+    "hook": "A co-founder stood in front of the elephants and said almost nothing. It was the first video on YouTube.",
+    "situation": "In early 2005, putting video online meant wrestling with file formats, plug-ins and hosting bills. Most people who filmed something had nowhere easy to share it, and nobody thought of an ordinary person with a camera as a broadcaster.",
+    "exchange": "Jawed Karim, one of YouTube’s three founders, uploaded a short clip of himself at San Diego Zoo, filmed by a friend. He talks about the elephants’ trunks and the clip ends.",
+    "brought": [
+      [
+        "Jawed Karim",
+        "A test upload, with no script, no edit and no audience in mind."
+      ],
+      [
+        "YouTube",
+        "A page that played video in the browser, with no download and no player to install."
+      ]
+    ],
+    "turning_point": "The clip went up on 23 April 2005 and is still live on Karim’s channel. Within eighteen months Google bought YouTube for $1.65 billion in stock, and the idea that anyone could publish video became the default.",
+    "metric": "23 April 2005",
+    "metric_label": "The date the first YouTube video went live",
+    "measure": "A date, not a result. The clip proved the upload worked, not that anyone would watch",
+    "evidence": "The upload date and the video itself are on the public record, and Guinness World Records lists it as the first video uploaded to YouTube. What it shows is a starting point. The commercial result belongs to YouTube and its later owner, not to the clip.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "The first version of a format rarely looks like the future. Judge new platforms by how easy they make it to publish, not by the quality of the early content.",
+    "take": "I love that the most important video in the creator economy is deliberately unremarkable. It is a proof of plumbing. Everything in this archive runs through the pipe it tested.",
+    "credit": "Jawed Karim, 2005",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch Me at the zoo · jawed",
+      "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · jawed",
+      "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+    ],
+    "impact_source": [
+      "See the record entry · Guinness World Records",
+      "https://guinnessworldrecords.de/world-records/109112-first-video-uploaded-to-youtube"
+    ],
+    "links": [],
+    "how_to_measure": "For a format test, measure friction rather than fame: time from camera to published page, share of uploads that play first time, and how many first-time uploaders post a second video within a month.",
+    "image": {
+      "src": "assets/edition-01/me-at-the-zoo.webp",
+      "alt": "Jawed Karim standing in front of the elephant enclosure at San Diego Zoo.",
+      "credit": "Official video thumbnail · jawed",
+      "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "numa-numa",
+    "brand": "Gary Brolsma",
+    "title": "The Numa Numa Dance",
+    "year": 2004,
+    "place": "New Jersey, United States",
+    "sector": "Online video and music",
+    "mechanism": "Format",
+    "data_role": "Web",
+    "data_source": "Webcam lip-sync",
+    "stage": "Viral before YouTube",
+    "hook": "A teenager lip-synced to a Moldovan pop song at his desk. It was a TikTok, fifteen years early.",
+    "situation": "Before YouTube, viral video lived on animation portals and forwarded emails. A clip spread only if someone hosted the file and someone else passed the link on.",
+    "exchange": "Gary Brolsma filmed himself on a webcam miming and dancing in his chair to O-Zone’s Dragostea din tei, and posted it to Newgrounds in December 2004.",
+    "brought": [
+      [
+        "Gary Brolsma",
+        "A face, a webcam and complete commitment to the song."
+      ],
+      [
+        "Newgrounds",
+        "A portal that hosted the file, and a community that forwarded it everywhere."
+      ]
+    ],
+    "turning_point": "By early 2005 the clip was everywhere, and The New York Times wrote about Brolsma as an unwilling celebrity. He stepped back from the attention, then returned in 2006 with a sequel and a contest inviting others to make their own versions.",
+    "metric": "December 2004",
+    "metric_label": "When the clip was posted to Newgrounds",
+    "measure": "A date. View counts from the period were spread across many copies and were never reliably totalled",
+    "evidence": "Press coverage from 2005 confirms the spread and Brolsma’s discomfort with it. There is no reliable total audience, because the clip was copied and re-hosted across many sites, which is itself part of the story.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "The lip-sync to someone else’s song is one of the oldest creator formats, and it predates the platforms built around it. Look for behaviour people already do badly with clumsy tools.",
+    "take": "This is the template for half of short-form video: a person, a camera, a borrowed song and no shame. It also shows the cost of fame without consent, which the industry still hasn’t solved.",
+    "credit": "Gary Brolsma, 2004",
+    "creative": {
+      "medium": "Creator’s later upload of the original 2004 clip",
+      "label": "Watch Numa Numa · Gary Brolsma",
+      "url": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · Gary Brolsma",
+      "https://www.youtube.com/watch?v=Cqd1Gvq-RBY"
+    ],
+    "impact_source": [
+      "Read the anniversary account · Daily Dot",
+      "https://dailydot.com/numa-numa-turns-12"
+    ],
+    "links": [
+      [
+        "Read the original platform’s history · Newgrounds",
+        "https://www.newgrounds.com/wiki/about-newgrounds/history/stories/numa-numa"
+      ]
+    ],
+    "how_to_measure": "Count remixes, not only views. The number of people who make their own version is the clearest sign a format has escaped its creator.",
+    "image": {
+      "src": "assets/edition-01/numa-numa.webp",
+      "alt": "Gary Brolsma performing the Numa Numa lip-sync at his desk.",
+      "credit": "Official video thumbnail · Gary Brolsma",
+      "source": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "lonelygirl15",
+    "brand": "lonelygirl15",
+    "title": "The Vlogger Who Was Written",
+    "year": 2006,
+    "place": "Los Angeles, United States",
+    "sector": "Online video and drama",
+    "mechanism": "Format",
+    "data_role": "YouTube",
+    "data_source": "Scripted vlog series",
+    "stage": "Unmasked",
+    "hook": "Millions followed a lonely teenager’s bedroom diaries. Then fans proved she was an actress.",
+    "situation": "In 2006 the confessional vlog was YouTube’s signature genre. Audiences assumed what they saw was real, and nobody had yet tried to tell a scripted story inside that assumption.",
+    "exchange": "Filmmakers Mesh Flinders and Miles Beckett, with lawyer Greg Goodfried, cast Jessica Lee Rose as Bree, a home-schooled teenager posting under the name lonelygirl15, and released the story one vlog at a time.",
+    "brought": [
+      [
+        "The creators",
+        "A serialised mystery written to look unscripted."
+      ],
+      [
+        "The audience",
+        "Detective work, theories and comment threads that pushed the series further."
+      ]
+    ],
+    "turning_point": "In September 2006 fans and journalists traced the videos back to the production team and identified Rose. Instead of ending, the series carried on as openly fictional, and its makers built a company around web drama with brands written into the story.",
+    "metric": "September 2006",
+    "metric_label": "When the series was revealed as fiction",
+    "measure": "A date. Audience figures from the period were reported inconsistently",
+    "evidence": "The unmasking is well documented in contemporary reporting and in accounts of how fans tracked the production down. Reliable audience totals and revenue figures for the series were not published.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Audiences will forgive fiction, but not being misled about it. Disclose the nature of the work, then let the story do its job.",
+    "take": "lonelygirl15 invented the creator-led drama and the branded web series in one go. It also gave us the first big lesson in disclosure, years before regulators wrote the rules down.",
+    "credit": "Flinders, Beckett and Goodfried, 2006",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch First Blog / Dorkiness Prevails · lonelygirl15",
+      "url": "https://www.youtube.com/watch?v=-goXKtd6cPo",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · lonelygirl15",
+      "https://www.youtube.com/watch?v=-goXKtd6cPo"
+    ],
+    "impact_source": [
+      "Read the actress’s first interview · Pittsburgh Post-Gazette",
+      "https://www.post-gazette.com/business/tech-news/2006/09/17/The-actress-behind-the-mysterious-video-soap-opera-Lonelygirl15-amazed-by-her-sudden-fame/stories/200609170286"
+    ],
+    "links": [
+      [
+        "Read the citizen sleuths’ account · JD Lasica",
+        "https://jdlasica.com/citizen-sleuthing-the-unmasking-of-lonelygirl15/"
+      ]
+    ],
+    "how_to_measure": "Track episode-to-episode return rate and comment depth per episode. For a serial, the share of viewers who come back is worth more than the size of any single upload.",
+    "image": {
+      "src": "assets/edition-01/lonelygirl15.webp",
+      "alt": "Jessica Rose speaking to the camera as Bree in the first lonelygirl15 vlog.",
+      "credit": "Official video thumbnail · lonelygirl15",
+      "source": "https://www.youtube.com/watch?v=-goXKtd6cPo",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "ok-go-treadmills",
+    "brand": "OK Go",
+    "title": "Here It Goes Again",
+    "year": 2006,
+    "place": "Los Angeles, United States",
+    "sector": "Music and online video",
+    "mechanism": "Format",
+    "data_role": "YouTube",
+    "data_source": "One-take music video",
+    "stage": "Grammy",
+    "hook": "Four musicians, eight treadmills, one take. A band became its own broadcaster.",
+    "situation": "Music videos in 2006 were expensive, made by labels for television, and judged on whether MTV played them. YouTube was where fans uploaded copies, not where bands launched work.",
+    "exchange": "OK Go choreographed a routine on eight treadmills with Trish Sie, frontman Damian Kulash’s sister, filmed it in a single continuous shot and released it straight to YouTube.",
+    "brought": [
+      [
+        "OK Go",
+        "An idea that cost little and could only be understood by watching to the end."
+      ],
+      [
+        "YouTube",
+        "An audience that shared links and a player that let anyone embed the video."
+      ]
+    ],
+    "turning_point": "The video spread worldwide and won the Grammy for Best Short Form Music Video in February 2007. Later, when the band’s label restricted embedding to protect its income, OK Go left the label and kept making videos as an independent act.",
+    "metric": "Grammy, 2007",
+    "metric_label": "Best Short Form Music Video",
+    "measure": "An award, not a commercial result. It shows the industry accepted a YouTube-first video",
+    "evidence": "The Grammy is on the record and the video is still on the band’s channel. The effect on record sales and touring was not published in a form that separates it from the band’s other activity.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "When the idea is the production value, the budget stops being the barrier. Brief creators on a single, filmable idea rather than a list of messages.",
+    "take": "OK Go are the bridge between the music industry and the creator economy. They proved a band could build an audience from its own uploads, and their fight over embedding was an early sign that platforms and rights holders wanted different things.",
+    "credit": "OK Go and Trish Sie, 2006",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch OK Go - Here It Goes Again (Official Music Video) · OKGoVEVO",
+      "url": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · OKGoVEVO",
+      "https://www.youtube.com/watch?v=dTAAsCNK7RA"
+    ],
+    "impact_source": [
+      "See the award record · Recording Academy",
+      "https://www.grammy.com/artists/ok-go/17689/"
+    ],
+    "links": [],
+    "how_to_measure": "For a self-released video, link the upload to a measurable action: pre-saves, ticket sales by city against the video’s viewing by city, and new subscribers in the week after release.",
+    "image": {
+      "src": "assets/edition-01/ok-go-treadmills.webp",
+      "alt": "OK Go performing their treadmill routine in Here It Goes Again.",
+      "credit": "Official video thumbnail · OKGoVEVO",
+      "source": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "charlie-bit-my-finger",
+    "brand": "The Davies-Carr family",
+    "title": "Charlie Bit My Finger",
+    "year": 2007,
+    "place": "England, United Kingdom",
+    "sector": "Online video and family content",
+    "mechanism": "Monetisation",
+    "data_role": "YouTube",
+    "data_source": "Home video",
+    "stage": "Sold as an NFT",
+    "hook": "A father filmed his sons for their godfather. The clip paid for their education.",
+    "situation": "In 2007 home videos were made for relatives. The idea that a family clip could earn money for years, let alone be sold as an asset, did not exist.",
+    "exchange": "Howard Davies-Carr uploaded 56 seconds of his younger son Charlie biting his older brother Harry’s finger, so family abroad could see it. The clip became one of YouTube’s most watched videos, and the family later earned from advertising and licensing.",
+    "brought": [
+      [
+        "The Davies-Carr family",
+        "An unplanned moment that anyone could relate to in seconds."
+      ],
+      [
+        "YouTube",
+        "Advertising revenue sharing that turned old uploads into lasting income."
+      ]
+    ],
+    "turning_point": "In May 2021 the family auctioned the clip as an NFT, which sold for $760,999. They said at first the video would come down from YouTube, then decided to keep it up.",
+    "metric": "$760,999",
+    "metric_label": "NFT sale price, May 2021",
+    "measure": "The auction price, reported at the time. Advertising income over fourteen years was never published",
+    "evidence": "The auction result was widely reported, with the family saying the money would go towards the boys’ education. It is a one-off sale at the height of an NFT boom, so it shows what a famous clip could fetch at one moment, not what it is worth.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Every famous upload is an asset with a long tail. Agree rights, licensing and consent early, especially when children are on screen.",
+    "take": "This case runs from family archive to collectible in fourteen years. It is also the one that should make every brand and platform think hard about children, consent and who owns a moment.",
+    "credit": "Howard Davies-Carr, 2007",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch Charlie bit my finger - again ! · HDCYT",
+      "url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · HDCYT",
+      "https://www.youtube.com/watch?v=_OBlgSz8sSM"
+    ],
+    "impact_source": [
+      "Read about the sale and the tuition plan · Decrypt",
+      "https://decrypt.co/72725/charlie-bit-my-finger-nft-will-pay-for-brothers-university-tuition/"
+    ],
+    "links": [
+      [
+        "Read the BBC’s report",
+        "https://bbc.in/3yE5eHa"
+      ]
+    ],
+    "deal_value": "$760,999 at auction, reported",
+    "how_to_measure": "For catalogue content, report lifetime value per upload: advertising, licensing and secondary sales, with the share that arrives after the first year shown separately.",
+    "image": {
+      "src": "assets/edition-01/charlie-bit-my-finger.webp",
+      "alt": "The two Davies-Carr brothers in the original Charlie Bit My Finger home video.",
+      "credit": "Official video thumbnail · HDCYT",
+      "source": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "justin-bieber-discovered",
+    "brand": "Justin Bieber",
+    "title": "Found by Accident",
+    "year": 2008,
+    "place": "Stratford, Ontario, Canada",
+    "sector": "Music and online video",
+    "mechanism": "Discovery",
+    "data_role": "YouTube",
+    "data_source": "Home-filmed covers",
+    "stage": "Record deal",
+    "hook": "His mother posted his covers for family. A manager clicked the wrong video and found a star.",
+    "situation": "Record labels found talent through scouts, showcases and demo tapes. A boy singing covers in small-town Ontario had no route to an industry gatekeeper.",
+    "exchange": "Pattie Mallette uploaded videos of her son singing, including at a local talent contest, so relatives could watch. Scooter Braun came across one in 2007, tracked the family down and brought Bieber to Atlanta.",
+    "brought": [
+      [
+        "Justin Bieber",
+        "Talent, a following built one cover at a time, and evidence that people would watch."
+      ],
+      [
+        "Scooter Braun",
+        "Industry access, a manager’s plan and introductions to Usher and the labels."
+      ]
+    ],
+    "turning_point": "In 2008 Bieber signed to a venture between Braun and Usher with Island Def Jam. His first single followed in 2009, and YouTube had produced its first global pop star.",
+    "metric": "2008",
+    "metric_label": "The year the record deal was signed",
+    "measure": "A date. The views that led to the deal were never reported in a way that can be checked",
+    "evidence": "The discovery story is consistent across interviews with Braun and accounts of Bieber’s rise. It shows that YouTube had become a scouting tool, but the early audience figures cannot be verified.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Audiences scout before industries do. Brands that watch small creators closely find talent while it is still affordable and still close to its fans.",
+    "take": "This is the case that rewired music marketing. After Bieber, every label had a person watching YouTube, and every young singer knew the bedroom could be the audition.",
+    "credit": "Pattie Mallette and Justin Bieber, 2007 to 2008",
+    "creative": {
+      "medium": "Original cover upload, 2008",
+      "label": "Watch With You - Chris Brown Cover - Justin singing · Justin Bieber",
+      "url": "https://www.youtube.com/watch?v=eQOFRZ1wNLw",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · Justin Bieber",
+      "https://www.youtube.com/watch?v=eQOFRZ1wNLw"
+    ],
+    "impact_source": [
+      "Read the early discovery account · ABC News",
+      "https://abcnews.com/gma/weekend/teen-pop-star-justin-bieber-discovered-youtube/story?id=9068403"
+    ],
+    "links": [],
+    "how_to_measure": "Scout with data, sign with judgement: watch subscriber growth rate, the share of comments from outside the creator’s home region, and how fast covers turn into requests for originals.",
+    "image": {
+      "src": "assets/edition-01/justin-bieber-discovered.webp",
+      "alt": "Adult Justin Bieber in the official Ghost music-video thumbnail, a later illustration.",
+      "credit": "Later or related creator video thumbnail · JustinBieberVEVO",
+      "source": "https://www.youtube.com/watch?v=Fp8msa5uYsc",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "fred-one-million",
+    "brand": "Lucas Cruikshank",
+    "title": "The First Million",
+    "year": 2009,
+    "place": "Nebraska, United States",
+    "sector": "Comedy and online video",
+    "mechanism": "Crossover",
+    "data_role": "YouTube",
+    "data_source": "Character comedy",
+    "stage": "Milestone",
+    "hook": "A teenager with a sped-up voice became the first YouTuber with a million subscribers, then got a film.",
+    "situation": "By 2008 YouTube had stars, but subscribers were not yet a currency. Television networks still saw online video as a place for clips, not a source of talent.",
+    "exchange": "Lucas Cruikshank created Fred Figglehorn, a hyperactive six-year-old with a pitched-up voice, in short sketches aimed squarely at children and young teens.",
+    "brought": [
+      [
+        "Lucas Cruikshank",
+        "A character, a release rhythm and a young audience that subscribed."
+      ],
+      [
+        "Nickelodeon",
+        "A network that saw the subscriber count as proof of demand and made a film."
+      ]
+    ],
+    "turning_point": "In April 2009 Fred became the first channel to reach a million subscribers, and YouTube marked it on its official blog. Nickelodeon released Fred: The Movie in 2010 and a series followed.",
+    "metric": "1 million",
+    "metric_label": "Subscribers, the first channel to get there",
+    "measure": "A subscriber count, recorded by YouTube in April 2009. It shows attention, not earnings",
+    "evidence": "YouTube’s own blog and Guinness World Records confirm the milestone. The film and series show the crossover happened, but how they performed against the cost of making them was not published in detail.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Subscribers are a signal of demand, not proof of it in another medium. Test a creator’s audience in the new format before betting the budget.",
+    "take": "Fred is where subscribers became a currency the old industry understood. It is also an early reminder that an audience built for three-minute sketches does not always follow a creator to ninety minutes.",
+    "credit": "Lucas Cruikshank, 2008 to 2009",
+    "creative": {
+      "medium": "Later reporting, adult interview",
+      "label": "Watch reporting: Lucas Cruikshank AKA “Fred” Interview | NMR Feature · New Rockstars",
+      "url": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · New Rockstars",
+      "https://www.youtube.com/watch?v=VsStIiPtWo8"
+    ],
+    "impact_source": [
+      "See the record entry · Guinness World Records",
+      "https://www.guinnessworldrecords.com/world-records/508990-first-youtuber-to-reach-1-million-subscribers"
+    ],
+    "links": [],
+    "how_to_measure": "Before a crossover, run a paid test: offer the audience the new format in a small way, a ticketed screening or a long episode, and measure take-up per thousand subscribers.",
+    "image": {
+      "src": "assets/edition-01/fred-one-million.webp",
+      "alt": "Graphic showing adult Lucas Cruikshank jumping, with his name and coloured bars.",
+      "credit": "Publisher video thumbnail · New Rockstars",
+      "source": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "vidcon",
+    "brand": "Hank and John Green",
+    "title": "VidCon",
+    "year": 2010,
+    "place": "Los Angeles, United States",
+    "sector": "Online video and events",
+    "mechanism": "Community",
+    "data_role": "YouTube",
+    "data_source": "Fan convention",
+    "stage": "Launched",
+    "hook": "Two brothers booked a hotel basement for online video fans. It became the creator economy’s annual meeting.",
+    "situation": "By 2010 YouTube had a community of creators and fans, but no place where they met, and the industry around them had no shared calendar or trade event.",
+    "exchange": "Hank and John Green, the brothers behind the Vlogbrothers channel, organised a convention where creators, fans and the businesses forming around them could meet in person.",
+    "brought": [
+      [
+        "Hank and John Green",
+        "A loyal community, credibility with creators and the energy to organise it themselves."
+      ],
+      [
+        "Creators and fans",
+        "Attendance, and the willingness to travel for something they had only seen on screens."
+      ]
+    ],
+    "turning_point": "About 1,400 people came to the first VidCon in a hotel ballroom in Century City. Within a decade it filled the Anaheim Convention Center, and in 2018 Viacom owned it.",
+    "metric": "1,400",
+    "metric_label": "People at the first VidCon, 2010",
+    "measure": "Attendance as reported by The Hollywood Reporter. A count of people, not of revenue",
+    "evidence": "The growth from 1,400 attendees to tens of thousands is documented, as is the later ownership by Viacom. The purchase price and the event’s finances were not disclosed.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Communities want to meet. A creator programme that brings people together in person earns a kind of loyalty that no feed can.",
+    "take": "VidCon is when creators stopped being a curiosity and became an industry with a trade show. It was built by creators for their community first, which is why the industry turned up.",
+    "credit": "Hank and John Green, 2010",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch ANNOUNCING! VidCon: Online Video IRL · vlogbrothers",
+      "url": "https://www.youtube.com/watch?v=f7mdu7GLJps",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · vlogbrothers",
+      "https://www.youtube.com/watch?v=f7mdu7GLJps"
+    ],
+    "impact_source": [
+      "Read how it grew · The Hollywood Reporter",
+      "https://www.hollywoodreporter.com/news/vidcon-at-10-how-a-thrown-together-event-gave-rise-influencer-era-1224136"
+    ],
+    "links": [
+      [
+        "Compare 2010 with 2018 · Tubefilter",
+        "https://www.tubefilter.com/2018/06/07/vidcon-2018-vs-vidcon-2010-how-the-convention-has-evolved-over-the-years/amp/"
+      ]
+    ],
+    "how_to_measure": "For a community event, measure what happens after it: creator collaborations started on site, fan return rate the following year and change in channel engagement among attendees.",
+    "image": {
+      "src": "assets/edition-01/vidcon.webp",
+      "alt": "The original VidCon wordmark with the phrase Online Video IRL.",
+      "credit": "Official video thumbnail · vlogbrothers",
+      "source": "https://www.youtube.com/watch?v=f7mdu7GLJps",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "psy-gangnam-style",
+    "brand": "PSY",
+    "title": "Gangnam Style",
+    "year": 2012,
+    "place": "Seoul, South Korea",
+    "sector": "Music and online video",
+    "mechanism": "Discovery",
+    "data_role": "YouTube",
+    "data_source": "Music video",
+    "stage": "First billion",
+    "hook": "A Korean satire of status became the first video to pass a billion views, then broke the counter.",
+    "situation": "In 2012 a hit still needed radio and television in each market. K-pop had a passionate audience abroad, but the idea of a Korean-language song topping charts in the West seemed remote.",
+    "exchange": "PSY released a comic video mocking the flashy lifestyle of Seoul’s Gangnam district, with a horse-riding dance anyone could copy. Fans, parodies and reaction videos carried it around the world.",
+    "brought": [
+      [
+        "PSY",
+        "A song, a dance that worked in any language and a willingness to be the joke."
+      ],
+      [
+        "The audience",
+        "Parodies, flash mobs and reactions that turned one video into thousands."
+      ]
+    ],
+    "turning_point": "On 21 December 2012 it became the first video to pass one billion views on YouTube. In 2014 it neared the counter’s limit of 2,147,483,647 and YouTube upgraded the counter to cope.",
+    "metric": "1 billion",
+    "metric_label": "Views, the first video to get there",
+    "measure": "YouTube views, confirmed by Guinness World Records. They measure attention, not earnings",
+    "evidence": "The milestone is recorded by Guinness World Records and widely reported. PSY’s earnings from the video and from the advertising and appearances that followed were reported only as estimates.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Make the part people can copy obvious. The dance spread the song further than the song could travel alone.",
+    "take": "Gangnam Style showed that a global audience no longer needed translating. The audience did the distribution, and the platform found out its own systems had not imagined that scale.",
+    "credit": "PSY, 2012",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch PSY - GANGNAM STYLE(강남스타일) M/V · officialpsy",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · officialpsy",
+      "https://www.youtube.com/watch?v=9bZkp7q19f0"
+    ],
+    "impact_source": [
+      "See the record entry · Guinness World Records",
+      "https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views"
+    ],
+    "links": [
+      [
+        "Read the day in history · History.com",
+        "https://www.history.com/this-day-in-history/december-21/gangnam-style-first-youtube-video-to-hit-one-billion-views"
+      ]
+    ],
+    "how_to_measure": "Count derivative uploads and where they come from. Copies, parodies and reactions by country show where a moment is genuinely travelling rather than just being served.",
+    "image": {
+      "src": "assets/edition-01/psy-gangnam-style.webp",
+      "alt": "Illustrated PSY dancing in a street scene above the words Gangnam Style.",
+      "credit": "Official video thumbnail · officialpsy",
+      "source": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "pewdiepie-most-subscribed",
+    "brand": "PewDiePie",
+    "title": "The Biggest Person on YouTube",
+    "year": 2013,
+    "place": "Sweden and United Kingdom",
+    "sector": "Gaming and online video",
+    "mechanism": "Community",
+    "data_role": "YouTube",
+    "data_source": "Let’s play videos",
+    "stage": "Most subscribed",
+    "hook": "A Swedish student filmed himself playing horror games. He became the most subscribed person on the platform.",
+    "situation": "Gaming videos in the early 2010s were mostly walkthroughs and reviews. Personality was a bonus, and few thought anyone would watch someone simply react to a game.",
+    "exchange": "Felix Kjellberg posted let’s play videos built around his own reactions and running jokes, and spoke to his viewers as a group with its own name, the Bro Army.",
+    "brought": [
+      [
+        "Felix Kjellberg",
+        "Daily uploads, a recognisable voice and a direct relationship with fans."
+      ],
+      [
+        "His audience",
+        "Loyalty that behaved like a movement, from in-jokes to subscription drives."
+      ]
+    ],
+    "turning_point": "In 2013 his channel became the most subscribed on YouTube. When the music label T-Series threatened that position in 2018 and 2019, fans campaigned to keep him on top, and in August 2019 he became the first individual creator to reach 100 million subscribers.",
+    "metric": "100 million",
+    "metric_label": "Subscribers, August 2019, the first individual creator",
+    "measure": "A 100-million subscriber milestone reached in 2019, following the 2013 overtaking in this case. It measures attention, not earnings.",
+    "evidence": "The 2019 milestone is well reported, including YouTube’s own congratulations. His income was the subject of press estimates rather than disclosure. The fan campaign shows reach and loyalty, and also spilled into behaviour he later asked fans to stop.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "A named community is a powerful asset and hard to steer. When you work with a creator, you are also working with what their audience does in their name.",
+    "take": "PewDiePie made the personality the product. He is also the clearest example of the creator economy’s central tension: the same closeness that builds loyalty makes the creator answerable for things a brand would never sign off.",
+    "credit": "Felix Kjellberg, 2010 to 2019",
+    "creative": {
+      "medium": "Later creator explanation",
+      "label": "Watch HOW TO GET BIG ON YOUTUBE? · PewDiePie",
+      "url": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · PewDiePie",
+      "https://www.youtube.com/watch?v=yJlbLNKMRZM"
+    ],
+    "impact_source": [
+      "Read YouTube’s response · Tubefilter",
+      "https://tubefilter.com/2019/08/26/youtube-embraces-pewdiepie-after-two-year-cold-shoulder-congratulates-him-on-100-million-subs/"
+    ],
+    "links": [
+      [
+        "Read the original overtaking report · TheWrap",
+        "https://www.thewrap.com/pewdiepie-overtakes-smosh-youtube-s-top-channel-111246/"
+      ]
+    ],
+    "how_to_measure": "For a community-led creator, measure audience action rather than reach: share of viewers who comment, join or buy, and the tone of community behaviour around a brand moment.",
+    "image": {
+      "src": "assets/edition-01/pewdiepie-most-subscribed.webp",
+      "alt": "The words How to Grow on YouTube over a blurred image of PewDiePie.",
+      "credit": "Official video thumbnail · PewDiePie",
+      "source": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "ninja-drake",
+    "brand": "Ninja",
+    "title": "Drake Joins the Squad",
+    "year": 2018,
+    "place": "United States",
+    "sector": "Gaming and live streaming",
+    "mechanism": "Live",
+    "data_role": "Twitch",
+    "data_source": "Live game stream",
+    "stage": "Record",
+    "hook": "A streamer played Fortnite at 1am with the biggest rapper in the world. Twitch had never seen a crowd like it.",
+    "situation": "Live streaming was a gaming subculture in 2018. Mainstream celebrities did not stream, and the biggest Twitch audiences came from esports tournaments, not one person’s channel.",
+    "exchange": "Tyler Blevins, known as Ninja, played Fortnite live with Drake, joined later by Travis Scott and the American footballer JuJu Smith-Schuster. Nothing was planned beyond the game.",
+    "brought": [
+      [
+        "Ninja",
+        "Skill, a big loyal audience and a laid-back show anyone could drop into."
+      ],
+      [
+        "Drake",
+        "Global fame, and the curiosity of fans who had never watched a stream."
+      ]
+    ],
+    "turning_point": "The stream on 15 March 2018 peaked at about 635,000 concurrent viewers, a record for a single streamer on Twitch at the time. Within months celebrities, athletes and brands were queuing to appear on streams.",
+    "metric": "635,000",
+    "metric_label": "Peak concurrent viewers, a Twitch record at the time",
+    "measure": "Peak concurrent viewers, as reported. A measure of the crowd at one moment",
+    "evidence": "Tubefilter and others reported the peak and that it beat the previous non-tournament record by nearly 250,000. What it did for Ninja’s subscriptions or for Fortnite was not published.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Live works when the guest joins the creator’s world, not the other way around. Don’t script a stream into an advert.",
+    "take": "This was the night live streaming became mainstream entertainment. It worked because Drake turned up as a player, on Ninja’s terms. The brands that followed and tried to stage it rarely matched it.",
+    "credit": "Ninja and Drake, 2018",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch Squads with Ninja, Drake, Travis Scott and JuJu!! - Fortnite Battle Royale Gameplay · Ninja",
+      "url": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · Ninja",
+      "https://www.youtube.com/watch?v=P4hk1jPRSrM"
+    ],
+    "impact_source": [
+      "Read about the records · Engadget",
+      "https://www.engadget.com/2018-03-15-ninja-drake-twitch.html"
+    ],
+    "links": [],
+    "how_to_measure": "For a live collaboration, measure the gain that lasts: new followers who return to the next three streams, and paid subscriptions in the week after, against the creator’s usual rate.",
+    "image": {
+      "src": "assets/edition-01/ninja-drake.webp",
+      "alt": "A Fortnite graphic combining Ninja, Drake, Travis Scott and JuJu with the words The God Squad.",
+      "credit": "Official video thumbnail · Ninja",
+      "source": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "ksi-logan-paul",
+    "brand": "KSI and Logan Paul",
+    "title": "The Biggest Amateur Fight in History",
+    "year": 2018,
+    "place": "Manchester, United Kingdom",
+    "sector": "Boxing and online video",
+    "mechanism": "Crossover",
+    "data_role": "YouTube",
+    "data_source": "Pay-per-view event",
+    "stage": "Event",
+    "hook": "Two YouTubers who had never boxed sold out an arena and charged millions to watch online.",
+    "situation": "Boxing events were sold by promoters and television networks. YouTube creators had huge audiences, but nobody had asked them to pay for a live event.",
+    "exchange": "Olajide Olatunji, known as KSI, and Logan Paul turned a rivalry into a white-collar boxing match, promoted it entirely through their own channels and sold access through YouTube’s pay-per-view.",
+    "brought": [
+      [
+        "KSI and Logan Paul",
+        "A rivalry their audiences cared about and months of content to build it."
+      ],
+      [
+        "YouTube",
+        "Paid live streaming at a scale it had rarely tested."
+      ]
+    ],
+    "turning_point": "The fight at Manchester Arena on 25 August 2018 drew around 15,000 people and 773,000 official paid streams at £7.50. It ended in a draw, a rematch followed, and creator boxing became an industry.",
+    "metric": "773,000",
+    "metric_label": "Official pay-per-view streams at £7.50 each",
+    "measure": "A contemporary estimate of about 773,000 paid YouTube streams. Reports also quoted other totals. It is not a platform-certified final count, unique people in rooms, or profit.",
+    "evidence": "AdNews and others reported the paid figure, and The Drum documented how pirated streams on Twitch took much of the audience. Payouts to the fighters were reported as estimates. Contemporary reports disagree on the final paid audience, so the precise 773,000 figure remains an estimate rather than a verified platform total.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "Creator audiences will pay for a live moment they helped build. Protect the paid moment, or the audience will find a free one.",
+    "take": "This is the night creators found out they could sell tickets, not just ads. The piracy is the footnote that matters: a paywall is only as good as its weakest stream.",
+    "credit": "KSI and Logan Paul, 2018",
+    "creative": {
+      "medium": "Reporting or interview",
+      "label": "Watch reporting: KSI Vs. Logan Paul: The “Biggest Event In Internet History” · VICE News",
+      "url": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · VICE News",
+      "https://www.youtube.com/watch?v=WyGVhjyRkfI"
+    ],
+    "impact_source": [
+      "Read the contemporary paid-stream estimate · Business Insider via Yahoo Finance",
+      "https://finance.yahoo.com/news/ksi-logan-paul-probably-banked-095858084.html"
+    ],
+    "links": [
+      [
+        "Read estimates of the earnings · Tubefilter",
+        "https://tubefilter.com/2018/08/27/logan-paul-ksi-boxing-match-money/"
+      ]
+    ],
+    "how_to_measure": "For a paid creator event, report paid buys, the price, estimated unpaid viewing and the share of buyers who were existing subscribers, so the real size of the paying audience is clear.",
+    "image": {
+      "src": "assets/edition-01/ksi-logan-paul.webp",
+      "alt": "VICE News graphic combining boxing poses with a presenter’s face.",
+      "credit": "Publisher video thumbnail · VICE News",
+      "source": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "lil-nas-x-old-town-road",
+    "brand": "Lil Nas X",
+    "title": "Old Town Road",
+    "year": 2019,
+    "place": "Atlanta, United States",
+    "sector": "Music and short video",
+    "mechanism": "Discovery",
+    "data_role": "TikTok",
+    "data_source": "Meme challenge",
+    "stage": "Record",
+    "hook": "A $30 beat, a meme and a cowboy hat. TikTok made the longest-running number one in American chart history.",
+    "situation": "Hits were still broken through radio and playlists controlled by labels and streaming services. A self-released track had little chance of reaching the top of the charts.",
+    "exchange": "Montero Hill, known online as Lil Nas X, bought a beat online, released a country-rap song himself and promoted it with memes. TikTok users made it the soundtrack to videos of themselves turning into cowboys.",
+    "brought": [
+      [
+        "Lil Nas X",
+        "A catchy, short song and an instinct for how memes travel."
+      ],
+      [
+        "TikTok users",
+        "Thousands of videos that turned the song into a game everyone could join."
+      ]
+    ],
+    "turning_point": "After a dispute over whether it counted as country, a remix with Billy Ray Cyrus followed and the song spent 19 weeks at number one on the Billboard Hot 100 in 2019, a record.",
+    "metric": "19 weeks",
+    "metric_label": "At number one on the Billboard Hot 100, a record",
+    "measure": "Chart weeks, which reflect streams and sales. The share driven by TikTok is not separated out",
+    "evidence": "The chart record is documented by Billboard and widely reported. The role of TikTok is clear from the timeline, but the remix, playlisting and radio all contributed and are not separated.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "On short-form platforms, songs spread as tools for other people’s videos. Make something people can use, not only something they can listen to.",
+    "take": "Old Town Road is where TikTok became the music industry’s front door. Lil Nas X understood that the audience wanted a part to play, and gave them a hat.",
+    "credit": "Lil Nas X, 2018 to 2019",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus · LilNasXVEVO",
+      "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · LilNasXVEVO",
+      "https://www.youtube.com/watch?v=w2Ov5jzm3j8"
+    ],
+    "impact_source": [
+      "Read about the 19-week run · Official Charts",
+      "https://www.officialcharts.com/chart-news/lil-nas-xs-record-breaking-stint-at-number-1-in-america-is-over-as-old-town-road-is-knocked-off-the-top-by-billie-eilishs-bad-guy__27105/"
+    ],
+    "links": [],
+    "how_to_measure": "Track the number of short videos using the sound by week against streams by week. When creations lead and streams follow, the platform is doing the discovery.",
+    "image": {
+      "src": "assets/edition-01/lil-nas-x-old-town-road.webp",
+      "alt": "Lil Nas X and Billy Ray Cyrus wearing cowboy hats in an open car.",
+      "credit": "Official video thumbnail · LilNasXVEVO",
+      "source": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "mrbeast-most-subscribed",
+    "brand": "MrBeast",
+    "title": "The Channel That Passed a Record Label",
+    "year": 2024,
+    "place": "North Carolina, United States",
+    "sector": "Entertainment and online video",
+    "mechanism": "Format",
+    "data_role": "YouTube",
+    "data_source": "Challenge videos",
+    "stage": "Most subscribed",
+    "hook": "He counted to 100,000 on camera in 2017. Seven years later his channel was the biggest on YouTube.",
+    "situation": "By 2019 the most subscribed channel on YouTube was T-Series, an Indian music label uploading at industrial scale. It looked as if companies, not individuals, would own the top of the platform.",
+    "exchange": "Jimmy Donaldson studied what made people click and keep watching, then built huge challenge videos and giveaways around those lessons, reinvesting almost everything he earned into bigger productions.",
+    "brought": [
+      [
+        "Jimmy Donaldson",
+        "Obsessive testing of titles, thumbnails and pacing, and a team built to make spectacle."
+      ],
+      [
+        "His audience",
+        "Watch time at a scale that kept the recommendation system serving every new upload."
+      ]
+    ],
+    "turning_point": "On 2 June 2024 MrBeast overtook T-Series as the most subscribed channel on YouTube, and passed 300 million subscribers soon after. An individual creator was back at the top.",
+    "metric": "No. 1",
+    "metric_label": "Most subscribed channel on YouTube, June 2024",
+    "measure": "A ranking by subscribers, reported at the time. It measures attention",
+    "evidence": "The overtaking was widely reported, including by Dawn and 9to5Google. The business around the channel, including Feastables, has its own case in Edition 06.",
+    "evidence_level": "Reach only",
+    "stat_type": "result",
+    "lesson": "Treat creative as a system to be tested, not a one-off. The creator who learns fastest from data usually wins the next upload.",
+    "take": "MrBeast turned audience retention into a craft. He is the case for creators as studios, and the reason brands now ask about thumbnails and first-minute retention in briefs.",
+    "credit": "MrBeast, 2012 to 2024",
+    "creative": {
+      "medium": "Contemporary reporting, original milestone video not located",
+      "label": "Read about the overtaking · 9to5Google",
+      "url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "Read contemporary reporting · BBC News",
+      "https://www.bbc.com/news/articles/c8440yxd92xo"
+    ],
+    "impact_source": [
+      "Read about the record · 9to5Google",
+      "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record"
+    ],
+    "links": [
+      [
+        "Read about the 300 million milestone · Creator Handbook",
+        "https://www.creatorhandbook.net/mrbeast-makes-history-as-first-youtuber-to-reach-300-million-subscribers/"
+      ]
+    ],
+    "how_to_measure": "For a branded integration with a creator like this, agree on average view duration at the integration point and on lift in branded search, not on subscribers.",
+    "image": {
+      "src": "assets/edition-01/mrbeast-most-subscribed.webp",
+      "alt": "Cropped portrait of MrBeast from his TeamTrees video thumbnail, used as a related illustration.",
+      "credit": "Cropped related creator thumbnail, TeamTrees, 2019 · MrBeast",
+      "source": "https://www.youtube.com/watch?v=HPJKxAhLw5I",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "id": "kai-cenat-mafiathon",
+    "brand": "Kai Cenat",
+    "title": "A Million Subscribers, Live",
+    "year": 2025,
+    "place": "United States",
+    "sector": "Live streaming and entertainment",
+    "mechanism": "Live",
+    "data_role": "Twitch",
+    "data_source": "Month-long stream",
+    "stage": "Record",
+    "hook": "He streamed for a month without stopping. More than a million people paid to subscribe.",
+    "situation": "Twitch subscriptions are a paid relationship, usually counted in thousands. The platform’s top streamers had set records in the hundreds of thousands.",
+    "exchange": "Kai Cenat ran Mafiathon 3 across September 2025, a continuous live broadcast with guests, challenges and events, building towards a public goal of one million active subscribers.",
+    "brought": [
+      [
+        "Kai Cenat",
+        "A month of nonstop entertainment, guests from sport and music, and a goal his audience could help reach."
+      ],
+      [
+        "His community",
+        "Paid subscriptions and gifted subscriptions that turned watching into taking part."
+      ]
+    ],
+    "turning_point": "He passed one million active subscribers during the stream and finished above 1.1 million, the most for any Twitch channel. He pledged part of the proceeds to building a school in Nigeria.",
+    "metric": "1.1 million",
+    "metric_label": "Active Twitch subscribers by the end of September 2025",
+    "measure": "Active paid and gifted subscriptions, as reported. Payment to the creator depends on Twitch’s split, which is not public for him",
+    "evidence": "Tubefilter and Guinness World Records record the subscriber count. It is a strong revenue signal because subscriptions are paid, though gifted subscriptions and the creator’s exact share are not separated out.",
+    "evidence_level": "Sales trend",
+    "stat_type": "result",
+    "lesson": "A shared goal turns an audience into participants. Give the community a target it can see and a role in hitting it.",
+    "take": "Mafiathon 3 is the live-streaming equivalent of a telethon: entertainment, a running total and a crowd that pays to be part of it. It shows how far direct audience revenue has come since the days of advertising-only income.",
+    "credit": "Kai Cenat, 2025",
+    "creative": {
+      "medium": "Creator’s own video",
+      "label": "Watch Kai Cenat Hits 1,000,000 Twitch Subscribers! · Kai Cenat Live",
+      "url": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
+      "heading": "Creator media"
+    },
+    "announcement": [
+      "See the media record · Kai Cenat Live",
+      "https://www.youtube.com/watch?v=pJkSY0HF3y0"
+    ],
+    "impact_source": [
+      "Read the final count · Tubefilter",
+      "https://www.tubefilter.com/2025/10/01/twitch-kai-cenat-mafiathon-3-highlights-lebron-james/amp/"
+    ],
+    "links": [
+      [
+        "See the record entry · Guinness World Records",
+        "https://www.guinnessworldrecords.com/world-records/779754-most-subscribers-on-a-twitch-channel"
+      ],
+      [
+        "Read about the school pledge · AfroTech",
+        "https://afrotech.com/kai-cenat-surpasses-1-million-subscribers-on-twitch-and-pledges-a-portion-of-the-proceeds-to-building-a-school-in-nigeria"
+      ]
+    ],
+    "how_to_measure": "Separate paid from gifted subscriptions, and measure renewal in the three months after the event. Retention after the record shows what the record was worth.",
+    "image": {
+      "src": "assets/edition-01/kai-cenat-mafiathon.webp",
+      "alt": "Kai Cenat celebrating with a crowd and a one-million subscription counter.",
+      "credit": "Official video thumbnail · Kai Cenat Live",
+      "source": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
+      "width": 800,
+      "height": 450
+    }
+  }
+]

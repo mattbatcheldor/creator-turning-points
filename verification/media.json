@@ -1,0 +1,462 @@
+[
+  {
+    "edition": "01",
+    "case_id": "me-at-the-zoo",
+    "creator": "Jawed Karim",
+    "media_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+    "media_note": "Creator’s own video",
+    "video_id": "jNQXAC9IVRw",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjNQXAC9IVRw&format=json",
+      "title": "Me at the zoo",
+      "author": "jawed"
+    },
+    "image": {
+      "src": "assets/edition-01/me-at-the-zoo.webp",
+      "alt": "Jawed Karim standing in front of the elephant enclosure at San Diego Zoo.",
+      "credit": "Official video thumbnail · jawed",
+      "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/jNQXAC9IVRw/hqdefault.jpg",
+      "sha256": "d37a97a420da62ca59cf635494d340e2da294fddc7876e637e88e3fec465aca2"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjNQXAC9IVRw&format=json",
+      "title": "Me at the zoo",
+      "author": "jawed"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "numa-numa",
+    "creator": "Gary Brolsma",
+    "media_url": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
+    "media_note": "Creator’s later upload of the original 2004 clip",
+    "video_id": "Cqd1Gvq-RBY",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCqd1Gvq-RBY&format=json",
+      "title": "Numa Numa",
+      "author": "Gary Brolsma"
+    },
+    "image": {
+      "src": "assets/edition-01/numa-numa.webp",
+      "alt": "Gary Brolsma performing the Numa Numa lip-sync at his desk.",
+      "credit": "Official video thumbnail · Gary Brolsma",
+      "source": "https://www.youtube.com/watch?v=Cqd1Gvq-RBY",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/Cqd1Gvq-RBY/maxresdefault.jpg",
+      "sha256": "4235c27f843f1a8c5a3137fa6d5fecba8b3fd9df35a67a4d06d8cbfd0754a747"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCqd1Gvq-RBY&format=json",
+      "title": "Numa Numa",
+      "author": "Gary Brolsma"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "lonelygirl15",
+    "creator": "lonelygirl15",
+    "media_url": "https://www.youtube.com/watch?v=-goXKtd6cPo",
+    "media_note": "Creator’s own video",
+    "video_id": "-goXKtd6cPo",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-goXKtd6cPo&format=json",
+      "title": "First Blog / Dorkiness Prevails",
+      "author": "lonelygirl15"
+    },
+    "image": {
+      "src": "assets/edition-01/lonelygirl15.webp",
+      "alt": "Jessica Rose speaking to the camera as Bree in the first lonelygirl15 vlog.",
+      "credit": "Official video thumbnail · lonelygirl15",
+      "source": "https://www.youtube.com/watch?v=-goXKtd6cPo",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/-goXKtd6cPo/hqdefault.jpg",
+      "sha256": "b091fe133748575ba823cc21161a5df5d0327d2e87f1b623d5e2007acc2ccda4"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-goXKtd6cPo&format=json",
+      "title": "First Blog / Dorkiness Prevails",
+      "author": "lonelygirl15"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "ok-go-treadmills",
+    "creator": "OK Go",
+    "media_url": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+    "media_note": "Creator’s own video",
+    "video_id": "dTAAsCNK7RA",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdTAAsCNK7RA&format=json",
+      "title": "OK Go - Here It Goes Again (Official Music Video)",
+      "author": "OKGoVEVO"
+    },
+    "image": {
+      "src": "assets/edition-01/ok-go-treadmills.webp",
+      "alt": "OK Go performing their treadmill routine in Here It Goes Again.",
+      "credit": "Official video thumbnail · OKGoVEVO",
+      "source": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/dTAAsCNK7RA/maxresdefault.jpg",
+      "sha256": "cb4172d496b9adee45f4a09e0f1acd9353ce1e886cf4088d640fbb109ec428fc"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdTAAsCNK7RA&format=json",
+      "title": "OK Go - Here It Goes Again (Official Music Video)",
+      "author": "OKGoVEVO"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "charlie-bit-my-finger",
+    "creator": "The Davies-Carr family",
+    "media_url": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+    "media_note": "Creator’s own video",
+    "video_id": "_OBlgSz8sSM",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_OBlgSz8sSM&format=json",
+      "title": "Charlie bit my finger - again !",
+      "author": "HDCYT"
+    },
+    "image": {
+      "src": "assets/edition-01/charlie-bit-my-finger.webp",
+      "alt": "The two Davies-Carr brothers in the original Charlie Bit My Finger home video.",
+      "credit": "Official video thumbnail · HDCYT",
+      "source": "https://www.youtube.com/watch?v=_OBlgSz8sSM",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/_OBlgSz8sSM/hqdefault.jpg",
+      "sha256": "3b2b0a462cbcd5dc98c0f122744a8d20a25a061ffeb5fdf89c0327b03c7af905"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_OBlgSz8sSM&format=json",
+      "title": "Charlie bit my finger - again !",
+      "author": "HDCYT"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "justin-bieber-discovered",
+    "creator": "Justin Bieber",
+    "media_url": "https://www.youtube.com/watch?v=eQOFRZ1wNLw",
+    "media_note": "Original cover upload, 2008",
+    "video_id": "eQOFRZ1wNLw",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQOFRZ1wNLw&format=json",
+      "title": "With You - Chris Brown Cover - Justin singing",
+      "author": "Justin Bieber"
+    },
+    "image": {
+      "src": "assets/edition-01/justin-bieber-discovered.webp",
+      "alt": "Adult Justin Bieber in the official Ghost music-video thumbnail, a later illustration.",
+      "credit": "Later or related creator video thumbnail · JustinBieberVEVO",
+      "source": "https://www.youtube.com/watch?v=Fp8msa5uYsc",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/Fp8msa5uYsc/maxresdefault.jpg",
+      "sha256": "6ceafce3950f81d9d9ae22df5eeca51426d3ad0190ee8e0755d9f47006ae4a45"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFp8msa5uYsc&format=json",
+      "title": "Justin Bieber - Ghost",
+      "author": "JustinBieberVEVO"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "fred-one-million",
+    "creator": "Lucas Cruikshank",
+    "media_url": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+    "media_note": "Later reporting, adult interview",
+    "video_id": "VsStIiPtWo8",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVsStIiPtWo8&format=json",
+      "title": "Lucas Cruikshank AKA \"Fred\" Interview | NMR Feature",
+      "author": "New Rockstars"
+    },
+    "image": {
+      "src": "assets/edition-01/fred-one-million.webp",
+      "alt": "Graphic showing adult Lucas Cruikshank jumping, with his name and coloured bars.",
+      "credit": "Publisher video thumbnail · New Rockstars",
+      "source": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/VsStIiPtWo8/maxresdefault.jpg",
+      "sha256": "1315677bc0dace5e987d2d779c1155adcc876530d7bda5af2ec4fcd325c4716e"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVsStIiPtWo8&format=json",
+      "title": "Lucas Cruikshank AKA \"Fred\" Interview | NMR Feature",
+      "author": "New Rockstars"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "vidcon",
+    "creator": "Hank and John Green",
+    "media_url": "https://www.youtube.com/watch?v=f7mdu7GLJps",
+    "media_note": "Creator’s own video",
+    "video_id": "f7mdu7GLJps",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df7mdu7GLJps&format=json",
+      "title": "ANNOUNCING! VidCon: Online Video IRL",
+      "author": "vlogbrothers"
+    },
+    "image": {
+      "src": "assets/edition-01/vidcon.webp",
+      "alt": "The original VidCon wordmark with the phrase Online Video IRL.",
+      "credit": "Official video thumbnail · vlogbrothers",
+      "source": "https://www.youtube.com/watch?v=f7mdu7GLJps",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/f7mdu7GLJps/hqdefault.jpg",
+      "sha256": "f3079317a864fa6d74197cf02a4007c907b08248c21f31319740d3a116a0368b"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df7mdu7GLJps&format=json",
+      "title": "ANNOUNCING! VidCon: Online Video IRL",
+      "author": "vlogbrothers"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "psy-gangnam-style",
+    "creator": "PSY",
+    "media_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "media_note": "Creator’s own video",
+    "video_id": "9bZkp7q19f0",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9bZkp7q19f0&format=json",
+      "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+      "author": "officialpsy"
+    },
+    "image": {
+      "src": "assets/edition-01/psy-gangnam-style.webp",
+      "alt": "Illustrated PSY dancing in a street scene above the words Gangnam Style.",
+      "credit": "Official video thumbnail · officialpsy",
+      "source": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+      "sha256": "8cd1a6ee10fcb44195f38a833d72b79407f9366b3272a3e61a7d7c30db4fa105"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9bZkp7q19f0&format=json",
+      "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+      "author": "officialpsy"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "pewdiepie-most-subscribed",
+    "creator": "PewDiePie",
+    "media_url": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+    "media_note": "Later creator explanation",
+    "video_id": "yJlbLNKMRZM",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyJlbLNKMRZM&format=json",
+      "title": "HOW TO GET BIG ON YOUTUBE?",
+      "author": "PewDiePie"
+    },
+    "image": {
+      "src": "assets/edition-01/pewdiepie-most-subscribed.webp",
+      "alt": "The words How to Grow on YouTube over a blurred image of PewDiePie.",
+      "credit": "Official video thumbnail · PewDiePie",
+      "source": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/yJlbLNKMRZM/maxresdefault.jpg",
+      "sha256": "b9222ea15d3810a9ae98b97c429813e74ea5a8330ca70a13e1245f50e01538df"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyJlbLNKMRZM&format=json",
+      "title": "HOW TO GET BIG ON YOUTUBE?",
+      "author": "PewDiePie"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "ninja-drake",
+    "creator": "Ninja",
+    "media_url": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
+    "media_note": "Creator’s own video",
+    "video_id": "P4hk1jPRSrM",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4hk1jPRSrM&format=json",
+      "title": "Squads with Ninja, Drake, Travis Scott and JuJu!! - Fortnite Battle Royale Gameplay",
+      "author": "Ninja"
+    },
+    "image": {
+      "src": "assets/edition-01/ninja-drake.webp",
+      "alt": "A Fortnite graphic combining Ninja, Drake, Travis Scott and JuJu with the words The God Squad.",
+      "credit": "Official video thumbnail · Ninja",
+      "source": "https://www.youtube.com/watch?v=P4hk1jPRSrM",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/P4hk1jPRSrM/maxresdefault.jpg",
+      "sha256": "d4466744f07fea57c62cf8c63d074ce49938c79e3b3bba4439528c553c13e2c2"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP4hk1jPRSrM&format=json",
+      "title": "Squads with Ninja, Drake, Travis Scott and JuJu!! - Fortnite Battle Royale Gameplay",
+      "author": "Ninja"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "ksi-logan-paul",
+    "creator": "KSI and Logan Paul",
+    "media_url": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
+    "media_note": "Reporting or interview",
+    "video_id": "WyGVhjyRkfI",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWyGVhjyRkfI&format=json",
+      "title": "KSI Vs. Logan Paul: The “Biggest Event In Internet History”",
+      "author": "VICE News"
+    },
+    "image": {
+      "src": "assets/edition-01/ksi-logan-paul.webp",
+      "alt": "VICE News graphic combining boxing poses with a presenter’s face.",
+      "credit": "Publisher video thumbnail · VICE News",
+      "source": "https://www.youtube.com/watch?v=WyGVhjyRkfI",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/WyGVhjyRkfI/maxresdefault.jpg",
+      "sha256": "08abbc0e8d93e60545914821ea70655d3083fef2aca581eb1f01afd0a403e217"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWyGVhjyRkfI&format=json",
+      "title": "KSI Vs. Logan Paul: The “Biggest Event In Internet History”",
+      "author": "VICE News"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "lil-nas-x-old-town-road",
+    "creator": "Lil Nas X",
+    "media_url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+    "media_note": "Creator’s own video",
+    "video_id": "w2Ov5jzm3j8",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2Ov5jzm3j8&format=json",
+      "title": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus",
+      "author": "LilNasXVEVO"
+    },
+    "image": {
+      "src": "assets/edition-01/lil-nas-x-old-town-road.webp",
+      "alt": "Lil Nas X and Billy Ray Cyrus wearing cowboy hats in an open car.",
+      "credit": "Official video thumbnail · LilNasXVEVO",
+      "source": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/w2Ov5jzm3j8/maxresdefault.jpg",
+      "sha256": "50d7b850707c2cac5da9aed2c53cabd99c99f766be021e78c134187069392224"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw2Ov5jzm3j8&format=json",
+      "title": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus",
+      "author": "LilNasXVEVO"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "mrbeast-most-subscribed",
+    "creator": "MrBeast",
+    "media_url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
+    "media_note": "Contemporary reporting, original milestone video not located",
+    "video_id": null,
+    "oembed": null,
+    "image": {
+      "src": "assets/edition-01/mrbeast-most-subscribed.webp",
+      "alt": "Cropped portrait of MrBeast from his TeamTrees video thumbnail, used as a related illustration.",
+      "credit": "Cropped related creator thumbnail, TeamTrees, 2019 · MrBeast",
+      "source": "https://www.youtube.com/watch?v=HPJKxAhLw5I",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/HPJKxAhLw5I/maxresdefault.jpg",
+      "sha256": "6ad8c9107f08b8f456749e2467c5971c44c41014e90926a28287accb3a8e8c92"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHPJKxAhLw5I&format=json",
+      "title": "Planting 20,000,000 Trees, My Biggest Project Ever!",
+      "author": "MrBeast"
+    }
+  },
+  {
+    "edition": "01",
+    "case_id": "kai-cenat-mafiathon",
+    "creator": "Kai Cenat",
+    "media_url": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
+    "media_note": "Creator’s own video",
+    "video_id": "pJkSY0HF3y0",
+    "oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpJkSY0HF3y0&format=json",
+      "title": "Kai Cenat Hits 1,000,000 Twitch Subscribers!",
+      "author": "Kai Cenat Live"
+    },
+    "image": {
+      "src": "assets/edition-01/kai-cenat-mafiathon.webp",
+      "alt": "Kai Cenat celebrating with a crowd and a one-million subscription counter.",
+      "credit": "Official video thumbnail · Kai Cenat Live",
+      "source": "https://www.youtube.com/watch?v=pJkSY0HF3y0",
+      "width": 800,
+      "height": 450,
+      "download_url": "https://i.ytimg.com/vi/pJkSY0HF3y0/maxresdefault.jpg",
+      "sha256": "dad41ca3c13e274484ee219aa68752ad2785f6110ade8cb667eacf5ff6af1759"
+    },
+    "thumbnail_visual_review": "Reviewed in contact sheet or individual image; later replacements reviewed individually.",
+    "image_oembed": {
+      "status": 200,
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpJkSY0HF3y0&format=json",
+      "title": "Kai Cenat Hits 1,000,000 Twitch Subscribers!",
+      "author": "Kai Cenat Live"
+    }
+  }
+]
