@@ -5,3 +5,5 @@
 Release oEmbed checks: 16 of 16 distinct YouTube media and image-source URLs returned HTTP 200. MrBeast’s milestone uses labelled reporting rather than an authenticated original video. See verification/oembed-release.json and NOT_VERIFIED.md.
 
 External reader URL checks were run during the earlier full-archive audit on 16 November 2026. The subset for Edition 01 is retained in verification/urls.json. A successful HTTP response does not authenticate every claim. Browser playback and every regional restriction remain unverified.
+
+The earlier checker recorded errors for the bare preconnect origins https://fonts.googleapis.com and https://fonts.gstatic.com. These are connection hints rather than reader links or stylesheet paths. The actual font stylesheet passed in the full-archive check.
