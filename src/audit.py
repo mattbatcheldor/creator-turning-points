@@ -49,7 +49,7 @@ def main():
         for case in entries:
             cases.append(case['id'])
             allowed = {'Format', 'Discovery', 'Live', 'Community', 'Crossover', 'Monetisation', 'Trust', 'Ownership', 'Rules'}
-            platforms = {'YouTube', 'TikTok', 'Instagram', 'Twitch', 'Vine', 'Snapchat', 'Facebook', 'Podcast', 'Blog', 'Newsletter', 'Web', 'Patreon', 'Kickstarter', 'Douyin', 'Weibo', 'Taobao Live', 'Bilibili', 'Kick', 'Roblox', 'Multi-platform'}
+            platforms = {'YouTube', 'TikTok', 'Instagram', 'Twitch', 'Vine', 'Snapchat', 'Facebook', 'Podcast', 'Blog', 'Newsletter', 'Web', 'Patreon', 'Kickstarter', 'Douyin', 'Weibo', 'Taobao Live', 'Bilibili', 'Kick', 'Roblox', 'Clubhouse', 'AfreecaTV', 'Multi-platform'}
             required = {'id','brand','title','year','place','sector','mechanism','data_role','data_source','stage','hook','situation','exchange','brought','turning_point','metric','metric_label','measure','evidence','evidence_level','stat_type','lesson','take','credit','creative','announcement','impact_source','links','image','how_to_measure'}
             if set(case) - (required | {'deal_value'}) or required - set(case):
                 errors.append(f'{case["id"]}: unexpected or missing case fields')

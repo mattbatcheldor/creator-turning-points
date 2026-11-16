@@ -1,0 +1,783 @@
+[
+ {
+  "id": "adpocalypse",
+  "brand": "YouTube’s creators",
+  "title": "The Adpocalypse",
+  "year": 2017,
+  "place": "London, United Kingdom",
+  "sector": "Online video and advertising",
+  "mechanism": "Rules",
+  "data_role": "YouTube",
+  "data_source": "Advertiser boycott",
+  "stage": "Advertisers left",
+  "hook": "Newspapers found big brands’ adverts running beside extremist videos. The advertisers left, and creators’ income fell with them.",
+  "situation": "YouTube placed adverts automatically across millions of videos. Brands assumed their adverts appeared beside safe content, and creators assumed advertising would keep flowing.",
+  "exchange": "In early 2017 The Times reported that adverts for major brands and the UK government were appearing next to extremist content. Hundreds of advertisers paused spending on YouTube.",
+  "brought": [
+   [
+    "The advertisers",
+    "Budgets they could withdraw overnight, and a demand for brand safety."
+   ],
+   [
+    "YouTube",
+    "Tighter rules on which videos could carry adverts, applied largely by automated systems."
+   ]
+  ],
+  "turning_point": "More than 250 advertisers paused spending. YouTube responded by stopping adverts on far more videos, and many ordinary creators saw their income drop sharply. The creators called it the Adpocalypse.",
+  "metric": "250+",
+  "metric_label": "Advertisers who paused spending, March 2017",
+  "measure": "Advertisers reported as pausing spend. An analyst estimate that it could cost Google up to $750 million was widely quoted but not confirmed",
+  "evidence": "The boycott and YouTube’s changes are well documented. Creators’ losses were reported individually rather than measured across the platform.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Creators carry the cost of a platform’s brand safety problems. Brands and creators both need income that doesn’t depend on one advertising system.",
+  "take": "The Adpocalypse is why so many creators sell merchandise, memberships and products today. It taught a generation that advertising income can vanish because of something they never made.",
+  "credit": "YouTube creators, 2017",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the boycott and demonetisation · Tubefilter",
+   "url": "https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about advertisers leaving · Neowin",
+   "https://www.neowin.net/news/google-loses-over-250-youtube-advertisers-due-to-misplaced-ads-on-extremist-videos"
+  ],
+  "impact_source": [
+   "Read about the demonetisation policies · Tubefilter",
+   "https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/"
+  ],
+  "links": [
+   [
+    "Read an analysis of the Adpocalypse · Internet Policy Review",
+    "https://policyreview.info/articles/analysis/algorithmic-dance-youtubes-adpocalypse-and-gatekeeping-cultural-content-digital"
+   ]
+  ],
+  "how_to_measure": "For brand safety, measure where adverts actually run, not just where they are targeted. For creators, track the share of income from sources other than platform advertising."
+ },
+ {
+  "id": "vine-shut-down",
+  "brand": "Vine’s creators",
+  "title": "The App That Switched Itself Off",
+  "year": 2016,
+  "place": "San Francisco, United States",
+  "sector": "Short video",
+  "mechanism": "Rules",
+  "data_role": "Vine",
+  "data_source": "Platform closure",
+  "stage": "Closed",
+  "hook": "Vine had made a generation of comedians famous. Twitter shut it down with three months’ notice.",
+  "situation": "Vine’s biggest creators had asked for ways to earn money on the app. Many were making a living from brand deals instead, and had begun moving to YouTube and Instagram.",
+  "exchange": "On 27 October 2016 Twitter announced it would discontinue the Vine app, as part of cost cuts and job losses. Vine had been bought by Twitter in 2012 and had never paid its creators directly.",
+  "brought": [
+   [
+    "Vine’s creators",
+    "Six-second comedy that had built huge young audiences."
+   ],
+   [
+    "Twitter",
+    "A platform it could not afford to run and had not given creators a reason to stay on."
+   ]
+  ],
+  "turning_point": "The app closed to new uploads in January 2017. Its best creators had already moved, and TikTok later took up the short, looping format Vine had pioneered.",
+  "metric": "October 2016",
+  "metric_label": "When Twitter announced Vine would close",
+  "measure": "A date. User figures for Vine at closure were reported inconsistently",
+  "evidence": "The announcement and closure are well documented. The movement of Vine’s creators to other platforms is clear from their later careers but was not measured.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "A platform that doesn’t pay its creators gives them every reason to leave. When they go, the audience follows them, not the app.",
+  "take": "Vine didn’t fail because the format was wrong. TikTok proved the format was right. It failed because its creators were building careers somewhere else.",
+  "credit": "Twitter, 2016",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the shutdown · The Hollywood Reporter",
+   "url": "https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the shutdown · The Hollywood Reporter",
+   "https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705"
+  ],
+  "impact_source": [
+   "Read how creators reacted · Yahoo",
+   "https://ca.news.yahoo.com/vine-stars-co-founder-react-twitter-axing-micro-183253683.html"
+  ],
+  "links": [],
+  "how_to_measure": "Track where a platform’s top creators earn most of their income. When it’s mostly elsewhere, the platform is at risk."
+ },
+ {
+  "id": "pewdiepie-dropped",
+  "brand": "PewDiePie",
+  "title": "Dropped by Disney",
+  "year": 2017,
+  "place": "Brighton, United Kingdom",
+  "sector": "Online video",
+  "mechanism": "Trust",
+  "data_role": "YouTube",
+  "data_source": "Gaming and comedy videos",
+  "stage": "Deals ended",
+  "hook": "The biggest creator on YouTube made antisemitic jokes and called it satire. Disney and YouTube ended their deals within days.",
+  "situation": "PewDiePie was signed to Disney’s Maker Studios and had a series on YouTube’s paid service. Edgy humour had helped build his audience, and he saw his jokes as aimed at the media, not at anyone else.",
+  "exchange": "In February 2017 The Wall Street Journal reported that nine of his videos since August 2016 contained antisemitic jokes or Nazi imagery, including paying people to hold up an offensive sign.",
+  "brought": [
+   [
+    "Felix Kjellberg",
+    "The largest audience of any individual on YouTube, and a defence that the jokes were taken out of context."
+   ],
+   [
+    "Disney and YouTube",
+    "Commercial deals and brand reputations they were not prepared to risk."
+   ]
+  ],
+  "turning_point": "Maker Studios ended its partnership, YouTube cancelled the second season of his series Scare PewDiePie and removed him from its premium advertising programme. He apologised for the jokes while criticising the reporting.",
+  "metric": "February 2017",
+  "metric_label": "When Disney and YouTube ended their deals with him",
+  "measure": "A date. The financial loss was not disclosed",
+  "evidence": "The deals that ended are well documented by Tubefilter, TechCrunch and others. His audience kept growing afterwards, which shows the gap between brand risk and audience loyalty.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Creator partnerships need agreed boundaries before the first video, not after the first controversy. Brands should know what a creator’s audience finds funny.",
+  "take": "This is the case that showed brands the limits of working with personalities they don’t control. It also showed that losing brand deals doesn’t mean losing an audience.",
+  "credit": "PewDiePie, 2017",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the deals ending · Tubefilter",
+   "url": "https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the deals ending · Tubefilter",
+   "https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/"
+  ],
+  "impact_source": [
+   "Read about the cancelled series · TechCrunch",
+   "https://techcrunch.com/2017/02/14/pewdiepies-youtube-red-series-gets-cancelled-after-vlogger-posts-anti-semitic-content"
+  ],
+  "links": [],
+  "how_to_measure": "Before a creator partnership, review a sample of their recent content against your brand’s standards, and agree what happens if those standards are broken."
+ },
+ {
+  "id": "csgo-lotto-ftc",
+  "brand": "TmarTn and Syndicate",
+  "title": "The First Case Against Influencers",
+  "year": 2017,
+  "place": "United States",
+  "sector": "Gaming and gambling",
+  "mechanism": "Rules",
+  "data_role": "YouTube",
+  "data_source": "Undisclosed promotion",
+  "stage": "Settled with the FTC",
+  "hook": "Two YouTubers promoted a gambling site they secretly owned. The US regulator brought its first ever case against individual influencers.",
+  "situation": "Disclosure rules for endorsements existed, but regulators had pursued brands rather than the creators who posted. Many creators did not disclose paid or owned relationships.",
+  "exchange": "Trevor Martin and Thomas Cassell, known as TmarTn and Syndicate, promoted CSGO Lotto, a site for gambling with video game items, to their young audiences without saying they owned it.",
+  "brought": [
+   [
+    "The creators",
+    "Large gaming audiences, many of them teenagers."
+   ],
+   [
+    "The Federal Trade Commission",
+    "Endorsement rules, enforced against individuals for the first time."
+   ]
+  ],
+  "turning_point": "In September 2017 the FTC settled its first complaint against individual social media influencers, requiring the pair to disclose material connections clearly in future. It also sent warning letters to other influencers.",
+  "metric": "September 2017",
+  "metric_label": "When the FTC settled its first case against individual influencers",
+  "measure": "A date. The settlement carried no fine but set obligations",
+  "evidence": "The FTC’s own announcement documents the case. Its effect on disclosure across the industry is visible in later guidance and enforcement, not in a single number.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Disclosure is the creator’s responsibility as well as the brand’s. If you own it or were paid for it, say so plainly.",
+  "take": "This case ended the idea that rules applied only to advertisers. Every disclosure label in a brief today has its roots here.",
+  "credit": "Federal Trade Commission, 2017",
+  "creative": {
+   "medium": "Official announcement",
+   "label": "Read the FTC’s announcement",
+   "url": "https://ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read the FTC’s announcement",
+   "https://ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against"
+  ],
+  "impact_source": [
+   "Read about the final settlement · Tubefilter",
+   "https://www.tubefilter.com/2017/12/01/syndicate-tmartn-csgo-lotto-settlement-social-media-influencers/amp/"
+  ],
+  "links": [],
+  "how_to_measure": "Audit a sample of creator posts each month for clear disclosure, and report the compliance rate alongside campaign results."
+ },
+ {
+  "id": "fyre-festival",
+  "brand": "Fyre Festival’s influencers",
+  "title": "The Orange Tile",
+  "year": 2017,
+  "place": "Exumas, Bahamas",
+  "sector": "Events",
+  "mechanism": "Trust",
+  "data_role": "Instagram",
+  "data_source": "Coordinated posts",
+  "stage": "Collapsed",
+  "hook": "Hundreds of influencers posted the same orange square on one day. The festival they promoted didn’t exist.",
+  "situation": "Fyre Festival promised a luxury music festival on a private island in the Bahamas. Its organisers had little infrastructure but a large marketing budget.",
+  "exchange": "In December 2016 the organisers paid influencers and models, including some of the world’s best-known, to post a plain orange tile and promotional video. Most posts did not say they were paid.",
+  "brought": [
+   [
+    "The influencers",
+    "Glamour and huge audiences, with little sight of what they were promoting."
+   ],
+   [
+    "The organisers",
+    "Money for posts, and a festival that collapsed when guests arrived in April 2017."
+   ]
+  ],
+  "turning_point": "Guests found tents and emergency supplies instead of villas. The founder was later jailed for fraud, and Kendall Jenner, reported to have been paid $250,000 for one post, settled with the bankruptcy trustee.",
+  "metric": "$250,000",
+  "metric_label": "Reported fee for a single influencer post",
+  "measure": "A fee reported in court filings and the press, not confirmed by the influencer",
+  "evidence": "The posts, the collapse and the lawsuits are well documented. The influencers’ role is clear, but their responsibility was settled in court rather than measured.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Creators lend their credibility to whatever they promote. Check what you’re selling, and disclose that you’re being paid to sell it.",
+  "take": "Fyre is the cautionary tale of influencer marketing as pure reach. The orange tile worked brilliantly as an advert. It just advertised something that wasn’t real.",
+  "credit": "Fyre Festival, 2016 to 2017",
+  "creative": {
+   "medium": "Radio",
+   "label": "Hear how the organisers used influencers · NPR",
+   "url": "https://www.wbur.org/npr/526561561/how-fyres-organizers-used-influencers-to-market-a-festival-that-didnt-exist",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Hear how the organisers used influencers · NPR",
+   "https://www.wbur.org/npr/526561561/how-fyres-organizers-used-influencers-to-market-a-festival-that-didnt-exist"
+  ],
+  "impact_source": [
+   "Read about the lawsuit over the posts · Refinery29",
+   "https://refinery29.com/en-us/2019/01/221813/kendall-jenner-fyre-festival-lawsuit-instagram-ads"
+  ],
+  "links": [
+   [
+    "Read why it was not an influencer success · Influencer Marketing Hub",
+    "https://influencermarketinghub.com/no-fyre-festival-wasnt-an-influencer-marketing-success-and-other-lessons-from-a-disaster/"
+   ]
+  ],
+  "how_to_measure": "Before paying for reach, verify the product. After the campaign, measure complaints and refunds, not only clicks and sales."
+ },
+ {
+  "id": "logan-paul-google-preferred",
+  "brand": "Logan Paul",
+  "title": "Cut from Google Preferred",
+  "year": 2018,
+  "place": "Japan and United States",
+  "sector": "Online video",
+  "mechanism": "Trust",
+  "data_role": "YouTube",
+  "data_source": "Travel vlog",
+  "stage": "Deals paused",
+  "hook": "One of YouTube’s biggest stars filmed something he should never have published. YouTube cut him from its premium advertising programme.",
+  "situation": "Logan Paul’s daily vlogs drew millions of young viewers, and he was part of Google Preferred, the programme that sold advertisers the platform’s most popular channels.",
+  "exchange": "On 31 December 2017 he posted a vlog filmed in a forest in Japan that showed a person who had died. It was viewed millions of times before he took it down.",
+  "brought": [
+   [
+    "Logan Paul",
+    "A huge young audience and a vlog that crossed a line most viewers recognised at once."
+   ],
+   [
+    "YouTube",
+    "Rules on what can be shown, and commercial programmes it could withdraw."
+   ]
+  ],
+  "turning_point": "On 10 January 2018 YouTube removed his channels from Google Preferred and put his original projects on hold. It later tightened the rules for its premium advertising programme across the board.",
+  "metric": "January 2018",
+  "metric_label": "When YouTube removed him from Google Preferred",
+  "measure": "A date. The financial cost was not disclosed",
+  "evidence": "YouTube’s actions are well documented by CNBC, Tubefilter and others. His audience and later career recovered, which shows how platform penalties and audience behaviour can diverge.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Premium advertising programmes need human review, not just audience size. Being popular is not the same as being safe for a brand.",
+  "take": "This case changed how platforms sell creators to advertisers. After it, being in a premium tier meant being reviewed, not just being big.",
+  "credit": "Logan Paul and YouTube, 2018",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about YouTube’s response · Tubefilter",
+   "url": "https://tubefilter.com/2018/01/10/logan-paul-youtube-red-google-preferred/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about YouTube’s response · Tubefilter",
+   "https://tubefilter.com/2018/01/10/logan-paul-youtube-red-google-preferred/"
+  ],
+  "impact_source": [
+   "Read about the partnership changes · CNBC",
+   "https://www.cnbc.com/2018/01/11/logan-paul-youtube-pares-back-partnership-after-suicide-video-post.html"
+  ],
+  "links": [],
+  "how_to_measure": "For premium creator inventory, track the share of channels reviewed by a person each quarter and the number of incidents per thousand channels."
+ },
+ {
+  "id": "elle-darby-white-moose",
+  "brand": "Elle Darby",
+  "title": "The Free Stay",
+  "year": 2018,
+  "place": "Dublin, Ireland",
+  "sector": "Travel and hospitality",
+  "mechanism": "Trust",
+  "data_role": "YouTube",
+  "data_source": "Collaboration request",
+  "stage": "Public row",
+  "hook": "A British YouTuber asked a Dublin hotel for a free stay in return for exposure. The owner published her email and banned every blogger.",
+  "situation": "Hotels and restaurants received a growing stream of requests from influencers offering coverage in return for free stays and meals, with little agreement on what that exposure was worth.",
+  "exchange": "Elle Darby emailed the White Moose Café and Charleville Lodge asking for five free nights in exchange for videos and posts. The owner, Paul Stenson, posted her email publicly with her name removed and a scathing reply.",
+  "brought": [
+   [
+    "Elle Darby",
+    "A YouTube audience and a common style of collaboration request."
+   ],
+   [
+    "Paul Stenson",
+    "A combative social media style and a following that loved a fight."
+   ]
+  ],
+  "turning_point": "Darby was identified and posted a tearful video. The owner banned all bloggers and sent her a mock invoice. The row went round the world and became shorthand for the question of what influence is worth.",
+  "metric": "January 2018",
+  "metric_label": "When the email was published",
+  "measure": "A date. Both sides gained followers, which was itself part of the debate",
+  "evidence": "The exchange is well documented by Tubefilter, HuffPost and others. It changed no rules but shaped how venues and creators talked about value.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Value exchanges need evidence. A creator pitch should say who the audience is and what they do, not just how many there are.",
+  "take": "This row is the industry’s awkward adolescence in one email. The fix it pointed to, clear rate cards and audience data, is now standard practice.",
+  "credit": "Elle Darby and the White Moose Café, 2018",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the row · Tubefilter",
+   "url": "https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the row · Tubefilter",
+   "https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/"
+  ],
+  "impact_source": [
+   "Read about the ban · HuffPost UK",
+   "https://huffingtonpost.co.uk/2018/01/19/social-media-influencers-banned-by-dublin-luxury-hotel_a_23337738"
+  ],
+  "links": [],
+  "how_to_measure": "For hospitality partnerships, agree in advance on tracked bookings or enquiries from the creator’s audience, and compare them with the cost of the stay."
+ },
+ {
+  "id": "tanacon",
+  "brand": "Tana Mongeau",
+  "title": "TanaCon",
+  "year": 2018,
+  "place": "Anaheim, United States",
+  "sector": "Events",
+  "mechanism": "Community",
+  "data_role": "YouTube",
+  "data_source": "Creator-led convention",
+  "stage": "Shut down",
+  "hook": "A YouTuber held her own convention across the road from VidCon. It was shut down on its first day.",
+  "situation": "VidCon, in Edition 01, had become the creator industry’s main event. Some creators felt it treated them badly and wanted their own events built around their fans.",
+  "exchange": "Tana Mongeau announced TanaCon, a free convention with paid VIP tickets, held at a hotel near VidCon in Anaheim in June 2018 and organised with a small event company.",
+  "brought": [
+   [
+    "Tana Mongeau",
+    "A big young audience and a promise of an event that put fans first."
+   ],
+   [
+    "The organisers",
+    "A venue far too small for the crowd that turned up."
+   ]
+  ],
+  "turning_point": "Thousands of fans queued for hours in the heat, the venue could not cope, and the event was shut down on its first day. Mongeau apologised and promised refunds.",
+  "metric": "First day",
+  "metric_label": "When TanaCon was shut down",
+  "measure": "Attendance figures were disputed. The shutdown is the documented outcome",
+  "evidence": "Contemporary reporting by Tubefilter, BuzzFeed News and Newsweek documents the event and its failure. The number of tickets and attendees was disputed.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "An audience is not an operations team. When creators move into live events, they need partners who can deliver at the scale their audience brings.",
+  "take": "TanaCon is VidCon’s cautionary twin. Both were creator-led. One had the patience to start small, the other started with the size of its audience.",
+  "credit": "Tana Mongeau, 2018",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read what happened · Newsweek",
+   "url": "https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the venue · Tubefilter",
+   "https://tubefilter.com/2018/06/22/tana-mongeau-tanacon-venue/"
+  ],
+  "impact_source": [
+   "Read what happened · Newsweek",
+   "https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948"
+  ],
+  "links": [],
+  "how_to_measure": "For creator events, compare registrations with venue capacity before launch, and track attendee satisfaction and refunds after."
+ },
+ {
+  "id": "cma-influencer-commitments",
+  "brand": "Sixteen UK celebrities and influencers",
+  "title": "Pledged to Disclose",
+  "year": 2019,
+  "place": "London, United Kingdom",
+  "sector": "Advertising regulation",
+  "mechanism": "Rules",
+  "data_role": "Instagram",
+  "data_source": "Regulator undertakings",
+  "stage": "Commitments signed",
+  "hook": "Britain’s competition regulator made sixteen famous names promise to label paid posts. Influence had become regulated advertising.",
+  "situation": "British advertising rules required paid posts to be labelled, but many celebrities and influencers were vague, using tags that viewers didn’t notice or understand.",
+  "exchange": "The Competition and Markets Authority investigated and secured formal commitments from sixteen celebrities and influencers, including Ellie Goulding and Rita Ora, to disclose clearly when they had been paid or given products.",
+  "brought": [
+   [
+    "The sixteen",
+    "Recognisable names whose commitments set an example."
+   ],
+   [
+    "The CMA",
+    "Consumer protection law, and the power to take court action if commitments were broken."
+   ]
+  ],
+  "turning_point": "In January 2019 the commitments were published alongside new guidance. Clear labels like Ad became the expected standard in the UK, and the regulator later acted against platforms too.",
+  "metric": "16",
+  "metric_label": "Celebrities and influencers who signed commitments",
+  "measure": "The number who signed, published by the CMA",
+  "evidence": "The CMA’s announcement documents the commitments. The effect on disclosure across all posts has been studied in later reports, but is not in a single figure.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Clear disclosure protects the creator, the brand and the audience. Put the label at the start, in plain words.",
+  "take": "This is the British moment influencer marketing grew up. It turned disclosure from good manners into law that individuals could be held to.",
+  "credit": "Competition and Markets Authority, 2019",
+  "creative": {
+   "medium": "Official announcement",
+   "label": "Read the CMA’s announcement",
+   "url": "https://gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read the CMA’s announcement",
+   "https://gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media"
+  ],
+  "impact_source": [
+   "Read the ITV News report",
+   "https://itv.com/news/2019-01-23/celebrities-pledge-to-be-more-transparent-over-social-media-posts"
+  ],
+  "links": [],
+  "how_to_measure": "Track the share of a creator programme’s posts with a clear label in the first line, and test whether audiences notice it."
+ },
+ {
+  "id": "youtube-coppa-settlement",
+  "brand": "Children’s creators on YouTube",
+  "title": "Made for Kids",
+  "year": 2019,
+  "place": "Washington DC, United States",
+  "sector": "Online video and privacy",
+  "mechanism": "Rules",
+  "data_role": "YouTube",
+  "data_source": "Regulatory settlement",
+  "stage": "Fined",
+  "hook": "YouTube paid a record fine over children’s data. The creators who made children’s videos lost much of their advertising income.",
+  "situation": "YouTube said it was not for under-13s, but channels for children drew huge audiences and personalised adverts ran on their videos, using data from young viewers.",
+  "exchange": "The Federal Trade Commission and New York’s attorney general alleged that YouTube had collected children’s data without parental consent. Google and YouTube agreed to pay $170 million.",
+  "brought": [
+   [
+    "Children’s creators",
+    "Some of the most watched content on the platform."
+   ],
+   [
+    "The regulators",
+    "Children’s privacy law, and a ruling that creators could be liable too."
+   ]
+  ],
+  "turning_point": "From January 2020 creators had to label videos made for children, which turned off personalised adverts, comments and some features. Many children’s creators reported steep falls in income.",
+  "metric": "$170 million",
+  "metric_label": "Settlement paid by Google and YouTube, a record under children’s privacy law",
+  "measure": "The settlement amount, published by the FTC",
+  "evidence": "The settlement is documented by the FTC. The effect on creators was reported widely but not measured across the platform.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "deal_value": "$170 million, September 2019",
+  "lesson": "Who the audience is matters as much as how big it is. Brands working with family creators should know the rules on children’s data and advertising.",
+  "take": "This case moved the rules for children’s content from the platform to every creator. It is a reminder that audiences come with obligations.",
+  "credit": "Federal Trade Commission, 2019",
+  "creative": {
+   "medium": "Official guidance",
+   "label": "Read the FTC’s guidance to consumers",
+   "url": "https://consumer.ftc.gov/blog/2019/09/youtube-pays-big-tracking-kids",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read the FTC’s guidance to consumers",
+   "https://consumer.ftc.gov/blog/2019/09/youtube-pays-big-tracking-kids"
+  ],
+  "impact_source": [
+   "Read what it means for creators · Future of Privacy Forum",
+   "https://fpf.org/2019/09/09/ftc-reaches-landmark-settlement-regarding-kids-privacy-clarifies-platforms-and-video-creators-coppa-obligations-for-child-directed-content/"
+  ],
+  "links": [],
+  "how_to_measure": "For family content, track the share of viewing in made-for-kids mode and revenue per thousand views before and after labelling."
+ },
+ {
+  "id": "jenna-marbles-steps-away",
+  "brand": "Jenna Marbles",
+  "title": "The Creator Who Stepped Away",
+  "year": 2020,
+  "place": "Los Angeles, United States",
+  "sector": "Comedy and online video",
+  "mechanism": "Trust",
+  "data_role": "YouTube",
+  "data_source": "Comedy vlogs",
+  "stage": "Left YouTube",
+  "hook": "One of YouTube’s most loved creators apologised for old videos and walked away from a channel of more than 20 million subscribers.",
+  "situation": "In 2020 many creators faced scrutiny over offensive material in their older videos. Jenna Mourey, known as Jenna Marbles, had been on YouTube for a decade and was widely admired.",
+  "exchange": "In June 2020 she posted a video apologising for past content, including a sketch in which she impersonated Nicki Minaj and another with offensive jokes, and said she was leaving her channel.",
+  "brought": [
+   [
+    "Jenna Marbles",
+    "Ten years of comedy and a reputation for kindness to her community."
+   ],
+   [
+    "Her audience",
+    "Loyal viewers, many of whom asked her to stay."
+   ]
+  ],
+  "turning_point": "She made private many old videos and stopped posting. The channel stayed silent, and her decision became a reference point in conversations about accountability among creators.",
+  "metric": "20 million",
+  "metric_label": "Subscribers on the channel she left",
+  "measure": "Subscribers at the time, as reported. The income she walked away from was not disclosed",
+  "evidence": "Her departure was widely reported. The case shows a creator choosing to stop rather than a platform or brand ending the relationship.",
+  "evidence_level": "Reach only",
+  "stat_type": "result",
+  "lesson": "A creator’s archive is part of the partnership. Brands and creators both benefit from reviewing old content before it becomes a story.",
+  "take": "This is the rare failure case where the creator set the terms. It is also a reminder that ten years of public work carries ten years of different standards.",
+  "credit": "Jenna Mourey, 2020",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about her decision · Tubefilter",
+   "url": "https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about her decision · Tubefilter",
+   "https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/"
+  ],
+  "impact_source": [
+   "Read about her departure · Global News",
+   "https://globalnews.ca/news/7111293/jenna-marbles-leaving-youtube"
+  ],
+  "links": [],
+  "how_to_measure": "Review a creator’s back catalogue as part of due diligence, and record which older videos remain live during the partnership."
+ },
+ {
+  "id": "pink-sauce",
+  "brand": "Chef Pii",
+  "title": "The Pink Sauce",
+  "year": 2022,
+  "place": "Miami, United States",
+  "sector": "Food",
+  "mechanism": "Ownership",
+  "data_role": "TikTok",
+  "data_source": "Creator product",
+  "stage": "Relaunched",
+  "hook": "A private chef went viral with a bright pink sauce and started selling it. The labels and the shipping went wrong in public.",
+  "situation": "TikTok made it possible for anyone to build demand for a product in days. Making food safely at scale, with correct labels and reliable shipping, still took time and expertise.",
+  "exchange": "Veronica Shaw, known as Chef Pii, posted videos of a vivid pink condiment and sold bottles online. Buyers reported leaking packages, inconsistent colour and nutrition labels that did not add up.",
+  "brought": [
+   [
+    "Chef Pii",
+    "A product the internet couldn’t stop talking about, and the courage to sell it herself."
+   ],
+   [
+    "Dave’s Gourmet",
+    "An established sauce maker that later partnered with her to produce it properly."
+   ]
+  ],
+  "turning_point": "The criticism became its own TikTok trend in July 2022. Within weeks she partnered with Dave’s Gourmet, which reformulated and produced the sauce, and it went on sale in Walmart.",
+  "metric": "Summer 2022",
+  "metric_label": "From viral launch to retail partnership",
+  "measure": "A timeline. Sales figures were not published",
+  "evidence": "The problems and the partnership are documented by Tubefilter, Rolling Stone and Food Network. Sales were not disclosed.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Demand is not the same as readiness. Creators launching products need manufacturing partners before the audience arrives.",
+  "take": "Pink Sauce went from failure to retail in a summer. The recovery is the lesson: the creator brought the audience, and the partner brought the competence.",
+  "credit": "Veronica Shaw, 2022",
+  "creative": {
+   "medium": "Feature",
+   "label": "Read how the chef survived her downfall · Rolling Stone",
+   "url": "https://www.rollingstone.com/culture/culture-features/pink-sauce-tiktok-chef-cancelation-walmart-1234667556/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the partnership · Tubefilter",
+   "https://www.tubefilter.com/2022/08/19/tiktok-pink-sauce-daves-gourmet/amp/"
+  ],
+  "impact_source": [
+   "Read about the Walmart launch · Food Network",
+   "https://www.foodnetwork.com/fn-dish/news/where-to-buy-pink-sauce-tiktok"
+  ],
+  "links": [],
+  "how_to_measure": "For a creator product, track complaints and refunds per thousand orders in the first month, and fix supply before scaling the audience."
+ },
+ {
+  "id": "mikayla-mascara",
+  "brand": "Mikayla Nogueira",
+  "title": "The Mascara Review",
+  "year": 2023,
+  "place": "Massachusetts, United States",
+  "sector": "Beauty",
+  "mechanism": "Trust",
+  "data_role": "TikTok",
+  "data_source": "Sponsored review",
+  "stage": "Backlash",
+  "hook": "A beauty creator reviewed a sponsored mascara. Viewers were convinced she was wearing false lashes.",
+  "situation": "Mikayla Nogueira had built a large audience on honest, affordable beauty reviews. Sponsored reviews were common, and audiences relied on creators to show real results.",
+  "exchange": "In January 2023 she posted a sponsored video for L’Oréal’s Telescopic Lift mascara. Viewers and other creators argued the result looked like false lashes, which she did not confirm or address directly.",
+  "brought": [
+   [
+    "Mikayla Nogueira",
+    "Millions of followers who trusted her reviews."
+   ],
+   [
+    "L’Oréal",
+    "A paid partnership for a product the review had to show honestly."
+   ]
+  ],
+  "turning_point": "The video became a wider argument about trust in sponsored beauty content, nicknamed lashgate. The mascara still sold well, and the debate raised questions about advertising rules for before-and-after demonstrations.",
+  "metric": "January 2023",
+  "metric_label": "When the review and the backlash happened",
+  "measure": "A date. No regulator ruled on the video",
+  "evidence": "The controversy is documented by Glossy and others. The product’s sales were reported anecdotally. Whether false lashes were used was never confirmed by the creator or brand.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "In a product demonstration, show only the product. A brief should say so, and a creator should insist on it.",
+  "take": "This case shows how fast an audience will test a creator’s honesty. The trust she had built was the reason it mattered so much.",
+  "credit": "Mikayla Nogueira, 2023",
+  "creative": {
+   "medium": "Analysis",
+   "label": "Read what was behind the controversy · Glossy",
+   "url": "https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read what was behind the controversy · Glossy",
+   "https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/"
+  ],
+  "impact_source": [
+   "Read about the advertising law questions · LexBlog",
+   "https://www.lexblog.com/2023/01/30/influencers-long-lashes-could-raise-ad-law-issues/"
+  ],
+  "links": [],
+  "how_to_measure": "For sponsored demonstrations, track sentiment in comments alongside sales, and treat a spike in doubt as a warning even when sales rise."
+ },
+ {
+  "id": "honey-megalag",
+  "brand": "MegaLag",
+  "title": "The Honey Investigation",
+  "year": 2024,
+  "place": "Global",
+  "sector": "Shopping and affiliate marketing",
+  "mechanism": "Trust",
+  "data_role": "YouTube",
+  "data_source": "Investigative video",
+  "stage": "Users left",
+  "hook": "Creators had promoted a coupon extension for years. A YouTuber showed it was taking their commissions.",
+  "situation": "Honey, a browser extension owned by PayPal, had been sponsored by many of the biggest YouTubers, from MrBeast to Linus Tech Tips. Creators also earned through affiliate links.",
+  "exchange": "In December 2024 the YouTuber MegaLag published an investigation alleging that Honey replaced creators’ affiliate tags with its own at checkout, taking commissions that creators believed were theirs.",
+  "brought": [
+   [
+    "MegaLag",
+    "Months of research and a clear demonstration of how the extension worked."
+   ],
+   [
+    "The creators",
+    "Years of sponsorships that had put Honey in front of millions."
+   ]
+  ],
+  "turning_point": "Millions of users uninstalled the extension within weeks, creators who had promoted it withdrew support, and lawsuits followed, including one led by the YouTuber LegalEagle.",
+  "metric": "3 million",
+  "metric_label": "Chrome users who uninstalled Honey in the weeks after, as reported",
+  "measure": "Change in the Chrome Web Store user count, as reported. Later reports put the fall higher",
+  "evidence": "The investigation and the user losses were reported by Fortune, Tubefilter and others. PayPal said it followed industry rules on attribution. The lawsuits were ongoing when reported.",
+  "evidence_level": "Reach only",
+  "stat_type": "result",
+  "lesson": "Creators should understand how sponsors make money from their audience. Due diligence runs both ways.",
+  "take": "This is the creator economy investigating itself, and it worked. A single well-researched video did what years of sponsorship scrutiny hadn’t.",
+  "credit": "MegaLag, 2024",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the investigation · Fortune",
+   "url": "https://fortune.com/2024/12/23/honey-scam-browser-extension-mrbeast-mkbhd-linustechtips-megalag-expose-investigation-video/",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the investigation · Fortune",
+   "https://fortune.com/2024/12/23/honey-scam-browser-extension-mrbeast-mkbhd-linustechtips-megalag-expose-investigation-video/"
+  ],
+  "impact_source": [
+   "Read about the users lost · MobileSyrup",
+   "https://mobilesyrup.com/2025/01/03/honey-loses-3-million-users-scam-allegations/"
+  ],
+  "links": [
+   [
+    "Read whether it’s a sign of a bigger problem · Tubefilter",
+    "https://www.tubefilter.com/2024/12/26/honey-paypal-influencer-marketing-scam-mega-lag/"
+   ]
+  ],
+  "how_to_measure": "For affiliate programmes, audit attribution: compare the commissions a creator expects from their links with what the network records."
+ },
+ {
+  "id": "tiktok-goes-dark",
+  "brand": "America’s TikTok creators",
+  "title": "Fourteen Hours of Silence",
+  "year": 2025,
+  "place": "United States",
+  "sector": "Short video",
+  "mechanism": "Rules",
+  "data_role": "TikTok",
+  "data_source": "Platform shutdown",
+  "stage": "Restored",
+  "hook": "On a Saturday night TikTok stopped working for every American user. Creators found out what a platform risk really feels like.",
+  "situation": "A US law required TikTok to be sold by its Chinese owner or banned from 19 January 2025. Creators had built businesses on it, and many had not built elsewhere.",
+  "exchange": "Late on 18 January 2025 TikTok went offline in the United States, showing users a message about the law. Creators posted goodbyes and urged followers to find them on other platforms.",
+  "brought": [
+   [
+    "TikTok’s American creators",
+    "Audiences they could only reach through one app."
+   ],
+   [
+    "The US government",
+    "A law that put the platform’s future in political hands."
+   ]
+  ],
+  "turning_point": "Service returned within about fourteen hours after President Trump said he would delay enforcement. The shutdown made creators diversify, and the platform’s future in the US stayed uncertain for months.",
+  "metric": "About 14 hours",
+  "metric_label": "How long TikTok was offline in the US",
+  "measure": "The length of the shutdown, as reported",
+  "evidence": "The shutdown and restoration were widely reported. How many creators moved audiences elsewhere is not measured.",
+  "evidence_level": "Archival",
+  "stat_type": "legacy",
+  "lesson": "Own a direct line to your audience. An email list or a second platform is insurance a creator can’t buy after the switch goes off.",
+  "take": "India’s ban in Edition 04 showed what happens when a platform disappears. America got fourteen hours of the same lesson, and most of the industry took it seriously.",
+  "credit": "TikTok, 2025",
+  "creative": {
+   "medium": "Contemporary reporting",
+   "label": "Read about the shutdown and the fallout · The Drum",
+   "url": "https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next",
+   "heading": "Creator media"
+  },
+  "announcement": [
+   "Read about the shutdown and the fallout · The Drum",
+   "https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next"
+  ],
+  "impact_source": [
+   "Read about service returning · ABC7",
+   "https://abc7news.com/post/us-world-politics-donald-trump-says-he-will-issue-executive-order-monday-get-tiktok-social-media-app-back/15816271/"
+  ],
+  "links": [],
+  "how_to_measure": "Track the share of a creator’s audience reachable outside the main platform, through email, a second platform or a community, and grow it before it’s needed."
+ }
+]

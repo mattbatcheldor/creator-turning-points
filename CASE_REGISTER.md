@@ -32,3 +32,73 @@
 | 02 | Colleen Hoover and BookTok | 2022 | Sales trend | https://www.youtube.com/watch?v=jkl29PgMtvo | https://www.youtube.com/watch?v=jkl29PgMtvo |
 | 02 | The Buy Guide and Danielle | 2023 | Sales trend | https://www.youtube.com/watch?v=dYVNrIHHcg8 | https://www.youtube.com/watch?v=dYVNrIHHcg8 |
 | 02 | Alix Earle | 2023 | Sales trend | https://www.youtube.com/watch?v=GpbaM7j_LEA | https://www.youtube.com/watch?v=GpbaM7j_LEA |
+| 03 | YouTube’s first partners | 2007 | Archival | https://youtube.googleblog.com/2007/05/youtube-elevates-most-popular-users-to.html | Pending |
+| 03 | Amanda Palmer | 2012 | Sales trend | https://music.mxdwn.com/2012/06/03/news/amanda-palmer-raises-over-1-1-million-via-kickstarter-announces-new-album-title-theatre-is-evil/amp/ | Pending |
+| 03 | Jack Conte | 2013 | Sales trend | https://welcome.patreon.com:443/about | Pending |
+| 03 | Maker Studios | 2014 | Archival | https://tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/ | Pending |
+| 03 | Twitch’s streamers | 2014 | Archival | https://www.engadget.com/2014-08-25-twitch-confirms-amazon-purchase.html | Pending |
+| 03 | The Oatmeal | 2015 | Sales trend | https://www.geekwire.com/2015/exploding-kittens-blows-up-kickstarter-as-most-backed-project-of-all-time/ | Pending |
+| 03 | PewDiePie and the Forbes list | 2015 | Archival | https://www.thedrum.com/news/2015/10/15/pewdiepie-tops-forbes-highest-paid-youtubers-list | Pending |
+| 03 | YouTube’s live streamers | 2017 | Archival | https://tubefilter.com/2017/01/12/youtube-live-streaming-super-chats-no-fan-funding/ | Pending |
+| 03 | Bill Bishop | 2017 | Archival | https://on.substack.com/p/five-years-of-substack-with-bill | Pending |
+| 03 | Critical Role | 2019 | Sales trend | https://www.cnbc.com/2019/04/19/critical-role-vox-machina-kickstarter-ends-with-11-million-in-funding.html | Pending |
+| 03 | TikTok’s creators | 2020 | Archival | https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en | Pending |
+| 03 | Alex Cooper | 2021 | Archival | https://www.thewrap.com/alex-cooper-siriusxm-deal/ | Pending |
+| 03 | YouTube Shorts creators | 2023 | Archival | https://tubefilter.com/2023/01/10/youtube-shorts-ad-revenue-sharing-begin-new-partner-program/ | Pending |
+| 03 | xQc | 2023 | Archival | https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick | Pending |
+| 03 | YouTube’s creators | 2024 | Sales trend | https://www.business-standard.com/world-news/protecting-creator-economy-will-be-foundational-youtube-ceo-neal-mohan-124020601961_1.html | Pending |
+| 04 | Twitch Plays Pokémon | 2014 | Reach only | https://blog.twitch.tv/en/2014/03/01/tpp-victory-the-thundershock-heard-around-the-world-3128a5b1cdf5 | Pending |
+| 04 | Heather Armstrong | 2002 | Archival | https://dailydot.com/lifestyle/fired-for-my-blog-dooced-personal-history | Pending |
+| 04 | Gentle Whispering | 2011 | Archival | https://www.rollingstone.com/culture/culture-features/asmr-oral-history-whisper-video-soothing-sleep-youtube-954423/ | Pending |
+| 04 | King Bach | 2015 | Reach only | https://tubefilter.com/2015/03/16/king-bach-most-followed-vine/ | Pending |
+| 04 | Serial | 2014 | Reach only | https://www.irishtimes.com/business/technology/serial-is-the-fastest-downloaded-podcast-in-itunes-history-1.2040889 | Pending |
+| 04 | DJ Khaled | 2015 | Archival | https://www.mtv.com/news/2688771/dj-khaled-snapchat-lost-at-sea/ | Pending |
+| 04 | Candace Payne | 2016 | Reach only | https://tubefilter.com/2016/05/23/chewbacca-mom-facebook-video-views/ | Pending |
+| 04 | Lofi Girl | 2017 | Archival | https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy | Pending |
+| 04 | Musical.ly | 2018 | Archival | https://techcrunch.com/2018/08/02/musically-tiktok | Pending |
+| 04 | Adopt Me! | 2019 | Reach only | https://www.gamespot.com/articles/a-roblox-game-about-adopting-critters-just-set-a-new-concurrent-player-record/1100-6490282/ | Pending |
+| 04 | D-Nice | 2020 | Reach only | https://news.prairiepublic.org/2020-03-23/dj-d-nice-throws-a-virtual-quarantine-party-with-real-vips | Pending |
+| 04 | India’s TikTok creators | 2020 | Archival | https://www.npr.org/2020/07/16/890382893/tiktok-changed-my-life-india-s-ban-on-chinese-app-leaves-video-makers-stunned | Pending |
+| 04 | Dream | 2020 | Reach only | https://www.thegamer.com/minecraft-youtube-gaming-most-watched-title-of-2020/ | Pending |
+| 04 | Snapchat Spotlight creators | 2020 | Archival | https://newsroom.snap.com/en-US/rewarding-creativity | Pending |
+| 04 | Clubhouse’s hosts | 2021 | Reach only | https://www.businessinsider.nl/clubhouse-downloads-are-falling-off-a-cliff-the-app-was-downloaded-only-about-900000-times-in-april-down-from-februarys-peak-of-9-6-million/ | Pending |
+| 05 | YouTube’s creators | 2017 | Archival | https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/ | Pending |
+| 05 | Vine’s creators | 2016 | Archival | https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705 | Pending |
+| 05 | PewDiePie | 2017 | Archival | https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/ | Pending |
+| 05 | TmarTn and Syndicate | 2017 | Archival | https://ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against | Pending |
+| 05 | Fyre Festival’s influencers | 2017 | Archival | https://www.wbur.org/npr/526561561/how-fyres-organizers-used-influencers-to-market-a-festival-that-didnt-exist | Pending |
+| 05 | Logan Paul | 2018 | Archival | https://tubefilter.com/2018/01/10/logan-paul-youtube-red-google-preferred/ | Pending |
+| 05 | Elle Darby | 2018 | Archival | https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/ | Pending |
+| 05 | Tana Mongeau | 2018 | Archival | https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948 | Pending |
+| 05 | Sixteen UK celebrities and influencers | 2019 | Archival | https://gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media | Pending |
+| 05 | Children’s creators on YouTube | 2019 | Archival | https://consumer.ftc.gov/blog/2019/09/youtube-pays-big-tracking-kids | Pending |
+| 05 | Jenna Marbles | 2020 | Reach only | https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/ | Pending |
+| 05 | Chef Pii | 2022 | Archival | https://www.rollingstone.com/culture/culture-features/pink-sauce-tiktok-chef-cancelation-walmart-1234667556/ | Pending |
+| 05 | Mikayla Nogueira | 2023 | Archival | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ | Pending |
+| 05 | MegaLag | 2024 | Reach only | https://fortune.com/2024/12/23/honey-scam-browser-extension-mrbeast-mkbhd-linustechtips-megalag-expose-investigation-video/ | Pending |
+| 05 | America’s TikTok creators | 2025 | Archival | https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next | Pending |
+| 06 | MrBeast | 2022 | Sales trend | https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/ | Pending |
+| 06 | Michelle Phan | 2011 | Sales trend | https://fortune.com/2015/09/14/ipsy-glam-bag-michelle-phan-funding/ | Pending |
+| 06 | Deliciously Ella | 2012 | Archival | https://www.retail-week.com/future-leaders/how-deliciously-ella-went-from-blogger-to-brand-owner/7029051.article | Pending |
+| 06 | Huda Kattan | 2013 | Archival | https://cosmeticsbusiness.com/tsg-acquires-minority-stake-in-huda-beauty--137579 | Pending |
+| 06 | Into the Gloss | 2014 | Archival | https://www.retailbrew.com/stories/2021/07/07/glossier-scores-80-million-funding-round | Pending |
+| 06 | Kylie Jenner | 2015 | Archival | https://www.thedrum.com/news/2019/11/18/coty-eyes-digital-growth-with-majority-purchase-kylie-cosmetics | Pending |
+| 06 | Hot Ones | 2015 | Sales trend | https://digiday.com/media/revenue-complex-networks-hot-ones/ | Pending |
+| 06 | Spencer Owen | 2016 | Archival | https://www.planetsport.com/soccer/feature/hashtag-united-iconic-moments-spencer-owen | Pending |
+| 06 | Steven Bartlett | 2017 | Reach only | https://podnews.net/press-release/doac-one-billion | Pending |
+| 06 | Emma Chamberlain | 2019 | Archival | https://techcrunch.com/2023/06/01/youtube-emma-chamberlain-coffee-commerce/ | Pending |
+| 06 | The Sidemen | 2021 | Archival | https://restaurantonline.co.uk/Article/2022/02/17/youtube-stars-sidemen-ksi-w2s-miniminter-zerkaa-tbjzl-behzinga-vikkstar123-to-open-first-bricks-and-mortar-site-for-fried-chicken-brand-sides | Pending |
+| 06 | Mark Rober | 2022 | Archival | https://www.crunchlabs.com/pages/crunchlabs-announces-hack-pack | Pending |
+| 06 | Hailey Bieber | 2022 | Archival | https://www.glossy.co/beauty/facing-an-uncertain-market-e-l-f-beauty-acquires-hailey-biebers-rhode-for-1-billion/ | Pending |
+| 06 | Smosh | 2023 | Archival | https://tubefilter.com/2023/06/20/anthony-padilla-ian-hecox-buy-smosh/ | Pending |
+| 06 | Dude Perfect | 2024 | Archival | https://foxbusiness.com/technology/youtube-influencer-group-dude-perfect-scores-more-than-100m-investment | Pending |
+| 07 | Li Ziqi | 2021 | Reach only | https://www.guinnessworldrecords.com/news/2021/1/li-ziqi-breaks-youtube-subscribers-record-for-chinese-language-channel-647202 | Pending |
+| 07 | The Diva | 2014 | Sales trend | https://amp.scmp.com/news/asia/article/1417558/south-korean-woman-makes-fortune-livestreaming-herself-eating | Pending |
+| 07 | Kizuna AI | 2016 | Archival | https://virtualhumans.org/article/who-were-the-first-vtubers-and-virtual-streamers | Pending |
+| 07 | Whindersson Nunes | 2016 | Reach only | https://www.tubefilter.com/2017/01/27/top-100-most-subscribed-youtube-channels-worldwide-december-2016/ | Pending |
+| 07 | Mark Angel Comedy | 2017 | Reach only | https://www.pulse.ng/gist/pop-culture/mark-angel-comedy-comedian-becomes-first-african-comedy-channel-to-hit-1-million/4lr4789 | Pending |
+| 07 | Atta Halilintar | 2019 | Reach only | https://www.thejakartapost.com/life/2019/02/06/atta-halilintar-named-southeast-asias-first-youtuber-with-10-million-subscribers.html | Pending |
+| 07 | CarryMinati | 2020 | Reach only | https://www.afaqs.com/news/social-media/youtube-india-removes-carryminatis-roast-video-says-it-violates-its-terms-of-service | Pending |
+| 07 | Elsa Majimbo | 2020 | Archival | https://www.okayafrica.com/kenyan-comedian-fenty-collaboration | Pending |
+| 07 | Austin Li | 2021 | Sales trend | https://www.businessinsider.nl/chinas-lipstick-king-sold-an-astonishing-1-7-billion-in-goods-in-12-hours-and-that-was-just-in-a-promotion-for-the-countrys-biggest-shopping-day/ | Pending |
+| 07 | Khaby Lame | 2022 | Reach only | https://tubefilter.com/2022/06/23/khaby-lame-tiktok-top-account-charli-damelio/ | Pending |

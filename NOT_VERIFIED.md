@@ -19,3 +19,8 @@ Exact original survey footage, Mrs Hinch’s Instagram Stories, Kylie Jenner’s
 The Smosh and Alix Earle thumbnails are later creator images. The feta video is a later Feel Good Foodie adaptation. The Hyram comparison is a related format example. Emily’s image is Good Morning America’s own recipe recreation, not a frame from her original video.
 
 No controlled creator sales effect or audited Conspiracy palette count was verified. Stanley’s full-year revenue is reported in CreatorIQ’s January 2024 interview coverage; earlier CNBC coverage described the amount as projected. The location for Internet Historian’s production and Danielle’s post was not resolved to a city. Wirral is a district, used as the documented origin of Pinch of Nom. Other place labels identify creator bases, not authenticated filming locations.
+
+## Editions 03 to 07 and The Index
+
+Published on 16 November 2026 from Claude’s drafts, at Matthew’s request, before the media verification step. NOT VERIFIED for all 70 cases: thumbnails (none added yet, so each case shows a platform tile), screening films (no screening rooms in these editions yet), oEmbed checks and a full check of every external link. Sources were found by web search when the cases were written; figures marked as reported or claimed in a case are not independently confirmed. The site audit reports one missing image per case in these editions until stills are added.
+

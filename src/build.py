@@ -32,7 +32,7 @@ MECHANISMS = [
     ('Ownership', 'The creator owned the product, the company or the rights.'),
     ('Rules', 'A platform, regulator or court changed what creators could do.'),
 ]
-ROLES = ['YouTube', 'TikTok', 'Instagram', 'Twitch', 'Vine', 'Snapchat', 'Facebook', 'Podcast', 'Blog', 'Newsletter', 'Web', 'Patreon', 'Kickstarter', 'Douyin', 'Weibo', 'Taobao Live', 'Bilibili', 'Kick', 'Roblox', 'Multi-platform']
+ROLES = ['YouTube', 'TikTok', 'Instagram', 'Twitch', 'Vine', 'Snapchat', 'Facebook', 'Podcast', 'Blog', 'Newsletter', 'Web', 'Patreon', 'Kickstarter', 'Douyin', 'Weibo', 'Taobao Live', 'Bilibili', 'Kick', 'Roblox', 'Clubhouse', 'AfreecaTV', 'Multi-platform']
 # Every case is sorted by the platform where the turning point happened.
 ROLE_DEFAULTS = {'roles': ROLES, 'role_label': 'Platform', 'role_aria': 'Platform', 'source_label': 'The creator'}
 ERAS = ['1950s to 1980s', '1990s and 2000s', '2010s', '2020s']
@@ -390,7 +390,7 @@ def build(edition):
 
 # The Index joins the series once all the editions exist. It reads every case file and is built after them.
 INDEX_OUTPUT = 'the-index/index.html'
-INDEX_READY = False
+INDEX_READY = True
 
 # The series convention: number every edition with two digits and give it three things.
 #   src/campaigns-NN.json      the cases
@@ -422,41 +422,79 @@ EDITIONS = [
     {
         'number': '03', 'name': 'Money first', 'data': 'campaigns-03.json', 'template': 'page-template-03.html',
         'output': 'edition-03/index.html', 'asset_prefix': '../', 'art': money_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (('patreon-pedals', 'Watch how the finished music video leads into an explanation of recurring support.', 'robot'), ('amanda-palmer-kickstarter', 'Look at the reward offer alongside the record the audience is being asked to finance.', 'record'), ('critical-role-kickstarter', 'Listen for what the creators expect an existing community to recognise immediately.', 'dice'), ('sanderson-secret-novels', 'Watch the reveal turn into a concrete publishing offer.', 'books')),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
     },
     {
         'number': '04', 'name': 'Platform first', 'data': 'campaigns-04.json', 'template': 'page-template-04.html',
         'output': 'edition-04/index.html', 'asset_prefix': '../', 'art': platform_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (('casey-daily-vlog', 'Listen to the creator explain the obligation and purpose of daily publishing.', 'camera'), ('tpain-tiny-desk', 'Hear what the small room and sparse arrangement make easier to notice.', 'desk'), ('bo-burnham-inside', 'Watch how lighting and performance make the confined room part of the song.', 'room'), ('emma-chamberlain-editing', 'Follow the cuts and captions as a second voice within the early video.', 'edit')),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
     },
     {
         'number': '05', 'name': 'Failure first', 'data': 'campaigns-05.json', 'template': 'page-template-05.html',
         'output': 'edition-05/index.html', 'asset_prefix': '../', 'art': failure_art,
-        'test_heading': 'How the damage was recorded', 'mechanism_label': 'Shift', 'screening': (('logan-paul-japan', 'Read the case first, then examine what the apology does and does not address.', 'care'), ('bye-sister', 'Treat the response as one participant’s account and watch how evidence is presented.', 'response'), ('try-guys-fulmer', 'Listen for the distinction between a public explanation and private workplace responsibilities.', 'team'), ('quibi-floored', 'This later official Roku trailer preserves the show after its original platform closed.', 'floor')),
+        'test_heading': 'How the damage was recorded', 'mechanism_label': 'Shift', 'screening': (),
     },
     {
         'number': '06', 'name': 'Brand first', 'data': 'campaigns-06.json', 'template': 'page-template-06.html',
         'output': 'edition-06/index.html', 'asset_prefix': '../', 'art': brand_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (('feastables', 'Look for the relationship between the creator’s entertainment format and the owned product.', 'chocolate'), ('hot-ones', 'Notice how the first episode combines research with a physical sequence.', 'wings'), ('smosh-buyback', 'Listen to the founders explain what returning to ownership means for the work.', 'reunion'), ('cars-and-bids', 'Watch the creator describe the marketplace problem his audience already understands.', 'cars')),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
     },
     {
         'number': '07', 'name': 'Edge first', 'data': 'campaigns-07.json', 'template': 'page-template-07.html',
         'output': 'edition-07/index.html', 'asset_prefix': '../', 'art': edge_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (('li-ziqi-return', 'Follow the patient craft process that makes the return recognisable.', 'lacquer'), ('carryminati-yalgaar', 'Watch the creator move a familiar voice into an official music release.', 'music'), ('kizuna-ai', 'Notice how direct address establishes a relationship through an animated character.', 'avatar'), ('whindersson-nunes', 'Watch the performer and setting carry a parody without an elaborate production.', 'bedroom')),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
     },
 ]
 
 # The Index: one page that reads the whole series, built from the same case files as the editions.
-REGIONS = [('UK and Ireland', ('United Kingdom', 'Ireland', 'England', 'Scotland', 'Wales')), ('North America', ('United States', 'Canada')), ('Europe', ('Sweden', 'Finland', 'Italy', 'France', 'Germany', 'Spain', 'Netherlands')), ('Asia', ('China', 'Japan', 'India', 'South Korea', 'United Arab Emirates')), ('Latin America', ('Brazil', 'Mexico')), ('Africa', ('Nigeria', 'Kenya', 'Senegal')), ('Oceania', ('Australia', 'New Zealand'))]
-INDUSTRIES = [('Online video', ('online video',)), ('Music', ('music',)), ('Comedy and entertainment', ('comedy', 'entertainment', 'theatre')), ('Beauty and fashion', ('beauty', 'fashion')), ('Food and drink', ('food', 'drink')), ('Fitness and sport', ('fitness', 'sport')), ('Gaming', ('gaming',)), ('Publishing', ('publishing',)), ('Podcasts', ('podcasts',)), ('Technology', ('technology',)), ('Retail', ('retail',)), ('Craft and art', ('craft', 'art', 'animation')), ('Causes', ('causes',))]
+REGIONS = [('UK and Ireland', ('United Kingdom', 'Ireland', 'England', 'Scotland', 'Wales')), ('North America', ('United States', 'Canada', 'Bahamas')), ('Europe', ('Sweden', 'Finland', 'Italy', 'France', 'Germany', 'Spain', 'Netherlands')), ('Asia', ('China', 'Japan', 'India', 'South Korea', 'Indonesia', 'United Arab Emirates')), ('Latin America', ('Brazil', 'Mexico')), ('Africa', ('Nigeria', 'Kenya', 'Senegal')), ('Oceania', ('Australia', 'New Zealand'))]
+INDUSTRIES = [
+    ('Online video', ('online video', 'short video', 'social video', 'social media')),
+    ('Live streaming', ('live streaming', 'livestream shopping', 'social audio')),
+    ('Music', ('music',)),
+    ('Comedy and entertainment', ('comedy', 'entertainment', 'drama', 'animation')),
+    ('Gaming', ('gaming', 'games')),
+    ('Beauty', ('beauty', 'skincare')),
+    ('Food and drink', ('food', 'coffee', 'confectionery', 'frozen desserts', 'restaurants', 'drinkware')),
+    ('Sport and fitness', ('fitness', 'football', 'boxing', 'sports entertainment')),
+    ('Publishing and audio', ('publishing', 'podcasting', 'newsletters', 'blogging')),
+    ('Education', ('education',)),
+    ('Commerce', ('shopping', 'payments', 'household', 'events', 'travel', 'technology')),
+    ('Rules and policy', ('regulation', 'privacy', 'advertising')),
+]
 EVIDENCE_COLOURS = {'Modelled effect': '#557400', 'Sales trend': '#7c9a1e', 'Survey': '#a5c31c', 'Reach only': '#d3d1c5', 'Archival': '#a8aa9d'}
-LESSONS = [('Define the action after the viewing.', 'A donation, a purchase and a completed cleanup are different actions. Set the unit, owner and reporting window before asking an audience to participate.', [('02', 'team-trees'), ('02', 'team-seas'), ('02', 'ladbaby-sausage-rolls'), ('03', 'amanda-palmer-kickstarter'), ('06', 'cars-and-bids')]), ('Keep attention and income separate.', 'A follower count shows a relationship with a platform. Sales, paid messages and orders get closer to a transaction. Costs, returns and attribution still need their own records.', [('01', 'mrbeast-most-subscribed'), ('02', 'mkbhd-humane'), ('03', 'cameo-baumgartner'), ('06', 'glossier'), ('07', 'khaby-lame')]), ('Protect the recognisable practice.', 'The creator’s value often sits in the detail of how the work is made: a cut, a pause, a character or a constraint. Agree what approvals must preserve.', [('04', 'king-bach-vine'), ('04', 'tpain-tiny-desk'), ('04', 'emma-chamberlain-editing'), ('07', 'bhuvan-bam'), ('07', 'kizuna-ai')]), ('Make ownership understandable.', 'A channel contract, a company stake and permission to use a character are different rights. Identify who can decide, earn, transfer and stop before expanding the work.', [('03', 'maker-disney'), ('03', 'nebula-creators'), ('05', 'react-world'), ('06', 'smosh-buyback'), ('07', 'li-ziqi-return')]), ('Give the relationship a sustainable rhythm.', 'A membership, newsletter, daily film or paid app depends on people wanting to return. Test the ongoing offer with the audience and the team who must deliver it.', [('03', 'patreon-pedals'), ('03', 'letters-from-an-american'), ('04', 'casey-daily-vlog'), ('05', 'watcher-paywall'), ('06', 'body-coach-app')]), ('Put people and delivery in the plan.', 'An invitation creates obligations. Capacity, consent, performer agreements and product quality belong in the programme alongside distribution and promotion.', [('05', 'tanacon'), ('05', 'logan-paul-japan'), ('05', 'try-guys-fulmer'), ('06', 'feastables'), ('07', 'hololive-en')])]
-CASE_CREATORS = {'vidcon': ('Hank Green', 'John Green'), 'team-trees': ('MrBeast', 'Mark Rober'), 'team-seas': ('Mark Rober', 'MrBeast'), 'ksi-logan-paul': ('KSI', 'Logan Paul'), 'pewdiepie-adpocalypse': ('PewDiePie',), 'maker-disney': ('Shay Carl',)}
+LESSONS = [
+    ('Creators find the use before the platform does.',
+     'Platforms build features. Creators work out what they are for. A programmer turned Twitch chat into a controller, a mother in a car park showed Facebook what live video could be, and a factory worker’s shrug became TikTok’s most followed account.',
+     [('04', 'twitch-plays-pokemon'), ('04', 'chewbacca-mom'), ('04', 'dj-khaled-snapchat'), ('01', 'numa-numa'), ('07', 'khaby-lame')]),
+    ('Attention is easy to count. Proof is rare.',
+     'None of the {total} cases has a modelled effect. {reach} rest on attention alone and {archival} are archival. The best proof came from outside the creator economy: book tills, grocery baskets and company results.',
+     [('02', 'pinch-of-nom'), ('02', 'emily-mariko-salmon-bowl'), ('02', 'colleen-hoover-booktok'), ('01', 'psy-gangnam-style'), ('06', 'hot-ones')]),
+    ('Revenue that grows with the audience lasts.',
+     'Fixed funds paid each creator less as more joined, and were replaced. Shared advertising and money paid directly by fans grew with the audience, and became the creator economy’s foundations.',
+     [('03', 'youtube-partner-program'), ('03', 'tiktok-creator-fund'), ('03', 'patreon'), ('04', 'snapchat-spotlight'), ('01', 'kai-cenat-mafiathon')]),
+    ('Own a line to your audience that no platform controls.',
+     'Vine closed, India banned TikTok, America lost it for fourteen hours and advertisers left YouTube overnight. The creators who recovered fastest could reach their audience somewhere else.',
+     [('05', 'vine-shut-down'), ('04', 'india-tiktok-ban'), ('05', 'tiktok-goes-dark'), ('05', 'adpocalypse'), ('03', 'alex-cooper-call-her-daddy')]),
+    ('The creators who lasted own something.',
+     'Ownership is joint top of the archive’s nine shifts, with Format and Trust, at {ownership} cases each. A subscription, a newsletter, a chocolate bar or a company bought back from its owners turned an audience into an asset.',
+     [('06', 'feastables'), ('06', 'michelle-phan-ipsy'), ('06', 'smosh-bought-back'), ('03', 'sinocism-substack'), ('07', 'austin-li-singles-day')]),
+    ('Trust is the asset, and it can be spent.',
+     'Trust is the shift behind {trust} cases. A reviewer’s verdict sank a gadget and lifted a cleanser. The same credibility, lent to a fake festival or a doubtful sponsor, cost creators their audiences’ faith.',
+     [('02', 'mkbhd-humane-ai-pin'), ('02', 'hyram-cerave'), ('05', 'fyre-festival'), ('05', 'honey-megalag'), ('05', 'mikayla-mascara')]),
+]
+CASE_CREATORS = {'vidcon': ('Hank Green', 'John Green'), 'ksi-logan-paul': ('KSI', 'Logan Paul'), 'variety-teen-survey': ('Smosh',), 'forbes-highest-paid-youtubers': ('PewDiePie',), 'shane-dawson-jeffree-star': ('Shane Dawson', 'Jeffree Star')}
 PARTY_GROUPS = {}
-PARTY_SKIP = set()
+PARTY_SKIP = {'YouTube’s creators'}
 PARTY_LOGO_DIR = Path("assets/creator-logos")
 PARTY_LOGOS = {}
-PARTY_NOTES = {'MrBeast': 'A subscriber milestone, TeamTrees, a role in TeamSeas and Feastables. Audience scale, mobilisation and product ownership leave different kinds of evidence.', 'Mark Rober': 'TeamTrees and TeamSeas use a creator’s explanation with specialist delivery partners. Money raised and physical work completed need different records.', 'Joe Wicks': 'A free daily workout produced a charity contribution; the paid app offered a continuing service. The donation is separate from app revenue.', 'Emma Chamberlain': 'The edit established a recognisable voice; the coffee business applied it to an everyday habit. Product retention remains a separate test.', 'Ian Hecox and Anthony Padilla': 'Early YouTube partnership and the later Smosh buyback. Access to advertising revenue and ownership of the company are distinct commercial positions.', 'Hank Green': 'VidCon brought the online community together in person. His later explanation of TikTok’s fund asked how the payment formula served creators.', 'PewDiePie': 'A subscriber lead and the 2017 advertising crisis. Attention on one channel sits inside a platform-wide commercial system.', 'Logan Paul': 'The Japan-video response and the KSI boxing event occurred in the same year. The cases ask different questions about editorial care and paid demand.'}
+PARTY_NOTES = {
+    'PewDiePie': 'The most subscribed individual on YouTube, the top of the first Forbes rich list, and the creator Disney dropped. His audience outlasted every brand deal.',
+    'MrBeast': 'A channel that overtook a record label, and a chocolate bar that earned more than the videos.',
+    'Kylie Jenner': 'One post linked to a fall in Snap’s share price, and a cosmetics line Coty paid $600 million to control.',
+    'Smosh': 'Top of a 2014 survey of American teenagers, and bought back by its founders eighteen years after they started it.',
+    'Logan Paul': 'A boxing match that sold 773,000 paid streams, and the vlog that cost him YouTube’s premium programme.',
+}
 NUMBER_WORDS = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', 6: 'Six', 7: 'Seven', 8: 'Eight', 9: 'Nine', 10: 'Ten', 100: 'A hundred'}
 
 
@@ -538,8 +576,8 @@ def build_index():
             s = by_number[num]
             c = next(c for c in s['campaigns'] if c['id'] == cid)
             chip_html.append(f'<a class="lesson-chip" href="{case_href(s["edition"], cid)}"><span class="small">{num}</span> {e(c["brand"])}</a>')
-        text = text.format(total=total, talent=0, money=0,
-                           money_mod=money_mod, modelled=modelled, deals=NUMBER_WORDS.get(deals, str(deals)) if deals <= 10 else deals)
+        text = text.format(total=total, reach=levels['Reach only'], archival=levels['Archival'], sales=levels['Sales trend'],
+                           ownership=mechs['Ownership'], trust=mechs['Trust'], modelled=modelled, deals=deals)
         lessons.append(f'<article class="lesson"><p class="lesson-num small">{i:02d}</p><h3>{e(title)}</h3><p>{e(text)}</p><div class="lesson-chips">{"".join(chip_html)}</div></article>')
 
     groups = collections.defaultdict(list)
