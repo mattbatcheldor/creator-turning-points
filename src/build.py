@@ -432,7 +432,12 @@ EDITIONS = [
     {
         'number': '04', 'name': 'Platform first', 'data': 'campaigns-04.json', 'template': 'page-template-04.html',
         'output': 'edition-04/index.html', 'asset_prefix': '../', 'art': platform_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (
+            ('gentle-whispering-asmr', 'Listen to the original 2011 whisper video and notice how little equipment the format needs.', 'whisper'),
+            ('king-bach-vine', 'This creator sketch appeared in contemporary coverage; watch the comic timing without treating it as footage of the follower milestone.', 'comedy'),
+            ('chewbacca-mom', 'This official Star Wars programme interviews Payne in May 2016; it is a contemporary follow-up, not her original Facebook Live upload.', 'mask'),
+            ('dream-minecraft-manhunt', 'Watch the original 2020 episode and how a simple pursuit gives the game a clear story.', 'game'),
+        ),
     },
     {
         'number': '05', 'name': 'Failure first', 'data': 'campaigns-05.json', 'template': 'page-template-05.html',

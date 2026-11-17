@@ -47,21 +47,21 @@
 | 03 | YouTube Shorts creators | 2023 | Archival | https://www.youtube.com/watch?v=jf3nzOY-QO0 | https://www.youtube.com/watch?v=jf3nzOY-QO0 |
 | 03 | xQc | 2023 | Archival | https://www.youtube.com/watch?v=n-6EJU8GV0w | https://www.youtube.com/watch?v=n-6EJU8GV0w |
 | 03 | YouTube’s creators | 2024 | Sales trend | https://www.business-standard.com/world-news/protecting-creator-economy-will-be-foundational-youtube-ceo-neal-mohan-124020601961_1.html | https://blog.youtube/inside-youtube/2024-letter-from-neal/ |
-| 04 | Twitch Plays Pokémon | 2014 | Reach only | https://blog.twitch.tv/en/2014/03/01/tpp-victory-the-thundershock-heard-around-the-world-3128a5b1cdf5 | Pending |
-| 04 | Heather Armstrong | 2002 | Archival | https://dailydot.com/lifestyle/fired-for-my-blog-dooced-personal-history | Pending |
-| 04 | Gentle Whispering | 2011 | Archival | https://www.rollingstone.com/culture/culture-features/asmr-oral-history-whisper-video-soothing-sleep-youtube-954423/ | Pending |
-| 04 | King Bach | 2015 | Reach only | https://tubefilter.com/2015/03/16/king-bach-most-followed-vine/ | Pending |
-| 04 | Serial | 2014 | Reach only | https://www.irishtimes.com/business/technology/serial-is-the-fastest-downloaded-podcast-in-itunes-history-1.2040889 | Pending |
-| 04 | DJ Khaled | 2015 | Archival | https://www.mtv.com/news/2688771/dj-khaled-snapchat-lost-at-sea/ | Pending |
-| 04 | Candace Payne | 2016 | Reach only | https://tubefilter.com/2016/05/23/chewbacca-mom-facebook-video-views/ | Pending |
-| 04 | Lofi Girl | 2017 | Archival | https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy | Pending |
-| 04 | Musical.ly | 2018 | Archival | https://techcrunch.com/2018/08/02/musically-tiktok | Pending |
-| 04 | Adopt Me! | 2019 | Reach only | https://www.gamespot.com/articles/a-roblox-game-about-adopting-critters-just-set-a-new-concurrent-player-record/1100-6490282/ | Pending |
-| 04 | D-Nice | 2020 | Reach only | https://news.prairiepublic.org/2020-03-23/dj-d-nice-throws-a-virtual-quarantine-party-with-real-vips | Pending |
-| 04 | India’s TikTok creators | 2020 | Archival | https://www.npr.org/2020/07/16/890382893/tiktok-changed-my-life-india-s-ban-on-chinese-app-leaves-video-makers-stunned | Pending |
-| 04 | Dream | 2020 | Reach only | https://www.thegamer.com/minecraft-youtube-gaming-most-watched-title-of-2020/ | Pending |
-| 04 | Snapchat Spotlight creators | 2020 | Archival | https://newsroom.snap.com/en-US/rewarding-creativity | Pending |
-| 04 | Clubhouse’s hosts | 2021 | Reach only | https://www.businessinsider.nl/clubhouse-downloads-are-falling-off-a-cliff-the-app-was-downloaded-only-about-900000-times-in-april-down-from-februarys-peak-of-9-6-million/ | Pending |
+| 04 | Twitch Plays Pokémon | 2014 | Reach only | https://blog.twitch.tv/en/2014/03/01/tpp-victory-the-thundershock-heard-around-the-world-3128a5b1cdf5 | https://www.gamespot.com/articles/twitch-plays-pokemon-collects-all-badges-enters-home-stretch/1100-6417981/ |
+| 04 | Heather Armstrong | 2002 | Archival | https://dailydot.com/lifestyle/fired-for-my-blog-dooced-personal-history | https://dooce.com/2007/10/02/about/ |
+| 04 | Gentle Whispering | 2011 | Archival | https://www.youtube.com/watch?v=VAxyAxXiOoc | https://www.youtube.com/watch?v=VAxyAxXiOoc |
+| 04 | King Bach | 2015 | Reach only | https://www.youtube.com/watch?v=t2yftAy-Tvw | https://www.youtube.com/watch?v=t2yftAy-Tvw |
+| 04 | Serial | 2014 | Reach only | https://www.irishtimes.com/business/technology/serial-is-the-fastest-downloaded-podcast-in-itunes-history-1.2040889 | https://commons.wikimedia.org/wiki/File:Serial_podcast_logo.png |
+| 04 | DJ Khaled | 2015 | Archival | https://www.youtube.com/watch?v=YHSEV__r_QE | https://www.youtube.com/watch?v=YHSEV__r_QE |
+| 04 | Candace Payne | 2016 | Reach only | https://www.youtube.com/watch?v=-IVW0aIO2Lg | https://www.youtube.com/watch?v=-IVW0aIO2Lg |
+| 04 | Lofi Girl | 2017 | Archival | https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy | https://lofigirl.com/ |
+| 04 | Musical.ly | 2018 | Archival | https://techcrunch.com/2018/08/02/musically-tiktok | https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en |
+| 04 | Adopt Me! | 2019 | Reach only | https://www.gamespot.com/articles/a-roblox-game-about-adopting-critters-just-set-a-new-concurrent-player-record/1100-6490282/ | https://www.playadopt.me/ |
+| 04 | D-Nice | 2020 | Reach only | https://www.youtube.com/watch?v=kZpi_M1FuVA | https://www.youtube.com/watch?v=kZpi_M1FuVA |
+| 04 | India’s TikTok creators | 2020 | Archival | https://www.npr.org/2020/07/16/890382893/tiktok-changed-my-life-india-s-ban-on-chinese-app-leaves-video-makers-stunned | https://www.youtube.com/watch?v=pxMMYVwOZlc |
+| 04 | Dream | 2020 | Reach only | https://www.youtube.com/watch?v=tylNqtyj0gs | https://www.youtube.com/watch?v=tylNqtyj0gs |
+| 04 | Snapchat Spotlight creators | 2020 | Archival | https://newsroom.snap.com/en-US/rewarding-creativity | https://newsroom.snap.com/en-US/rewarding-creativity |
+| 04 | Clubhouse’s hosts | 2021 | Reach only | https://www.businessinsider.nl/clubhouse-downloads-are-falling-off-a-cliff-the-app-was-downloaded-only-about-900000-times-in-april-down-from-februarys-peak-of-9-6-million/ | https://www.clubhouse.com/ |
 | 05 | YouTube’s creators | 2017 | Archival | https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/ | Pending |
 | 05 | Vine’s creators | 2016 | Archival | https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705 | Pending |
 | 05 | PewDiePie | 2017 | Archival | https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/ | Pending |

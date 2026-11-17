@@ -48,3 +48,27 @@ Published on 16 November 2026 from Claude’s drafts, at Matthew’s request, be
 | youtube-70-billion | Official 2024 CEO letter header graphic; not a payout verification |
 
 NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.
+
+## Edition 04 media checks, 17 November 2026
+
+15 stills downloaded, visually inspected and converted to 800 by 450 WebP. Source URLs, download hashes, image dimensions and successful YouTube oEmbed responses are in `verification/edition-04/`. oEmbed confirms metadata availability only.
+
+| Case | Media actually checked |
+| --- | --- |
+| twitch-plays-pokemon | Contemporary victory screenshot published by GameSpot; original stream not authenticated |
+| dooce | Later creator portrait from her own biography; no 2002 footage authenticated |
+| gentle-whispering-asmr | Original 2011 first whisper video |
+| king-bach-vine | Creator sketch embedded in contemporary 2015 coverage; format example, not footage of the follower milestone |
+| serial-podcast | Official Serial wordmark, public-domain simple logo via Wikimedia; original podcast remains audio; Original serialpodcast.org image host returned 503; credited simple wordmark mirror used |
+| dj-khaled-snapchat | Contemporary February 2016 interview about Snapchat fame; original jet-ski Story not authenticated; MTV returned a generic logo and the Complex asset was a missing-image notice, so neither was used |
+| chewbacca-mom | Contemporary May 2016 official Star Wars interview and coverage; not the original Facebook upload |
+| lofi-girl | Official current radio artwork, substituted still; original 2017 stream not authenticated; Continuing stream jfKfPfyJRdk returned incomplete oEmbed metadata and no downloadable maxresdefault or hqdefault thumbnail; not selected for screening |
+| musically-tiktok | Later official TikTok mark, cropped from 2020 announcement artwork; no original 2018 merger video authenticated; The merger press artwork contains young performers and was not used; a cropped official mark avoids photographs of minors |
+| adopt-me-roblox | Current official game key art, substituted still; original record-setting update footage not authenticated |
+| d-nice-club-quarantine | Later 2021 interview about Club Quarantine; original March 2020 Instagram stream not authenticated |
+| india-tiktok-ban | Contemporary broadcaster reporting on the June 2020 app ban; not creator footage |
+| dream-minecraft-manhunt | Original August 2020 Minecraft Manhunt episode |
+| snapchat-spotlight | Official Snap newsroom mark, substituted still; original Spotlight launch video not authenticated |
+| clubhouse | Current official app promotional graphic, substituted still; original 2021 rooms not authenticated |
+
+NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.

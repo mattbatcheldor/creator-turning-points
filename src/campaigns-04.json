@@ -36,7 +36,15 @@
   "announcement": ["Read Twitch’s post on the victory", "https://blog.twitch.tv/en/2014/03/01/tpp-victory-the-thundershock-heard-around-the-world-3128a5b1cdf5"],
   "impact_source": ["Read the final statistics · Engadget", "https://www.engadget.com/2014-03-01-twitch-plays-pokemon-final-stats-1-1-million-players-36-millio.html"],
   "links": [["See the record entry · Guinness World Records", "https://www.guinnessworldrecords.com/world-records/most-participants-on-a-single-player-online-videogame/"]],
-  "how_to_measure": "For an interactive format, measure the share of viewers who take an action, and how long they stay compared with ordinary streams."
+  "how_to_measure": "For an interactive format, measure the share of viewers who take an action, and how long they stay compared with ordinary streams.",
+  "image": {
+   "src": "assets/edition-04/twitch-plays-pokemon.webp",
+   "alt": "Twitch Plays Pokemon stream displays Our journey is complete and Thank you for watching",
+   "credit": "Contemporary victory screenshot published by GameSpot; original stream not authenticated · Twitch Plays Pokemon / The Pokemon Company, via GameSpot",
+   "source": "https://www.gamespot.com/articles/twitch-plays-pokemon-collects-all-badges-enters-home-stretch/1100-6417981/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "dooce",
@@ -75,7 +83,15 @@
   "announcement": ["Read how blogging got risky · NBC News", "https://www.nbcnews.com/news/amp/wbna6949377"],
   "impact_source": ["Read about the Dooce effect · Business Standard", "https://www.business-standard.com/article/technology/the-dooce-effect-106022201037_1.html"],
   "links": [],
-  "how_to_measure": "For personal publishing, track returning readers and the share who subscribe or follow across channels, the signal that an audience trusts the writer rather than one post."
+  "how_to_measure": "For personal publishing, track returning readers and the share who subscribe or follow across channels, the signal that an audience trusts the writer rather than one post.",
+  "image": {
+   "src": "assets/edition-04/dooce.webp",
+   "alt": "Black and white close-up portrait of Heather Armstrong",
+   "credit": "Later creator portrait from her own biography; no 2002 footage authenticated · Armstrong Media / Heather B. Armstrong",
+   "source": "https://dooce.com/2007/10/02/about/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "gentle-whispering-asmr",
@@ -106,15 +122,23 @@
   "take": "ASMR shows the creator economy finding audiences no broadcaster would have commissioned for. A quiet woman with a good microphone built a genre.",
   "credit": "Maria Viktorovna, 2011",
   "creative": {
-   "medium": "Feature",
-   "label": "Read An Oral History of ASMR · Rolling Stone",
-   "url": "https://www.rollingstone.com/culture/culture-features/asmr-oral-history-whisper-video-soothing-sleep-youtube-954423/",
+   "medium": "Original 2011 first whisper video",
+   "label": "Watch the first whisper video · Gentle Whispering",
+   "url": "https://www.youtube.com/watch?v=VAxyAxXiOoc",
    "heading": "Creator media"
   },
   "announcement": ["Read about ASMR videos · CNBC", "https://www.cnbc.com/2017/02/17/youtube-asmr-videos-what-are.html"],
   "impact_source": ["Read An Oral History of ASMR · Rolling Stone", "https://www.rollingstone.com/culture/culture-features/asmr-oral-history-whisper-video-soothing-sleep-youtube-954423/"],
   "links": [],
-  "how_to_measure": "For utility formats, measure repeat viewing per person and time of day. A video watched every night is a different asset from one watched once."
+  "how_to_measure": "For utility formats, measure repeat viewing per person and time of day. A video watched every night is a different asset from one watched once.",
+  "image": {
+   "src": "assets/edition-04/gentle-whispering-asmr.webp",
+   "alt": "A hand rests on a magazine in front of a shelf of electronics",
+   "credit": "Original 2011 first whisper video · Gentle Whispering ASMR",
+   "source": "https://www.youtube.com/watch?v=VAxyAxXiOoc",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "king-bach-vine",
@@ -145,15 +169,23 @@
   "take": "King Bach proved that six seconds was enough for a joke. TikTok inherited Vine’s best creators and its best idea: short, loopable, rewatchable.",
   "credit": "King Bach, 2013 to 2016",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about his rise to the top · Tubefilter",
-   "url": "https://tubefilter.com/2015/03/16/king-bach-most-followed-vine/",
+   "medium": "Creator sketch embedded in contemporary 2015 coverage; format example, not footage of the follower milestone",
+   "label": "Watch a contemporary creator sketch · KingBach",
+   "url": "https://www.youtube.com/watch?v=t2yftAy-Tvw",
    "heading": "Creator media"
   },
   "announcement": ["Read about his rise to the top · Tubefilter", "https://tubefilter.com/2015/03/16/king-bach-most-followed-vine/"],
   "impact_source": ["See the most popular Vine stars · Time", "https://time.com/4022184/most-popular-vine-stars"],
   "links": [],
-  "how_to_measure": "For short loops, measure replays per viewer and completion rate. A loop watched three times is worth more than three views from different people."
+  "how_to_measure": "For short loops, measure replays per viewer and completion rate. A loop watched three times is worth more than three views from different people.",
+  "image": {
+   "src": "assets/edition-04/king-bach-vine.webp",
+   "alt": "King Bach and another performer speak in a restaurant sketch",
+   "credit": "Creator sketch embedded in contemporary 2015 coverage; format example, not footage of the follower milestone · KingBach",
+   "source": "https://www.youtube.com/watch?v=t2yftAy-Tvw",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "serial-podcast",
@@ -192,7 +224,15 @@
   "announcement": ["Read why millions were listening · Atlanta Journal-Constitution", "https://www.ajc.com/news/national/why-millions-are-listening-the-podcast-serial/Rtj7KOdRq8a9crDazb1VwL"],
   "impact_source": ["Read about the record · The Irish Times", "https://www.irishtimes.com/business/technology/serial-is-the-fastest-downloaded-podcast-in-itunes-history-1.2040889"],
   "links": [],
-  "how_to_measure": "For a serialised show, track the share of listeners to episode one who reach the final episode, and how quickly new listeners start from the beginning."
+  "how_to_measure": "For a serialised show, track the share of listeners to episode one who reach the final episode, and how quickly new listeners start from the beginning.",
+  "image": {
+   "src": "assets/edition-04/serial-podcast.webp",
+   "alt": "The word Serial appears as red letters on separate black tiles",
+   "credit": "Official Serial wordmark, public-domain simple logo via Wikimedia; original podcast remains audio · Serial, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Serial_podcast_logo.png",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "dj-khaled-snapchat",
@@ -223,15 +263,23 @@
   "take": "Khaled turned Snapchat stories into a show before Instagram copied the format. The jet ski is silly, and it taught a generation of celebrities to behave like creators.",
   "credit": "DJ Khaled, 2015",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the jet ski story · MTV",
-   "url": "https://www.mtv.com/news/2688771/dj-khaled-snapchat-lost-at-sea/",
+   "medium": "Contemporary February 2016 interview about Snapchat fame; original jet-ski Story not authenticated",
+   "label": "Watch the contemporary Snapchat interview · ABC News",
+   "url": "https://www.youtube.com/watch?v=YHSEV__r_QE",
    "heading": "Creator media"
   },
   "announcement": ["Read about the jet ski story · MTV", "https://www.mtv.com/news/2688771/dj-khaled-snapchat-lost-at-sea/"],
   "impact_source": ["Read how Snapchat shaped his success · Billboard", "https://www.billboard.com/music/rb-hip-hop/dj-khaled-snapchat-keys-pathway-to-success-6820770"],
   "links": [["Read his book of keys · NPR", "https://www.npr.org/2017/01/06/506305611/dj-khaled-throws-us-the-keys"]],
-  "how_to_measure": "For story formats, track completion through a sequence of stories, replies per thousand viewers and follower growth in the days after a moment spreads."
+  "how_to_measure": "For story formats, track completion through a sequence of stories, replies per thousand viewers and follower growth in the days after a moment spreads.",
+  "image": {
+   "src": "assets/edition-04/dj-khaled-snapchat.webp",
+   "alt": "Kim Kardashian and DJ Khaled in a Snapchat clip shown by ABC News",
+   "credit": "Contemporary February 2016 interview about Snapchat fame; original jet-ski Story not authenticated · ABC News",
+   "source": "https://www.youtube.com/watch?v=YHSEV__r_QE",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "chewbacca-mom",
@@ -262,15 +310,23 @@
   "take": "Facebook paid media companies millions for live video, and a mother in a car park beat them all for free. It is the clearest example of a platform being taught its own product by a user.",
   "credit": "Candace Payne, 2016",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the record · Tubefilter",
-   "url": "https://tubefilter.com/2016/05/23/chewbacca-mom-facebook-video-views/",
+   "medium": "Contemporary May 2016 official Star Wars interview and coverage; not the original Facebook upload",
+   "label": "Watch the contemporary interview · The Star Wars Show",
+   "url": "https://www.youtube.com/watch?v=-IVW0aIO2Lg",
    "heading": "Creator media"
   },
   "announcement": ["Read about the record · Tubefilter", "https://tubefilter.com/2016/05/23/chewbacca-mom-facebook-video-views/"],
   "impact_source": ["Read about the top live video of 2016 · CNBC", "https://www.cnbc.com/2016/12/08/chewbacca-mom-was-the-most-popular-facebook-live-video-this-year-by-a-mile.html"],
   "links": [["See the record entry · Guinness World Records", "https://www.guinnessworldrecords.com/world-records/437839-most-viewed-facebook-live-video"]],
-  "how_to_measure": "Compare platforms on the same definition: average minutes watched per viewer, not views counted after a few seconds."
+  "how_to_measure": "Compare platforms on the same definition: average minutes watched per viewer, not views counted after a few seconds.",
+  "image": {
+   "src": "assets/edition-04/chewbacca-mom.webp",
+   "alt": "Candace Payne holds a Chewbacca mask beside The Star Wars Show title",
+   "credit": "Contemporary May 2016 official Star Wars interview and coverage; not the original Facebook upload · Lucasfilm / Star Wars",
+   "source": "https://www.youtube.com/watch?v=-IVW0aIO2Lg",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "lofi-girl",
@@ -309,7 +365,15 @@
   "announcement": ["Read about the takedown · TechCrunch", "https://techcrunch.com/2022/07/11/lofi-girl-takedown-youtube-music-stream-dmca"],
   "impact_source": ["Read about the debate it reignited · NPR", "https://www.npr.org/2022/07/15/1111771297/lofi-girl-disappeared-reigniting-debate-on-youtubes-copyright-policy"],
   "links": [],
-  "how_to_measure": "For an always-on stream, measure concurrent listeners by hour and how many return daily. It behaves like radio and should be measured like it."
+  "how_to_measure": "For an always-on stream, measure concurrent listeners by hour and how many return daily. It behaves like radio and should be measured like it.",
+  "image": {
+   "src": "assets/edition-04/lofi-girl.webp",
+   "alt": "An illustrated girl wears headphones and writes at a desk beside her cat",
+   "credit": "Official current radio artwork, substituted still; original 2017 stream not authenticated · Lofi Girl",
+   "source": "https://lofigirl.com/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "musically-tiktok",
@@ -349,7 +413,15 @@
   "announcement": ["Read about the merger · TechCrunch", "https://techcrunch.com/2018/08/02/musically-tiktok"],
   "impact_source": ["Read about the change · The Next Web", "https://thenextweb.com/apps/2018/08/02/musical-ly-is-merging-with-tik-toks-short-video-platform/"],
   "links": [],
-  "how_to_measure": "After merging platforms, track how many active creators keep posting after 30 and 90 days, and how quickly the new feed finds them an audience."
+  "how_to_measure": "After merging platforms, track how many active creators keep posting after 30 and 90 days, and how quickly the new feed finds them an audience.",
+  "image": {
+   "src": "assets/edition-04/musically-tiktok.webp",
+   "alt": "The TikTok musical-note mark and white TikTok lettering on black",
+   "credit": "Later official TikTok mark, cropped from 2020 announcement artwork; no original 2018 merger video authenticated · TikTok / ByteDance",
+   "source": "https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "adopt-me-roblox",
@@ -388,7 +460,15 @@
   "announcement": ["Read about the record · GameSpot", "https://www.gamespot.com/articles/a-roblox-game-about-adopting-critters-just-set-a-new-concurrent-player-record/1100-6490282/"],
   "impact_source": ["Read about the developers founding Uplift Games · PC Games Insider", "https://www.pcgamesinsider.biz/interviews-and-opinion/72169/why-the-devs-behind-robloxs-adopt-me-are-launching-new-studio-uplift-games/"],
   "links": [],
-  "how_to_measure": "For a game built on a platform, track daily active players, update-day peaks and spend per player over time."
+  "how_to_measure": "For a game built on a platform, track daily active players, update-day peaks and spend per player over time.",
+  "image": {
+   "src": "assets/edition-04/adopt-me-roblox.webp",
+   "alt": "Adopt Me illustrated pets above Adopt Collect Trade lettering",
+   "credit": "Current official game key art, substituted still; original record-setting update footage not authenticated · Uplift Games",
+   "source": "https://www.playadopt.me/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "d-nice-club-quarantine",
@@ -419,15 +499,23 @@
   "take": "Club Quarantine made a social feature into a venue. It also showed that a creator’s role can be to host, making the audience feel seen as they arrive.",
   "credit": "D-Nice, 2020",
   "creative": {
-   "medium": "Radio",
-   "label": "Listen to the story · NPR",
-   "url": "https://news.prairiepublic.org/2020-03-23/dj-d-nice-throws-a-virtual-quarantine-party-with-real-vips",
+   "medium": "Later 2021 interview about Club Quarantine; original March 2020 Instagram stream not authenticated",
+   "label": "Watch the later Club Quarantine interview · ESPN",
+   "url": "https://www.youtube.com/watch?v=kZpi_M1FuVA",
    "heading": "Creator media"
   },
   "announcement": ["Read about Club Quarantine · Refinery29", "https://www.refinery29.com/en-ca/2020/03/9600428/dj-dnice-club-quarantine-live-instagram"],
   "impact_source": ["Read about the guests · Yahoo", "https://www.yahoo.com/lifestyle/oprah-winfrey-michelle-obama-smith-204534904.html"],
   "links": [],
-  "how_to_measure": "For a live event on social, track peak concurrency, average minutes watched and how many viewers return to the next one."
+  "how_to_measure": "For a live event on social, track peak concurrency, average minutes watched and how many viewers return to the next one.",
+  "image": {
+   "src": "assets/edition-04/d-nice-club-quarantine.webp",
+   "alt": "D-Nice wears a hat and speaks into a microphone during an ESPN interview",
+   "credit": "Later 2021 interview about Club Quarantine; original March 2020 Instagram stream not authenticated · ESPN",
+   "source": "https://www.youtube.com/watch?v=kZpi_M1FuVA",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "india-tiktok-ban",
@@ -466,7 +554,15 @@
   "announcement": ["Hear creators on the ban · NPR", "https://www.npr.org/2020/07/16/890382893/tiktok-changed-my-life-india-s-ban-on-chinese-app-leaves-video-makers-stunned"],
   "impact_source": ["Read what happened after the ban · Forbes Australia", "https://www.forbes.com.au/news/innovation/tiktok-ban-what-happened-when-india-banned-social-media-giant"],
   "links": [["Read about Reels arriving in India · Tubefilter", "https://tubefilter.com/2020/07/06/instagram-expands-test-of-tiktok-clone-reels-india/"]],
-  "how_to_measure": "After a platform shock, track how much of each creator’s audience they rebuild elsewhere within 90 days, and on which platform."
+  "how_to_measure": "After a platform shock, track how much of each creator’s audience they rebuild elsewhere within 90 days, and on which platform.",
+  "image": {
+   "src": "assets/edition-04/india-tiktok-ban.webp",
+   "alt": "Broadcaster Arnab Goswami beside a red Lead Story title",
+   "credit": "Contemporary broadcaster reporting on the June 2020 app ban; not creator footage · Republic World",
+   "source": "https://www.youtube.com/watch?v=pxMMYVwOZlc",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "dream-minecraft-manhunt",
@@ -497,15 +593,23 @@
   "take": "Dream brought the story back to games. His friends’ server became a shared drama played across dozens of channels, which is a model for collaborative creator storytelling.",
   "credit": "Dream, 2020",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about Minecraft’s year on YouTube · TheGamer",
-   "url": "https://www.thegamer.com/minecraft-youtube-gaming-most-watched-title-of-2020/",
+   "medium": "Original August 2020 Minecraft Manhunt episode",
+   "label": "Watch the original 2020 Manhunt episode · Dream",
+   "url": "https://www.youtube.com/watch?v=tylNqtyj0gs",
    "heading": "Creator media"
   },
   "announcement": ["Read about YouTube Gaming’s biggest year · RouteNote", "https://routenote.com/blog/2020-is-youtube-gamings-biggest-year-ever/"],
   "impact_source": ["Read about Minecraft’s year on YouTube · TheGamer", "https://www.thegamer.com/minecraft-youtube-gaming-most-watched-title-of-2020/"],
   "links": [],
-  "how_to_measure": "For games, track views of creator content against active players by month. When creator views lead, players follow."
+  "how_to_measure": "For games, track views of creator content against active players by month. When creator views lead, players follow.",
+  "image": {
+   "src": "assets/edition-04/dream-minecraft-manhunt.webp",
+   "alt": "Minecraft characters stand above and below a grass ledge",
+   "credit": "Original August 2020 Minecraft Manhunt episode · Dream",
+   "source": "https://www.youtube.com/watch?v=tylNqtyj0gs",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "snapchat-spotlight",
@@ -545,7 +649,15 @@
   "announcement": ["Read Snap’s announcement", "https://newsroom.snap.com/en-US/rewarding-creativity"],
   "impact_source": ["Read about the launch · Tubefilter", "https://tubefilter.com/2020/11/23/snapchat-short-video-platform-spotlight-1-million-dollars-per-day/"],
   "links": [["Read about creators’ 2021 earnings · Free Malaysia Today", "https://www.freemalaysiatoday.com/category/leisure/money/2021/12/17/snapchat-creators-made-over-us250-mil-this-year"]],
-  "how_to_measure": "For a launch fund, track how many paid creators keep posting after payments fall, and the share of the feed’s views their videos still earn."
+  "how_to_measure": "For a launch fund, track how many paid creators keep posting after payments fall, and the share of the feed’s views their videos still earn.",
+  "image": {
+   "src": "assets/edition-04/snapchat-spotlight.webp",
+   "alt": "The black outlined Snapchat ghost on a yellow background",
+   "credit": "Official Snap newsroom mark, substituted still; original Spotlight launch video not authenticated · Snap Inc.",
+   "source": "https://newsroom.snap.com/en-US/rewarding-creativity",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "clubhouse",
@@ -584,6 +696,14 @@
   "announcement": ["Read the co-founder on growing pains · CNBC", "https://www.cnbc.com/2021/11/09/clubhouse-co-founder-opens-up-on-growing-pains-over-last-18-months.html"],
   "impact_source": ["Read about downloads falling · Business Insider", "https://www.businessinsider.nl/clubhouse-downloads-are-falling-off-a-cliff-the-app-was-downloaded-only-about-900000-times-in-april-down-from-februarys-peak-of-9-6-million/"],
   "links": [],
-  "how_to_measure": "For a new format, track the share of week-one users still active at week twelve, by type of host they followed."
+  "how_to_measure": "For a new format, track the share of week-one users still active at week twelve, by type of host they followed.",
+  "image": {
+   "src": "assets/edition-04/clubhouse.webp",
+   "alt": "The Clubhouse wordmark beside a yellow waving hand",
+   "credit": "Current official app promotional graphic, substituted still; original 2021 rooms not authenticated · Clubhouse",
+   "source": "https://www.clubhouse.com/",
+   "width": 800,
+   "height": 450
+  }
  }
 ]

@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-17T01:13:15.661143+00:00",
+  "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=-IVW0aIO2Lg&format=json",
+  "http_status": 200,
+  "response": {
+    "title": "Chewbacca Mom, Rogue One Character Reveal, A Star Wars Birthday Party | The Star Wars Show",
+    "author_name": "Star Wars",
+    "author_url": "https://www.youtube.com/@StarWars",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/-IVW0aIO2Lg/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-IVW0aIO2Lg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Chewbacca Mom, Rogue One Character Reveal, A Star Wars Birthday Party | The Star Wars Show\"></iframe>"
+  }
+}

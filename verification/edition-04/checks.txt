@@ -1,0 +1,5 @@
+Full build: exit 0; all 9 pages built.
+Unchanged audit: exit 1; 80 failures for 40 cases in Editions 05 to 07, each missing image field and thumbnail.
+Protection checks: PASS; case IDs/order and non-media fields unchanged; Editions 01/02 and protected files byte-identical.
+The Index generated page restored to baseline after full build.
+Zero prohibited dashes.

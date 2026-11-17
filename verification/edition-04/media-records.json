@@ -1,0 +1,370 @@
+{
+  "twitch-plays-pokemon": {
+    "page": "https://www.gamespot.com/articles/twitch-plays-pokemon-collects-all-badges-enters-home-stretch/1100-6417981/",
+    "asset": "https://www.gamespot.com/wp-content/uploads/original/1534/15343359/2446408-screen%20shot%202014-03-01%20at%201.21.40%20am.png",
+    "kind": "Contemporary victory screenshot published by GameSpot; original stream not authenticated",
+    "owner": "Twitch Plays Pokemon / The Pokemon Company, via GameSpot",
+    "fit": "contain",
+    "input_dimensions": [
+      702,
+      573
+    ],
+    "checked_at": "2026-11-17T01:13:18.210284+00:00",
+    "source_sha256": "ebb5678fdafa379cbce30b5f2025adc7f7a09b59a9a79950aa6a600e4c8fbf88",
+    "alt": "Twitch Plays Pokemon stream displays Our journey is complete and Thank you for watching"
+  },
+  "dooce": {
+    "page": "https://dooce.com/2007/10/02/about/",
+    "asset": "https://dooce.com/wp-content/uploads/2012/07/me1.jpg",
+    "kind": "Later creator portrait from her own biography; no 2002 footage authenticated",
+    "owner": "Armstrong Media / Heather B. Armstrong",
+    "centering": [
+      0.5,
+      0.3
+    ],
+    "input_dimensions": [
+      450,
+      450
+    ],
+    "checked_at": "2026-11-17T01:13:18.326692+00:00",
+    "source_sha256": "0bc43bac376124a105b4c2a283d0de89c0d296d766a7793b46ceab568e229e6c",
+    "alt": "Black and white close-up portrait of Heather Armstrong"
+  },
+  "gentle-whispering-asmr": {
+    "video": "VAxyAxXiOoc",
+    "kind": "Original 2011 first whisper video",
+    "owner": "Gentle Whispering ASMR",
+    "replace": true,
+    "label": "Watch the first whisper video \u00b7 Gentle Whispering",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VAxyAxXiOoc&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Whispering in English and Russian and flipping through a magazine / First video",
+        "author_name": "Gentle Whispering ASMR",
+        "author_url": "https://www.youtube.com/@GentleWhisperingASMR",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/VAxyAxXiOoc/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VAxyAxXiOoc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Whispering in English and Russian and flipping through a magazine / First video\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=VAxyAxXiOoc",
+    "asset": "https://i.ytimg.com/vi/VAxyAxXiOoc/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:13:24.977107+00:00",
+    "source_sha256": "265c0626c505a62066da421d1093f44481cafc3e246a6f2ca1e0797fa2d0b4bd",
+    "removed_thumbnail_bars": true,
+    "alt": "A hand rests on a magazine in front of a shelf of electronics"
+  },
+  "king-bach-vine": {
+    "video": "t2yftAy-Tvw",
+    "kind": "Creator sketch embedded in contemporary 2015 coverage; format example, not footage of the follower milestone",
+    "owner": "KingBach",
+    "replace": true,
+    "label": "Watch a contemporary creator sketch \u00b7 KingBach",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=t2yftAy-Tvw&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Working with others w/ SUPEReeeGO",
+        "author_name": "KingBach",
+        "author_url": "https://www.youtube.com/@BachelorsPadTv",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/t2yftAy-Tvw/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/t2yftAy-Tvw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Working with others w/ SUPEReeeGO\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=t2yftAy-Tvw",
+    "asset": "https://i.ytimg.com/vi/t2yftAy-Tvw/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:13:20.708034+00:00",
+    "source_sha256": "28f8e5bb56ae1ebbf35c962f7a9a4d798184e7bd7f01859ce7f0bb850f3c3729",
+    "alt": "King Bach and another performer speak in a restaurant sketch"
+  },
+  "serial-podcast": {
+    "page": "https://commons.wikimedia.org/wiki/File:Serial_podcast_logo.png",
+    "asset": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Serial_podcast_logo.png",
+    "kind": "Official Serial wordmark, public-domain simple logo via Wikimedia; original podcast remains audio",
+    "owner": "Serial, via Wikimedia Commons",
+    "fit": "contain",
+    "source_limit": "Original serialpodcast.org image host returned 503; credited simple wordmark mirror used",
+    "input_dimensions": [
+      330,
+      72
+    ],
+    "checked_at": "2026-11-17T01:14:55.129822+00:00",
+    "source_sha256": "abd1510279f279def484c1d164703afbbe50dbc715144504eaf6c48cc3ff9e7b",
+    "alt": "The word Serial appears as red letters on separate black tiles"
+  },
+  "dj-khaled-snapchat": {
+    "video": "YHSEV__r_QE",
+    "kind": "Contemporary February 2016 interview about Snapchat fame; original jet-ski Story not authenticated",
+    "owner": "ABC News",
+    "replace": true,
+    "label": "Watch the contemporary Snapchat interview \u00b7 ABC News",
+    "source_limit": "MTV returned a generic logo and the Complex asset was a missing-image notice, so neither was used",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=YHSEV__r_QE&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "DJ Khaled, Snapchat King, Explains Success",
+        "author_name": "ABC News",
+        "author_url": "https://www.youtube.com/@ABCNews",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/YHSEV__r_QE/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YHSEV__r_QE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"DJ Khaled, Snapchat King, Explains Success\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=YHSEV__r_QE",
+    "asset": "https://i.ytimg.com/vi/YHSEV__r_QE/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:16:31.043654+00:00",
+    "source_sha256": "ce4d7b0a7afbaa61feeaee62158bd0b313fcc3061184a8b36ee0e1448a73e6b8",
+    "removed_thumbnail_bars": true,
+    "alt": "Kim Kardashian and DJ Khaled in a Snapchat clip shown by ABC News"
+  },
+  "chewbacca-mom": {
+    "video": "-IVW0aIO2Lg",
+    "kind": "Contemporary May 2016 official Star Wars interview and coverage; not the original Facebook upload",
+    "owner": "Lucasfilm / Star Wars",
+    "replace": true,
+    "label": "Watch the contemporary interview \u00b7 The Star Wars Show",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=-IVW0aIO2Lg&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Chewbacca Mom, Rogue One Character Reveal, A Star Wars Birthday Party | The Star Wars Show",
+        "author_name": "Star Wars",
+        "author_url": "https://www.youtube.com/@StarWars",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/-IVW0aIO2Lg/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-IVW0aIO2Lg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Chewbacca Mom, Rogue One Character Reveal, A Star Wars Birthday Party | The Star Wars Show\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=-IVW0aIO2Lg",
+    "asset": "https://i.ytimg.com/vi/-IVW0aIO2Lg/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:13:20.791421+00:00",
+    "source_sha256": "5413d7e771049c8caed4964d9b1336dd16cda81a026a0c0f49719a259f62aaf4",
+    "alt": "Candace Payne holds a Chewbacca mask beside The Star Wars Show title"
+  },
+  "lofi-girl": {
+    "page": "https://lofigirl.com/",
+    "asset": "https://www.lofigirl.com/_app/immutable/assets/lofigirl.Cqz36DEU.webp",
+    "kind": "Official current radio artwork, substituted still; original 2017 stream not authenticated",
+    "owner": "Lofi Girl",
+    "source_limit": "Continuing stream jfKfPfyJRdk returned incomplete oEmbed metadata and no downloadable maxresdefault or hqdefault thumbnail; not selected for screening",
+    "input_dimensions": [
+      1920,
+      1080
+    ],
+    "checked_at": "2026-11-17T01:14:47.860941+00:00",
+    "source_sha256": "4bf39ba856f285c83348c9ad44cea8f928845696e927dbaeef9339d33147dc92",
+    "alt": "An illustrated girl wears headphones and writes at a desk beside her cat"
+  },
+  "musically-tiktok": {
+    "page": "https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en",
+    "asset": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/cbd52b8956b5c4bd2f9aa43894cbbb30",
+    "kind": "Later official TikTok mark, cropped from 2020 announcement artwork; no original 2018 merger video authenticated",
+    "owner": "TikTok / ByteDance",
+    "fit": "contain",
+    "input_dimensions": [
+      578,
+      592
+    ],
+    "checked_at": "2026-11-17T01:14:47.826054+00:00",
+    "source_sha256": "a20c53e75afc09037d23815fc85774e989ee5d1825072344bf0b52a22a2edbd4",
+    "crop": [
+      180,
+      170,
+      410,
+      240
+    ],
+    "source_limit": "The merger press artwork contains young performers and was not used; a cropped official mark avoids photographs of minors",
+    "alt": "The TikTok musical-note mark and white TikTok lettering on black"
+  },
+  "adopt-me-roblox": {
+    "page": "https://www.playadopt.me/",
+    "asset": "https://cdn.playadopt.me/websites/playadoptme/og-images/v2/Default-OG-Key-Art.png",
+    "kind": "Current official game key art, substituted still; original record-setting update footage not authenticated",
+    "owner": "Uplift Games",
+    "input_dimensions": [
+      1920,
+      1080
+    ],
+    "checked_at": "2026-11-17T01:13:16.624499+00:00",
+    "source_sha256": "c98aa394104d3cafdb9d3d7d3f1a01f1e84e34ec8794c0a75df037f7f03feb57",
+    "alt": "Adopt Me illustrated pets above Adopt Collect Trade lettering"
+  },
+  "d-nice-club-quarantine": {
+    "video": "kZpi_M1FuVA",
+    "kind": "Later 2021 interview about Club Quarantine; original March 2020 Instagram stream not authenticated",
+    "owner": "ESPN",
+    "replace": true,
+    "label": "Watch the later Club Quarantine interview \u00b7 ESPN",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=kZpi_M1FuVA&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "D-Nice on the impact Club Quarantine has made this past year | Stephen A\u2019s World",
+        "author_name": "ESPN",
+        "author_url": "https://www.youtube.com/@espn",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/kZpi_M1FuVA/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/kZpi_M1FuVA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"D-Nice on the impact Club Quarantine has made this past year | Stephen A\u2019s World\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=kZpi_M1FuVA",
+    "asset": "https://i.ytimg.com/vi/kZpi_M1FuVA/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:13:25.098852+00:00",
+    "source_sha256": "00f3cce7d55b595a48d646376c6cfc4aa71c8d1f7d00c5984594358d3d9a7463",
+    "alt": "D-Nice wears a hat and speaks into a microphone during an ESPN interview"
+  },
+  "india-tiktok-ban": {
+    "video": "pxMMYVwOZlc",
+    "kind": "Contemporary broadcaster reporting on the June 2020 app ban; not creator footage",
+    "owner": "Republic World",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pxMMYVwOZlc&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Centre Blocks 59 Chinese Apps, Unprecedented Move Against China | Arnab Goswami's Lead Story",
+        "author_name": "Republic World",
+        "author_url": "https://www.youtube.com/@RepublicWorld",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/pxMMYVwOZlc/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/pxMMYVwOZlc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Centre Blocks 59 Chinese Apps, Unprecedented Move Against China | Arnab Goswami&#39;s Lead Story\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=pxMMYVwOZlc",
+    "asset": "https://i.ytimg.com/vi/pxMMYVwOZlc/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:13:25.213957+00:00",
+    "source_sha256": "1ce724e59bd78a98f23120c9e41432f3a7c1c4c63a8c78f7feefae7833620d28",
+    "alt": "Broadcaster Arnab Goswami beside a red Lead Story title"
+  },
+  "dream-minecraft-manhunt": {
+    "video": "tylNqtyj0gs",
+    "kind": "Original August 2020 Minecraft Manhunt episode",
+    "owner": "Dream",
+    "replace": true,
+    "label": "Watch the original 2020 Manhunt episode \u00b7 Dream",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=tylNqtyj0gs&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Minecraft Speedrunner VS 3 Hunters GRAND FINALE",
+        "author_name": "Dream",
+        "author_url": "https://www.youtube.com/@dream",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/tylNqtyj0gs/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/tylNqtyj0gs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Minecraft Speedrunner VS 3 Hunters GRAND FINALE\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=tylNqtyj0gs",
+    "asset": "https://i.ytimg.com/vi/tylNqtyj0gs/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:13:31.245322+00:00",
+    "source_sha256": "4159b2a10cf276974ded5ddc377a54913fe7f20780bf550bcc0d17eb436f9bb4",
+    "removed_thumbnail_bars": true,
+    "alt": "Minecraft characters stand above and below a grass ledge"
+  },
+  "snapchat-spotlight": {
+    "page": "https://newsroom.snap.com/en-US/rewarding-creativity",
+    "asset": "https://images.ctfassets.net/o1znirz7lzo4/5MZHMnofPFGLYCCW9CvU5w/a48a75a292ccc377a502c6cf255e94b3/Ghost-_16_9_yellow.jpg",
+    "kind": "Official Snap newsroom mark, substituted still; original Spotlight launch video not authenticated",
+    "owner": "Snap Inc.",
+    "input_dimensions": [
+      1920,
+      1080
+    ],
+    "checked_at": "2026-11-17T01:13:23.464517+00:00",
+    "source_sha256": "4552775624dd47098659ccb43e4397e54608ee41992b5ac5486e582885a523ef",
+    "alt": "The black outlined Snapchat ghost on a yellow background"
+  },
+  "clubhouse": {
+    "page": "https://www.clubhouse.com/",
+    "asset": "https://static-assets.clubhouseapi.com/static/img/full_tn_new.bb150f3218ef.png",
+    "kind": "Current official app promotional graphic, substituted still; original 2021 rooms not authenticated",
+    "owner": "Clubhouse",
+    "fit": "contain",
+    "input_dimensions": [
+      2040,
+      1149
+    ],
+    "checked_at": "2026-11-17T01:13:24.511589+00:00",
+    "source_sha256": "6794a84201dc5cb3e92214c03a119a2536dd851b82fef8fa011ace374b07bb5c",
+    "alt": "The Clubhouse wordmark beside a yellow waving hand"
+  }
+}
