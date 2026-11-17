@@ -4,3 +4,4 @@ python3 src/audit.py: exit 1; 110 failures for the 55 still-unillustrated cases 
 Protected-content check: PASS. Case IDs, order and all non-media fields unchanged. Editions 01/02 byte-identical.
 The Index was restored to baseline after the full build to preserve its existing generated content.
 YouTube oEmbed metadata availability checked, not playback or embedding permission.
+Screening integration correction: copied singular placeholder replaced with the existing builder token and existing shared CSS class names. Verified four rendered film cards and four data-video play controls; no unresolved template tokens in Edition 03.
