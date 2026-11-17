@@ -422,7 +422,12 @@ EDITIONS = [
     {
         'number': '03', 'name': 'Money first', 'data': 'campaigns-03.json', 'template': 'page-template-03.html',
         'output': 'edition-03/index.html', 'asset_prefix': '../', 'art': money_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (
+            ('amanda-palmer-kickstarter', 'Watch the original 2012 pitch and how Palmer makes backing the work feel like joining it.', 'music'),
+            ('patreon', 'The original Pedals video ends with Conte introducing Patreon; compare the production effort with the funding problem.', 'robot'),
+            ('critical-role-vox-machina', 'Watch the original 2019 campaign launch before reading how the funding target expanded.', 'animation'),
+            ('xqc-kick', 'Watch the creator announce his 2023 platform move; the clip does not independently verify the reported contract value.', 'stream'),
+        ),
     },
     {
         'number': '04', 'name': 'Platform first', 'data': 'campaigns-04.json', 'template': 'page-template-04.html',

@@ -22,5 +22,29 @@ No controlled creator sales effect or audited Conspiracy palette count was verif
 
 ## Editions 03 to 07 and The Index
 
-Published on 16 November 2026 from Claude’s drafts, at Matthew’s request, before the media verification step. NOT VERIFIED for all 70 cases: thumbnails (none added yet, so each case shows a platform tile), screening films (no screening rooms in these editions yet), oEmbed checks and a full check of every external link. Sources were found by web search when the cases were written; figures marked as reported or claimed in a case are not independently confirmed. The site audit reports one missing image per case in these editions until stills are added.
+Published on 16 November 2026 from Claude’s drafts, at Matthew’s request, before the media verification step. Media checks are recorded by edition below. Editions without a completed media record still lack verified thumbnails, screening films and oEmbed checks. A full check of every external link remains NOT VERIFIED for all 70 cases. Sources were found by web search when the cases were written; figures marked as reported or claimed in a case are not independently confirmed. The unchanged site audit reports missing image fields and thumbnails for cases awaiting stills.
 
+
+## Edition 03 media checks, 17 November 2026
+
+15 stills downloaded, visually inspected and converted to 800 by 450 WebP. Source URLs, download hashes, image dimensions and successful YouTube oEmbed responses are in `verification/edition-03/`. oEmbed confirms metadata availability only.
+
+| Case | Media actually checked |
+| --- | --- |
+| youtube-partner-program | Official platform graphic, substituted still; no original 2007 video authenticated |
+| amanda-palmer-kickstarter | Original 2012 Kickstarter campaign pitch |
+| patreon | Original 2013 music video with Patreon launch pitch |
+| maker-studios-disney | Contemporary acquisition graphic published by Tubefilter; no official announcement video authenticated |
+| twitch-amazon | Contemporary September 2014 interview with Twitch founders about the Amazon acquisition |
+| exploding-kittens | Original 2015 Kickstarter campaign video |
+| forbes-highest-paid-youtubers | Creator commentary on earnings, July 2015; predates the October Forbes ranking |
+| youtube-super-chat | Official 2017 Super Chat launch demonstration graphic |
+| sinocism-substack | Current official newsletter mark, substituted still; no original 2017 launch footage authenticated |
+| critical-role-vox-machina | Original 2019 Kickstarter campaign launch |
+| tiktok-creator-fund | Official 2020 Creator Fund announcement graphic, cropped to the title |
+| alex-cooper-call-her-daddy | Official SiriusXM 2024 deal announcement image |
+| youtube-shorts-revenue-share | Official January 2023 Partner Program contract explanation |
+| xqc-kick | Original June 2023 creator announcement of the Kick move |
+| youtube-70-billion | Official 2024 CEO letter header graphic; not a payout verification |
+
+NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.

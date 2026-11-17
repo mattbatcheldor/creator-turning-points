@@ -32,21 +32,21 @@
 | 02 | Colleen Hoover and BookTok | 2022 | Sales trend | https://www.youtube.com/watch?v=jkl29PgMtvo | https://www.youtube.com/watch?v=jkl29PgMtvo |
 | 02 | The Buy Guide and Danielle | 2023 | Sales trend | https://www.youtube.com/watch?v=dYVNrIHHcg8 | https://www.youtube.com/watch?v=dYVNrIHHcg8 |
 | 02 | Alix Earle | 2023 | Sales trend | https://www.youtube.com/watch?v=GpbaM7j_LEA | https://www.youtube.com/watch?v=GpbaM7j_LEA |
-| 03 | YouTube’s first partners | 2007 | Archival | https://youtube.googleblog.com/2007/05/youtube-elevates-most-popular-users-to.html | Pending |
-| 03 | Amanda Palmer | 2012 | Sales trend | https://music.mxdwn.com/2012/06/03/news/amanda-palmer-raises-over-1-1-million-via-kickstarter-announces-new-album-title-theatre-is-evil/amp/ | Pending |
-| 03 | Jack Conte | 2013 | Sales trend | https://welcome.patreon.com:443/about | Pending |
-| 03 | Maker Studios | 2014 | Archival | https://tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/ | Pending |
-| 03 | Twitch’s streamers | 2014 | Archival | https://www.engadget.com/2014-08-25-twitch-confirms-amazon-purchase.html | Pending |
-| 03 | The Oatmeal | 2015 | Sales trend | https://www.geekwire.com/2015/exploding-kittens-blows-up-kickstarter-as-most-backed-project-of-all-time/ | Pending |
-| 03 | PewDiePie and the Forbes list | 2015 | Archival | https://www.thedrum.com/news/2015/10/15/pewdiepie-tops-forbes-highest-paid-youtubers-list | Pending |
-| 03 | YouTube’s live streamers | 2017 | Archival | https://tubefilter.com/2017/01/12/youtube-live-streaming-super-chats-no-fan-funding/ | Pending |
-| 03 | Bill Bishop | 2017 | Archival | https://on.substack.com/p/five-years-of-substack-with-bill | Pending |
-| 03 | Critical Role | 2019 | Sales trend | https://www.cnbc.com/2019/04/19/critical-role-vox-machina-kickstarter-ends-with-11-million-in-funding.html | Pending |
-| 03 | TikTok’s creators | 2020 | Archival | https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en | Pending |
-| 03 | Alex Cooper | 2021 | Archival | https://www.thewrap.com/alex-cooper-siriusxm-deal/ | Pending |
-| 03 | YouTube Shorts creators | 2023 | Archival | https://tubefilter.com/2023/01/10/youtube-shorts-ad-revenue-sharing-begin-new-partner-program/ | Pending |
-| 03 | xQc | 2023 | Archival | https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick | Pending |
-| 03 | YouTube’s creators | 2024 | Sales trend | https://www.business-standard.com/world-news/protecting-creator-economy-will-be-foundational-youtube-ceo-neal-mohan-124020601961_1.html | Pending |
+| 03 | YouTube’s first partners | 2007 | Archival | https://youtube.googleblog.com/2007/05/youtube-elevates-most-popular-users-to.html | https://blog.youtube/news-and-events/youtube-elevates-most-popular-users-to/ |
+| 03 | Amanda Palmer | 2012 | Sales trend | https://www.youtube.com/watch?v=TveAzAs6NAY | https://www.youtube.com/watch?v=TveAzAs6NAY |
+| 03 | Jack Conte | 2013 | Sales trend | https://www.youtube.com/watch?v=mZ02alEkbLw | https://www.youtube.com/watch?v=mZ02alEkbLw |
+| 03 | Maker Studios | 2014 | Archival | https://tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/ | https://www.tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/ |
+| 03 | Twitch’s streamers | 2014 | Archival | https://www.youtube.com/watch?v=w4VcGF0QSLs | https://www.youtube.com/watch?v=w4VcGF0QSLs |
+| 03 | The Oatmeal | 2015 | Sales trend | https://www.youtube.com/watch?v=OtREUajBwIQ | https://www.youtube.com/watch?v=OtREUajBwIQ |
+| 03 | PewDiePie and the Forbes list | 2015 | Archival | https://www.thedrum.com/news/2015/10/15/pewdiepie-tops-forbes-highest-paid-youtubers-list | https://www.youtube.com/watch?v=zn0y3Opb8Wk |
+| 03 | YouTube’s live streamers | 2017 | Archival | https://tubefilter.com/2017/01/12/youtube-live-streaming-super-chats-no-fan-funding/ | https://blog.youtube/news-and-events/can-we-chat-hello-super-chat/ |
+| 03 | Bill Bishop | 2017 | Archival | https://on.substack.com/p/five-years-of-substack-with-bill | https://sinocism.com/about |
+| 03 | Critical Role | 2019 | Sales trend | https://www.youtube.com/watch?v=IAi9xjcNFus | https://www.youtube.com/watch?v=IAi9xjcNFus |
+| 03 | TikTok’s creators | 2020 | Archival | https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en | https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en |
+| 03 | Alex Cooper | 2021 | Archival | https://www.thewrap.com/alex-cooper-siriusxm-deal/ | https://www.siriusxm.com/blog/alex-cooper |
+| 03 | YouTube Shorts creators | 2023 | Archival | https://www.youtube.com/watch?v=jf3nzOY-QO0 | https://www.youtube.com/watch?v=jf3nzOY-QO0 |
+| 03 | xQc | 2023 | Archival | https://www.youtube.com/watch?v=n-6EJU8GV0w | https://www.youtube.com/watch?v=n-6EJU8GV0w |
+| 03 | YouTube’s creators | 2024 | Sales trend | https://www.business-standard.com/world-news/protecting-creator-economy-will-be-foundational-youtube-ceo-neal-mohan-124020601961_1.html | https://blog.youtube/inside-youtube/2024-letter-from-neal/ |
 | 04 | Twitch Plays Pokémon | 2014 | Reach only | https://blog.twitch.tv/en/2014/03/01/tpp-victory-the-thundershock-heard-around-the-world-3128a5b1cdf5 | Pending |
 | 04 | Heather Armstrong | 2002 | Archival | https://dailydot.com/lifestyle/fired-for-my-blog-dooced-personal-history | Pending |
 | 04 | Gentle Whispering | 2011 | Archival | https://www.rollingstone.com/culture/culture-features/asmr-oral-history-whisper-video-soothing-sleep-youtube-954423/ | Pending |

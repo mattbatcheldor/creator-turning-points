@@ -1,0 +1,387 @@
+{
+  "youtube-partner-program": {
+    "page": "https://blog.youtube/news-and-events/youtube-elevates-most-popular-users-to/",
+    "asset": "https://blog.youtube/static/blog_youtube/images/youtube_social_1200x630.png?version=pr20261029-2131",
+    "kind": "Official platform graphic, substituted still; no original 2007 video authenticated",
+    "owner": "YouTube",
+    "fit": "contain",
+    "input_dimensions": [
+      640,
+      336
+    ],
+    "checked_at": "2026-11-17T01:05:47.784728+00:00",
+    "source_sha256": "f12f18b590e1e3c68be10a5fc3f8b36ddb69132994bf3b7f40439b02ff1a7c88",
+    "alt": "The red YouTube play symbol on a white background"
+  },
+  "amanda-palmer-kickstarter": {
+    "video": "TveAzAs6NAY",
+    "kind": "Original 2012 Kickstarter campaign pitch",
+    "owner": "Amanda Palmer",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=TveAzAs6NAY&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "AMANDA PALMER's new RECORD, ART BOOK, and TOUR (pre-order on KICKSTARTER)",
+        "author_name": "Amanda Palmer",
+        "author_url": "https://www.youtube.com/@amandapalmer",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/TveAzAs6NAY/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TveAzAs6NAY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMANDA PALMER&#39;s new RECORD, ART BOOK, and TOUR (pre-order on KICKSTARTER)\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=TveAzAs6NAY",
+    "asset": "https://i.ytimg.com/vi/TveAzAs6NAY/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:06:03.566752+00:00",
+    "source_sha256": "cf09f244e639df01852281dc304285c8b9f957e5a6ac66a6c520e1cbecf254c6",
+    "removed_thumbnail_bars": true,
+    "label": "Watch the original Kickstarter pitch \u00b7 Amanda Palmer",
+    "alt": "Amanda Palmer holds a handwritten sign saying This is the future of music"
+  },
+  "patreon": {
+    "video": "mZ02alEkbLw",
+    "kind": "Original 2013 music video with Patreon launch pitch",
+    "owner": "Jack Conte",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=mZ02alEkbLw&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Pedals Music Video (featuring REAL robots) - Conte",
+        "author_name": "Jack Conte",
+        "author_url": "https://www.youtube.com/@Jackconte",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/mZ02alEkbLw/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/mZ02alEkbLw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Pedals Music Video (featuring REAL robots) - Conte\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=mZ02alEkbLw",
+    "asset": "https://i.ytimg.com/vi/mZ02alEkbLw/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:05:52.742486+00:00",
+    "source_sha256": "2289d534fbd9120fefae3ae1b967283555ef7172d1503c4c9267258e835358c7",
+    "label": "Watch Pedals and the original Patreon pitch \u00b7 Jack Conte",
+    "alt": "A mechanical robot head in the Pedals music video"
+  },
+  "maker-studios-disney": {
+    "page": "https://www.tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/",
+    "asset": "https://www.tubefilter.com/wp-content/uploads/2014/03/disney-maker-studios.jpg",
+    "kind": "Contemporary acquisition graphic published by Tubefilter; no official announcement video authenticated",
+    "owner": "Disney and Maker Studios, via Tubefilter",
+    "fit": "contain",
+    "input_dimensions": [
+      650,
+      400
+    ],
+    "checked_at": "2026-11-17T01:05:46.438034+00:00",
+    "source_sha256": "f5c4a6b1d026bc131eb3142b464b7e5dc91004d1dff0ca86d1fd18fa63410dbc",
+    "alt": "The Disney wordmark above the Maker Studios name in black and white"
+  },
+  "twitch-amazon": {
+    "video": "w4VcGF0QSLs",
+    "kind": "Contemporary September 2014 interview with Twitch founders about the Amazon acquisition",
+    "owner": "TechCrunch",
+    "replace": true,
+    "label": "Watch the acquisition interview \u00b7 TechCrunch",
+    "alt": "Twitch founders Emmett Shear and Kevin Lin on the TechCrunch interview stage",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=w4VcGF0QSLs&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "What's Next for Twitch from Emmett Shear and Kevin Lin | Disrupt SF 2014",
+        "author_name": "TechCrunch",
+        "author_url": "https://www.youtube.com/@TechCrunch",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/w4VcGF0QSLs/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/w4VcGF0QSLs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What&#39;s Next for Twitch from Emmett Shear and Kevin Lin | Disrupt SF 2014\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=w4VcGF0QSLs",
+    "asset": "https://i.ytimg.com/vi/w4VcGF0QSLs/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:06:03.787188+00:00",
+    "source_sha256": "f328fbf50c1226f96c99e5fef318b76898c83c1f3466741fc66e4a811f25ec22",
+    "removed_thumbnail_bars": true
+  },
+  "exploding-kittens": {
+    "video": "OtREUajBwIQ",
+    "kind": "Original 2015 Kickstarter campaign video",
+    "owner": "Matthew Inman / Exploding Kittens",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=OtREUajBwIQ&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Exploding Kittens - A new card game on Kickstarter",
+        "author_name": "Matthew Inman",
+        "author_url": "https://www.youtube.com/@oatmeal",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/OtREUajBwIQ/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/OtREUajBwIQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Exploding Kittens - A new card game on Kickstarter\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=OtREUajBwIQ",
+    "asset": "https://i.ytimg.com/vi/OtREUajBwIQ/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:06:03.533220+00:00",
+    "source_sha256": "8ecee46c28acb14a8d1a066b5ed5f383b6f326666c5d7b8e7568adc73e6c2802",
+    "removed_thumbnail_bars": true,
+    "label": "Watch the original Kickstarter campaign \u00b7 Matthew Inman",
+    "alt": "Exploding Kittens packaging and illustrated cards"
+  },
+  "forbes-highest-paid-youtubers": {
+    "video": "zn0y3Opb8Wk",
+    "kind": "Creator commentary on earnings, July 2015; predates the October Forbes ranking",
+    "owner": "PewDiePie",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=zn0y3Opb8Wk&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Lets Talk About Money.",
+        "author_name": "PewDiePie",
+        "author_url": "https://www.youtube.com/@PewDiePie",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/zn0y3Opb8Wk/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/zn0y3Opb8Wk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Lets Talk About Money.\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=zn0y3Opb8Wk",
+    "asset": "https://i.ytimg.com/vi/zn0y3Opb8Wk/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:06:03.541675+00:00",
+    "source_sha256": "8d3d0c5e409c93403b0a25ffef84fc0ee4b039d83d4e6821cfab2ce29e1565c5",
+    "removed_thumbnail_bars": true,
+    "alt": "PewDiePie speaks to the camera beside a microphone"
+  },
+  "youtube-super-chat": {
+    "page": "https://blog.youtube/news-and-events/can-we-chat-hello-super-chat/",
+    "asset": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/unnamed_1_1.gif",
+    "kind": "Official 2017 Super Chat launch demonstration graphic",
+    "owner": "YouTube",
+    "fit": "contain",
+    "input_dimensions": [
+      375,
+      667
+    ],
+    "checked_at": "2026-11-17T01:05:44.797443+00:00",
+    "source_sha256": "881688773dc765f2dd98ab697032a5bc7ba3122db5131c21610b6fd0232c99d8",
+    "alt": "A phone interface showing a creator livestream above viewer chat messages"
+  },
+  "sinocism-substack": {
+    "page": "https://sinocism.com/about",
+    "asset": "https://substack-post-media.s3.amazonaws.com/public/images/b4160fc3-3c55-4866-97bf-c757b294a729_176x176.png",
+    "kind": "Current official newsletter mark, substituted still; no original 2017 launch footage authenticated",
+    "owner": "Sinocism / Bill Bishop",
+    "fit": "contain",
+    "input_dimensions": [
+      176,
+      176
+    ],
+    "checked_at": "2026-11-17T01:05:46.089321+00:00",
+    "source_sha256": "98acae7e69d9266a5ba6dcb34b45c854fbf2cec171e98968e9216709ffc211dd",
+    "alt": "The white Sinocism S mark on a red square"
+  },
+  "critical-role-vox-machina": {
+    "video": "IAi9xjcNFus",
+    "kind": "Original 2019 Kickstarter campaign launch",
+    "owner": "Critical Role",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=IAi9xjcNFus&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "The Legend of Vox Machina Kickstarter is LIVE!",
+        "author_name": "Critical Role",
+        "author_url": "https://www.youtube.com/@criticalrole",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/IAi9xjcNFus/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/IAi9xjcNFus?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"The Legend of Vox Machina Kickstarter is LIVE!\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=IAi9xjcNFus",
+    "asset": "https://i.ytimg.com/vi/IAi9xjcNFus/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:05:52.791805+00:00",
+    "source_sha256": "aef213037c96d5a2e358265403a658c9ca4cacbd3b05347bcbf2f97c235b9b12",
+    "label": "Watch the original Kickstarter launch \u00b7 Critical Role",
+    "alt": "Illustrated Vox Machina characters above the animated series title"
+  },
+  "tiktok-creator-fund": {
+    "page": "https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en",
+    "asset": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/cbd52b8956b5c4bd2f9aa43894cbbb30",
+    "kind": "Official 2020 Creator Fund announcement graphic, cropped to the title",
+    "owner": "TikTok",
+    "fit": "contain",
+    "input_dimensions": [
+      578,
+      592
+    ],
+    "checked_at": "2026-11-17T01:05:50.194652+00:00",
+    "source_sha256": "063eaf6acbe7782d128043395b47464289b2212a37d7828d9facd1168b3217cf",
+    "alt": "TikTok Creator Fund lettering on a dark background",
+    "crop": [
+      75,
+      170,
+      520,
+      420
+    ]
+  },
+  "alex-cooper-call-her-daddy": {
+    "page": "https://www.siriusxm.com/blog/alex-cooper",
+    "asset": "https://blog-admin.siriusxm.com/wp-content/uploads/2024/08/Alex-Cooper-16x9-SiriusXM.png",
+    "kind": "Official SiriusXM 2024 deal announcement image",
+    "owner": "SiriusXM",
+    "input_dimensions": [
+      1136,
+      639
+    ],
+    "checked_at": "2026-11-17T01:05:50.611847+00:00",
+    "source_sha256": "4636460b0eaef6b7a112eb990b20501093c80a1a03535822b9abe4c4becd55e6",
+    "alt": "Alex Cooper in a black top against a grey background"
+  },
+  "youtube-shorts-revenue-share": {
+    "video": "jf3nzOY-QO0",
+    "kind": "Official January 2023 Partner Program contract explanation",
+    "owner": "YouTube Creators",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jf3nzOY-QO0&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "(Action Needed) New YouTube Partner Program Contract Terms for all Monetizing Creators",
+        "author_name": "YouTube Creators",
+        "author_url": "https://www.youtube.com/@youtubecreators",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/jf3nzOY-QO0/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/jf3nzOY-QO0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"(Action Needed) New YouTube Partner Program Contract Terms for all Monetizing Creators\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=jf3nzOY-QO0",
+    "asset": "https://i.ytimg.com/vi/jf3nzOY-QO0/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:05:52.787616+00:00",
+    "source_sha256": "154994048b27734f96e194db4dcfa8dd06cbc991ed8b383ff16ad19a1a46b799",
+    "label": "Watch the January 2023 contract explanation \u00b7 YouTube Creators",
+    "alt": "YouTube Partner Program contract terms announcement graphic"
+  },
+  "xqc-kick": {
+    "video": "n-6EJU8GV0w",
+    "kind": "Original June 2023 creator announcement of the Kick move",
+    "owner": "xQc",
+    "replace": true,
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=n-6EJU8GV0w&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "I have a big announcement",
+        "author_name": "xQc",
+        "author_url": "https://www.youtube.com/@xQcOW",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/n-6EJU8GV0w/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/n-6EJU8GV0w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"I have a big announcement\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=n-6EJU8GV0w",
+    "asset": "https://i.ytimg.com/vi/n-6EJU8GV0w/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:05:52.773924+00:00",
+    "source_sha256": "0bef78f2e1435b5f0457e3c1f86e76bda097d8bfe26e0b7989c7bbcf18b8fac7",
+    "label": "Watch the original Kick announcement \u00b7 xQc",
+    "alt": "xQc sits at a press conference table against a Kick branded backdrop"
+  },
+  "youtube-70-billion": {
+    "page": "https://blog.youtube/inside-youtube/2024-letter-from-neal/",
+    "asset": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube_2024Priorities_Header.max-1440x810.png",
+    "kind": "Official 2024 CEO letter header graphic; not a payout verification",
+    "owner": "YouTube",
+    "fit": "contain",
+    "input_dimensions": [
+      1080,
+      810
+    ],
+    "checked_at": "2026-11-17T01:05:54.777467+00:00",
+    "source_sha256": "4162269a686cdda98bb0df0ab841420f9ca49d57498dea2412a090f961d6687a",
+    "alt": "Colourful illustration headed Our 2024 Priorities"
+  }
+}

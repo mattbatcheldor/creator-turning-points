@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-17T01:05:45.930933+00:00",
+  "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=TveAzAs6NAY&format=json",
+  "http_status": 200,
+  "response": {
+    "title": "AMANDA PALMER's new RECORD, ART BOOK, and TOUR (pre-order on KICKSTARTER)",
+    "author_name": "Amanda Palmer",
+    "author_url": "https://www.youtube.com/@amandapalmer",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/TveAzAs6NAY/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TveAzAs6NAY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMANDA PALMER&#39;s new RECORD, ART BOOK, and TOUR (pre-order on KICKSTARTER)\"></iframe>"
+  }
+}

@@ -36,7 +36,15 @@
   "announcement": ["Read YouTube’s announcement", "https://youtube.googleblog.com/2007/05/youtube-elevates-most-popular-users-to.html"],
   "impact_source": ["Read the launch report · TechCrunch", "https://techcrunch.com/2007/05/04/youtube-launches-revenue-sharing-partners-program-but-no-pre-rolls"],
   "links": [],
-  "how_to_measure": "For any creator revenue programme, publish the share of eligible creators who earn something each month, and the median, not only the total paid."
+  "how_to_measure": "For any creator revenue programme, publish the share of eligible creators who earn something each month, and the median, not only the total paid.",
+  "image": {
+   "src": "assets/edition-03/youtube-partner-program.webp",
+   "alt": "The red YouTube play symbol on a white background",
+   "credit": "Official platform graphic, substituted still; no original 2007 video authenticated · YouTube",
+   "source": "https://blog.youtube/news-and-events/youtube-elevates-most-popular-users-to/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "amanda-palmer-kickstarter",
@@ -67,16 +75,24 @@
   "take": "Palmer showed that a direct relationship with fans is a balance sheet. She also faced criticism for asking volunteer musicians to play for free, a reminder that fan funding raises expectations of fairness.",
   "credit": "Amanda Palmer, 2012",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the campaign · mxdwn",
-   "url": "https://music.mxdwn.com/2012/06/03/news/amanda-palmer-raises-over-1-1-million-via-kickstarter-announces-new-album-title-theatre-is-evil/amp/",
+   "medium": "Original 2012 Kickstarter campaign pitch",
+   "label": "Watch the original Kickstarter pitch · Amanda Palmer",
+   "url": "https://www.youtube.com/watch?v=TveAzAs6NAY",
    "heading": "Creator media"
   },
   "announcement": ["Read about the campaign · mxdwn", "https://music.mxdwn.com/2012/06/03/news/amanda-palmer-raises-over-1-1-million-via-kickstarter-announces-new-album-title-theatre-is-evil/amp/"],
   "impact_source": ["See the record entry · Guinness World Records", "https://www.guinnessworldrecords.com/world-records/114322-most-money-pledged-for-a-kickstarter-music-project"],
   "links": [["Read about the year music crowdfunding broke · Hypebot", "https://www.hypebot.com/2012-the-year-music-crowdfunding-broke/"]],
   "deal_value": "$1,192,793 pledged",
-  "how_to_measure": "Report what a campaign nets after rewards, fees and shipping, and how many backers return for the next one."
+  "how_to_measure": "Report what a campaign nets after rewards, fees and shipping, and how many backers return for the next one.",
+  "image": {
+   "src": "assets/edition-03/amanda-palmer-kickstarter.webp",
+   "alt": "Amanda Palmer holds a handwritten sign saying This is the future of music",
+   "credit": "Original 2012 Kickstarter campaign pitch · Amanda Palmer",
+   "source": "https://www.youtube.com/watch?v=TveAzAs6NAY",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "patreon",
@@ -107,15 +123,23 @@
   "take": "Patreon is the creator economy’s most important idea after advertising sharing: that fans want to pay. It was built by a creator who had felt the problem, which is why creators trusted it.",
   "credit": "Jack Conte and Sam Yam, 2013",
   "creative": {
-   "medium": "Company history",
-   "label": "Read the story of Patreon",
-   "url": "https://welcome.patreon.com:443/about",
+   "medium": "Original 2013 music video with Patreon launch pitch",
+   "label": "Watch Pedals and the original Patreon pitch · Jack Conte",
+   "url": "https://www.youtube.com/watch?v=mZ02alEkbLw",
    "heading": "Creator media"
   },
   "announcement": ["Read the founding story · TechCrunch", "https://techcrunch.com/2019/02/12/patreon-story"],
   "impact_source": ["Read about the $10 billion milestone · Axios", "https://www.axios.com/2025/08/05/patreon-10-billion-creator-economy-ai"],
   "links": [],
-  "how_to_measure": "For membership programmes, track monthly retention of paying members and revenue per creator by size band, so the middle of the market is visible as well as the top."
+  "how_to_measure": "For membership programmes, track monthly retention of paying members and revenue per creator by size band, so the middle of the market is visible as well as the top.",
+  "image": {
+   "src": "assets/edition-03/patreon.webp",
+   "alt": "A mechanical robot head in the Pedals music video",
+   "credit": "Original 2013 music video with Patreon launch pitch · Jack Conte",
+   "source": "https://www.youtube.com/watch?v=mZ02alEkbLw",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "maker-studios-disney",
@@ -155,7 +179,15 @@
   "announcement": ["Read about the deal · CNN Money", "https://money.cnn.com/2014/03/24/news/companies/disney-maker-studios-acquisition/"],
   "impact_source": ["Read about the deal terms · Tubefilter", "https://tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/"],
   "links": [],
-  "how_to_measure": "After buying a creator business, track creator retention, revenue per channel and audience overlap with the parent’s own brands every quarter."
+  "how_to_measure": "After buying a creator business, track creator retention, revenue per channel and audience overlap with the parent’s own brands every quarter.",
+  "image": {
+   "src": "assets/edition-03/maker-studios-disney.webp",
+   "alt": "The Disney wordmark above the Maker Studios name in black and white",
+   "credit": "Contemporary acquisition graphic published by Tubefilter; no official announcement video authenticated · Disney and Maker Studios, via Tubefilter",
+   "source": "https://www.tubefilter.com/2014/03/24/disney-buys-maker-studios-500-million/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "twitch-amazon",
@@ -187,15 +219,23 @@
   "take": "Amazon paid for a habit that streamers had created. Ten years on, the fights over revenue splits and exclusive deals all trace back to that imbalance.",
   "credit": "Twitch and Amazon, 2014",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the sale · Engadget",
-   "url": "https://www.engadget.com/2014-08-25-twitch-confirms-amazon-purchase.html",
+   "medium": "Contemporary September 2014 interview with Twitch founders about the Amazon acquisition",
+   "label": "Watch the acquisition interview · TechCrunch",
+   "url": "https://www.youtube.com/watch?v=w4VcGF0QSLs",
    "heading": "Creator media"
   },
   "announcement": ["Read about the sale · Engadget", "https://www.engadget.com/2014-08-25-twitch-confirms-amazon-purchase.html"],
   "impact_source": ["Read about the deal · The Drum", "https://www.thedrum.com/news/2014/08/26/amazon-snaps-live-gaming-video-service-twitch-970m"],
   "links": [],
-  "how_to_measure": "For a live platform, report hours watched per active viewer and the share of revenue that reaches streamers, alongside total revenue."
+  "how_to_measure": "For a live platform, report hours watched per active viewer and the share of revenue that reaches streamers, alongside total revenue.",
+  "image": {
+   "src": "assets/edition-03/twitch-amazon.webp",
+   "alt": "Twitch founders Emmett Shear and Kevin Lin on the TechCrunch interview stage",
+   "credit": "Contemporary September 2014 interview with Twitch founders about the Amazon acquisition · TechCrunch",
+   "source": "https://www.youtube.com/watch?v=w4VcGF0QSLs",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "exploding-kittens",
@@ -227,15 +267,23 @@
   "take": "The Oatmeal turned readers into customers for a game, not a comic. It shows that what an audience trusts is the creator’s taste, which travels further than the original medium.",
   "credit": "Matthew Inman, Elan Lee and Shane Small, 2015",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the record · GeekWire",
-   "url": "https://www.geekwire.com/2015/exploding-kittens-blows-up-kickstarter-as-most-backed-project-of-all-time/",
+   "medium": "Original 2015 Kickstarter campaign video",
+   "label": "Watch the original Kickstarter campaign · Matthew Inman",
+   "url": "https://www.youtube.com/watch?v=OtREUajBwIQ",
    "heading": "Creator media"
   },
   "announcement": ["Read about the record · GeekWire", "https://www.geekwire.com/2015/exploding-kittens-blows-up-kickstarter-as-most-backed-project-of-all-time/"],
   "impact_source": ["Read the final figures · Crowdfund Insider", "https://www.crowdfundinsider.com/2015/02/63057-elan-lees-exploding-kittens-secures-8782571from-219382-kickstarters-booming-business-kickstarter-history-for-fat-cats/"],
   "links": [],
-  "how_to_measure": "Track backers who were already readers, then follow retail sales in the year after delivery to see if the product found buyers beyond the creator’s audience."
+  "how_to_measure": "Track backers who were already readers, then follow retail sales in the year after delivery to see if the product found buyers beyond the creator’s audience.",
+  "image": {
+   "src": "assets/edition-03/exploding-kittens.webp",
+   "alt": "Exploding Kittens packaging and illustrated cards",
+   "credit": "Original 2015 Kickstarter campaign video · Matthew Inman / Exploding Kittens",
+   "source": "https://www.youtube.com/watch?v=OtREUajBwIQ",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "forbes-highest-paid-youtubers",
@@ -274,7 +322,15 @@
   "announcement": ["Read about the list · The Drum", "https://www.thedrum.com/news/2015/10/15/pewdiepie-tops-forbes-highest-paid-youtubers-list"],
   "impact_source": ["Read the ranking · Complex", "https://www.complex.com/pop-culture/2015/10/forbes-releases-list-of-richest-youtube-stars-including-pewdiepie-earning-twelve-million-dollars"],
   "links": [],
-  "how_to_measure": "When estimating a creator’s commercial value, separate platform income from deals and products. The mix tells you how dependent they are on one platform."
+  "how_to_measure": "When estimating a creator’s commercial value, separate platform income from deals and products. The mix tells you how dependent they are on one platform.",
+  "image": {
+   "src": "assets/edition-03/forbes-highest-paid-youtubers.webp",
+   "alt": "PewDiePie speaks to the camera beside a microphone",
+   "credit": "Creator commentary on earnings, July 2015; predates the October Forbes ranking · PewDiePie",
+   "source": "https://www.youtube.com/watch?v=zn0y3Opb8Wk",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "youtube-super-chat",
@@ -313,7 +369,15 @@
   "announcement": ["Read about the launch · TechCrunch", "https://techcrunch.com/2017/01/12/youtube-launches-super-chat-a-way-for-creators-to-make-money-from-their-live-streams/?ncid=rss"],
   "impact_source": ["Read how it replaced fan funding · Tubefilter", "https://tubefilter.com/2017/01/12/youtube-live-streaming-super-chats-no-fan-funding/"],
   "links": [],
-  "how_to_measure": "Track paid messages per thousand live viewers and the share of payers who pay again within a month."
+  "how_to_measure": "Track paid messages per thousand live viewers and the share of payers who pay again within a month.",
+  "image": {
+   "src": "assets/edition-03/youtube-super-chat.webp",
+   "alt": "A phone interface showing a creator livestream above viewer chat messages",
+   "credit": "Official 2017 Super Chat launch demonstration graphic · YouTube",
+   "source": "https://blog.youtube/news-and-events/can-we-chat-hello-super-chat/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "sinocism-substack",
@@ -352,7 +416,15 @@
   "announcement": ["Read the launch report · TechCrunch", "https://techcrunch.com/2017/10/16/substack-sinocism-launch"],
   "impact_source": ["Read the interview · Press Gazette", "https://pressgazette.co.uk/news/bill-bishop-sinocism-interview/"],
   "links": [],
-  "how_to_measure": "For a paid newsletter, track the conversion rate from free to paid readers, annual renewal and revenue per thousand subscribers."
+  "how_to_measure": "For a paid newsletter, track the conversion rate from free to paid readers, annual renewal and revenue per thousand subscribers.",
+  "image": {
+   "src": "assets/edition-03/sinocism-substack.webp",
+   "alt": "The white Sinocism S mark on a red square",
+   "credit": "Current official newsletter mark, substituted still; no original 2017 launch footage authenticated · Sinocism / Bill Bishop",
+   "source": "https://sinocism.com/about",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "critical-role-vox-machina",
@@ -384,15 +456,23 @@
   "take": "Critical Role used crowdfunding as market research and won a series deal with the result. It is the cleanest example in the archive of a community proving demand before a company would.",
   "credit": "Critical Role, 2019",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read how the campaign closed · CNBC",
-   "url": "https://www.cnbc.com/2019/04/19/critical-role-vox-machina-kickstarter-ends-with-11-million-in-funding.html",
+   "medium": "Original 2019 Kickstarter campaign launch",
+   "label": "Watch the original Kickstarter launch · Critical Role",
+   "url": "https://www.youtube.com/watch?v=IAi9xjcNFus",
    "heading": "Creator media"
   },
   "announcement": ["Read how the campaign closed · CNBC", "https://www.cnbc.com/2019/04/19/critical-role-vox-machina-kickstarter-ends-with-11-million-in-funding.html"],
   "impact_source": ["Read about the Amazon order · Tubefilter", "https://www.tubefilter.com/2019/11/05/amazon-prime-video-critical-role-kickstarter-legend-of-vox-machina/amp/"],
   "links": [],
-  "how_to_measure": "Use a pre-sale as a test: measure backers per thousand engaged viewers, and the share from outside the core community."
+  "how_to_measure": "Use a pre-sale as a test: measure backers per thousand engaged viewers, and the share from outside the core community.",
+  "image": {
+   "src": "assets/edition-03/critical-role-vox-machina.webp",
+   "alt": "Illustrated Vox Machina characters above the animated series title",
+   "credit": "Original 2019 Kickstarter campaign launch · Critical Role",
+   "source": "https://www.youtube.com/watch?v=IAi9xjcNFus",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "tiktok-creator-fund",
@@ -432,7 +512,15 @@
   "announcement": ["Read TikTok’s announcement", "https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en"],
   "impact_source": ["Read about the $1 billion plan · Tubefilter", "https://tubefilter.com/2020/07/30/tiktok-creator-fund-1-billion-in-3-years/"],
   "links": [],
-  "how_to_measure": "Publish payments per thousand views by month. If the rate falls as more creators join, the model needs to change before the best creators leave."
+  "how_to_measure": "Publish payments per thousand views by month. If the rate falls as more creators join, the model needs to change before the best creators leave.",
+  "image": {
+   "src": "assets/edition-03/tiktok-creator-fund.webp",
+   "alt": "TikTok Creator Fund lettering on a dark background",
+   "credit": "Official 2020 Creator Fund announcement graphic, cropped to the title · TikTok",
+   "source": "https://newsroom.tiktok.com/introducing-the-200-million-tiktok-creator-fund?lang=en",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "alex-cooper-call-her-daddy",
@@ -472,7 +560,15 @@
   "announcement": ["Read about the SiriusXM deal · The Wrap", "https://www.thewrap.com/alex-cooper-siriusxm-deal/"],
   "impact_source": ["Read about the move from Spotify · CNN", "https://amp.cnn.com/cnn/2024/08/20/business/alex-cooper-call-her-daddy-spotify-podcast"],
   "links": [],
-  "how_to_measure": "For a licensing deal, track audience retention after the move, advertising revenue per listener and growth from the new partner’s distribution."
+  "how_to_measure": "For a licensing deal, track audience retention after the move, advertising revenue per listener and growth from the new partner’s distribution.",
+  "image": {
+   "src": "assets/edition-03/alex-cooper-call-her-daddy.webp",
+   "alt": "Alex Cooper in a black top against a grey background",
+   "credit": "Official SiriusXM 2024 deal announcement image · SiriusXM",
+   "source": "https://www.siriusxm.com/blog/alex-cooper",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "youtube-shorts-revenue-share",
@@ -503,15 +599,23 @@
   "take": "This is the Partner Program decision made again, sixteen years later, for a new format. It shows YouTube’s view that sharing advertising is what keeps creators.",
   "credit": "YouTube, 2023",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the change · Tubefilter",
-   "url": "https://tubefilter.com/2023/01/10/youtube-shorts-ad-revenue-sharing-begin-new-partner-program/",
+   "medium": "Official January 2023 Partner Program contract explanation",
+   "label": "Watch the January 2023 contract explanation · YouTube Creators",
+   "url": "https://www.youtube.com/watch?v=jf3nzOY-QO0",
    "heading": "Creator media"
   },
   "announcement": ["Read about the change · Tubefilter", "https://tubefilter.com/2023/01/10/youtube-shorts-ad-revenue-sharing-begin-new-partner-program/"],
   "impact_source": ["Read about the start date · Android Central", "https://www.androidcentral.com/apps-software/shorts-youtube-partner-program"],
   "links": [],
-  "how_to_measure": "Compare revenue per thousand views for short and long videos by the same creator, and track whether Shorts viewers go on to watch long-form."
+  "how_to_measure": "Compare revenue per thousand views for short and long videos by the same creator, and track whether Shorts viewers go on to watch long-form.",
+  "image": {
+   "src": "assets/edition-03/youtube-shorts-revenue-share.webp",
+   "alt": "YouTube Partner Program contract terms announcement graphic",
+   "credit": "Official January 2023 Partner Program contract explanation · YouTube Creators",
+   "source": "https://www.youtube.com/watch?v=jf3nzOY-QO0",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "xqc-kick",
@@ -543,15 +647,23 @@
   "take": "This deal is the creator economy’s transfer fee. It also shows the questions to ask about where the money comes from before you follow it.",
   "credit": "xQc and Kick, 2023",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the deal · PC Gamer",
-   "url": "https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick",
+   "medium": "Original June 2023 creator announcement of the Kick move",
+   "label": "Watch the original Kick announcement · xQc",
+   "url": "https://www.youtube.com/watch?v=n-6EJU8GV0w",
    "heading": "Creator media"
   },
   "announcement": ["Read about the deal · PC Gamer", "https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick"],
   "impact_source": ["See the record entry · Guinness World Records", "https://guinnessworldrecords.com/world-records/763346-largest-e-sports-streaming-deal-for-an-individual-ever"],
   "links": [],
-  "how_to_measure": "For a platform signing a creator, track how many of the creator’s viewers become regular users of the platform for other channels, not only for the creator."
+  "how_to_measure": "For a platform signing a creator, track how many of the creator’s viewers become regular users of the platform for other channels, not only for the creator.",
+  "image": {
+   "src": "assets/edition-03/xqc-kick.webp",
+   "alt": "xQc sits at a press conference table against a Kick branded backdrop",
+   "credit": "Original June 2023 creator announcement of the Kick move · xQc",
+   "source": "https://www.youtube.com/watch?v=n-6EJU8GV0w",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "youtube-70-billion",
@@ -590,6 +702,14 @@
   "announcement": ["Read about the letter · Business Standard", "https://www.business-standard.com/world-news/protecting-creator-economy-will-be-foundational-youtube-ceo-neal-mohan-124020601961_1.html"],
   "impact_source": ["Read about the payout figure · Storyboard18", "https://www.storyboard18.com/how-it-works/how-much-did-youtube-pay-creators-in-the-last-three-years-22292.htm"],
   "links": [],
-  "how_to_measure": "Ask platforms to report payouts by partner type and size band: individual creators, music and media companies, and the share reaching the smallest earners."
+  "how_to_measure": "Ask platforms to report payouts by partner type and size band: individual creators, music and media companies, and the share reaching the smallest earners.",
+  "image": {
+   "src": "assets/edition-03/youtube-70-billion.webp",
+   "alt": "Colourful illustration headed Our 2024 Priorities",
+   "credit": "Official 2024 CEO letter header graphic; not a payout verification · YouTube",
+   "source": "https://blog.youtube/inside-youtube/2024-letter-from-neal/",
+   "width": 800,
+   "height": 450
+  }
  }
 ]
