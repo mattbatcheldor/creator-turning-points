@@ -452,7 +452,12 @@ EDITIONS = [
     {
         'number': '06', 'name': 'Brand first', 'data': 'campaigns-06.json', 'template': 'page-template-06.html',
         'output': 'edition-06/index.html', 'asset_prefix': '../', 'art': brand_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (
+            ('feastables', 'Watch how the original 2022 promotion makes a product purchase part of a story; it does not verify later sales figures.', 'chocolate'),
+            ('hashtag-united', 'The original 2016 introduction explains how an online football audience becomes a club.', 'football'),
+            ('crunchlabs', 'Watch Rober introduce the subscription in his original 2022 warehouse tour, connecting videos to things people can build.', 'build'),
+            ('smosh-bought-back', 'Watch the founders announce the 2023 buyback and how they ask the audience to support an independent business.', 'ownership'),
+        ),
     },
     {
         'number': '07', 'name': 'Edge first', 'data': 'campaigns-07.json', 'template': 'page-template-07.html',

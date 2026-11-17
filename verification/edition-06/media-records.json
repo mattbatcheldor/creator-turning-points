@@ -1,0 +1,462 @@
+{
+  "feastables": {
+    "video": "Hwybp38GnZw",
+    "kind": "Original June 2022 Feastables chocolate-factory promotion; not verification of later sales",
+    "owner": "MrBeast",
+    "replace": true,
+    "label": "Watch the original chocolate-factory promotion \u00b7 MrBeast",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Hwybp38GnZw&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "I Built Willy Wonka's Chocolate Factory!",
+        "author_name": "MrBeast",
+        "author_url": "https://www.youtube.com/@MrBeast",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/Hwybp38GnZw/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Hwybp38GnZw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"I Built Willy Wonka&#39;s Chocolate Factory!\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=Hwybp38GnZw",
+    "asset": "https://i.ytimg.com/vi/Hwybp38GnZw/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:21.019590+00:00",
+    "source_sha256": "2640e7790db1042756ad9d715b3c432c4ff11f077ee93cd61a2c6c9139e2a9e3",
+    "alt": "MrBeast in a yellow hat beside a colourful Wonka chocolate factory"
+  },
+  "michelle-phan-ipsy": {
+    "video": "AuFOLJxutAM",
+    "kind": "Original 2012 creator visit to Ipsy; later than the 2011 founding",
+    "owner": "Michelle Phan",
+    "replace": true,
+    "label": "Watch the 2012 Ipsy workday video \u00b7 Michelle Phan",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=AuFOLJxutAM&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Follow Me to Work at Ipsy",
+        "author_name": "Michelle Phan",
+        "author_url": "https://www.youtube.com/@MichellePhan",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/AuFOLJxutAM/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AuFOLJxutAM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Follow Me to Work at Ipsy\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=AuFOLJxutAM",
+    "asset": "https://i.ytimg.com/vi/AuFOLJxutAM/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:33:29.272736+00:00",
+    "source_sha256": "c4043b396949ce3b07090e8c2eff9605e760dc5889ae6f5b126777260d264526",
+    "removed_thumbnail_bars": true,
+    "alt": "Michelle Phan raises a hand beside an Ipsy sign"
+  },
+  "deliciously-ella": {
+    "page": "https://deliciouslyella.com/",
+    "asset": "https://cdn.shopify.com/s/files/1/0810/2094/4689/files/lifestyle_web_shots_0004_us_oat_bar_srp_lifestyle_high_res_720.jpg?v=1768216615",
+    "kind": "Current official packaged-food photograph, substituted still; original 2015 retail launch footage not authenticated",
+    "owner": "Deliciously Ella",
+    "input_dimensions": [
+      584,
+      719
+    ],
+    "checked_at": "2026-11-17T01:33:15.253473+00:00",
+    "source_sha256": "91104c7ec1b4fe74eaec65dddf1bbeffcbdf3e9b786c484e5858d67a26c14a87",
+    "alt": "Deliciously Ella oat bars in a display box beside a cup of coffee"
+  },
+  "huda-beauty": {
+    "video": "xrvlL_FGWxs",
+    "kind": "Later October 2018 founder interview about building Huda Beauty; not the original 2017 deal announcement",
+    "owner": "CNBC Make It",
+    "replace": true,
+    "label": "Watch the later brand-building interview \u00b7 CNBC Make It",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=xrvlL_FGWxs&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "How Huda Kattan Created Her Billion-Dollar Beauty Business",
+        "author_name": "CNBC Make It",
+        "author_url": "https://www.youtube.com/@CNBCMakeIt",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/xrvlL_FGWxs/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/xrvlL_FGWxs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"How Huda Kattan Created Her Billion-Dollar Beauty Business\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=xrvlL_FGWxs",
+    "asset": "https://i.ytimg.com/vi/xrvlL_FGWxs/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:38.367554+00:00",
+    "source_sha256": "931ab8fdd83543a8f2ed2e0aac6bc983fa54c031b1e5a6821d3350a9f0f98f2d",
+    "alt": "Huda Kattan beside a headline about her billion-dollar beauty brand"
+  },
+  "glossier": {
+    "video": "MyRQsK6sf3w",
+    "kind": "Official 2017 conference interview with Emily Weiss about Glossier's community model; not the original 2014 launch",
+    "owner": "TNW",
+    "replace": true,
+    "label": "Watch the 2017 founder interview \u00b7 TNW",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=MyRQsK6sf3w&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Emily Weiss (Glossier) on A Non-Traditional Approach to Community | TNW Conference 2017",
+        "author_name": "TNW",
+        "author_url": "https://www.youtube.com/@TheNextWeb",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/MyRQsK6sf3w/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MyRQsK6sf3w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Emily Weiss (Glossier) on A Non-Traditional Approach to Community | TNW Conference 2017\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=MyRQsK6sf3w",
+    "asset": "https://i.ytimg.com/vi/MyRQsK6sf3w/hqdefault.jpg",
+    "input_dimensions": [
+      480,
+      360
+    ],
+    "checked_at": "2026-11-17T01:33:27.855018+00:00",
+    "source_sha256": "07428e7caf1a116d6d81d305162dcd954f2c616f59feb4735093f2758a0542d7",
+    "removed_thumbnail_bars": true,
+    "alt": "Emily Weiss speaks on a purple-lit TNW conference stage"
+  },
+  "kylie-cosmetics": {
+    "video": "VayyLoioSAk",
+    "kind": "Original October 2019 creator tour of Kylie Cosmetics headquarters; not the 2015 launch or Coty deal announcement",
+    "owner": "Kylie Jenner",
+    "replace": true,
+    "label": "Watch the 2019 cosmetics office tour \u00b7 Kylie Jenner",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VayyLoioSAk&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Official Kylie Jenner Office Tour",
+        "author_name": "Kylie Jenner",
+        "author_url": "https://www.youtube.com/@kyliejenner",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/VayyLoioSAk/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VayyLoioSAk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Official Kylie Jenner Office Tour\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=VayyLoioSAk",
+    "asset": "https://i.ytimg.com/vi/VayyLoioSAk/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:21.188477+00:00",
+    "source_sha256": "bf64aa9a5adac8cf6b3e94dcf116261f7215a51d366048b391799b6a52c3d812",
+    "alt": "Kylie Cosmetics Office Tour lettering over pale office doors"
+  },
+  "hot-ones": {
+    "video": "U9DyHthJ6LA",
+    "kind": "Later official 2019 Hot Ones episode showing the interview and sauce format; not a revenue audit",
+    "owner": "First We Feast",
+    "replace": true,
+    "label": "Watch the later Gordon Ramsay episode \u00b7 First We Feast",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=U9DyHthJ6LA&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Gordon Ramsay Savagely Critiques Spicy Wings | Hot Ones",
+        "author_name": "First We Feast",
+        "author_url": "https://www.youtube.com/@FirstWeFeast",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/U9DyHthJ6LA/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/U9DyHthJ6LA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Gordon Ramsay Savagely Critiques Spicy Wings | Hot Ones\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=U9DyHthJ6LA",
+    "asset": "https://i.ytimg.com/vi/U9DyHthJ6LA/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:27.321297+00:00",
+    "source_sha256": "e19fccae71e1e54635c1011337855ed05e9e2cbeac5484774b85c1615dbc609a",
+    "alt": "Gordon Ramsay holds a chicken wing beside the Hot Ones title"
+  },
+  "hashtag-united": {
+    "video": "NUykdNO-YkA",
+    "kind": "Original March 2016 club introduction",
+    "owner": "Spencer FC",
+    "replace": true,
+    "label": "Watch the original club introduction \u00b7 Spencer FC",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NUykdNO-YkA&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "INTRODUCING HASHTAG UNITED!",
+        "author_name": "Spencer FC",
+        "author_url": "https://www.youtube.com/@SpencerFC",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/NUykdNO-YkA/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NUykdNO-YkA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"INTRODUCING HASHTAG UNITED!\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=NUykdNO-YkA",
+    "asset": "https://i.ytimg.com/vi/NUykdNO-YkA/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:21.145267+00:00",
+    "source_sha256": "3d57f57f696cffb630ca7071b641aba3a958421a9f8d9c740f1a03070d5f613c",
+    "alt": "Three footballers wear yellow and blue Hashtag United shirts"
+  },
+  "diary-of-a-ceo": {
+    "page": "https://podnews.net/press-release/doac-one-billion",
+    "asset": "https://i.podnews.network/r/a/1680/stephen-bartlett2411.png.jpeg",
+    "kind": "Show publicity image accompanying the billion-views-and-listens announcement; not an original 2017 episode",
+    "owner": "The Diary Of A CEO / Flight Story, via Podnews",
+    "input_dimensions": [
+      1680,
+      840
+    ],
+    "checked_at": "2026-11-17T01:33:14.482176+00:00",
+    "source_sha256": "be683125e00e1c6cb5160fbd0268adbb5d6f87616b8fb7e179725cafe6d78956",
+    "alt": "Steven Bartlett wears a black shirt against a cream background"
+  },
+  "chamberlain-coffee": {
+    "video": "FQib8LJYPBk",
+    "kind": "Original December 2019 coffee-recipe and brand-launch video",
+    "owner": "emma chamberlain",
+    "replace": true,
+    "label": "Watch the original coffee launch recipe \u00b7 Emma Chamberlain",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=FQib8LJYPBk&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "MY COFFEE RECIPE",
+        "author_name": "emma chamberlain",
+        "author_url": "https://www.youtube.com/@emmachamberlain",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/FQib8LJYPBk/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/FQib8LJYPBk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"MY COFFEE RECIPE\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=FQib8LJYPBk",
+    "asset": "https://i.ytimg.com/vi/FQib8LJYPBk/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:21.293247+00:00",
+    "source_sha256": "c53dfe5f79ce0856d6055315a218380e9670f37860778850579e73d2a349c7f0",
+    "alt": "Emma Chamberlain drinks iced coffee beside I am starting a coffee company lettering"
+  },
+  "sidemen-sides": {
+    "video": "g6SrUUN2eAQ",
+    "kind": "Later official international restaurant-opening example; original 2021 launch and 2022 Wembley footage not authenticated",
+    "owner": "Sides",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=g6SrUUN2eAQ&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "WE OPENED OUR FIRST INTERNATIONAL SIDES RESTAURANT...",
+        "author_name": "Sides",
+        "author_url": "https://www.youtube.com/@eatsides",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/g6SrUUN2eAQ/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/g6SrUUN2eAQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"WE OPENED OUR FIRST INTERNATIONAL SIDES RESTAURANT...\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=g6SrUUN2eAQ",
+    "asset": "https://i.ytimg.com/vi/g6SrUUN2eAQ/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:28.057946+00:00",
+    "source_sha256": "4b960dfb1d343bcf98e33a2ab45ec2b2a8856c5169b6bed87ef8bc2049002f4f",
+    "alt": "The Sidemen group stand beside We Opened in Singapore lettering and food"
+  },
+  "crunchlabs": {
+    "video": "h8g9wfI9nGI",
+    "kind": "Original June 2022 warehouse tour introducing CrunchLabs",
+    "owner": "Mark Rober",
+    "replace": true,
+    "label": "Watch the original CrunchLabs introduction \u00b7 Mark Rober",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=h8g9wfI9nGI&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "My Secret Warehouse Tour",
+        "author_name": "Mark Rober",
+        "author_url": "https://www.youtube.com/@MarkRober",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/h8g9wfI9nGI/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/h8g9wfI9nGI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"My Secret Warehouse Tour\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=h8g9wfI9nGI",
+    "asset": "https://i.ytimg.com/vi/h8g9wfI9nGI/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:27.802315+00:00",
+    "source_sha256": "c5f11d833a548ec9bae64f14204633d4bf4af15206f701927fdaae917a4098c1",
+    "alt": "Mark Rober sits beside a Coca-Cola dispenser and a coloured light strip"
+  },
+  "rhode-elf": {
+    "page": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607",
+    "asset": "https://mms.businesswire.com/media/20250528613364/en/2482289/4/CEO_elf_Tarang_Amin%2C_Founder_Hailey_Bieber.jpg",
+    "kind": "Official May 2025 acquisition-announcement press photograph",
+    "owner": "e.l.f. Beauty / rhode",
+    "fit": "contain",
+    "input_dimensions": [
+      480,
+      368
+    ],
+    "checked_at": "2026-11-17T01:33:32.850181+00:00",
+    "source_sha256": "1a3282b3e2cd423f9093ee49ff404094fe4855a607356bb3a46aec849d468c48",
+    "alt": "Tarang Amin and Hailey Bieber pose in a room with pale curtains"
+  },
+  "smosh-bought-back": {
+    "video": "DwsZggwPRKc",
+    "kind": "Original June 2023 founders' buyback announcement",
+    "owner": "Smosh",
+    "replace": true,
+    "label": "Watch the original buyback announcement \u00b7 Smosh",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=DwsZggwPRKc&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "WE BOUGHT SMOSH!",
+        "author_name": "Smosh",
+        "author_url": "https://www.youtube.com/@smosh",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/DwsZggwPRKc/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/DwsZggwPRKc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"WE BOUGHT SMOSH!\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=DwsZggwPRKc",
+    "asset": "https://i.ytimg.com/vi/DwsZggwPRKc/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:37.553034+00:00",
+    "source_sha256": "da51450becd25ae8bae5b43a73adcee4d81679dae4af46060f764f315d2f3218",
+    "alt": "Anthony Padilla and Ian Hecox smile at the camera"
+  },
+  "dude-perfect-investment": {
+    "video": "C09W10I0L2E",
+    "kind": "Contemporary April 2024 interview with Dude Perfect and Highmount about the investment",
+    "owner": "CNBC Television",
+    "replace": true,
+    "label": "Watch the contemporary investment interview \u00b7 CNBC Television",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=C09W10I0L2E&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Dude Perfect on new $100M+ investment: Want to bring experiences to viewers in person",
+        "author_name": "CNBC Television",
+        "author_url": "https://www.youtube.com/@CNBCtelevision",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/C09W10I0L2E/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/C09W10I0L2E?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dude Perfect on new $100M+ investment: Want to bring experiences to viewers in person\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=C09W10I0L2E",
+    "asset": "https://i.ytimg.com/vi/C09W10I0L2E/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:33:37.717648+00:00",
+    "source_sha256": "32bf471c9108b2d8fed19aa99b9194969b76c1cbf8e6a3f0eb3e2230b7816375",
+    "alt": "CNBC split screen shows Dude Perfect members beside an investment headline"
+  }
+}

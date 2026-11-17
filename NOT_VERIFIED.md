@@ -96,3 +96,27 @@ NOT VERIFIED: playback in every region, embedding permission, complete browser i
 | tiktok-goes-dark | Official January 2025 shutdown-statement graphic; not footage of the blackout |
 
 NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.
+
+## Edition 06 media checks, 17 November 2026
+
+15 stills downloaded, visually inspected and converted to 800 by 450 WebP. Source URLs, download hashes, image dimensions and successful YouTube oEmbed responses are in `verification/edition-06/`. oEmbed confirms metadata availability only.
+
+| Case | Media actually checked |
+| --- | --- |
+| feastables | Original June 2022 Feastables chocolate-factory promotion; not verification of later sales |
+| michelle-phan-ipsy | Original 2012 creator visit to Ipsy; later than the 2011 founding |
+| deliciously-ella | Current official packaged-food photograph, substituted still; original 2015 retail launch footage not authenticated |
+| huda-beauty | Later October 2018 founder interview about building Huda Beauty; not the original 2017 deal announcement |
+| glossier | Official 2017 conference interview with Emily Weiss about Glossier's community model; not the original 2014 launch |
+| kylie-cosmetics | Original October 2019 creator tour of Kylie Cosmetics headquarters; not the 2015 launch or Coty deal announcement |
+| hot-ones | Later official 2019 Hot Ones episode showing the interview and sauce format; not a revenue audit |
+| hashtag-united | Original March 2016 club introduction |
+| diary-of-a-ceo | Show publicity image accompanying the billion-views-and-listens announcement; not an original 2017 episode |
+| chamberlain-coffee | Original December 2019 coffee-recipe and brand-launch video |
+| sidemen-sides | Later official international restaurant-opening example; original 2021 launch and 2022 Wembley footage not authenticated |
+| crunchlabs | Original June 2022 warehouse tour introducing CrunchLabs |
+| rhode-elf | Official May 2025 acquisition-announcement press photograph |
+| smosh-bought-back | Original June 2023 founders' buyback announcement |
+| dude-perfect-investment | Contemporary April 2024 interview with Dude Perfect and Highmount about the investment |
+
+NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.

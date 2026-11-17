@@ -28,15 +28,23 @@
   "take": "Feastables is the end point of the creator economy so far: the videos are the marketing, and the chocolate pays for them. Burger taught the lesson Feastables applied, which is to own the product properly.",
   "credit": "MrBeast, 2022 to 2024",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read how chocolate overtook the videos · Fortune",
-   "url": "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/",
+   "medium": "Original June 2022 Feastables chocolate-factory promotion; not verification of later sales",
+   "label": "Watch the original chocolate-factory promotion · MrBeast",
+   "url": "https://www.youtube.com/watch?v=Hwybp38GnZw",
    "heading": "Creator media"
   },
   "announcement": ["Read about the investor deck · Tubefilter", "https://www.tubefilter.com/2025/03/11/mrbeast-beast-industries-investor-pitch-deck-feastables/amp/"],
   "impact_source": ["Read how chocolate overtook the videos · Fortune", "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/"],
   "links": [],
-  "how_to_measure": "For a creator product, track sell-through by store against the creator’s audience by region, and repeat purchase from customers who first bought after a video."
+  "how_to_measure": "For a creator product, track sell-through by store against the creator’s audience by region, and repeat purchase from customers who first bought after a video.",
+  "image": {
+   "src": "assets/edition-06/feastables.webp",
+   "alt": "MrBeast in a yellow hat beside a colourful Wonka chocolate factory",
+   "credit": "Original June 2022 Feastables chocolate-factory promotion; not verification of later sales · MrBeast",
+   "source": "https://www.youtube.com/watch?v=Hwybp38GnZw",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "michelle-phan-ipsy",
@@ -67,15 +75,23 @@
   "take": "Phan was early to the idea that a creator’s audience is a customer base. Ipsy made recommendation a business model, with other creators as its sales force.",
   "credit": "Michelle Phan, 2011",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the funding · Fortune",
-   "url": "https://fortune.com/2015/09/14/ipsy-glam-bag-michelle-phan-funding/",
+   "medium": "Original 2012 creator visit to Ipsy; later than the 2011 founding",
+   "label": "Watch the 2012 Ipsy workday video · Michelle Phan",
+   "url": "https://www.youtube.com/watch?v=AuFOLJxutAM",
    "heading": "Creator media"
   },
   "announcement": ["Read about the funding · Fortune", "https://fortune.com/2015/09/14/ipsy-glam-bag-michelle-phan-funding/"],
   "impact_source": ["Read about Ipsy’s revenue · The Business of Fashion", "https://www.businessoffashion.com/articles/beauty/ipsys-500-million-in-revenue-is-driven-by-influencers"],
   "links": [],
-  "how_to_measure": "For a subscription, track monthly churn and the share of subscribers who first arrived through creator content."
+  "how_to_measure": "For a subscription, track monthly churn and the share of subscribers who first arrived through creator content.",
+  "image": {
+   "src": "assets/edition-06/michelle-phan-ipsy.webp",
+   "alt": "Michelle Phan raises a hand beside an Ipsy sign",
+   "credit": "Original 2012 creator visit to Ipsy; later than the 2011 founding · Michelle Phan",
+   "source": "https://www.youtube.com/watch?v=AuFOLJxutAM",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "deliciously-ella",
@@ -114,7 +130,15 @@
   "announcement": ["Read the brand’s own story", "https://deliciouslyella.com/our-story/"],
   "impact_source": ["Read how she went from blogger to brand owner · Retail Week", "https://www.retail-week.com/future-leaders/how-deliciously-ella-went-from-blogger-to-brand-owner/7029051.article"],
   "links": [],
-  "how_to_measure": "For a creator food brand, track rate of sale per store against category averages, and repeat purchase from shoppers outside the creator’s audience."
+  "how_to_measure": "For a creator food brand, track rate of sale per store against category averages, and repeat purchase from shoppers outside the creator’s audience.",
+  "image": {
+   "src": "assets/edition-06/deliciously-ella.webp",
+   "alt": "Deliciously Ella oat bars in a display box beside a cup of coffee",
+   "credit": "Current official packaged-food photograph, substituted still; original 2015 retail launch footage not authenticated · Deliciously Ella",
+   "source": "https://deliciouslyella.com/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "huda-beauty",
@@ -146,15 +170,23 @@
   "take": "Huda Beauty shows a creator building a global brand from Dubai, then taking it back. Ownership was the point from the start.",
   "credit": "Huda Kattan, 2013",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the investment · Cosmetics Business",
-   "url": "https://cosmeticsbusiness.com/tsg-acquires-minority-stake-in-huda-beauty--137579",
+   "medium": "Later October 2018 founder interview about building Huda Beauty; not the original 2017 deal announcement",
+   "label": "Watch the later brand-building interview · CNBC Make It",
+   "url": "https://www.youtube.com/watch?v=xrvlL_FGWxs",
    "heading": "Creator media"
   },
   "announcement": ["Read about the investment · Cosmetics Business", "https://cosmeticsbusiness.com/tsg-acquires-minority-stake-in-huda-beauty--137579"],
   "impact_source": ["Read about the buy-back · Arab News", "https://www.arabnews.pk/node/2603219"],
   "links": [],
-  "how_to_measure": "For a creator beauty brand, track sales by country against the founder’s audience by country, to see where the brand has grown beyond the creator."
+  "how_to_measure": "For a creator beauty brand, track sales by country against the founder’s audience by country, to see where the brand has grown beyond the creator.",
+  "image": {
+   "src": "assets/edition-06/huda-beauty.webp",
+   "alt": "Huda Kattan beside a headline about her billion-dollar beauty brand",
+   "credit": "Later October 2018 founder interview about building Huda Beauty; not the original 2017 deal announcement · CNBC Make It",
+   "source": "https://www.youtube.com/watch?v=xrvlL_FGWxs",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "glossier",
@@ -186,15 +218,23 @@
   "take": "Glossier is the community-first brand everyone copied. Its later struggles are a lesson too: what a community loves at 100,000 customers can be hard to keep at ten million.",
   "credit": "Emily Weiss, 2010 to 2021",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the funding round · Retail Brew",
-   "url": "https://www.retailbrew.com/stories/2021/07/07/glossier-scores-80-million-funding-round",
+   "medium": "Official 2017 conference interview with Emily Weiss about Glossier's community model; not the original 2014 launch",
+   "label": "Watch the 2017 founder interview · TNW",
+   "url": "https://www.youtube.com/watch?v=MyRQsK6sf3w",
    "heading": "Creator media"
   },
   "announcement": ["Read how a blog became Glossier · Indigo9", "https://indigo9digital.com/blog/how-a-blog-into-beauty-company-glossier"],
   "impact_source": ["Read about the funding round · Retail Brew", "https://www.retailbrew.com/stories/2021/07/07/glossier-scores-80-million-funding-round"],
   "links": [],
-  "how_to_measure": "For a community-built brand, track the share of new products that began as customer suggestions, and repeat purchase by cohort."
+  "how_to_measure": "For a community-built brand, track the share of new products that began as customer suggestions, and repeat purchase by cohort.",
+  "image": {
+   "src": "assets/edition-06/glossier.webp",
+   "alt": "Emily Weiss speaks on a purple-lit TNW conference stage",
+   "credit": "Official 2017 conference interview with Emily Weiss about Glossier's community model; not the original 2014 launch · TNW",
+   "source": "https://www.youtube.com/watch?v=MyRQsK6sf3w",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "kylie-cosmetics",
@@ -226,15 +266,23 @@
   "take": "Kylie Cosmetics is the case that made every celebrity think like a creator. The audience was the distribution, and the deal priced it.",
   "credit": "Kylie Jenner, 2015",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the deal · The Drum",
-   "url": "https://www.thedrum.com/news/2019/11/18/coty-eyes-digital-growth-with-majority-purchase-kylie-cosmetics",
+   "medium": "Original October 2019 creator tour of Kylie Cosmetics headquarters; not the 2015 launch or Coty deal announcement",
+   "label": "Watch the 2019 cosmetics office tour · Kylie Jenner",
+   "url": "https://www.youtube.com/watch?v=VayyLoioSAk",
    "heading": "Creator media"
   },
   "announcement": ["Read about the deal · The Drum", "https://www.thedrum.com/news/2019/11/18/coty-eyes-digital-growth-with-majority-purchase-kylie-cosmetics"],
   "impact_source": ["Read about the stake · Cosmetics Business", "https://cosmeticsbusiness.com/coty-acquires-51-stake-in-kylie-jenner-s-billion-dollar-beauty-brands-160133"],
   "links": [],
-  "how_to_measure": "For a founder-led launch, track the share of sales from the founder’s own posts over time. A healthy brand needs that share to fall."
+  "how_to_measure": "For a founder-led launch, track the share of sales from the founder’s own posts over time. A healthy brand needs that share to fall.",
+  "image": {
+   "src": "assets/edition-06/kylie-cosmetics.webp",
+   "alt": "Kylie Cosmetics Office Tour lettering over pale office doors",
+   "credit": "Original October 2019 creator tour of Kylie Cosmetics headquarters; not the 2015 launch or Coty deal announcement · Kylie Jenner",
+   "source": "https://www.youtube.com/watch?v=VayyLoioSAk",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "hot-ones",
@@ -265,15 +313,23 @@
   "take": "Hot Ones is the best example of a show whose props became the business. Every episode is an advert that nobody skips.",
   "credit": "First We Feast and Sean Evans, 2015",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the revenue mix · Digiday",
-   "url": "https://digiday.com/media/revenue-complex-networks-hot-ones/",
+   "medium": "Later official 2019 Hot Ones episode showing the interview and sauce format; not a revenue audit",
+   "label": "Watch the later Gordon Ramsay episode · First We Feast",
+   "url": "https://www.youtube.com/watch?v=U9DyHthJ6LA",
    "heading": "Creator media"
   },
   "announcement": ["Read about the first official sauce · First We Feast", "https://amp.firstwefeast.com/eat/2016/04/hot-ones-hot-sauce"],
   "impact_source": ["Read about the revenue mix · Digiday", "https://digiday.com/media/revenue-complex-networks-hot-ones/"],
   "links": [["Read about The Last Dab · Tubefilter", "https://tubefilter.com/2017/09/11/hot-ones-sauce-the-last-dab/"]],
-  "how_to_measure": "Track product sales in the week after each episode against the guest’s audience size, to see which episodes sell."
+  "how_to_measure": "Track product sales in the week after each episode against the guest’s audience size, to see which episodes sell.",
+  "image": {
+   "src": "assets/edition-06/hot-ones.webp",
+   "alt": "Gordon Ramsay holds a chicken wing beside the Hot Ones title",
+   "credit": "Later official 2019 Hot Ones episode showing the interview and sauce format; not a revenue audit · First We Feast",
+   "source": "https://www.youtube.com/watch?v=U9DyHthJ6LA",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "hashtag-united",
@@ -304,15 +360,23 @@
   "take": "Hashtag United is my favourite British case in this edition. It took the oldest kind of community, a football club, and built one from a YouTube channel.",
   "credit": "Spencer Owen, 2016",
   "creative": {
-   "medium": "Feature",
-   "label": "Read about the club’s moments so far · Planet Sport",
-   "url": "https://www.planetsport.com/soccer/feature/hashtag-united-iconic-moments-spencer-owen",
+   "medium": "Original March 2016 club introduction",
+   "label": "Watch the original club introduction · Spencer FC",
+   "url": "https://www.youtube.com/watch?v=NUykdNO-YkA",
    "heading": "Creator media"
   },
   "announcement": ["Read about the club · Vice", "https://www.vice.com/en/article/hashtag-united-fc-football/"],
   "impact_source": ["Read about the promotion · The Non-League Football Paper", "https://thenonleaguefootballpaper.com/?p=391783"],
   "links": [],
-  "how_to_measure": "For a creator-founded club or community, track paying members, matchday attendance and the share who also watch the channel."
+  "how_to_measure": "For a creator-founded club or community, track paying members, matchday attendance and the share who also watch the channel.",
+  "image": {
+   "src": "assets/edition-06/hashtag-united.webp",
+   "alt": "Three footballers wear yellow and blue Hashtag United shirts",
+   "credit": "Original March 2016 club introduction · Spencer FC",
+   "source": "https://www.youtube.com/watch?v=NUykdNO-YkA",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "diary-of-a-ceo",
@@ -351,7 +415,15 @@
   "announcement": ["Read about the YouTube chart milestone · Podnews", "https://podnews.net/press-release/doac-youtube-number-one"],
   "impact_source": ["Read about the billion milestone · Podnews", "https://podnews.net/press-release/doac-one-billion"],
   "links": [["Read about Apple’s 2024 ranking", "https://stevenbartlett.com/apple-confirms-the-diary-of-a-ceo-is-the-uks-1-podcast-of-2024"]],
-  "how_to_measure": "For a creator-led media company, track revenue per viewer hour across sponsorship, products and investments, not just audience size."
+  "how_to_measure": "For a creator-led media company, track revenue per viewer hour across sponsorship, products and investments, not just audience size.",
+  "image": {
+   "src": "assets/edition-06/diary-of-a-ceo.webp",
+   "alt": "Steven Bartlett wears a black shirt against a cream background",
+   "credit": "Show publicity image accompanying the billion-views-and-listens announcement; not an original 2017 episode · The Diary Of A CEO / Flight Story, via Podnews",
+   "source": "https://podnews.net/press-release/doac-one-billion",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "chamberlain-coffee",
@@ -382,15 +454,23 @@
   "take": "Chamberlain Coffee is the honest middle of the creator brand story. It shows that fame gets you into the shop and the product has to keep you there.",
   "credit": "Emma Chamberlain, 2019",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about YouTube and creator commerce · TechCrunch",
-   "url": "https://techcrunch.com/2023/06/01/youtube-emma-chamberlain-coffee-commerce/",
+   "medium": "Original December 2019 coffee-recipe and brand-launch video",
+   "label": "Watch the original coffee launch recipe · Emma Chamberlain",
+   "url": "https://www.youtube.com/watch?v=FQib8LJYPBk",
    "heading": "Creator media"
   },
   "announcement": ["Read about YouTube and creator commerce · TechCrunch", "https://techcrunch.com/2023/06/01/youtube-emma-chamberlain-coffee-commerce/"],
   "impact_source": ["Read about the fundraising challenges · The Ankler", "https://theankler.com/exclusive-inside-emma-chamberlain-coffee-struggles-fundraise/"],
   "links": [],
-  "how_to_measure": "Track rate of sale per store per week against category averages. That number decides whether a creator brand stays on the shelf."
+  "how_to_measure": "Track rate of sale per store per week against category averages. That number decides whether a creator brand stays on the shelf.",
+  "image": {
+   "src": "assets/edition-06/chamberlain-coffee.webp",
+   "alt": "Emma Chamberlain drinks iced coffee beside I am starting a coffee company lettering",
+   "credit": "Original December 2019 coffee-recipe and brand-launch video · emma chamberlain",
+   "source": "https://www.youtube.com/watch?v=FQib8LJYPBk",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "sidemen-sides",
@@ -429,7 +509,15 @@
   "announcement": ["Read about the launch · Restaurant Online", "https://www.restaurantonline.co.uk/Article/2021/11/25/YouTube-s-the-Sidemen-launch-another-virtual-fried-chicken-brand"],
   "impact_source": ["Read about the first restaurant · Restaurant Online", "https://restaurantonline.co.uk/Article/2022/02/17/youtube-stars-sidemen-ksi-w2s-miniminter-zerkaa-tbjzl-behzinga-vikkstar123-to-open-first-bricks-and-mortar-site-for-fried-chicken-brand-sides"],
   "links": [["Read about the second site · Restaurant Online", "https://restaurantonline.co.uk/Article/2022/12/01/youtube-stars-the-sidemen-will-open-their-second-uk-sides-site-at-gravity-southside-in-wandsworth"]],
-  "how_to_measure": "For a creator restaurant, track repeat visits and sales from customers outside the core audience after the opening month."
+  "how_to_measure": "For a creator restaurant, track repeat visits and sales from customers outside the core audience after the opening month.",
+  "image": {
+   "src": "assets/edition-06/sidemen-sides.webp",
+   "alt": "The Sidemen group stand beside We Opened in Singapore lettering and food",
+   "credit": "Later official international restaurant-opening example; original 2021 launch and 2022 Wembley footage not authenticated · Sides",
+   "source": "https://www.youtube.com/watch?v=g6SrUUN2eAQ",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "crunchlabs",
@@ -460,15 +548,23 @@
   "take": "CrunchLabs is the cleanest fit between a creator and a product in this edition. The box is the video, made physical.",
   "credit": "Mark Rober, 2022",
   "creative": {
-   "medium": "Company announcement",
-   "label": "Read about the Hack Pack subscription",
-   "url": "https://www.crunchlabs.com/pages/crunchlabs-announces-hack-pack",
+   "medium": "Original June 2022 warehouse tour introducing CrunchLabs",
+   "label": "Watch the original CrunchLabs introduction · Mark Rober",
+   "url": "https://www.youtube.com/watch?v=h8g9wfI9nGI",
    "heading": "Creator media"
   },
   "announcement": ["Read about the Hack Pack subscription", "https://www.crunchlabs.com/pages/crunchlabs-announces-hack-pack"],
   "impact_source": ["Read about the launch of Hack Pack · GamesBeat", "https://gamesbeat.com/crunchlabs-launches-hack-pack-subscription-to-make-robotics-accessible-to-all/"],
   "links": [],
-  "how_to_measure": "For an educational subscription, track months retained per subscriber and the share of boxes completed, which shows whether the product is used."
+  "how_to_measure": "For an educational subscription, track months retained per subscriber and the share of boxes completed, which shows whether the product is used.",
+  "image": {
+   "src": "assets/edition-06/crunchlabs.webp",
+   "alt": "Mark Rober sits beside a Coca-Cola dispenser and a coloured light strip",
+   "credit": "Original June 2022 warehouse tour introducing CrunchLabs · Mark Rober",
+   "source": "https://www.youtube.com/watch?v=h8g9wfI9nGI",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "rhode-elf",
@@ -508,7 +604,15 @@
   "announcement": ["Read the news report · ClickOnDetroit", "https://www.clickondetroit.com/business/2025/05/29/cosmetics-company-elf-acquires-hailey-biebers-rhode-beauty-brand-for-1-billion/"],
   "impact_source": ["Read about the acquisition · Glossy", "https://www.glossy.co/beauty/facing-an-uncertain-market-e-l-f-beauty-acquires-hailey-biebers-rhode-for-1-billion/"],
   "links": [],
-  "how_to_measure": "For a founder-led brand, track sales from creator content the brand didn’t pay for, against paid content. The unpaid share shows real demand."
+  "how_to_measure": "For a founder-led brand, track sales from creator content the brand didn’t pay for, against paid content. The unpaid share shows real demand.",
+  "image": {
+   "src": "assets/edition-06/rhode-elf.webp",
+   "alt": "Tarang Amin and Hailey Bieber pose in a room with pale curtains",
+   "credit": "Official May 2025 acquisition-announcement press photograph · e.l.f. Beauty / rhode",
+   "source": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "smosh-bought-back",
@@ -539,15 +643,23 @@
   "take": "Smosh appears in Edition 02 as the top name in a 2014 survey. Its story closes the loop on ownership: built by creators, sold, broken and bought back by the creators who started it.",
   "credit": "Ian Hecox and Anthony Padilla, 2005 to 2023",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the buy-back · Tubefilter",
-   "url": "https://tubefilter.com/2023/06/20/anthony-padilla-ian-hecox-buy-smosh/",
+   "medium": "Original June 2023 founders' buyback announcement",
+   "label": "Watch the original buyback announcement · Smosh",
+   "url": "https://www.youtube.com/watch?v=DwsZggwPRKc",
    "heading": "Creator media"
   },
   "announcement": ["Read about the buy-back · Tubefilter", "https://tubefilter.com/2023/06/20/anthony-padilla-ian-hecox-buy-smosh/"],
   "impact_source": ["Read about the agency signing · Yahoo", "https://ca.news.yahoo.com/smosh-signs-a3-artists-agency-161543544.html"],
   "links": [],
-  "how_to_measure": "After a change of ownership, track the return of lapsed viewers and the share of revenue from products and live events the founders control."
+  "how_to_measure": "After a change of ownership, track the return of lapsed viewers and the share of revenue from products and live events the founders control.",
+  "image": {
+   "src": "assets/edition-06/smosh-bought-back.webp",
+   "alt": "Anthony Padilla and Ian Hecox smile at the camera",
+   "credit": "Original June 2023 founders' buyback announcement · Smosh",
+   "source": "https://www.youtube.com/watch?v=DwsZggwPRKc",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "dude-perfect-investment",
@@ -579,14 +691,22 @@
   "take": "Dude Perfect closes the edition because it shows where creator brands are going: from videos, to products, to companies that raise money like any other.",
   "credit": "Dude Perfect, 2009 to 2024",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the investment · Fox Business",
-   "url": "https://foxbusiness.com/technology/youtube-influencer-group-dude-perfect-scores-more-than-100m-investment",
+   "medium": "Contemporary April 2024 interview with Dude Perfect and Highmount about the investment",
+   "label": "Watch the contemporary investment interview · CNBC Television",
+   "url": "https://www.youtube.com/watch?v=C09W10I0L2E",
    "heading": "Creator media"
   },
   "announcement": ["Read about the investment · Fox Business", "https://foxbusiness.com/technology/youtube-influencer-group-dude-perfect-scores-more-than-100m-investment"],
   "impact_source": ["Read about the plans · Dallas Innovates", "https://dallasinnovates.com/dude-perfect-scores-100m-plus-investment-to-fuel-trick-shot-empire"],
   "links": [],
-  "how_to_measure": "For a creator company raising capital, track revenue outside platform advertising and audience growth outside the original platform."
+  "how_to_measure": "For a creator company raising capital, track revenue outside platform advertising and audience growth outside the original platform.",
+  "image": {
+   "src": "assets/edition-06/dude-perfect-investment.webp",
+   "alt": "CNBC split screen shows Dude Perfect members beside an investment headline",
+   "credit": "Contemporary April 2024 interview with Dude Perfect and Highmount about the investment · CNBC Television",
+   "source": "https://www.youtube.com/watch?v=C09W10I0L2E",
+   "width": 800,
+   "height": 450
+  }
  }
 ]

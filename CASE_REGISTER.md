@@ -77,21 +77,21 @@
 | 05 | Mikayla Nogueira | 2023 | Archival | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ |
 | 05 | MegaLag | 2024 | Reach only | https://www.youtube.com/watch?v=vc4yL3YTwWk | https://www.youtube.com/watch?v=vc4yL3YTwWk |
 | 05 | America’s TikTok creators | 2025 | Archival | https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next | https://newsroom.tiktok.com/tiktokjan-17?lang=en |
-| 06 | MrBeast | 2022 | Sales trend | https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/ | Pending |
-| 06 | Michelle Phan | 2011 | Sales trend | https://fortune.com/2015/09/14/ipsy-glam-bag-michelle-phan-funding/ | Pending |
-| 06 | Deliciously Ella | 2012 | Archival | https://www.retail-week.com/future-leaders/how-deliciously-ella-went-from-blogger-to-brand-owner/7029051.article | Pending |
-| 06 | Huda Kattan | 2013 | Archival | https://cosmeticsbusiness.com/tsg-acquires-minority-stake-in-huda-beauty--137579 | Pending |
-| 06 | Into the Gloss | 2014 | Archival | https://www.retailbrew.com/stories/2021/07/07/glossier-scores-80-million-funding-round | Pending |
-| 06 | Kylie Jenner | 2015 | Archival | https://www.thedrum.com/news/2019/11/18/coty-eyes-digital-growth-with-majority-purchase-kylie-cosmetics | Pending |
-| 06 | Hot Ones | 2015 | Sales trend | https://digiday.com/media/revenue-complex-networks-hot-ones/ | Pending |
-| 06 | Spencer Owen | 2016 | Archival | https://www.planetsport.com/soccer/feature/hashtag-united-iconic-moments-spencer-owen | Pending |
-| 06 | Steven Bartlett | 2017 | Reach only | https://podnews.net/press-release/doac-one-billion | Pending |
-| 06 | Emma Chamberlain | 2019 | Archival | https://techcrunch.com/2023/06/01/youtube-emma-chamberlain-coffee-commerce/ | Pending |
-| 06 | The Sidemen | 2021 | Archival | https://restaurantonline.co.uk/Article/2022/02/17/youtube-stars-sidemen-ksi-w2s-miniminter-zerkaa-tbjzl-behzinga-vikkstar123-to-open-first-bricks-and-mortar-site-for-fried-chicken-brand-sides | Pending |
-| 06 | Mark Rober | 2022 | Archival | https://www.crunchlabs.com/pages/crunchlabs-announces-hack-pack | Pending |
-| 06 | Hailey Bieber | 2022 | Archival | https://www.glossy.co/beauty/facing-an-uncertain-market-e-l-f-beauty-acquires-hailey-biebers-rhode-for-1-billion/ | Pending |
-| 06 | Smosh | 2023 | Archival | https://tubefilter.com/2023/06/20/anthony-padilla-ian-hecox-buy-smosh/ | Pending |
-| 06 | Dude Perfect | 2024 | Archival | https://foxbusiness.com/technology/youtube-influencer-group-dude-perfect-scores-more-than-100m-investment | Pending |
+| 06 | MrBeast | 2022 | Sales trend | https://www.youtube.com/watch?v=Hwybp38GnZw | https://www.youtube.com/watch?v=Hwybp38GnZw |
+| 06 | Michelle Phan | 2011 | Sales trend | https://www.youtube.com/watch?v=AuFOLJxutAM | https://www.youtube.com/watch?v=AuFOLJxutAM |
+| 06 | Deliciously Ella | 2012 | Archival | https://www.retail-week.com/future-leaders/how-deliciously-ella-went-from-blogger-to-brand-owner/7029051.article | https://deliciouslyella.com/ |
+| 06 | Huda Kattan | 2013 | Archival | https://www.youtube.com/watch?v=xrvlL_FGWxs | https://www.youtube.com/watch?v=xrvlL_FGWxs |
+| 06 | Into the Gloss | 2014 | Archival | https://www.youtube.com/watch?v=MyRQsK6sf3w | https://www.youtube.com/watch?v=MyRQsK6sf3w |
+| 06 | Kylie Jenner | 2015 | Archival | https://www.youtube.com/watch?v=VayyLoioSAk | https://www.youtube.com/watch?v=VayyLoioSAk |
+| 06 | Hot Ones | 2015 | Sales trend | https://www.youtube.com/watch?v=U9DyHthJ6LA | https://www.youtube.com/watch?v=U9DyHthJ6LA |
+| 06 | Spencer Owen | 2016 | Archival | https://www.youtube.com/watch?v=NUykdNO-YkA | https://www.youtube.com/watch?v=NUykdNO-YkA |
+| 06 | Steven Bartlett | 2017 | Reach only | https://podnews.net/press-release/doac-one-billion | https://podnews.net/press-release/doac-one-billion |
+| 06 | Emma Chamberlain | 2019 | Archival | https://www.youtube.com/watch?v=FQib8LJYPBk | https://www.youtube.com/watch?v=FQib8LJYPBk |
+| 06 | The Sidemen | 2021 | Archival | https://restaurantonline.co.uk/Article/2022/02/17/youtube-stars-sidemen-ksi-w2s-miniminter-zerkaa-tbjzl-behzinga-vikkstar123-to-open-first-bricks-and-mortar-site-for-fried-chicken-brand-sides | https://www.youtube.com/watch?v=g6SrUUN2eAQ |
+| 06 | Mark Rober | 2022 | Archival | https://www.youtube.com/watch?v=h8g9wfI9nGI | https://www.youtube.com/watch?v=h8g9wfI9nGI |
+| 06 | Hailey Bieber | 2022 | Archival | https://www.glossy.co/beauty/facing-an-uncertain-market-e-l-f-beauty-acquires-hailey-biebers-rhode-for-1-billion/ | https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607 |
+| 06 | Smosh | 2023 | Archival | https://www.youtube.com/watch?v=DwsZggwPRKc | https://www.youtube.com/watch?v=DwsZggwPRKc |
+| 06 | Dude Perfect | 2024 | Archival | https://www.youtube.com/watch?v=C09W10I0L2E | https://www.youtube.com/watch?v=C09W10I0L2E |
 | 07 | Li Ziqi | 2021 | Reach only | https://www.guinnessworldrecords.com/news/2021/1/li-ziqi-breaks-youtube-subscribers-record-for-chinese-language-channel-647202 | Pending |
 | 07 | The Diva | 2014 | Sales trend | https://amp.scmp.com/news/asia/article/1417558/south-korean-woman-makes-fortune-livestreaming-herself-eating | Pending |
 | 07 | Kizuna AI | 2016 | Archival | https://virtualhumans.org/article/who-were-the-first-vtubers-and-virtual-streamers | Pending |
