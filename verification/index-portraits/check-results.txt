@@ -1,0 +1,8 @@
+Check date: 17 November 2026
+
+PASS: 9 pages, 100 cases, 105 local images; all internal links, anchors and thumbnail fingerprints valid.
+
+All 100 case records, edition pages and original Index editorial text unchanged.
+Four portrait sources and final crops visually inspected.
+Browser desktop: all four portraits loaded at 160px.
+Browser 390px frame: all four portraits loaded at 112px, each heading row within the viewport.

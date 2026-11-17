@@ -1,0 +1,130 @@
+{
+  "checked_date": "2026-11-17",
+  "purpose": "Identification portraits beside the four recurring creators in The Index. No case records or edition media changed.",
+  "creators": {
+    "Kylie Jenner": {
+      "slug": "kylie-jenner",
+      "alt": "Kylie Jenner applying blusher with a makeup brush against a pink background.",
+      "credit": "Kylie Cosmetics",
+      "source": "https://kyliecosmetics.com/en-ca/pages/about-us",
+      "note": "Current official campaign portrait, used to identify the adult creator; not a still from either historical case."
+    },
+    "Logan Paul": {
+      "slug": "logan-paul",
+      "alt": "Logan Paul facing the camera in a yellow headband and black and yellow jacket.",
+      "credit": "WWE",
+      "source": "https://www.wwe.com/superstars/logan-paul",
+      "note": "Official 2022 WWE profile portrait; not a still from either 2018 case."
+    },
+    "PewDiePie": {
+      "slug": "pewdiepie",
+      "alt": "PewDiePie smiling in a pale blue cap beside a podcast microphone.",
+      "credit": "Cold Ones Clips",
+      "source": "https://commons.wikimedia.org/wiki/File:Pewdiepie_head_shot.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Cropped 2019 interview photograph, licensed by Cold Ones Clips; later identification portrait, not footage of the 2015 or 2017 moments."
+    },
+    "Smosh": {
+      "slug": "smosh",
+      "alt": "Smosh founders Anthony Padilla and Ian Hecox facing one another with their hands raised.",
+      "credit": "Smosh / Kathy Sue Holtorf",
+      "source": "https://techcrunch.com/2023/07/03/anthony-padilla-and-ian-hecox-usher-in-the-new-era-of-smosh/",
+      "note": "Official 2023 press photograph supplied by Smosh, published by TechCrunch; not a photograph of the 2014 survey."
+    }
+  },
+  "downloads": [
+    {
+      "id": "kylie-jenner",
+      "url": "https://kyliecosmetics.com/cdn/shop/files/v1a_about-us_cosmetics_mobile_1.jpg?crop=center&height=780&v=1773356573&width=780",
+      "sha256": "2934be7d1321d2b9412221a5398b5f3ff4d4e826e3a800b7606ec52b4b0493d2",
+      "dimensions": [
+        780,
+        780
+      ],
+      "crop": [
+        0,
+        30,
+        780,
+        615
+      ],
+      "output_path": "assets/creator-portraits/kylie-jenner.webp",
+      "output_dimensions": [
+        640,
+        480
+      ],
+      "output_sha256": "c8462f1080699e62b2dafe320341d2bf3f00f4db664f22f3fec1d595ea46738b",
+      "visually_inspected": true,
+      "checked_date": "2026-11-17"
+    },
+    {
+      "id": "logan-paul",
+      "url": "https://www.wwe.com/f/styles/talent_champion_lg/public/all/2022/07/Logan_Paul_PROFILE--479a7c8503950ea02f1b6f2819b79f81.png",
+      "sha256": "67213e04f206a84f3208daadcdf5850d71c27303fb640671661b9b311ef9e6ac",
+      "dimensions": [
+        1000,
+        707
+      ],
+      "crop": [
+        220,
+        0,
+        780,
+        420
+      ],
+      "output_path": "assets/creator-portraits/logan-paul.webp",
+      "output_dimensions": [
+        640,
+        480
+      ],
+      "output_sha256": "cb75a3df80c98e438ecb059bcbc343d2be89f09389c068281183d44277090f4f",
+      "visually_inspected": true,
+      "checked_date": "2026-11-17"
+    },
+    {
+      "id": "pewdiepie",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pewdiepie_head_shot.jpg",
+      "sha256": "5302cd0973785b0266270a787ee7f47c0af62b8db0b50c2d9b5abeb0422a35ed",
+      "dimensions": [
+        700,
+        750
+      ],
+      "crop": [
+        0,
+        25,
+        700,
+        550
+      ],
+      "output_path": "assets/creator-portraits/pewdiepie.webp",
+      "output_dimensions": [
+        640,
+        480
+      ],
+      "output_sha256": "a08ff2e045c008e1609a21f66b2b81556b318fe8c18455939a6bf6e06dab1aba",
+      "visually_inspected": true,
+      "checked_date": "2026-11-17"
+    },
+    {
+      "id": "smosh",
+      "url": "https://techcrunch.com/wp-content/uploads/2023/06/Duo_Selects1-27.jpg?w=1600",
+      "sha256": "251235c29d1e3ba348ac568cefd2b3f6c911fa21c4a8f2fb6b959ce839f87566",
+      "dimensions": [
+        1600,
+        1066
+      ],
+      "crop": [
+        90,
+        0,
+        1510,
+        1065
+      ],
+      "output_path": "assets/creator-portraits/smosh.webp",
+      "output_dimensions": [
+        640,
+        480
+      ],
+      "output_sha256": "03261cc872a4cd1ef22799cc76512b706ce867a64191f2054fcecdb7c5f81dc3",
+      "visually_inspected": true,
+      "checked_date": "2026-11-17"
+    }
+  ]
+}

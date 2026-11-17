@@ -511,8 +511,31 @@ LESSONS = [
 CASE_CREATORS = {'vidcon': ('Hank Green', 'John Green'), 'ksi-logan-paul': ('KSI', 'Logan Paul'), 'variety-teen-survey': ('Smosh',), 'forbes-highest-paid-youtubers': ('PewDiePie',), 'shane-dawson-jeffree-star': ('Shane Dawson', 'Jeffree Star')}
 PARTY_GROUPS = {}
 PARTY_SKIP = {'YouTube’s creators'}
-PARTY_LOGO_DIR = Path("assets/creator-logos")
-PARTY_LOGOS = {}
+CREATOR_PORTRAITS = {'Kylie Jenner': {'slug': 'kylie-jenner',
+                  'alt': 'Kylie Jenner applying blusher with a makeup brush against a pink background.',
+                  'credit': 'Kylie Cosmetics',
+                  'source': 'https://kyliecosmetics.com/en-ca/pages/about-us',
+                  'note': 'Current official campaign portrait, used to identify the adult creator; not a '
+                          'still from either historical case.'},
+ 'Logan Paul': {'slug': 'logan-paul',
+                'alt': 'Logan Paul facing the camera in a yellow headband and black and yellow jacket.',
+                'credit': 'WWE',
+                'source': 'https://www.wwe.com/superstars/logan-paul',
+                'note': 'Official 2022 WWE profile portrait; not a still from either 2018 case.'},
+ 'PewDiePie': {'slug': 'pewdiepie',
+               'alt': 'PewDiePie smiling in a pale blue cap beside a podcast microphone.',
+               'credit': 'Cold Ones Clips',
+               'source': 'https://commons.wikimedia.org/wiki/File:Pewdiepie_head_shot.jpg',
+               'license': 'CC BY 3.0',
+               'license_url': 'https://creativecommons.org/licenses/by/3.0/',
+               'note': 'Cropped 2019 interview photograph, licensed by Cold Ones Clips; later identification '
+                       'portrait, not footage of the 2015 or 2017 moments.'},
+ 'Smosh': {'slug': 'smosh',
+           'alt': 'Smosh founders Anthony Padilla and Ian Hecox facing one another with their hands raised.',
+           'credit': 'Smosh / Kathy Sue Holtorf',
+           'source': 'https://techcrunch.com/2023/07/03/anthony-padilla-and-ian-hecox-usher-in-the-new-era-of-smosh/',
+           'note': 'Official 2023 press photograph supplied by Smosh, published by TechCrunch; not a '
+                   'photograph of the 2014 survey.'}}
 PARTY_NOTES = {
     'PewDiePie': 'Top of the first Forbes rich list, and the creator Disney dropped. His audience outlasted every brand deal.',
     'MrBeast': 'The creator behind Feastables, a chocolate business with its own place in Edition 06.',
@@ -617,16 +640,22 @@ def build_index():
     assert not missing, f'Add a note for these partners: {missing}'
     partners = []
     for p, v in recurring:
-        logo_html = ''
-        if p in PARTY_LOGOS:
-            logo = PARTY_LOGO_DIR / f'{PARTY_LOGOS[p]}.webp'
-            if (root.parent / logo).is_file():
-                logo_html = f'<img class="brand-logo" src="../{logo.as_posix()}" alt="{e(p)} logo" width="82" height="62" loading="lazy" decoding="async">' 
+        portrait_html = ''
+        portrait = CREATOR_PORTRAITS.get(p)
+        if portrait:
+            path = Path('assets/creator-portraits') / (portrait['slug'] + '.webp')
+            assert (root.parent / path).is_file(), f'Missing creator portrait: {p}'
+            src = image_url({'src': path.as_posix()}, '../')
+            licence = (f' · <a href="{e(portrait["license_url"])}">{e(portrait["license"])}</a> · cropped'
+                       if portrait.get('license') else '')
+            portrait_html = (f'<figure class="creator-portrait">'
+                             f'<img src="{e(src)}" alt="{e(portrait["alt"])}" width="640" height="480" loading="lazy" decoding="async">'
+                             f'<figcaption><a href="{e(portrait["source"])}" title="{e(portrait["note"])}">{e(portrait["credit"])}</a>{licence}</figcaption></figure>')
         items = ''.join(f'<li><a href="{case_href(ed, c["id"])}"><span class="small">Edition {ed["number"]}</span> {e(c["brand"])} <span class="yr">{c["year"]}</span></a></li>'
                         for ed, c in sorted(v, key=lambda x: x[1]['year']))
         partners.append(
             f'<article class="brand-row"><div class="brand-heading">'
-            f'{logo_html}'
+            f'{portrait_html}'
             f'<div><h3>{e(p)}</h3><p>{e(PARTY_NOTES[p])}</p></div></div><ol>{items}</ol></article>'
         )
 
