@@ -62,21 +62,21 @@
 | 04 | Dream | 2020 | Reach only | https://www.youtube.com/watch?v=tylNqtyj0gs | https://www.youtube.com/watch?v=tylNqtyj0gs |
 | 04 | Snapchat Spotlight creators | 2020 | Archival | https://newsroom.snap.com/en-US/rewarding-creativity | https://newsroom.snap.com/en-US/rewarding-creativity |
 | 04 | Clubhouse’s hosts | 2021 | Reach only | https://www.businessinsider.nl/clubhouse-downloads-are-falling-off-a-cliff-the-app-was-downloaded-only-about-900000-times-in-april-down-from-februarys-peak-of-9-6-million/ | https://www.clubhouse.com/ |
-| 05 | YouTube’s creators | 2017 | Archival | https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/ | Pending |
-| 05 | Vine’s creators | 2016 | Archival | https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705 | Pending |
-| 05 | PewDiePie | 2017 | Archival | https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/ | Pending |
-| 05 | TmarTn and Syndicate | 2017 | Archival | https://ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against | Pending |
-| 05 | Fyre Festival’s influencers | 2017 | Archival | https://www.wbur.org/npr/526561561/how-fyres-organizers-used-influencers-to-market-a-festival-that-didnt-exist | Pending |
-| 05 | Logan Paul | 2018 | Archival | https://tubefilter.com/2018/01/10/logan-paul-youtube-red-google-preferred/ | Pending |
-| 05 | Elle Darby | 2018 | Archival | https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/ | Pending |
-| 05 | Tana Mongeau | 2018 | Archival | https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948 | Pending |
-| 05 | Sixteen UK celebrities and influencers | 2019 | Archival | https://gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media | Pending |
-| 05 | Children’s creators on YouTube | 2019 | Archival | https://consumer.ftc.gov/blog/2019/09/youtube-pays-big-tracking-kids | Pending |
-| 05 | Jenna Marbles | 2020 | Reach only | https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/ | Pending |
-| 05 | Chef Pii | 2022 | Archival | https://www.rollingstone.com/culture/culture-features/pink-sauce-tiktok-chef-cancelation-walmart-1234667556/ | Pending |
-| 05 | Mikayla Nogueira | 2023 | Archival | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ | Pending |
-| 05 | MegaLag | 2024 | Reach only | https://fortune.com/2024/12/23/honey-scam-browser-extension-mrbeast-mkbhd-linustechtips-megalag-expose-investigation-video/ | Pending |
-| 05 | America’s TikTok creators | 2025 | Archival | https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next | Pending |
+| 05 | YouTube’s creators | 2017 | Archival | https://www.youtube.com/watch?v=VeKq-l2Uzv8 | https://www.youtube.com/watch?v=VeKq-l2Uzv8 |
+| 05 | Vine’s creators | 2016 | Archival | https://www.hollywoodreporter.com//news/twitter-is-shutting-down-vine-app-941705 | https://vine.co/ |
+| 05 | PewDiePie | 2017 | Archival | https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/ | https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/ |
+| 05 | TmarTn and Syndicate | 2017 | Archival | https://ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against | https://www.ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against |
+| 05 | Fyre Festival’s influencers | 2017 | Archival | https://www.youtube.com/watch?v=uZ0KNVU2fV0 | https://www.youtube.com/watch?v=uZ0KNVU2fV0 |
+| 05 | Logan Paul | 2018 | Archival | https://www.youtube.com/watch?v=oWjxSkJpxFU | https://www.youtube.com/watch?v=oWjxSkJpxFU |
+| 05 | Elle Darby | 2018 | Archival | https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/ | https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/ |
+| 05 | Tana Mongeau | 2018 | Archival | https://www.youtube.com/watch?v=8xFtIsyRvNE | https://www.youtube.com/watch?v=8xFtIsyRvNE |
+| 05 | Sixteen UK celebrities and influencers | 2019 | Archival | https://gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media | https://www.gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media |
+| 05 | Children’s creators on YouTube | 2019 | Archival | https://www.youtube.com/watch?v=-JzXiSkoFKw | https://www.youtube.com/watch?v=-JzXiSkoFKw |
+| 05 | Jenna Marbles | 2020 | Reach only | https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/ | https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/ |
+| 05 | Chef Pii | 2022 | Archival | https://www.rollingstone.com/culture/culture-features/pink-sauce-tiktok-chef-cancelation-walmart-1234667556/ | https://www.prnewswire.com/news-releases/daves-gourmet-partners-with-social-media-influencer-chef-pii-to-launch-the-pink-sauce-301607236.html |
+| 05 | Mikayla Nogueira | 2023 | Archival | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ | https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/ |
+| 05 | MegaLag | 2024 | Reach only | https://www.youtube.com/watch?v=vc4yL3YTwWk | https://www.youtube.com/watch?v=vc4yL3YTwWk |
+| 05 | America’s TikTok creators | 2025 | Archival | https://www.thedrum.com/news/2025/01/19/tiktok-goes-dark-the-global-fallout-and-the-race-define-what-s-next | https://newsroom.tiktok.com/tiktokjan-17?lang=en |
 | 06 | MrBeast | 2022 | Sales trend | https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos/ | Pending |
 | 06 | Michelle Phan | 2011 | Sales trend | https://fortune.com/2015/09/14/ipsy-glam-bag-michelle-phan-funding/ | Pending |
 | 06 | Deliciously Ella | 2012 | Archival | https://www.retail-week.com/future-leaders/how-deliciously-ella-went-from-blogger-to-brand-owner/7029051.article | Pending |

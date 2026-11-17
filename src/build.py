@@ -442,7 +442,12 @@ EDITIONS = [
     {
         'number': '05', 'name': 'Failure first', 'data': 'campaigns-05.json', 'template': 'page-template-05.html',
         'output': 'edition-05/index.html', 'asset_prefix': '../', 'art': failure_art,
-        'test_heading': 'How the damage was recorded', 'mechanism_label': 'Shift', 'screening': (),
+        'test_heading': 'How the damage was recorded', 'mechanism_label': 'Shift', 'screening': (
+            ('adpocalypse', 'This March 2017 creator report shows the immediate income worries during the advertiser boycott, rather than proving the full financial effect.', 'advert'),
+            ('logan-paul-google-preferred', 'This January 2018 suicide-prevention follow-up came after the removed forest vlog and does not show the incident itself.', 'response'),
+            ('youtube-coppa-settlement', 'Watch the official 2019 upload-setting explanation and notice which responsibilities move to creators.', 'settings'),
+            ('honey-megalag', "Follow the original investigation's affiliate-link tests while keeping allegations separate from proven legal findings.", 'investigation'),
+        ),
     },
     {
         'number': '06', 'name': 'Brand first', 'data': 'campaigns-06.json', 'template': 'page-template-06.html',

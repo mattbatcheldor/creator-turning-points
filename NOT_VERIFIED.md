@@ -72,3 +72,27 @@ NOT VERIFIED: playback in every region, embedding permission, complete browser i
 | clubhouse | Current official app promotional graphic, substituted still; original 2021 rooms not authenticated |
 
 NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.
+
+## Edition 05 media checks, 17 November 2026
+
+15 stills downloaded, visually inspected and converted to 800 by 450 WebP. Source URLs, download hashes, image dimensions and successful YouTube oEmbed responses are in `verification/edition-05/`. oEmbed confirms metadata availability only.
+
+| Case | Media actually checked |
+| --- | --- |
+| adpocalypse | Contemporary March 2017 creator reporting on the advertiser boycott |
+| vine-shut-down | Official Vine wordmark from its farewell page; no original shutdown video authenticated |
+| pewdiepie-dropped | Contemporary creator still used in February 2017 coverage; not an authenticated response-video frame; February 2017 response lwk1DogcPmU returned oEmbed 404; no fan re-upload substituted |
+| csgo-lotto-ftc | Photograph used in the official September 2017 FTC settlement announcement; substituted still |
+| fyre-festival | Later official 2019 documentary trailer; not the original 2016 festival promotion |
+| logan-paul-google-preferred | Original January 2018 follow-up on suicide prevention; not the removed forest vlog |
+| elle-darby-white-moose | Contemporary creator still published with hotel-row reporting; original response not authenticated; Original response g8zElbN2_hg returned oEmbed 404 |
+| tanacon | Contemporary June 2018 creator documentary about the failed convention |
+| cma-influencer-commitments | Official GOV.UK announcement-page graphic, substituted still; no original commitments film authenticated |
+| youtube-coppa-settlement | Official November 2019 explanation of the post-settlement creator settings |
+| jenna-marbles-steps-away | Contemporary departure-video screenshot published by Tubefilter; original upload not authenticated; Original departure video Yz3mQhuMACs returned oEmbed 403; no mirror used |
+| pink-sauce | Official August 2022 partnership press image; not the original TikTok launch post |
+| mikayla-mascara | Product photograph published with contemporary coverage; original sponsored TikTok upload not authenticated |
+| honey-megalag | Original December 2024 creator investigation; allegations are not independently adjudicated here |
+| tiktok-goes-dark | Official January 2025 shutdown-statement graphic; not footage of the blackout |
+
+NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.

@@ -1,0 +1,335 @@
+{
+  "adpocalypse": {
+    "video": "VeKq-l2Uzv8",
+    "kind": "Contemporary March 2017 creator reporting on the advertiser boycott",
+    "owner": "Philip DeFranco",
+    "replace": true,
+    "label": "Watch the contemporary boycott report \u00b7 Philip DeFranco",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VeKq-l2Uzv8&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Youtube BOYCOTT Just Got Way Worse and Why People Are Scared",
+        "author_name": "Philip DeFranco",
+        "author_url": "https://www.youtube.com/@PhilipDeFranco",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/VeKq-l2Uzv8/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VeKq-l2Uzv8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Youtube BOYCOTT Just Got Way Worse and Why People Are Scared\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=VeKq-l2Uzv8",
+    "asset": "https://i.ytimg.com/vi/VeKq-l2Uzv8/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:57.824689+00:00",
+    "source_sha256": "594c33feee0fc8b6ff24674be00be680e471c4bdcf43a196c1fda85aab4028ad",
+    "alt": "Philip DeFranco and PewDiePie beside a Huge YouTube Crisis headline"
+  },
+  "vine-shut-down": {
+    "page": "https://vine.co/",
+    "asset": "https://vine.co/assets/images/vine_logo_green.svg",
+    "kind": "Official Vine wordmark from its farewell page; no original shutdown video authenticated",
+    "owner": "Vine / Twitter",
+    "fit": "contain",
+    "checked_at": "2026-11-17T01:27:02.912812+00:00",
+    "source_sha256": "041c5774c90ae5ab3b7190eae808aaaae40e312606cff6b53cd707c158cc1247",
+    "input_dimensions": "Official SVG rendered to WebP",
+    "alt": "The green Vine wordmark on a white background"
+  },
+  "pewdiepie-dropped": {
+    "page": "https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/",
+    "asset": "https://www.tubefilter.com/wp-content/uploads/2017/01/PewDiePie-youtube-views.jpg",
+    "kind": "Contemporary creator still used in February 2017 coverage; not an authenticated response-video frame",
+    "owner": "PewDiePie, via Tubefilter",
+    "source_limit": "February 2017 response lwk1DogcPmU returned oEmbed 404; no fan re-upload substituted",
+    "input_dimensions": [
+      1140,
+      700
+    ],
+    "checked_at": "2026-11-17T01:21:51.433442+00:00",
+    "source_sha256": "bb78b33d3ce1e52413bebf1aa3fbf871cd1e53ac17504f713e371dc558ce540f",
+    "alt": "PewDiePie sits behind a microphone in a grey top"
+  },
+  "csgo-lotto-ftc": {
+    "page": "https://www.ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against",
+    "asset": "https://www.ftc.gov/sites/default/files/styles/social_standard/public/images/press-releases/social-share/csgo-fb.jpg?h=3bef5752&itok=f5Ls0SRq",
+    "kind": "Photograph used in the official September 2017 FTC settlement announcement; substituted still",
+    "owner": "Federal Trade Commission press page, photographer uncredited",
+    "fit": "contain",
+    "input_dimensions": [
+      1200,
+      600
+    ],
+    "checked_at": "2026-11-17T01:21:49.796226+00:00",
+    "source_sha256": "4763627fb56b2144c19eeb3ee607e3acd013126674e28b2233c426893d671048",
+    "alt": "A man works on a laptop beside a window"
+  },
+  "fyre-festival": {
+    "video": "uZ0KNVU2fV0",
+    "kind": "Later official 2019 documentary trailer; not the original 2016 festival promotion",
+    "owner": "Netflix",
+    "replace": true,
+    "label": "Watch the later documentary trailer \u00b7 Netflix",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=uZ0KNVU2fV0&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "FYRE: The Greatest Party That Never Happened | Official Trailer [HD] | Netflix",
+        "author_name": "Netflix",
+        "author_url": "https://www.youtube.com/@Netflix",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/uZ0KNVU2fV0/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/uZ0KNVU2fV0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"FYRE: The Greatest Party That Never Happened | Official Trailer [HD] | Netflix\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=uZ0KNVU2fV0",
+    "asset": "https://i.ytimg.com/vi/uZ0KNVU2fV0/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:57.551724+00:00",
+    "source_sha256": "e59c69360cee9b2d07224a05f84f055833df9f660f33aff41bb91213e1ec7eb8",
+    "alt": "A woman reclines beside festival tents under Official Trailer lettering"
+  },
+  "logan-paul-google-preferred": {
+    "video": "oWjxSkJpxFU",
+    "kind": "Original January 2018 follow-up on suicide prevention; not the removed forest vlog",
+    "owner": "Logan Paul",
+    "replace": true,
+    "label": "Watch the January 2018 follow-up \u00b7 Logan Paul",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=oWjxSkJpxFU&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Suicide: Be Here Tomorrow.",
+        "author_name": "Logan Paul",
+        "author_url": "https://www.youtube.com/@loganpaulvlogs",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/oWjxSkJpxFU/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/oWjxSkJpxFU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Suicide: Be Here Tomorrow.\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=oWjxSkJpxFU",
+    "asset": "https://i.ytimg.com/vi/oWjxSkJpxFU/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:57.706319+00:00",
+    "source_sha256": "1ba5862f24b15791f32a1028d607f545ddc60e2cebc02e091ed6a22089824d4a",
+    "alt": "Logan Paul wears a knitted hat and looks upwards outdoors"
+  },
+  "elle-darby-white-moose": {
+    "page": "https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/",
+    "asset": "https://www.tubefilter.com/wp-content/uploads/2018/01/elle-darby.jpg",
+    "kind": "Contemporary creator still published with hotel-row reporting; original response not authenticated",
+    "owner": "Elle Darby, via Tubefilter",
+    "source_limit": "Original response g8zElbN2_hg returned oEmbed 404",
+    "input_dimensions": [
+      1140,
+      700
+    ],
+    "checked_at": "2026-11-17T01:21:51.410886+00:00",
+    "source_sha256": "0d9bf36c12f23873bd90f88cc85a92aece6b3a2c3d9f9b04d1681a308196a0fd",
+    "alt": "Elle Darby wears a white top beside a clothing rack"
+  },
+  "tanacon": {
+    "video": "8xFtIsyRvNE",
+    "kind": "Contemporary June 2018 creator documentary about the failed convention",
+    "owner": "Shane Dawson",
+    "replace": true,
+    "label": "Watch the contemporary TanaCon documentary \u00b7 Shane Dawson",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8xFtIsyRvNE&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "The Truth About Tanacon",
+        "author_name": "shane",
+        "author_url": "https://www.youtube.com/@shane",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/8xFtIsyRvNE/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/8xFtIsyRvNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"The Truth About Tanacon\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=8xFtIsyRvNE",
+    "asset": "https://i.ytimg.com/vi/8xFtIsyRvNE/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:57.696658+00:00",
+    "source_sha256": "1dffd55bdd2542397ff1e883434d2d325a9bdcdfc545be78eacfabf9bc526618",
+    "alt": "Shane Dawson sits beside Tana Mongeau on a sofa"
+  },
+  "cma-influencer-commitments": {
+    "page": "https://www.gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media",
+    "asset": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "kind": "Official GOV.UK announcement-page graphic, substituted still; no original commitments film authenticated",
+    "owner": "Crown copyright / GOV.UK",
+    "fit": "contain",
+    "input_dimensions": [
+      1200,
+      630
+    ],
+    "checked_at": "2026-11-17T01:21:50.576713+00:00",
+    "source_sha256": "ec769b07c1e4564230a4e1f7400d8b7cb2c8694b113f988d51d989cfbf855caa",
+    "alt": "The white GOV.UK wordmark and crown on a blue background"
+  },
+  "youtube-coppa-settlement": {
+    "video": "-JzXiSkoFKw",
+    "kind": "Official November 2019 explanation of the post-settlement creator settings",
+    "owner": "YouTube Creators",
+    "replace": true,
+    "label": "Watch the original COPPA settings explanation \u00b7 YouTube Creators",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=-JzXiSkoFKw&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Important Update for All Creators: Complying with COPPA",
+        "author_name": "YouTube Creators",
+        "author_url": "https://www.youtube.com/@youtubecreators",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/-JzXiSkoFKw/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-JzXiSkoFKw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Important Update for All Creators: Complying with COPPA\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=-JzXiSkoFKw",
+    "asset": "https://i.ytimg.com/vi/-JzXiSkoFKw/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:57.371654+00:00",
+    "source_sha256": "c569976fc964edf2541149b4d4e83a1e4cc5ed9e5e5f49da71886a71b72c6bbe",
+    "alt": "A YouTube presenter beside an Update For All Creators and COPPA headline"
+  },
+  "jenna-marbles-steps-away": {
+    "page": "https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/",
+    "asset": "https://www.tubefilter.com/wp-content/uploads/2020/06/jenna-marbles-1.jpg",
+    "kind": "Contemporary departure-video screenshot published by Tubefilter; original upload not authenticated",
+    "owner": "Jenna Marbles, via Tubefilter",
+    "source_limit": "Original departure video Yz3mQhuMACs returned oEmbed 403; no mirror used",
+    "input_dimensions": [
+      1140,
+      700
+    ],
+    "checked_at": "2026-11-17T01:21:57.268667+00:00",
+    "source_sha256": "35a4d3e66bbd021753c1cb037a81f29aa270802997a94a1923a25e078706814a",
+    "alt": "Jenna Marbles wears glasses and a blue hoodie in a living room"
+  },
+  "pink-sauce": {
+    "page": "https://www.prnewswire.com/news-releases/daves-gourmet-partners-with-social-media-influencer-chef-pii-to-launch-the-pink-sauce-301607236.html",
+    "asset": "https://mma.prnewswire.com/media/1879696/Pink_Image_small.jpg?p=facebook",
+    "kind": "Official August 2022 partnership press image; not the original TikTok launch post",
+    "owner": "Dave's Gourmet / Chef Pii",
+    "fit": "contain",
+    "input_dimensions": [
+      1080,
+      565
+    ],
+    "checked_at": "2026-11-17T01:22:06.385176+00:00",
+    "source_sha256": "2e003343f21eb25624995b45859cc0f4d9dc037db54caffd4963492784b30b37",
+    "alt": "Chef Pii holds a bottle of Pink Sauce against a pink background"
+  },
+  "mikayla-mascara": {
+    "page": "https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/",
+    "asset": "https://www.glossy.co/wp-content/uploads/sites/4/2023/01/telescopic-lift-mascara-copy.jpg",
+    "kind": "Product photograph published with contemporary coverage; original sponsored TikTok upload not authenticated",
+    "owner": "Mikayla Nogueira / L'Oreal Paris, via Glossy",
+    "fit": "contain",
+    "input_dimensions": [
+      1250,
+      563
+    ],
+    "checked_at": "2026-11-17T01:21:57.632135+00:00",
+    "source_sha256": "ce8ce520f4734dcf49db436dc6fb76365200d0a499e4955c1befaf5fe4bfcc55",
+    "alt": "A black Telescopic Lift mascara tube beside its open wand"
+  },
+  "honey-megalag": {
+    "video": "vc4yL3YTwWk",
+    "kind": "Original December 2024 creator investigation; allegations are not independently adjudicated here",
+    "owner": "MegaLag",
+    "replace": true,
+    "label": "Watch the original Honey investigation \u00b7 MegaLag",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=vc4yL3YTwWk&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Exposing the Honey Influencer Scam",
+        "author_name": "MegaLag",
+        "author_url": "https://www.youtube.com/@MegaLag",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/vc4yL3YTwWk/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/vc4yL3YTwWk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Exposing the Honey Influencer Scam\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=vc4yL3YTwWk",
+    "asset": "https://i.ytimg.com/vi/vc4yL3YTwWk/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:22:03.935574+00:00",
+    "source_sha256": "6a8d5855aded46064f233ae26fd30d5136a2a068d3756e9cc3405ac17cd51d90",
+    "alt": "Creator portraits appear below a Honey logo suspended by puppet strings"
+  },
+  "tiktok-goes-dark": {
+    "page": "https://newsroom.tiktok.com/tiktokjan-17?lang=en",
+    "asset": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/31c9a45eb95feddb20879a9a680b1dc8.jpeg",
+    "kind": "Official January 2025 shutdown-statement graphic; not footage of the blackout",
+    "owner": "TikTok",
+    "fit": "contain",
+    "input_dimensions": [
+      676,
+      720
+    ],
+    "checked_at": "2026-11-17T01:21:58.823485+00:00",
+    "source_sha256": "310ee9b41faa66f8614e685ba65b695cf636becf90e124ed297c261de403f8ed",
+    "alt": "The TikTok musical-note mark on a black background"
+  }
+}

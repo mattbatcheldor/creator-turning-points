@@ -1,0 +1,50 @@
+feastables: unexpected or missing case fields
+feastables: missing thumbnail or description
+michelle-phan-ipsy: unexpected or missing case fields
+michelle-phan-ipsy: missing thumbnail or description
+deliciously-ella: unexpected or missing case fields
+deliciously-ella: missing thumbnail or description
+huda-beauty: unexpected or missing case fields
+huda-beauty: missing thumbnail or description
+glossier: unexpected or missing case fields
+glossier: missing thumbnail or description
+kylie-cosmetics: unexpected or missing case fields
+kylie-cosmetics: missing thumbnail or description
+hot-ones: unexpected or missing case fields
+hot-ones: missing thumbnail or description
+hashtag-united: unexpected or missing case fields
+hashtag-united: missing thumbnail or description
+diary-of-a-ceo: unexpected or missing case fields
+diary-of-a-ceo: missing thumbnail or description
+chamberlain-coffee: unexpected or missing case fields
+chamberlain-coffee: missing thumbnail or description
+sidemen-sides: unexpected or missing case fields
+sidemen-sides: missing thumbnail or description
+crunchlabs: unexpected or missing case fields
+crunchlabs: missing thumbnail or description
+rhode-elf: unexpected or missing case fields
+rhode-elf: missing thumbnail or description
+smosh-bought-back: unexpected or missing case fields
+smosh-bought-back: missing thumbnail or description
+dude-perfect-investment: unexpected or missing case fields
+dude-perfect-investment: missing thumbnail or description
+li-ziqi: unexpected or missing case fields
+li-ziqi: missing thumbnail or description
+the-diva-mukbang: unexpected or missing case fields
+the-diva-mukbang: missing thumbnail or description
+kizuna-ai: unexpected or missing case fields
+kizuna-ai: missing thumbnail or description
+whindersson-nunes: unexpected or missing case fields
+whindersson-nunes: missing thumbnail or description
+mark-angel-comedy: unexpected or missing case fields
+mark-angel-comedy: missing thumbnail or description
+atta-halilintar: unexpected or missing case fields
+atta-halilintar: missing thumbnail or description
+carryminati-youtube-vs-tiktok: unexpected or missing case fields
+carryminati-youtube-vs-tiktok: missing thumbnail or description
+elsa-majimbo: unexpected or missing case fields
+elsa-majimbo: missing thumbnail or description
+austin-li-singles-day: unexpected or missing case fields
+austin-li-singles-day: missing thumbnail or description
+khaby-lame: unexpected or missing case fields
+khaby-lame: missing thumbnail or description

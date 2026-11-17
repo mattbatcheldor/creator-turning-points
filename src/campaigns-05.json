@@ -34,9 +34,9 @@
   "take": "The Adpocalypse is why so many creators sell merchandise, memberships and products today. It taught a generation that advertising income can vanish because of something they never made.",
   "credit": "YouTube creators, 2017",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the boycott and demonetisation · Tubefilter",
-   "url": "https://tubefilter.com/2017/03/28/750-million-ad-boycott-youtube-demonetization-policies/",
+   "medium": "Contemporary March 2017 creator reporting on the advertiser boycott",
+   "label": "Watch the contemporary boycott report · Philip DeFranco",
+   "url": "https://www.youtube.com/watch?v=VeKq-l2Uzv8",
    "heading": "Creator media"
   },
   "announcement": [
@@ -53,7 +53,15 @@
     "https://policyreview.info/articles/analysis/algorithmic-dance-youtubes-adpocalypse-and-gatekeeping-cultural-content-digital"
    ]
   ],
-  "how_to_measure": "For brand safety, measure where adverts actually run, not just where they are targeted. For creators, track the share of income from sources other than platform advertising."
+  "how_to_measure": "For brand safety, measure where adverts actually run, not just where they are targeted. For creators, track the share of income from sources other than platform advertising.",
+  "image": {
+   "src": "assets/edition-05/adpocalypse.webp",
+   "alt": "Philip DeFranco and PewDiePie beside a Huge YouTube Crisis headline",
+   "credit": "Contemporary March 2017 creator reporting on the advertiser boycott · Philip DeFranco",
+   "source": "https://www.youtube.com/watch?v=VeKq-l2Uzv8",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "vine-shut-down",
@@ -104,7 +112,15 @@
    "https://ca.news.yahoo.com/vine-stars-co-founder-react-twitter-axing-micro-183253683.html"
   ],
   "links": [],
-  "how_to_measure": "Track where a platform’s top creators earn most of their income. When it’s mostly elsewhere, the platform is at risk."
+  "how_to_measure": "Track where a platform’s top creators earn most of their income. When it’s mostly elsewhere, the platform is at risk.",
+  "image": {
+   "src": "assets/edition-05/vine-shut-down.webp",
+   "alt": "The green Vine wordmark on a white background",
+   "credit": "Official Vine wordmark from its farewell page; no original shutdown video authenticated · Vine / Twitter",
+   "source": "https://vine.co/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "pewdiepie-dropped",
@@ -155,7 +171,15 @@
    "https://techcrunch.com/2017/02/14/pewdiepies-youtube-red-series-gets-cancelled-after-vlogger-posts-anti-semitic-content"
   ],
   "links": [],
-  "how_to_measure": "Before a creator partnership, review a sample of their recent content against your brand’s standards, and agree what happens if those standards are broken."
+  "how_to_measure": "Before a creator partnership, review a sample of their recent content against your brand’s standards, and agree what happens if those standards are broken.",
+  "image": {
+   "src": "assets/edition-05/pewdiepie-dropped.webp",
+   "alt": "PewDiePie sits behind a microphone in a grey top",
+   "credit": "Contemporary creator still used in February 2017 coverage; not an authenticated response-video frame · PewDiePie, via Tubefilter",
+   "source": "https://tubefilter.com/2017/02/14/maker-drops-pewdiepie-youtube-axes-scare-pewdiepie-anti-semitic-controversy/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "csgo-lotto-ftc",
@@ -206,7 +230,15 @@
    "https://www.tubefilter.com/2017/12/01/syndicate-tmartn-csgo-lotto-settlement-social-media-influencers/amp/"
   ],
   "links": [],
-  "how_to_measure": "Audit a sample of creator posts each month for clear disclosure, and report the compliance rate alongside campaign results."
+  "how_to_measure": "Audit a sample of creator posts each month for clear disclosure, and report the compliance rate alongside campaign results.",
+  "image": {
+   "src": "assets/edition-05/csgo-lotto-ftc.webp",
+   "alt": "A man works on a laptop beside a window",
+   "credit": "Photograph used in the official September 2017 FTC settlement announcement; substituted still · Federal Trade Commission press page, photographer uncredited",
+   "source": "https://www.ftc.gov/news-events/press-releases/2017/09/csgo-lotto-owners-settle-ftcs-first-ever-complaint-against",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "fyre-festival",
@@ -243,9 +275,9 @@
   "take": "Fyre is the cautionary tale of influencer marketing as pure reach. The orange tile worked brilliantly as an advert. It just advertised something that wasn’t real.",
   "credit": "Fyre Festival, 2016 to 2017",
   "creative": {
-   "medium": "Radio",
-   "label": "Hear how the organisers used influencers · NPR",
-   "url": "https://www.wbur.org/npr/526561561/how-fyres-organizers-used-influencers-to-market-a-festival-that-didnt-exist",
+   "medium": "Later official 2019 documentary trailer; not the original 2016 festival promotion",
+   "label": "Watch the later documentary trailer · Netflix",
+   "url": "https://www.youtube.com/watch?v=uZ0KNVU2fV0",
    "heading": "Creator media"
   },
   "announcement": [
@@ -262,7 +294,15 @@
     "https://influencermarketinghub.com/no-fyre-festival-wasnt-an-influencer-marketing-success-and-other-lessons-from-a-disaster/"
    ]
   ],
-  "how_to_measure": "Before paying for reach, verify the product. After the campaign, measure complaints and refunds, not only clicks and sales."
+  "how_to_measure": "Before paying for reach, verify the product. After the campaign, measure complaints and refunds, not only clicks and sales.",
+  "image": {
+   "src": "assets/edition-05/fyre-festival.webp",
+   "alt": "A woman reclines beside festival tents under Official Trailer lettering",
+   "credit": "Later official 2019 documentary trailer; not the original 2016 festival promotion · Netflix",
+   "source": "https://www.youtube.com/watch?v=uZ0KNVU2fV0",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "logan-paul-google-preferred",
@@ -299,9 +339,9 @@
   "take": "This case changed how platforms sell creators to advertisers. After it, being in a premium tier meant being reviewed, not just being big.",
   "credit": "Logan Paul and YouTube, 2018",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about YouTube’s response · Tubefilter",
-   "url": "https://tubefilter.com/2018/01/10/logan-paul-youtube-red-google-preferred/",
+   "medium": "Original January 2018 follow-up on suicide prevention; not the removed forest vlog",
+   "label": "Watch the January 2018 follow-up · Logan Paul",
+   "url": "https://www.youtube.com/watch?v=oWjxSkJpxFU",
    "heading": "Creator media"
   },
   "announcement": [
@@ -313,7 +353,15 @@
    "https://www.cnbc.com/2018/01/11/logan-paul-youtube-pares-back-partnership-after-suicide-video-post.html"
   ],
   "links": [],
-  "how_to_measure": "For premium creator inventory, track the share of channels reviewed by a person each quarter and the number of incidents per thousand channels."
+  "how_to_measure": "For premium creator inventory, track the share of channels reviewed by a person each quarter and the number of incidents per thousand channels.",
+  "image": {
+   "src": "assets/edition-05/logan-paul-google-preferred.webp",
+   "alt": "Logan Paul wears a knitted hat and looks upwards outdoors",
+   "credit": "Original January 2018 follow-up on suicide prevention; not the removed forest vlog · Logan Paul",
+   "source": "https://www.youtube.com/watch?v=oWjxSkJpxFU",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "elle-darby-white-moose",
@@ -364,7 +412,15 @@
    "https://huffingtonpost.co.uk/2018/01/19/social-media-influencers-banned-by-dublin-luxury-hotel_a_23337738"
   ],
   "links": [],
-  "how_to_measure": "For hospitality partnerships, agree in advance on tracked bookings or enquiries from the creator’s audience, and compare them with the cost of the stay."
+  "how_to_measure": "For hospitality partnerships, agree in advance on tracked bookings or enquiries from the creator’s audience, and compare them with the cost of the stay.",
+  "image": {
+   "src": "assets/edition-05/elle-darby-white-moose.webp",
+   "alt": "Elle Darby wears a white top beside a clothing rack",
+   "credit": "Contemporary creator still published with hotel-row reporting; original response not authenticated · Elle Darby, via Tubefilter",
+   "source": "https://www.tubefilter.com/2018/01/19/hotel-bans-influencers-youtuber-proposes-free-stay/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "tanacon",
@@ -401,9 +457,9 @@
   "take": "TanaCon is VidCon’s cautionary twin. Both were creator-led. One had the patience to start small, the other started with the size of its audience.",
   "credit": "Tana Mongeau, 2018",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read what happened · Newsweek",
-   "url": "https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948",
+   "medium": "Contemporary June 2018 creator documentary about the failed convention",
+   "label": "Watch the contemporary TanaCon documentary · Shane Dawson",
+   "url": "https://www.youtube.com/watch?v=8xFtIsyRvNE",
    "heading": "Creator media"
   },
   "announcement": [
@@ -415,7 +471,15 @@
    "https://www.newsweek.com/entertainment/video-games/tanacon-what-happened-when-tana-mongeau-vidcon-good-times-tumblr-convention-994948"
   ],
   "links": [],
-  "how_to_measure": "For creator events, compare registrations with venue capacity before launch, and track attendee satisfaction and refunds after."
+  "how_to_measure": "For creator events, compare registrations with venue capacity before launch, and track attendee satisfaction and refunds after.",
+  "image": {
+   "src": "assets/edition-05/tanacon.webp",
+   "alt": "Shane Dawson sits beside Tana Mongeau on a sofa",
+   "credit": "Contemporary June 2018 creator documentary about the failed convention · Shane Dawson",
+   "source": "https://www.youtube.com/watch?v=8xFtIsyRvNE",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "cma-influencer-commitments",
@@ -466,7 +530,15 @@
    "https://itv.com/news/2019-01-23/celebrities-pledge-to-be-more-transparent-over-social-media-posts"
   ],
   "links": [],
-  "how_to_measure": "Track the share of a creator programme’s posts with a clear label in the first line, and test whether audiences notice it."
+  "how_to_measure": "Track the share of a creator programme’s posts with a clear label in the first line, and test whether audiences notice it.",
+  "image": {
+   "src": "assets/edition-05/cma-influencer-commitments.webp",
+   "alt": "The white GOV.UK wordmark and crown on a blue background",
+   "credit": "Official GOV.UK announcement-page graphic, substituted still; no original commitments film authenticated · Crown copyright / GOV.UK",
+   "source": "https://www.gov.uk/government/news/celebrities-pledge-to-clean-up-their-act-on-social-media",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "youtube-coppa-settlement",
@@ -504,9 +576,9 @@
   "take": "This case moved the rules for children’s content from the platform to every creator. It is a reminder that audiences come with obligations.",
   "credit": "Federal Trade Commission, 2019",
   "creative": {
-   "medium": "Official guidance",
-   "label": "Read the FTC’s guidance to consumers",
-   "url": "https://consumer.ftc.gov/blog/2019/09/youtube-pays-big-tracking-kids",
+   "medium": "Official November 2019 explanation of the post-settlement creator settings",
+   "label": "Watch the original COPPA settings explanation · YouTube Creators",
+   "url": "https://www.youtube.com/watch?v=-JzXiSkoFKw",
    "heading": "Creator media"
   },
   "announcement": [
@@ -518,7 +590,15 @@
    "https://fpf.org/2019/09/09/ftc-reaches-landmark-settlement-regarding-kids-privacy-clarifies-platforms-and-video-creators-coppa-obligations-for-child-directed-content/"
   ],
   "links": [],
-  "how_to_measure": "For family content, track the share of viewing in made-for-kids mode and revenue per thousand views before and after labelling."
+  "how_to_measure": "For family content, track the share of viewing in made-for-kids mode and revenue per thousand views before and after labelling.",
+  "image": {
+   "src": "assets/edition-05/youtube-coppa-settlement.webp",
+   "alt": "A YouTube presenter beside an Update For All Creators and COPPA headline",
+   "credit": "Official November 2019 explanation of the post-settlement creator settings · YouTube Creators",
+   "source": "https://www.youtube.com/watch?v=-JzXiSkoFKw",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "jenna-marbles-steps-away",
@@ -569,7 +649,15 @@
    "https://globalnews.ca/news/7111293/jenna-marbles-leaving-youtube"
   ],
   "links": [],
-  "how_to_measure": "Review a creator’s back catalogue as part of due diligence, and record which older videos remain live during the partnership."
+  "how_to_measure": "Review a creator’s back catalogue as part of due diligence, and record which older videos remain live during the partnership.",
+  "image": {
+   "src": "assets/edition-05/jenna-marbles-steps-away.webp",
+   "alt": "Jenna Marbles wears glasses and a blue hoodie in a living room",
+   "credit": "Contemporary departure-video screenshot published by Tubefilter; original upload not authenticated · Jenna Marbles, via Tubefilter",
+   "source": "https://www.tubefilter.com/2020/06/26/jenna-marbles-indefinite-youtube-hiatus-privates-videos-apologizes/amp/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "pink-sauce",
@@ -620,7 +708,15 @@
    "https://www.foodnetwork.com/fn-dish/news/where-to-buy-pink-sauce-tiktok"
   ],
   "links": [],
-  "how_to_measure": "For a creator product, track complaints and refunds per thousand orders in the first month, and fix supply before scaling the audience."
+  "how_to_measure": "For a creator product, track complaints and refunds per thousand orders in the first month, and fix supply before scaling the audience.",
+  "image": {
+   "src": "assets/edition-05/pink-sauce.webp",
+   "alt": "Chef Pii holds a bottle of Pink Sauce against a pink background",
+   "credit": "Official August 2022 partnership press image; not the original TikTok launch post · Dave's Gourmet / Chef Pii",
+   "source": "https://www.prnewswire.com/news-releases/daves-gourmet-partners-with-social-media-influencer-chef-pii-to-launch-the-pink-sauce-301607236.html",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "mikayla-mascara",
@@ -671,7 +767,15 @@
    "https://www.lexblog.com/2023/01/30/influencers-long-lashes-could-raise-ad-law-issues/"
   ],
   "links": [],
-  "how_to_measure": "For sponsored demonstrations, track sentiment in comments alongside sales, and treat a spike in doubt as a warning even when sales rise."
+  "how_to_measure": "For sponsored demonstrations, track sentiment in comments alongside sales, and treat a spike in doubt as a warning even when sales rise.",
+  "image": {
+   "src": "assets/edition-05/mikayla-mascara.webp",
+   "alt": "A black Telescopic Lift mascara tube beside its open wand",
+   "credit": "Product photograph published with contemporary coverage; original sponsored TikTok upload not authenticated · Mikayla Nogueira / L'Oreal Paris, via Glossy",
+   "source": "https://www.glossy.co/beauty/understanding-whats-behind-the-mikayla-nogueira-mascara-controversy/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "honey-megalag",
@@ -708,9 +812,9 @@
   "take": "This is the creator economy investigating itself, and it worked. A single well-researched video did what years of sponsorship scrutiny hadn’t.",
   "credit": "MegaLag, 2024",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the investigation · Fortune",
-   "url": "https://fortune.com/2024/12/23/honey-scam-browser-extension-mrbeast-mkbhd-linustechtips-megalag-expose-investigation-video/",
+   "medium": "Original December 2024 creator investigation; allegations are not independently adjudicated here",
+   "label": "Watch the original Honey investigation · MegaLag",
+   "url": "https://www.youtube.com/watch?v=vc4yL3YTwWk",
    "heading": "Creator media"
   },
   "announcement": [
@@ -727,7 +831,15 @@
     "https://www.tubefilter.com/2024/12/26/honey-paypal-influencer-marketing-scam-mega-lag/"
    ]
   ],
-  "how_to_measure": "For affiliate programmes, audit attribution: compare the commissions a creator expects from their links with what the network records."
+  "how_to_measure": "For affiliate programmes, audit attribution: compare the commissions a creator expects from their links with what the network records.",
+  "image": {
+   "src": "assets/edition-05/honey-megalag.webp",
+   "alt": "Creator portraits appear below a Honey logo suspended by puppet strings",
+   "credit": "Original December 2024 creator investigation; allegations are not independently adjudicated here · MegaLag",
+   "source": "https://www.youtube.com/watch?v=vc4yL3YTwWk",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "tiktok-goes-dark",
@@ -778,6 +890,14 @@
    "https://abc7news.com/post/us-world-politics-donald-trump-says-he-will-issue-executive-order-monday-get-tiktok-social-media-app-back/15816271/"
   ],
   "links": [],
-  "how_to_measure": "Track the share of a creator’s audience reachable outside the main platform, through email, a second platform or a community, and grow it before it’s needed."
+  "how_to_measure": "Track the share of a creator’s audience reachable outside the main platform, through email, a second platform or a community, and grow it before it’s needed.",
+  "image": {
+   "src": "assets/edition-05/tiktok-goes-dark.webp",
+   "alt": "The TikTok musical-note mark on a black background",
+   "credit": "Official January 2025 shutdown-statement graphic; not footage of the blackout · TikTok",
+   "source": "https://newsroom.tiktok.com/tiktokjan-17?lang=en",
+   "width": 800,
+   "height": 450
+  }
  }
 ]
