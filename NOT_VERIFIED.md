@@ -120,3 +120,28 @@ NOT VERIFIED: playback in every region, embedding permission, complete browser i
 | dude-perfect-investment | Contemporary April 2024 interview with Dude Perfect and Highmount about the investment |
 
 NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.
+
+## Edition 07 media checks, 17 November 2026
+
+10 stills downloaded, visually inspected and converted to 800 by 450 WebP. Source URLs, download hashes, image dimensions and successful YouTube oEmbed responses are in `verification/edition-07/`. oEmbed confirms metadata availability only.
+
+| Case | Media actually checked |
+| --- | --- |
+| li-ziqi | Official January 2021 Guinness record profile; not the original 2016 creator upload; Original 2016 debut footage not authenticated; the record organisation’s own profile is used |
+| the-diva-mukbang | Thumbnail of Reuters's original January 2014 report; not an uninterrupted creator livestream; No live original AfreecaTV stream or suitable official YouTube copy authenticated; original Reuters Dailymotion metadata checked |
+| kizuna-ai | Original December 2016 self-introduction |
+| whindersson-nunes | Original December 2015 parody from the period before the 2016 subscriber milestone |
+| mark-angel-comedy | Original My Real Face sketch from the period before the 2017 subscriber milestone; not milestone footage; The still includes the young performer because this original comedy video is the case's work, not an unrelated photograph |
+| atta-halilintar | Original February 2019 ten-million-subscriber announcement |
+| carryminati-youtube-vs-tiktok | Original May 2020 creator response after the roast was removed; not the deleted roast; The removed roast itself remains unauthenticated as a live original; no fan mirror substituted |
+| elsa-majimbo | Contemporary creator Instagram screenshot published with Fenty collaboration coverage; original post not authenticated |
+| austin-li-singles-day | Official January 2020 broadcaster interview about the live-selling format; not the October 2021 record stream; No original twelve-hour October 2021 Taobao stream authenticated; this interview does not independently confirm the reported sales |
+| khaby-lame | Original May 2022 creator interview, before the June follower crossover; The interview is on Nas Daily’s own channel; third-party re-uploads were rejected |
+
+NOT VERIFIED: playback in every region, embedding permission, complete browser interactions and every external evidence link. No additional financial, causal or historical claims were verified by these media checks. Official graphics and later examples are identified above; they are not presented as authenticated original footage.
+
+## Completed media scope and protected-page observation
+
+All 70 cases in Editions 03 to 07 now have checked stills and each edition has four rendered screening selections. The records distinguish original work, later examples, interviews, reporting and substituted official or publisher stills. Original historical streams and posts listed as unauthenticated above remain NOT VERIFIED.
+
+The protected Edition 02 template and generated page retain a pre-existing singular screening placeholder. This was observed during integration and left byte-for-byte unchanged under the instruction not to touch Editions 01 or 02. Editions 03 to 07 use the existing shared builder token and CSS classes, with no CSS or JavaScript changes.

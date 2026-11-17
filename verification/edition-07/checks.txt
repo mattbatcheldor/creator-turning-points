@@ -1,0 +1,8 @@
+Baseline main: e8ff57c30c6c3645a996ac0c9e234cd9d3c40422
+Checked 2026-11-17
+Full build: exit 0; all 9 pages built.
+Unchanged audit: exit 0; PASS: 9 pages, 100 cases, 101 local images; all internal links, anchors and thumbnail fingerprints valid.
+Four rendered film cards and four YouTube data-video controls verified in each completed edition; no unresolved tokens in those pages.
+PASS: case IDs, order and protected fields unchanged; Editions 01/02 and all protected files byte-identical; template additions and screening settings only; zero prohibited dashes.
+The Index generated page restored to baseline after full build, preserving its existing content.
+Playback in every region, embedding permission and full browser interaction remain NOT VERIFIED.

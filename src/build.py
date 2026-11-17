@@ -462,7 +462,12 @@ EDITIONS = [
     {
         'number': '07', 'name': 'Edge first', 'data': 'campaigns-07.json', 'template': 'page-template-07.html',
         'output': 'edition-07/index.html', 'asset_prefix': '../', 'art': edge_art,
-        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (),
+        'test_heading': 'How the outcome was recorded', 'mechanism_label': 'Shift', 'screening': (
+            ('li-ziqi', 'This official 2021 record profile shows the creator behind the wordless films; the subscriber total records attention rather than earnings.', 'craft'),
+            ('kizuna-ai', 'Watch the original December 2016 introduction and how a performed character establishes a creator relationship.', 'virtual'),
+            ('whindersson-nunes', 'This original 2015 parody preceded the subscriber milestone; notice the local language and everyday subject.', 'parody'),
+            ('mark-angel-comedy', "This original sketch shows Emmanuella's comic timing; it is an example of the work, not a recording of the million-subscriber milestone.", 'sketch'),
+        ),
     },
 ]
 

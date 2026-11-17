@@ -1,0 +1,1 @@
+PASS: 9 pages, 100 cases, 101 local images; all internal links, anchors and thumbnail fingerprints valid.

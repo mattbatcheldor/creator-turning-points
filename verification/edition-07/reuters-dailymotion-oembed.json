@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-11-17T01:41:38.947417+00:00",
+  "endpoint": "https://www.dailymotion.com/services/oembed?url=https://www.dailymotion.com/video/x1abzcq",
+  "http_status": 200,
+  "response": {
+    "type": "video",
+    "version": "1.0",
+    "provider_name": "Dailymotion",
+    "provider_url": "https://www.dailymotion.com",
+    "title": "Watch me eat -- South Korea's online fad",
+    "description": "Park Seo-yeon lays a Korean feast in front of her computer. Then she turns on a video camera, she eats, and thousands of viewers watch her. This is the latest fad in South Korea -- gastronomic voyeurism - in a country with one of the best internet connectivities in the world. Park, known as \"The Diva,\" broadcasts herself eating in her apartment for up to three hours every day. Viewers can chat with her, or send virtual balloons, that translate into cash. She earns more than 9,000 US dollars a month, doing this and has quit her job at a consulting firm. (SOUNDBITE) (Korean) 34-YEAR-OLD PARK SEO-YEON, WHO RUNS AN ONLINE DINING SHOW AND HER SHOW NAME IS 'THE DIVA', SAYING: \"People enjoy the vicarious pleasure with my online show when they can't eat that much, or don't want to eat food at night, or are on a diet.\" There are about 3,500 people in South Korea doing such online programmes, some sponsored by restaurants. Some say it makes eating",
+    "author_name": "Reuters",
+    "author_url": "https://www.dailymotion.com/reuters",
+    "width": 480,
+    "height": 269,
+    "html": "<iframe frameborder=\"0\" width=\"480\" height=\"269\" src=\"https://geo.dailymotion.com/player.html?video=x1abzcq&\" allowfullscreen allow=\"autoplay; fullscreen; picture-in-picture; web-share\"></iframe>",
+    "thumbnail_url": "https://s2.dmcdn.net/v/4etMw1gxL65jR7dKT/x720",
+    "thumbnail_width": 1282,
+    "thumbnail_height": 720
+  }
+}

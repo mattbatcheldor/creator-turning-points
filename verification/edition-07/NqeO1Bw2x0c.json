@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-17T01:41:45.635290+00:00",
+  "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NqeO1Bw2x0c&format=json",
+  "http_status": 200,
+  "response": {
+    "title": "MY REAL FACE (Mark Angel Comedy) (Episode 48)",
+    "author_name": "MarkAngelComedy",
+    "author_url": "https://www.youtube.com/@markangelcomedy",
+    "type": "video",
+    "height": 113,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/NqeO1Bw2x0c/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NqeO1Bw2x0c?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"MY REAL FACE (Mark Angel Comedy) (Episode 48)\"></iframe>"
+  }
+}

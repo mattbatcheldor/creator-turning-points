@@ -92,13 +92,13 @@
 | 06 | Hailey Bieber | 2022 | Archival | https://www.glossy.co/beauty/facing-an-uncertain-market-e-l-f-beauty-acquires-hailey-biebers-rhode-for-1-billion/ | https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607 |
 | 06 | Smosh | 2023 | Archival | https://www.youtube.com/watch?v=DwsZggwPRKc | https://www.youtube.com/watch?v=DwsZggwPRKc |
 | 06 | Dude Perfect | 2024 | Archival | https://www.youtube.com/watch?v=C09W10I0L2E | https://www.youtube.com/watch?v=C09W10I0L2E |
-| 07 | Li Ziqi | 2021 | Reach only | https://www.guinnessworldrecords.com/news/2021/1/li-ziqi-breaks-youtube-subscribers-record-for-chinese-language-channel-647202 | Pending |
-| 07 | The Diva | 2014 | Sales trend | https://amp.scmp.com/news/asia/article/1417558/south-korean-woman-makes-fortune-livestreaming-herself-eating | Pending |
-| 07 | Kizuna AI | 2016 | Archival | https://virtualhumans.org/article/who-were-the-first-vtubers-and-virtual-streamers | Pending |
-| 07 | Whindersson Nunes | 2016 | Reach only | https://www.tubefilter.com/2017/01/27/top-100-most-subscribed-youtube-channels-worldwide-december-2016/ | Pending |
-| 07 | Mark Angel Comedy | 2017 | Reach only | https://www.pulse.ng/gist/pop-culture/mark-angel-comedy-comedian-becomes-first-african-comedy-channel-to-hit-1-million/4lr4789 | Pending |
-| 07 | Atta Halilintar | 2019 | Reach only | https://www.thejakartapost.com/life/2019/02/06/atta-halilintar-named-southeast-asias-first-youtuber-with-10-million-subscribers.html | Pending |
-| 07 | CarryMinati | 2020 | Reach only | https://www.afaqs.com/news/social-media/youtube-india-removes-carryminatis-roast-video-says-it-violates-its-terms-of-service | Pending |
-| 07 | Elsa Majimbo | 2020 | Archival | https://www.okayafrica.com/kenyan-comedian-fenty-collaboration | Pending |
-| 07 | Austin Li | 2021 | Sales trend | https://www.businessinsider.nl/chinas-lipstick-king-sold-an-astonishing-1-7-billion-in-goods-in-12-hours-and-that-was-just-in-a-promotion-for-the-countrys-biggest-shopping-day/ | Pending |
-| 07 | Khaby Lame | 2022 | Reach only | https://tubefilter.com/2022/06/23/khaby-lame-tiktok-top-account-charli-damelio/ | Pending |
+| 07 | Li Ziqi | 2021 | Reach only | https://www.youtube.com/watch?v=VH5zTQlYLSE | https://www.youtube.com/watch?v=VH5zTQlYLSE |
+| 07 | The Diva | 2014 | Sales trend | https://www.dailymotion.com/video/x1abzcq | https://www.dailymotion.com/video/x1abzcq |
+| 07 | Kizuna AI | 2016 | Archival | https://www.youtube.com/watch?v=NasyGUeNMTs | https://www.youtube.com/watch?v=NasyGUeNMTs |
+| 07 | Whindersson Nunes | 2016 | Reach only | https://www.youtube.com/watch?v=tWs1E2BfNZE | https://www.youtube.com/watch?v=tWs1E2BfNZE |
+| 07 | Mark Angel Comedy | 2017 | Reach only | https://www.youtube.com/watch?v=NqeO1Bw2x0c | https://www.youtube.com/watch?v=NqeO1Bw2x0c |
+| 07 | Atta Halilintar | 2019 | Reach only | https://www.youtube.com/watch?v=Ctt5KO8S1O8 | https://www.youtube.com/watch?v=Ctt5KO8S1O8 |
+| 07 | CarryMinati | 2020 | Reach only | https://www.youtube.com/watch?v=YXlRTFhfE_4 | https://www.youtube.com/watch?v=YXlRTFhfE_4 |
+| 07 | Elsa Majimbo | 2020 | Archival | https://www.okayafrica.com/kenyan-comedian-fenty-collaboration | https://www.okayafrica.com/kenyan-comedian-fenty-collaboration/ |
+| 07 | Austin Li | 2021 | Sales trend | https://www.youtube.com/watch?v=PGJFA7sZSRQ | https://www.youtube.com/watch?v=PGJFA7sZSRQ |
+| 07 | Khaby Lame | 2022 | Reach only | https://www.youtube.com/watch?v=F26xVfZlj6E | https://www.youtube.com/watch?v=F26xVfZlj6E |

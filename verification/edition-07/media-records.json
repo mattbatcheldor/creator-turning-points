@@ -1,0 +1,337 @@
+{
+  "li-ziqi": {
+    "video": "VH5zTQlYLSE",
+    "kind": "Official January 2021 Guinness record profile; not the original 2016 creator upload",
+    "owner": "Guinness World Records",
+    "replace": true,
+    "label": "Watch the official record profile \u00b7 Guinness World Records",
+    "source_limit": "Original 2016 debut footage not authenticated; the record organisation\u2019s own profile is used",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VH5zTQlYLSE&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Chinese YouTuber \u674e\u5b50\u67d2 Liziqi earns GUINNESS WORLD RECORDS TITLE",
+        "author_name": "Guinness World Records",
+        "author_url": "https://www.youtube.com/@guinnessworldrecords",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/VH5zTQlYLSE/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VH5zTQlYLSE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Chinese YouTuber \u674e\u5b50\u67d2 Liziqi earns GUINNESS WORLD RECORDS TITLE\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=VH5zTQlYLSE",
+    "asset": "https://i.ytimg.com/vi/VH5zTQlYLSE/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:43:35.859668+00:00",
+    "source_sha256": "3a6e4a1f59d6b7618bc79b374079190db736c0e90dd0a2762e6e082ab2d8b566",
+    "alt": "Li Ziqi with a Guinness certificate and a puppy beside a second image of her doing craft work"
+  },
+  "the-diva-mukbang": {
+    "page": "https://www.dailymotion.com/video/x1abzcq",
+    "asset": "https://s2.dmcdn.net/v/4etMw1gxL65jR7dKT/x720",
+    "kind": "Thumbnail of Reuters's original January 2014 report; not an uninterrupted creator livestream",
+    "owner": "Reuters",
+    "replace": true,
+    "label": "Watch the contemporary 2014 report \u00b7 Reuters",
+    "source_limit": "No live original AfreecaTV stream or suitable official YouTube copy authenticated; original Reuters Dailymotion metadata checked",
+    "non_youtube_oembed": {
+      "checked_at": "2026-11-17T01:41:38.947417+00:00",
+      "endpoint": "https://www.dailymotion.com/services/oembed?url=https://www.dailymotion.com/video/x1abzcq",
+      "http_status": 200,
+      "response": {
+        "type": "video",
+        "version": "1.0",
+        "provider_name": "Dailymotion",
+        "provider_url": "https://www.dailymotion.com",
+        "title": "Watch me eat -- South Korea's online fad",
+        "description": "Park Seo-yeon lays a Korean feast in front of her computer. Then she turns on a video camera, she eats, and thousands of viewers watch her. This is the latest fad in South Korea -- gastronomic voyeurism - in a country with one of the best internet connectivities in the world. Park, known as \"The Diva,\" broadcasts herself eating in her apartment for up to three hours every day. Viewers can chat with her, or send virtual balloons, that translate into cash. She earns more than 9,000 US dollars a month, doing this and has quit her job at a consulting firm. (SOUNDBITE) (Korean) 34-YEAR-OLD PARK SEO-YEON, WHO RUNS AN ONLINE DINING SHOW AND HER SHOW NAME IS 'THE DIVA', SAYING: \"People enjoy the vicarious pleasure with my online show when they can't eat that much, or don't want to eat food at night, or are on a diet.\" There are about 3,500 people in South Korea doing such online programmes, some sponsored by restaurants. Some say it makes eating",
+        "author_name": "Reuters",
+        "author_url": "https://www.dailymotion.com/reuters",
+        "width": 480,
+        "height": 269,
+        "html": "<iframe frameborder=\"0\" width=\"480\" height=\"269\" src=\"https://geo.dailymotion.com/player.html?video=x1abzcq&\" allowfullscreen allow=\"autoplay; fullscreen; picture-in-picture; web-share\"></iframe>",
+        "thumbnail_url": "https://s2.dmcdn.net/v/4etMw1gxL65jR7dKT/x720",
+        "thumbnail_width": 1282,
+        "thumbnail_height": 720
+      }
+    },
+    "input_dimensions": [
+      1279,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:47.149606+00:00",
+    "source_sha256": "3fe22b0e6e44642c4c22954e44da37525d61f111cf4f2e359ca2f13fa5ac9af5",
+    "alt": "The Diva sits before bowls of food and a computer showing her livestream"
+  },
+  "kizuna-ai": {
+    "video": "NasyGUeNMTs",
+    "kind": "Original December 2016 self-introduction",
+    "owner": "Kizuna AI / A.I.Channel",
+    "replace": true,
+    "label": "Watch the original self-introduction \u00b7 Kizuna AI",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NasyGUeNMTs&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "\u3010\u81ea\u5df1\u7d39\u4ecb\u3011\u306f\u3058\u3081\u307e\u3057\u3066\uff01\u30ad\u30ba\u30ca\u30a2\u30a4\u3067\u3059\u10da(\u00b4\u06a1`\u10da)",
+        "author_name": "Kizuna AI - A.I.Channel",
+        "author_url": "https://www.youtube.com/@AIChannel",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/NasyGUeNMTs/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NasyGUeNMTs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"\u3010\u81ea\u5df1\u7d39\u4ecb\u3011\u306f\u3058\u3081\u307e\u3057\u3066\uff01\u30ad\u30ba\u30ca\u30a2\u30a4\u3067\u3059\u10da(\u00b4\u06a1`\u10da)\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=NasyGUeNMTs",
+    "asset": "https://i.ytimg.com/vi/NasyGUeNMTs/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.734555+00:00",
+    "source_sha256": "b7003a52ffea2515515ff9e511b5460f343d07c2a80ed675f22ea6af02b70ed1",
+    "alt": "Kizuna AI\u2019s animated character beside A.I.Channel and self-introduction lettering"
+  },
+  "whindersson-nunes": {
+    "video": "tWs1E2BfNZE",
+    "kind": "Original December 2015 parody from the period before the 2016 subscriber milestone",
+    "owner": "whinderssonnunes",
+    "replace": true,
+    "label": "Watch the original Wi-Fi parody \u00b7 Whindersson Nunes",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=tWs1E2BfNZE&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "QUAL \u00c9 A SENHA DO WIFI - Par\u00f3dia Adele - Hello",
+        "author_name": "whinderssonnunes",
+        "author_url": "https://www.youtube.com/@whindersson",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/tWs1E2BfNZE/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/tWs1E2BfNZE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"QUAL \u00c9 A SENHA DO WIFI - Par\u00f3dia Adele - Hello\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=tWs1E2BfNZE",
+    "asset": "https://i.ytimg.com/vi/tWs1E2BfNZE/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.622414+00:00",
+    "source_sha256": "a62ed2f25449ed8ecff324ec19fd358d6f8d57c7634082aadf291683bff11fee",
+    "alt": "Adele parody imagery beside Adele Wi-Fi and parodia lettering"
+  },
+  "mark-angel-comedy": {
+    "video": "NqeO1Bw2x0c",
+    "kind": "Original My Real Face sketch from the period before the 2017 subscriber milestone; not milestone footage",
+    "owner": "MarkAngelComedy",
+    "replace": true,
+    "label": "Watch the original My Real Face sketch \u00b7 Mark Angel Comedy",
+    "source_limit": "The still includes the young performer because this original comedy video is the case's work, not an unrelated photograph",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NqeO1Bw2x0c&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "MY REAL FACE (Mark Angel Comedy) (Episode 48)",
+        "author_name": "MarkAngelComedy",
+        "author_url": "https://www.youtube.com/@markangelcomedy",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/NqeO1Bw2x0c/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/NqeO1Bw2x0c?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"MY REAL FACE (Mark Angel Comedy) (Episode 48)\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=NqeO1Bw2x0c",
+    "asset": "https://i.ytimg.com/vi/NqeO1Bw2x0c/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.763165+00:00",
+    "source_sha256": "fede2510dcfd6df5fd0993ce1a1bdb94c1f3118c5aded1dd1d9adfda60c35ba7",
+    "alt": "Emmanuella gestures towards another performer under My Real Face lettering"
+  },
+  "atta-halilintar": {
+    "video": "Ctt5KO8S1O8",
+    "kind": "Original February 2019 ten-million-subscriber announcement",
+    "owner": "Atta Halilintar / AH",
+    "replace": true,
+    "label": "Watch the original ten-million announcement \u00b7 Atta Halilintar",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ctt5KO8S1O8&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "Detik Detik 10 JUTA SUBS PERTAMA DI ASIA TENGGARA!",
+        "author_name": "AH",
+        "author_url": "https://www.youtube.com/@AttaHalilintar",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/Ctt5KO8S1O8/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Ctt5KO8S1O8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Detik Detik 10 JUTA SUBS PERTAMA DI ASIA TENGGARA!\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=Ctt5KO8S1O8",
+    "asset": "https://i.ytimg.com/vi/Ctt5KO8S1O8/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.761384+00:00",
+    "source_sha256": "8645ce8836e98832d6ce57f8a785971b73b36dd0dbe81e7446125b0e14ed3b2c",
+    "alt": "Atta Halilintar holds a laptop displaying 10,000,057 subscribers from a hospital bed"
+  },
+  "carryminati-youtube-vs-tiktok": {
+    "video": "YXlRTFhfE_4",
+    "kind": "Original May 2020 creator response after the roast was removed; not the deleted roast",
+    "owner": "CarryMinati",
+    "replace": true,
+    "label": "Watch the original response to removal \u00b7 CarryMinati",
+    "source_limit": "The removed roast itself remains unauthenticated as a live original; no fan mirror substituted",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=YXlRTFhfE_4&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "STOP MAKING ASSUMPTIONS | YOUTUBE VS TIK TOK: THE END",
+        "author_name": "CarryMinati",
+        "author_url": "https://www.youtube.com/@CarryMinati",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/YXlRTFhfE_4/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YXlRTFhfE_4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"STOP MAKING ASSUMPTIONS | YOUTUBE VS TIK TOK: THE END\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=YXlRTFhfE_4",
+    "asset": "https://i.ytimg.com/vi/YXlRTFhfE_4/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.602637+00:00",
+    "source_sha256": "85e3f4356610f6b6ba93c5ca94b7e647060b4c80a927c838a712863e38142e7b",
+    "alt": "CarryMinati wears glasses and speaks to a phone camera in a vertical video"
+  },
+  "elsa-majimbo": {
+    "page": "https://www.okayafrica.com/kenyan-comedian-fenty-collaboration/",
+    "asset": "https://image.okayafrica.com/111036.jpg?imageId=111036&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+    "kind": "Contemporary creator Instagram screenshot published with Fenty collaboration coverage; original post not authenticated",
+    "owner": "Elsa Majimbo, via OkayAfrica",
+    "input_dimensions": [
+      1200,
+      683
+    ],
+    "checked_at": "2026-11-17T01:41:46.413154+00:00",
+    "source_sha256": "67b463f8662d92bfe6a7bbfc9d2d0f62c18aa81561bb54748cba5ac01046d99b",
+    "alt": "Elsa Majimbo lowers dark sunglasses and smiles at the camera"
+  },
+  "austin-li-singles-day": {
+    "video": "PGJFA7sZSRQ",
+    "kind": "Official January 2020 broadcaster interview about the live-selling format; not the October 2021 record stream",
+    "owner": "CGTN",
+    "replace": true,
+    "label": "Watch the earlier live-selling interview \u00b7 CGTN",
+    "source_limit": "No original twelve-hour October 2021 Taobao stream authenticated; this interview does not independently confirm the reported sales",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=PGJFA7sZSRQ&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "China's top beauty influencer Li Jiaqi: No makeup when I am offline",
+        "author_name": "CGTN",
+        "author_url": "https://www.youtube.com/@cgtn",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/PGJFA7sZSRQ/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/PGJFA7sZSRQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"China&#39;s top beauty influencer Li Jiaqi: No makeup when I am offline\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=PGJFA7sZSRQ",
+    "asset": "https://i.ytimg.com/vi/PGJFA7sZSRQ/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.756327+00:00",
+    "source_sha256": "d99178fab2eceff17a2cb9916d8c7159bf7e83ac4eccc52fa1bc09605690f52a",
+    "alt": "Li Jiaqi beside Beauty Blogger and Spring Festival 2020 Other Stories lettering"
+  },
+  "khaby-lame": {
+    "video": "F26xVfZlj6E",
+    "kind": "Original May 2022 creator interview, before the June follower crossover",
+    "owner": "Nas Daily",
+    "replace": true,
+    "label": "Watch the contemporary format interview \u00b7 Nas Daily",
+    "source_limit": "The interview is on Nas Daily\u2019s own channel; third-party re-uploads were rejected",
+    "oembed": {
+      "endpoint": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=F26xVfZlj6E&format=json",
+      "http_status": 200,
+      "response": {
+        "title": "The Secret, Incredible, and Inspiring Story of Khaby",
+        "author_name": "Nas Daily",
+        "author_url": "https://www.youtube.com/@NasDaily",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/F26xVfZlj6E/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/F26xVfZlj6E?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"The Secret, Incredible, and Inspiring Story of Khaby\"></iframe>"
+      }
+    },
+    "page": "https://www.youtube.com/watch?v=F26xVfZlj6E",
+    "asset": "https://i.ytimg.com/vi/F26xVfZlj6E/maxresdefault.jpg",
+    "input_dimensions": [
+      1280,
+      720
+    ],
+    "checked_at": "2026-11-17T01:41:52.703003+00:00",
+    "source_sha256": "cd5fdf44c02e19689e6922a14ec3e32ddaa3ef6e98aae99cf21c3bfc7c4d3905",
+    "alt": "Nas Daily and Khaby Lame stand together under Secret Story of Khaby lettering"
+  }
+}

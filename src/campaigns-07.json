@@ -28,15 +28,23 @@
   "take": "Li Ziqi is the case I’d show anyone who thinks the creator economy is American. A woman in a Sichuan village made some of the most beautiful content on the platform, and the world found her.",
   "credit": "Li Ziqi, 2016 to 2021",
   "creative": {
-   "medium": "Official record",
-   "label": "Read about the record · Guinness World Records",
-   "url": "https://www.guinnessworldrecords.com/news/2021/1/li-ziqi-breaks-youtube-subscribers-record-for-chinese-language-channel-647202",
+   "medium": "Official January 2021 Guinness record profile; not the original 2016 creator upload",
+   "label": "Watch the official record profile · Guinness World Records",
+   "url": "https://www.youtube.com/watch?v=VH5zTQlYLSE",
    "heading": "Creator media"
   },
   "announcement": ["Read about the record · Guinness World Records", "https://www.guinnessworldrecords.com/news/2021/1/li-ziqi-breaks-youtube-subscribers-record-for-chinese-language-channel-647202"],
   "impact_source": ["Read how she broke the record · South China Morning Post", "https://www.scmp.com/magazines/style/celebrity/article/3120396/how-did-chinese-youtube-star-li-ziqi-break-guinness-world"],
   "links": [],
-  "how_to_measure": "For content without language, track viewing by country. A spread across many countries shows the format is travelling on its own."
+  "how_to_measure": "For content without language, track viewing by country. A spread across many countries shows the format is travelling on its own.",
+  "image": {
+   "src": "assets/edition-07/li-ziqi.webp",
+   "alt": "Li Ziqi with a Guinness certificate and a puppy beside a second image of her doing craft work",
+   "credit": "Official January 2021 Guinness record profile; not the original 2016 creator upload · Guinness World Records",
+   "source": "https://www.youtube.com/watch?v=VH5zTQlYLSE",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "the-diva-mukbang",
@@ -67,15 +75,23 @@
   "take": "Mukbang shows that live tipping, now common everywhere, was a mature business in Korea first. The West copied the format and the payment model.",
   "credit": "Park Seo-yeon, 2014",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about her earnings · South China Morning Post",
-   "url": "https://amp.scmp.com/news/asia/article/1417558/south-korean-woman-makes-fortune-livestreaming-herself-eating",
+   "medium": "Thumbnail of Reuters's original January 2014 report; not an uninterrupted creator livestream",
+   "label": "Watch the contemporary 2014 report · Reuters",
+   "url": "https://www.dailymotion.com/video/x1abzcq",
    "heading": "Creator media"
   },
   "announcement": ["Read about Koreans streaming dinner · Yahoo", "https://sg.finance.yahoo.com/news/koreans-become-stars-live-streaming-160807180.html"],
   "impact_source": ["Read about her earnings · South China Morning Post", "https://amp.scmp.com/news/asia/article/1417558/south-korean-woman-makes-fortune-livestreaming-herself-eating"],
   "links": [],
-  "how_to_measure": "For tip-funded formats, track revenue per viewer hour and the share of viewers who give at least once a month."
+  "how_to_measure": "For tip-funded formats, track revenue per viewer hour and the share of viewers who give at least once a month.",
+  "image": {
+   "src": "assets/edition-07/the-diva-mukbang.webp",
+   "alt": "The Diva sits before bowls of food and a computer showing her livestream",
+   "credit": "Thumbnail of Reuters's original January 2014 report; not an uninterrupted creator livestream · Reuters",
+   "source": "https://www.dailymotion.com/video/x1abzcq",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "kizuna-ai",
@@ -106,15 +122,23 @@
   "take": "VTubers are the creator economy’s most original invention outside the West. They also raise the ownership question in its sharpest form: the performer or the company?",
   "credit": "Kizuna AI, 2016",
   "creative": {
-   "medium": "Explainer",
-   "label": "Read who were the first VTubers · Virtual Humans",
-   "url": "https://virtualhumans.org/article/who-were-the-first-vtubers-and-virtual-streamers",
+   "medium": "Original December 2016 self-introduction",
+   "label": "Watch the original self-introduction · Kizuna AI",
+   "url": "https://www.youtube.com/watch?v=NasyGUeNMTs",
    "heading": "Creator media"
   },
   "announcement": ["Read her profile · Virtual Humans", "https://virtualhumans.org/human/kizuna-ai"],
   "impact_source": ["Read who were the first VTubers · Virtual Humans", "https://virtualhumans.org/article/who-were-the-first-vtubers-and-virtual-streamers"],
   "links": [],
-  "how_to_measure": "For virtual creators, track live gifts and memberships per stream hour, and audience retention when a performer changes."
+  "how_to_measure": "For virtual creators, track live gifts and memberships per stream hour, and audience retention when a performer changes.",
+  "image": {
+   "src": "assets/edition-07/kizuna-ai.webp",
+   "alt": "Kizuna AI’s animated character beside A.I.Channel and self-introduction lettering",
+   "credit": "Original December 2016 self-introduction · Kizuna AI / A.I.Channel",
+   "source": "https://www.youtube.com/watch?v=NasyGUeNMTs",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "whindersson-nunes",
@@ -145,15 +169,23 @@
   "take": "Whindersson is what happens when the gatekeepers are bypassed. Brazil’s biggest comedian came from the place its television never looked.",
   "credit": "Whindersson Nunes, 2013 to 2016",
   "creative": {
-   "medium": "Chart",
-   "label": "See the top 100 channels worldwide, December 2016 · Tubefilter",
-   "url": "https://www.tubefilter.com/2017/01/27/top-100-most-subscribed-youtube-channels-worldwide-december-2016/",
+   "medium": "Original December 2015 parody from the period before the 2016 subscriber milestone",
+   "label": "Watch the original Wi-Fi parody · Whindersson Nunes",
+   "url": "https://www.youtube.com/watch?v=tWs1E2BfNZE",
    "heading": "Creator media"
   },
   "announcement": ["See the top 100 channels worldwide, October 2016 · Tubefilter", "https://tubefilter.com/2016/11/16/top-100-most-subscribed-youtube-channels-worldwide-october-2016/"],
   "impact_source": ["See the top 100 channels worldwide, December 2016 · Tubefilter", "https://www.tubefilter.com/2017/01/27/top-100-most-subscribed-youtube-channels-worldwide-december-2016/"],
   "links": [],
-  "how_to_measure": "For regional creators, compare engagement by region with national averages. A creator who over-indexes in an under-served region is a route in."
+  "how_to_measure": "For regional creators, compare engagement by region with national averages. A creator who over-indexes in an under-served region is a route in.",
+  "image": {
+   "src": "assets/edition-07/whindersson-nunes.webp",
+   "alt": "Adele parody imagery beside Adele Wi-Fi and parodia lettering",
+   "credit": "Original December 2015 parody from the period before the 2016 subscriber milestone · whinderssonnunes",
+   "source": "https://www.youtube.com/watch?v=tWs1E2BfNZE",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "mark-angel-comedy",
@@ -184,15 +216,23 @@
   "take": "Mark Angel proved that an African creator could build a global audience from a phone camera and a good script. Many African creators followed.",
   "credit": "Mark Angel, 2017",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the milestone · Pulse",
-   "url": "https://www.pulse.ng/gist/pop-culture/mark-angel-comedy-comedian-becomes-first-african-comedy-channel-to-hit-1-million/4lr4789",
+   "medium": "Original My Real Face sketch from the period before the 2017 subscriber milestone; not milestone footage",
+   "label": "Watch the original My Real Face sketch · Mark Angel Comedy",
+   "url": "https://www.youtube.com/watch?v=NqeO1Bw2x0c",
    "heading": "Creator media"
   },
   "announcement": ["Read about the milestone · Pulse", "https://www.pulse.ng/gist/pop-culture/mark-angel-comedy-comedian-becomes-first-african-comedy-channel-to-hit-1-million/4lr4789"],
   "impact_source": ["Read about the record · The Guardian Nigeria", "https://guardian.ng/?p=373260"],
   "links": [],
-  "how_to_measure": "For creators in low-advertising markets, track the share of income from outside platform advertising, such as brand deals and the diaspora audience."
+  "how_to_measure": "For creators in low-advertising markets, track the share of income from outside platform advertising, such as brand deals and the diaspora audience.",
+  "image": {
+   "src": "assets/edition-07/mark-angel-comedy.webp",
+   "alt": "Emmanuella gestures towards another performer under My Real Face lettering",
+   "credit": "Original My Real Face sketch from the period before the 2017 subscriber milestone; not milestone footage · MarkAngelComedy",
+   "source": "https://www.youtube.com/watch?v=NqeO1Bw2x0c",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "atta-halilintar",
@@ -223,15 +263,23 @@
   "take": "Atta is a reminder that the biggest creator in a market of 270 million people may be someone most Western marketers have never heard of.",
   "credit": "Atta Halilintar, 2019",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the milestone · The Jakarta Post",
-   "url": "https://www.thejakartapost.com/life/2019/02/06/atta-halilintar-named-southeast-asias-first-youtuber-with-10-million-subscribers.html",
+   "medium": "Original February 2019 ten-million-subscriber announcement",
+   "label": "Watch the original ten-million announcement · Atta Halilintar",
+   "url": "https://www.youtube.com/watch?v=Ctt5KO8S1O8",
    "heading": "Creator media"
   },
   "announcement": ["Read about the milestone · The Jakarta Post", "https://www.thejakartapost.com/life/2019/02/06/atta-halilintar-named-southeast-asias-first-youtuber-with-10-million-subscribers.html"],
   "impact_source": ["Read about the record · South China Morning Post", "https://www.scmp.com/news/asia/southeast-asia/article/2185326/indonesian-youtuber-atta-becomes-first-person-southeast"],
   "links": [],
-  "how_to_measure": "For national creators, measure reach as a share of the country’s online population, a fairer comparison than global subscriber totals."
+  "how_to_measure": "For national creators, measure reach as a share of the country’s online population, a fairer comparison than global subscriber totals.",
+  "image": {
+   "src": "assets/edition-07/atta-halilintar.webp",
+   "alt": "Atta Halilintar holds a laptop displaying 10,000,057 subscribers from a hospital bed",
+   "credit": "Original February 2019 ten-million-subscriber announcement · Atta Halilintar / AH",
+   "source": "https://www.youtube.com/watch?v=Ctt5KO8S1O8",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "carryminati-youtube-vs-tiktok",
@@ -262,15 +310,23 @@
   "take": "This case shows the power and the danger of a mobilised fanbase, a month before India banned TikTok altogether, in Edition 04.",
   "credit": "CarryMinati, 2020",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the removal · afaqs",
-   "url": "https://www.afaqs.com/news/social-media/youtube-india-removes-carryminatis-roast-video-says-it-violates-its-terms-of-service",
+   "medium": "Original May 2020 creator response after the roast was removed; not the deleted roast",
+   "label": "Watch the original response to removal · CarryMinati",
+   "url": "https://www.youtube.com/watch?v=YXlRTFhfE_4",
    "heading": "Creator media"
   },
   "announcement": ["Read about the removal · afaqs", "https://www.afaqs.com/news/social-media/youtube-india-removes-carryminatis-roast-video-says-it-violates-its-terms-of-service"],
   "impact_source": ["Read about the rivalry · Bloomberg", "https://www.bloombergquint.com/amp/businessweek/youtube-and-tiktok-are-battling-over-india"],
   "links": [],
-  "how_to_measure": "For creators with mobilised fanbases, track how their audience behaves when the creator is criticised. It predicts how a partnership crisis would play out."
+  "how_to_measure": "For creators with mobilised fanbases, track how their audience behaves when the creator is criticised. It predicts how a partnership crisis would play out.",
+  "image": {
+   "src": "assets/edition-07/carryminati-youtube-vs-tiktok.webp",
+   "alt": "CarryMinati wears glasses and speaks to a phone camera in a vertical video",
+   "credit": "Original May 2020 creator response after the roast was removed; not the deleted roast · CarryMinati",
+   "source": "https://www.youtube.com/watch?v=YXlRTFhfE_4",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "elsa-majimbo",
@@ -309,7 +365,15 @@
   "announcement": ["Read about the Fenty deal · The Star Kenya", "https://www.the-star.co.ke/news/2020-09-15-comic-elsa-19-bags-fenty-deal"],
   "impact_source": ["Read how she laughed her way to brand deals · OkayAfrica", "https://www.okayafrica.com/kenyan-comedian-fenty-collaboration"],
   "links": [],
-  "how_to_measure": "For emerging creators, track follower growth rate and the share of audience outside their home country. Fast international growth is an early signal."
+  "how_to_measure": "For emerging creators, track follower growth rate and the share of audience outside their home country. Fast international growth is an early signal.",
+  "image": {
+   "src": "assets/edition-07/elsa-majimbo.webp",
+   "alt": "Elsa Majimbo lowers dark sunglasses and smiles at the camera",
+   "credit": "Contemporary creator Instagram screenshot published with Fenty collaboration coverage; original post not authenticated · Elsa Majimbo, via OkayAfrica",
+   "source": "https://www.okayafrica.com/kenyan-comedian-fenty-collaboration/",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "austin-li-singles-day",
@@ -340,15 +404,23 @@
   "take": "Austin Li is the most commercially powerful single creator in this archive. He shows where creator commerce goes when the checkout sits inside the stream.",
   "credit": "Austin Li, 2021",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about the sales · Business Insider",
-   "url": "https://www.businessinsider.nl/chinas-lipstick-king-sold-an-astonishing-1-7-billion-in-goods-in-12-hours-and-that-was-just-in-a-promotion-for-the-countrys-biggest-shopping-day/",
+   "medium": "Official January 2020 broadcaster interview about the live-selling format; not the October 2021 record stream",
+   "label": "Watch the earlier live-selling interview · CGTN",
+   "url": "https://www.youtube.com/watch?v=PGJFA7sZSRQ",
    "heading": "Creator media"
   },
   "announcement": ["Read about the presale · Tech Wire Asia", "https://techwireasia.com/2021/10/heres-how-the-pre-sale-of-chinas-2021-singles-day-sale-went/"],
   "impact_source": ["Read about the sales · Business Insider", "https://www.businessinsider.nl/chinas-lipstick-king-sold-an-astonishing-1-7-billion-in-goods-in-12-hours-and-that-was-just-in-a-promotion-for-the-countrys-biggest-shopping-day/"],
   "links": [],
-  "how_to_measure": "For live shopping, report net sales after returns, conversion per thousand viewers and the discount given to win the slot."
+  "how_to_measure": "For live shopping, report net sales after returns, conversion per thousand viewers and the discount given to win the slot.",
+  "image": {
+   "src": "assets/edition-07/austin-li-singles-day.webp",
+   "alt": "Li Jiaqi beside Beauty Blogger and Spring Festival 2020 Other Stories lettering",
+   "credit": "Official January 2020 broadcaster interview about the live-selling format; not the October 2021 record stream · CGTN",
+   "source": "https://www.youtube.com/watch?v=PGJFA7sZSRQ",
+   "width": 800,
+   "height": 450
+  }
  },
  {
   "id": "khaby-lame",
@@ -379,14 +451,22 @@
   "take": "Khaby Lame closes the archive because he is everything this edition is about: no budget, no language barrier and no gatekeeper, and he still became the biggest creator on the platform.",
   "credit": "Khaby Lame, 2020 to 2022",
   "creative": {
-   "medium": "Contemporary reporting",
-   "label": "Read about him becoming TikTok’s most followed · Tubefilter",
-   "url": "https://tubefilter.com/2022/06/23/khaby-lame-tiktok-top-account-charli-damelio/",
+   "medium": "Original May 2022 creator interview, before the June follower crossover",
+   "label": "Watch the contemporary format interview · Nas Daily",
+   "url": "https://www.youtube.com/watch?v=F26xVfZlj6E",
    "heading": "Creator media"
   },
   "announcement": ["Read about him becoming TikTok’s most followed · Tubefilter", "https://tubefilter.com/2022/06/23/khaby-lame-tiktok-top-account-charli-damelio/"],
   "impact_source": ["Read about the Senegalese king of TikTok · AllAfrica", "https://allafrica.com/stories/202206240468.html"],
   "links": [],
-  "how_to_measure": "For formats without words, track audience by country and share rate. Global spread with high sharing is the signature of a format that travels."
+  "how_to_measure": "For formats without words, track audience by country and share rate. Global spread with high sharing is the signature of a format that travels.",
+  "image": {
+   "src": "assets/edition-07/khaby-lame.webp",
+   "alt": "Nas Daily and Khaby Lame stand together under Secret Story of Khaby lettering",
+   "credit": "Original May 2022 creator interview, before the June follower crossover · Nas Daily",
+   "source": "https://www.youtube.com/watch?v=F26xVfZlj6E",
+   "width": 800,
+   "height": 450
+  }
  }
 ]
