@@ -8,14 +8,14 @@
 | 01 | OK Go | 2006 | Archival | https://www.youtube.com/watch?v=dTAAsCNK7RA | https://www.youtube.com/watch?v=dTAAsCNK7RA |
 | 01 | The Davies-Carr family | 2007 | Sales trend | https://www.youtube.com/watch?v=_OBlgSz8sSM | https://www.youtube.com/watch?v=_OBlgSz8sSM |
 | 01 | Justin Bieber | 2008 | Archival | https://www.youtube.com/watch?v=eQOFRZ1wNLw | https://www.youtube.com/watch?v=Fp8msa5uYsc |
-| 01 | Lucas Cruikshank | 2009 | Reach only | https://www.youtube.com/watch?v=VsStIiPtWo8 | https://www.youtube.com/watch?v=VsStIiPtWo8 |
+| 01 | Tay Zonday | 2007 | Archival | https://www.youtube.com/watch?v=EwTZ2xpQwpA | https://www.youtube.com/watch?v=EwTZ2xpQwpA |
 | 01 | Hank and John Green | 2010 | Reach only | https://www.youtube.com/watch?v=f7mdu7GLJps | https://www.youtube.com/watch?v=f7mdu7GLJps |
 | 01 | PSY | 2012 | Reach only | https://www.youtube.com/watch?v=9bZkp7q19f0 | https://www.youtube.com/watch?v=9bZkp7q19f0 |
-| 01 | PewDiePie | 2013 | Reach only | https://www.youtube.com/watch?v=yJlbLNKMRZM | https://www.youtube.com/watch?v=yJlbLNKMRZM |
+| 01 | Charlie Schmidt and Brad O’Farrell | 2009 | Archival | https://www.youtube.com/watch?v=J---aiyznGQ | https://www.youtube.com/watch?v=J---aiyznGQ |
 | 01 | Ninja | 2018 | Reach only | https://www.youtube.com/watch?v=P4hk1jPRSrM | https://www.youtube.com/watch?v=P4hk1jPRSrM |
 | 01 | KSI and Logan Paul | 2018 | Sales trend | https://www.youtube.com/watch?v=WyGVhjyRkfI | https://www.youtube.com/watch?v=WyGVhjyRkfI |
 | 01 | Lil Nas X | 2019 | Sales trend | https://www.youtube.com/watch?v=w2Ov5jzm3j8 | https://www.youtube.com/watch?v=w2Ov5jzm3j8 |
-| 01 | MrBeast | 2024 | Reach only | https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/ | https://www.youtube.com/watch?v=HPJKxAhLw5I |
+| 01 | Bad-CRC and the remix community | 2001 | Archival | https://www.newgrounds.com/portal/view/11940 | https://www.newgrounds.com/collection/all-your-base |
 | 01 | Kai Cenat | 2025 | Sales trend | https://www.youtube.com/watch?v=pJkSY0HF3y0 | https://www.youtube.com/watch?v=pJkSY0HF3y0 |
 | 02 | Marques Brownlee | 2024 | Sales trend | https://www.youtube.com/watch?v=TitZV6k8zfA | https://www.youtube.com/watch?v=TitZV6k8zfA |
 | 02 | Smosh and the YouTubers | 2014 | Survey | https://www.youtube.com/watch?v=DwsZggwPRKc | https://www.youtube.com/watch?v=DwsZggwPRKc |

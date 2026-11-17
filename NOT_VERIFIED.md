@@ -5,10 +5,7 @@ Exact original or milestone video not authenticated for these cases. Later uploa
 | Edition | Case | Supplied media |
 | --- | --- | --- |
 | 01 | Gary Brolsma: The Numa Numa Dance | Creator’s later upload of the original 2004 clip |
-| 01 | Lucas Cruikshank: The First Million | Later reporting, adult interview |
-| 01 | PewDiePie: The Biggest Person on YouTube | Later creator explanation |
 | 01 | KSI and Logan Paul: The Biggest Amateur Fight in History | Reporting or interview |
-| 01 | MrBeast: The Channel That Passed a Record Label | Contemporary reporting, original milestone video not located |
 
 NOT VERIFIED: YouTube playback in every region, embedding permission and a complete browser interaction check. oEmbed success confirms available video metadata, not playback in every setting. Sales attribution and unpublished commercial results are not inferred from attention counts.
 
@@ -145,3 +142,15 @@ NOT VERIFIED: playback in every region, embedding permission, complete browser i
 All 70 cases in Editions 03 to 07 now have checked stills and each edition has four rendered screening selections. The records distinguish original work, later examples, interviews, reporting and substituted official or publisher stills. Original historical streams and posts listed as unauthenticated above remain NOT VERIFIED.
 
 The protected Edition 02 template and generated page retain a pre-existing singular screening placeholder. This was observed during integration and left byte-for-byte unchanged under the instruction not to touch Editions 01 or 02. Editions 03 to 07 use the existing shared builder token and CSS classes, with no CSS or JavaScript changes.
+
+## Edition 01 curation update, 17 November 2026
+
+Chocolate Rain replaces Fred’s subscriber milestone, Keyboard Cat replaces PewDiePie’s subscriber milestone and All Your Base replaces MrBeast’s subscriber milestone. The edition remains at 15 cases and the archive at 100. PewDiePie remains in Editions 03 and 05; MrBeast remains in Edition 06.
+
+Chocolate Rain and Keyboard Cat returned successful YouTube oEmbed metadata with title and channel on 17 November 2026. Responses and image records are retained in `verification/edition-01-curation/`. Their official hqdefault thumbnails were used after maxresdefault was unavailable, visually inspected and converted to 800 by 450 WebP.
+
+Keyboard Cat’s selected video is Schmidt’s original footage, uploaded in 2007, rather than the first 2009 play-off remix. The contemporary Associated Press interviews and Schmidt’s chronology distinguish the dates and credit Brad O’Farrell. The first play-off edit was not authenticated as a live original upload.
+
+All Your Base links to Bad-CRC’s original 2001 Newgrounds submission, with music and forum contributors credited. Its still is Newgrounds’ later collection artwork, not an authenticated frame from the original Flash file. Newgrounds’ original submission and credits were checked through web retrieval; direct workspace requests returned a Site Unavailable page. The collection artwork downloaded successfully. Playback of the Flash submission was not tested. No official YouTube original was claimed or substituted.
+
+NOT VERIFIED: universal playback, embedding permission, complete browser interactions, aggregate reach across remixes, and attributable commercial effects. The three new cases use archival dates rather than unsupported outcome totals. Grape Lady is not added to the collection.

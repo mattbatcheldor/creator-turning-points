@@ -1,0 +1,21 @@
+Check date: 17 November 2026
+
+python3 src/build.py
+Built index.html
+Built edition-01/index.html (forwards to index.html)
+Built edition-02/index.html
+Built edition-03/index.html
+Built edition-04/index.html
+Built edition-05/index.html
+Built edition-06/index.html
+Built edition-07/index.html
+Built the-index/index.html
+
+python3 src/audit.py
+PASS: 9 pages, 100 cases, 101 local images; all internal links, anchors and thumbnail fingerprints valid.
+
+python3 verification/edition-01-curation/check.py
+PASS: exactly three authorised replacements; other 97 cases and retained case order unchanged.
+PASS: Editions 02 to 07, Index template, CSS, JavaScript, audit and other protected files byte-for-byte unchanged.
+PASS: 15,15,15,15,15,15,10 cases; PewDiePie and MrBeast retained elsewhere.
+

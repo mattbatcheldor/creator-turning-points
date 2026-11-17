@@ -1,0 +1,16 @@
+{
+  "check_date": "2026-11-17",
+  "video_url": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
+  "thumbnail_url": "https://i.ytimg.com/vi/EwTZ2xpQwpA/hqdefault.jpg",
+  "title": "\"Chocolate Rain\" Original Song by Tay Zonday",
+  "channel": "TayZonday",
+  "metadata_http_status": 200,
+  "source_dimensions": [
+    480,
+    360
+  ],
+  "download_sha256": "07a09ad818ab08ef1a3e821e89c08d912bf70139cea468dfc7f4816a611ff420",
+  "output_sha256": "d2c41377865a7e7c485c3f33a57713e3c3351d8b4f37055ea9f7fe02a5ac469e",
+  "conversion": "Preserved 4:3 footage with narrow side borders in 800 by 450 WebP; thin black source edges trimmed",
+  "visually_inspected": true
+}

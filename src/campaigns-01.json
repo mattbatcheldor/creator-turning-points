@@ -370,60 +370,65 @@
     }
   },
   {
-    "id": "fred-one-million",
-    "brand": "Lucas Cruikshank",
-    "title": "The First Million",
-    "year": 2009,
-    "place": "Nebraska, United States",
-    "sector": "Comedy and online video",
+    "id": "chocolate-rain",
+    "brand": "Tay Zonday",
+    "title": "Chocolate Rain",
+    "year": 2007,
+    "place": "Minneapolis, United States",
+    "sector": "Music and online video",
     "mechanism": "Crossover",
     "data_role": "YouTube",
-    "data_source": "Character comedy",
-    "stage": "Milestone",
-    "hook": "A teenager with a sped-up voice became the first YouTuber with a million subscribers, then got a film.",
-    "situation": "By 2008 YouTube had stars, but subscribers were not yet a currency. Television networks still saw online video as a place for clips, not a source of talent.",
-    "exchange": "Lucas Cruikshank created Fred Figglehorn, a hyperactive six-year-old with a pitched-up voice, in short sketches aimed squarely at children and young teens.",
+    "data_source": "Original song and response videos",
+    "stage": "Viral breakthrough",
+    "hook": "A deep voice, a keyboard loop and a sideways breath turned a homemade song into something people quoted, replayed and answered.",
+    "situation": "YouTube let an unsigned musician publish a performance without a label or a television booking. The audience could respond with a performance of its own.",
+    "exchange": "Tay Zonday recorded Chocolate Rain with a microphone and keyboard. He later explained that he wrote it about institutional racism. Its delivery gave viewers something instantly recognisable to repeat, even when they heard it differently.",
     "brought": [
       [
-        "Lucas Cruikshank",
-        "A character, a release rhythm and a young audience that subscribed."
+        "Tay Zonday",
+        "An original song, an unexpected baritone and a performance people could recognise in seconds."
       ],
       [
-        "Nickelodeon",
-        "A network that saw the subscriber count as proof of demand and made a film."
+        "Response creators and Dr Pepper",
+        "Parodies, covers and a commercial response that carried the reference beyond the original upload."
       ]
     ],
-    "turning_point": "In April 2009 Fred became the first channel to reach a million subscribers, and YouTube marked it on its official blog. Nickelodeon released Fred: The Movie in 2010 and a series followed.",
-    "metric": "1 million",
-    "metric_label": "Subscribers, the first channel to get there",
-    "measure": "A subscriber count, recorded by YouTube in April 2009. It shows attention, not earnings",
-    "evidence": "YouTube’s own blog and Guinness World Records confirm the milestone. The film and series show the crossover happened, but how they performed against the cost of making them was not published in detail.",
-    "evidence_level": "Reach only",
-    "stat_type": "result",
-    "lesson": "Subscribers are a signal of demand, not proof of it in another medium. Test a creator’s audience in the new format before betting the budget.",
-    "take": "Fred is where subscribers became a currency the old industry understood. It is also an early reminder that an audience built for three-minute sketches does not always follow a creator to ninety minutes.",
-    "credit": "Lucas Cruikshank, 2008 to 2009",
+    "turning_point": "In its December 2007 review, YouTube highlighted responses from musicians and a Dr Pepper adaptation. The song had become a shared cultural reference, rather than just one popular upload.",
+    "metric": "2007",
+    "metric_label": "The year Chocolate Rain became a shared reference",
+    "measure": "A dated cultural record, not a measure of attributable reach, sales or earnings.",
+    "evidence": "The original remains on TayZonday’s channel. YouTube’s contemporary retrospective documents response videos and the brand adaptation. Those records establish cultural circulation, without isolating its commercial effect.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A recognisable creative detail can travel further than a campaign message. Credit the creator and give people room to answer it.",
+    "take": "The breath away from the microphone is part of what people remember. The case earns its place because viewers did more than watch: they made the song part of their own performances.",
+    "credit": "Tay Zonday, 2007",
     "creative": {
-      "medium": "Later reporting, adult interview",
-      "label": "Watch reporting: Lucas Cruikshank AKA “Fred” Interview | NMR Feature · New Rockstars",
-      "url": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+      "medium": "Original creator upload",
+      "label": "Watch the original · Tay Zonday",
+      "url": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
       "heading": "Creator media"
     },
     "announcement": [
-      "See the media record · New Rockstars",
-      "https://www.youtube.com/watch?v=VsStIiPtWo8"
+      "Watch the original · TayZonday",
+      "https://www.youtube.com/watch?v=EwTZ2xpQwpA"
     ],
     "impact_source": [
-      "See the record entry · Guinness World Records",
-      "https://www.guinnessworldrecords.com/world-records/508990-first-youtuber-to-reach-1-million-subscribers"
+      "Read YouTube’s 2007 retrospective",
+      "https://blog.youtube/culture-and-trends/2007-year-in-review-part-2/"
     ],
-    "links": [],
-    "how_to_measure": "Before a crossover, run a paid test: offer the audience the new format in a small way, a ticketed screening or a long episode, and measure take-up per thousand subscribers.",
+    "links": [
+      [
+        "Read the songwriter’s explanation · Know Your Meme interview, 2021",
+        "https://knowyourmeme.com/editorials/interviews/tay-zonday-opens-up-about-chocolate-rain-going-viral-and-the-struggles-of-internet-fame-as-we-look-back-on-the-last-14-years"
+      ]
+    ],
+    "how_to_measure": "Track repeat viewing and independently made responses separately from paid adaptations. Measure recognition and any brand effect against a baseline, rather than adding every view together.",
     "image": {
-      "src": "assets/edition-01/fred-one-million.webp",
-      "alt": "Graphic showing adult Lucas Cruikshank jumping, with his name and coloured bars.",
-      "credit": "Publisher video thumbnail · New Rockstars",
-      "source": "https://www.youtube.com/watch?v=VsStIiPtWo8",
+      "src": "assets/edition-01/chocolate-rain.webp",
+      "alt": "Tay Zonday wearing glasses and headphones beside a microphone.",
+      "credit": "Original video thumbnail · Tay Zonday",
+      "source": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
       "width": 800,
       "height": 450
     }
@@ -557,65 +562,60 @@
     }
   },
   {
-    "id": "pewdiepie-most-subscribed",
-    "brand": "PewDiePie",
-    "title": "The Biggest Person on YouTube",
-    "year": 2013,
-    "place": "Sweden and United Kingdom",
-    "sector": "Gaming and online video",
-    "mechanism": "Community",
+    "id": "keyboard-cat",
+    "brand": "Charlie Schmidt and Brad O’Farrell",
+    "title": "Play Him Off, Keyboard Cat",
+    "year": 2009,
+    "place": "Spokane, United States",
+    "sector": "Comedy and online video",
+    "mechanism": "Format",
     "data_role": "YouTube",
-    "data_source": "Let’s play videos",
-    "stage": "Most subscribed",
-    "hook": "A Swedish student filmed himself playing horror games. He became the most subscribed person on the platform.",
-    "situation": "Gaming videos in the early 2010s were mostly walkthroughs and reviews. Personality was a bonus, and few thought anyone would watch someone simply react to a game.",
-    "exchange": "Felix Kjellberg posted let’s play videos built around his own reactions and running jokes, and spoke to his viewers as a group with its own name, the Bro Army.",
+    "data_source": "Home video and remix punchline",
+    "stage": "Viral breakthrough",
+    "hook": "A cat in a blue shirt became the internet’s way of bringing an embarrassing moment to a close.",
+    "situation": "Charlie Schmidt filmed his cat Fatso in 1984 and uploaded the recording in 2007. The footage needed a new context to become a repeatable joke.",
+    "exchange": "In 2009 Brad O’Farrell attached the cat’s keyboard performance to a mishap, with Schmidt’s permission. Other people could apply the same ending to another clip.",
     "brought": [
       [
-        "Felix Kjellberg",
-        "Daily uploads, a recognisable voice and a direct relationship with fans."
+        "Charlie Schmidt",
+        "The original Fatso performance and permission to reuse it."
       ],
       [
-        "His audience",
-        "Loyalty that behaved like a movement, from in-jokes to subscription drives."
+        "Brad O’Farrell and subsequent remixers",
+        "A repeatable play-off joke that connected the old footage to new situations."
       ]
     ],
-    "turning_point": "In 2013 his channel became the most subscribed on YouTube. When the music label T-Series threatened that position in 2018 and 2019, fans campaigned to keep him on top, and in August 2019 he became the first individual creator to reach 100 million subscribers.",
-    "metric": "100 million",
-    "metric_label": "Subscribers, August 2019, the first individual creator",
-    "measure": "A 100-million subscriber milestone reached in 2019, following the 2013 overtaking in this case. It measures attention, not earnings.",
-    "evidence": "The 2019 milestone is well reported, including YouTube’s own congratulations. His income was the subject of press estimates rather than disclosure. The fan campaign shows reach and loyalty, and also spilled into behaviour he later asked fans to stop.",
-    "evidence_level": "Reach only",
-    "stat_type": "result",
-    "lesson": "A named community is a powerful asset and hard to steer. When you work with a creator, you are also working with what their audience does in their name.",
-    "take": "PewDiePie made the personality the product. He is also the clearest example of the creator economy’s central tension: the same closeness that builds loyalty makes the creator answerable for things a brand would never sign off.",
-    "credit": "Felix Kjellberg, 2010 to 2019",
+    "turning_point": "By May 2009 Associated Press was interviewing both creators about the remixes and television appearances. A reusable comic ending had given the old home video a second life.",
+    "metric": "2009",
+    "metric_label": "The year the play-off remix became a cultural reference",
+    "measure": "A dated cultural record, not a measure of attributable reach, sales or earnings.",
+    "evidence": "Schmidt’s site distinguishes the 1984 recording, 2007 upload and 2009 breakthrough. Contemporary Associated Press interviews credit O’Farrell’s remix and Schmidt’s permission. The selected video is the original cat footage, not the first play-off edit.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "A format spreads when another person can see exactly how to use it. Make the invitation clear and keep the original creator visible.",
+    "take": "The cat is memorable; the reusable ending is the turning point. This is a case about people adopting a comic device, rather than a channel climbing a subscriber table.",
+    "credit": "Charlie Schmidt; play-off format popularised by Brad O’Farrell, 2009",
     "creative": {
-      "medium": "Later creator explanation",
-      "label": "Watch HOW TO GET BIG ON YOUTUBE? · PewDiePie",
-      "url": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+      "medium": "Original 1984 footage, creator upload from 2007; 2009 remix breakthrough",
+      "label": "Watch the original · Charlie Schmidt and Brad O’Farrell",
+      "url": "https://www.youtube.com/watch?v=J---aiyznGQ",
       "heading": "Creator media"
     },
     "announcement": [
-      "See the media record · PewDiePie",
-      "https://www.youtube.com/watch?v=yJlbLNKMRZM"
+      "Read the creator’s chronology · Charlie Schmidt",
+      "https://www.charlieschmidt.com/"
     ],
     "impact_source": [
-      "Read YouTube’s response · Tubefilter",
-      "https://tubefilter.com/2019/08/26/youtube-embraces-pewdiepie-after-two-year-cold-shoulder-congratulates-him-on-100-million-subs/"
+      "Read the contemporary interviews · Associated Press via ABC News",
+      "https://abcnews.com/Technology/story?id=7659033&page=1"
     ],
-    "links": [
-      [
-        "Read the original overtaking report · TheWrap",
-        "https://www.thewrap.com/pewdiepie-overtakes-smosh-youtube-s-top-channel-111246/"
-      ]
-    ],
-    "how_to_measure": "For a community-led creator, measure audience action rather than reach: share of viewers who comment, join or buy, and the tone of community behaviour around a brand moment.",
+    "links": [],
+    "how_to_measure": "Count distinct remixes and creators, not just copies of the original. Check whether viewers recognise the device and whether attribution sends attention back to its creator.",
     "image": {
-      "src": "assets/edition-01/pewdiepie-most-subscribed.webp",
-      "alt": "The words How to Grow on YouTube over a blurred image of PewDiePie.",
-      "credit": "Official video thumbnail · PewDiePie",
-      "source": "https://www.youtube.com/watch?v=yJlbLNKMRZM",
+      "src": "assets/edition-01/keyboard-cat.webp",
+      "alt": "Fatso the tabby cat in a blue shirt with his paws above an electronic keyboard.",
+      "credit": "Original video thumbnail · Charlie Schmidt / Keyboard Cat!",
+      "source": "https://www.youtube.com/watch?v=J---aiyznGQ",
       "width": 800,
       "height": 450
     }
@@ -803,65 +803,60 @@
     }
   },
   {
-    "id": "mrbeast-most-subscribed",
-    "brand": "MrBeast",
-    "title": "The Channel That Passed a Record Label",
-    "year": 2024,
-    "place": "North Carolina, United States",
-    "sector": "Entertainment and online video",
-    "mechanism": "Format",
-    "data_role": "YouTube",
-    "data_source": "Challenge videos",
-    "stage": "Most subscribed",
-    "hook": "He counted to 100,000 on camera in 2017. Seven years later his channel was the biggest on YouTube.",
-    "situation": "By 2019 the most subscribed channel on YouTube was T-Series, an Indian music label uploading at industrial scale. It looked as if companies, not individuals, would own the top of the platform.",
-    "exchange": "Jimmy Donaldson studied what made people click and keep watching, then built huge challenge videos and giveaways around those lessons, reinvesting almost everything he earned into bigger productions.",
+    "id": "all-your-base",
+    "brand": "Bad-CRC and the remix community",
+    "title": "All Your Base Are Belong to Us",
+    "year": 2001,
+    "place": "Online / international",
+    "sector": "Gaming, music and online video",
+    "mechanism": "Community",
+    "data_role": "Web",
+    "data_source": "Forum images and Flash music video",
+    "stage": "Viral breakthrough",
+    "hook": "A strange line from a game became a chant, a music video and a joke people inserted into almost anything.",
+    "situation": "Before YouTube, forums and shared files could turn an obscure reference into something that travelled across the web. A badly translated line from Zero Wing supplied the material.",
+    "exchange": "Forum members altered images around the phrase. Bad-CRC assembled a Flash music video using their contributions and music credited to the Laziest Men on Mars.",
     "brought": [
       [
-        "Jimmy Donaldson",
-        "Obsessive testing of titles, thumbnails and pacing, and a team built to make spectacle."
+        "Bad-CRC and the Laziest Men on Mars",
+        "The assembled video and music that gave the running joke a shared form."
       ],
       [
-        "His audience",
-        "Watch time at a scale that kept the recommendation system serving every new upload."
+        "The Tribes forum contributors",
+        "Altered images and further variations that made the reference participatory."
       ]
     ],
-    "turning_point": "On 2 June 2024 MrBeast overtook T-Series as the most subscribed channel on YouTube, and passed 300 million subscribers soon after. An individual creator was back at the top.",
-    "metric": "No. 1",
-    "metric_label": "Most subscribed channel on YouTube, June 2024",
-    "measure": "A ranking by subscribers, reported at the time. It measures attention",
-    "evidence": "The overtaking was widely reported, including by Dawn and 9to5Google. The business around the channel, including Feastables, has its own case in Edition 06.",
-    "evidence_level": "Reach only",
-    "stat_type": "result",
-    "lesson": "Treat creative as a system to be tested, not a one-off. The creator who learns fastest from data usually wins the next upload.",
-    "take": "MrBeast turned audience retention into a craft. He is the case for creators as studios, and the reason brands now ask about thumbnails and first-minute retention in briefs.",
-    "credit": "MrBeast, 2012 to 2024",
+    "turning_point": "Bad-CRC published the video on Newgrounds on 16 February 2001. Contemporary WIRED reporting captured the joke’s spread through email, remixed images and online discussion. This was web remix culture before YouTube.",
+    "metric": "16 February 2001",
+    "metric_label": "The original Newgrounds publication date",
+    "measure": "A dated cultural record, not a measure of attributable reach, sales or earnings.",
+    "evidence": "The surviving creator submission records its date and credits the forum images and music. WIRED reported the phenomenon that month. There is no verified total for all copies or a commercial effect attributable to the meme.",
+    "evidence_level": "Archival",
+    "stat_type": "legacy",
+    "lesson": "Credit the people who assembled a shared idea as well as the person who uploaded it. Participation can be the work’s main source of distribution.",
+    "take": "This belongs in a creator archive because it shows collective authorship before channels became businesses. The memorable unit was a phrase everyone could put into a new setting.",
+    "credit": "Bad-CRC, Laziest Men on Mars and Tribes forum contributors; original Zero Wing imagery by Toaplan",
     "creative": {
-      "medium": "Contemporary reporting, original milestone video not located",
-      "label": "Read about the overtaking · 9to5Google",
-      "url": "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record/",
+      "medium": "Original 2001 Flash submission on Newgrounds; not a YouTube upload",
+      "label": "Watch the original · Bad-CRC and the remix community",
+      "url": "https://www.newgrounds.com/portal/view/11940",
       "heading": "Creator media"
     },
     "announcement": [
-      "Read contemporary reporting · BBC News",
-      "https://www.bbc.com/news/articles/c8440yxd92xo"
+      "See the original submission · Bad-CRC / Newgrounds",
+      "https://www.newgrounds.com/portal/view/11940"
     ],
     "impact_source": [
-      "Read about the record · 9to5Google",
-      "https://9to5google.com/2024/06/03/youtube-mrbeast-subscribers-record"
+      "Read contemporary reporting · WIRED",
+      "https://www.wired.com/2001/02/when-gamer-humor-attacks/"
     ],
-    "links": [
-      [
-        "Read about the 300 million milestone · Creator Handbook",
-        "https://www.creatorhandbook.net/mrbeast-makes-history-as-first-youtuber-to-reach-300-million-subscribers/"
-      ]
-    ],
-    "how_to_measure": "For a branded integration with a creator like this, agree on average view duration at the integration point and on lift in branded search, not on subscribers.",
+    "links": [],
+    "how_to_measure": "Map independent variations and their credited contributors. Measure recognition separately from downloads, and avoid presenting one host’s counter as the reach of the whole phenomenon.",
     "image": {
-      "src": "assets/edition-01/mrbeast-most-subscribed.webp",
-      "alt": "Cropped portrait of MrBeast from his TeamTrees video thumbnail, used as a related illustration.",
-      "credit": "Cropped related creator thumbnail, TeamTrees, 2019 · MrBeast",
-      "source": "https://www.youtube.com/watch?v=HPJKxAhLw5I",
+      "src": "assets/edition-01/all-your-base.webp",
+      "alt": "Pixel artwork of the Zero Wing character CATS against an orange background.",
+      "credit": "Collection artwork, substituted still · Newgrounds; Zero Wing imagery · Toaplan",
+      "source": "https://www.newgrounds.com/collection/all-your-base",
       "width": 800,
       "height": 450
     }

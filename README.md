@@ -4,7 +4,7 @@ An independent editorial archive by Matthew Batcheldor about moments when creato
 
 ## Published editions
 
-- Edition 01, Fame first: opens with Jawed Karim’s Me at the Zoo. 2004 to 2025. Fifteen famous moments show that audience attention is easier to document than its commercial effect.
+- Edition 01, Fame first: opens with Jawed Karim’s Me at the Zoo. 2001 to 2025. Fifteen famous moments show that audience attention is easier to document than its commercial effect.
 
 - Edition 02, Proof first: opens with Marques Brownlee’s Humane Ai Pin review. 2014 to 2024. The numbers are clearer than the attribution. Thirteen Sales trend cases, one survey and one livestream record show why a measured change still needs a baseline.
 

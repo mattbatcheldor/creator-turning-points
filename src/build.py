@@ -404,8 +404,8 @@ EDITIONS = [
         'screening': (
             ('me-at-the-zoo', 'The first video on YouTube, from Jawed Karim’s own channel. Count the seconds, then think about what followed.', 'zoo'),
             ('ok-go-treadmills', 'One take, eight treadmills and a camera on a tripod. Notice there is no record label logo anywhere.', 'treadmill'),
-            ('psy-gangnam-style', 'The video that outgrew the counter. Watch how much of it is a joke about the people watching.', 'horse'),
-            ('lil-nas-x-old-town-road', 'The remix film, from Lil Nas X’s channel. The song arrived through memes before it arrived on radio.', 'road'),
+            ('chocolate-rain', 'Watch the original song and the breath away from the microphone that became part of its shared identity.', 'song'),
+            ('keyboard-cat', 'This is Schmidt’s original cat footage, uploaded in 2007; O’Farrell gave it the play-off context in 2009.', 'keyboard'),
         ),
     },
     {
@@ -514,8 +514,8 @@ PARTY_SKIP = {'YouTube’s creators'}
 PARTY_LOGO_DIR = Path("assets/creator-logos")
 PARTY_LOGOS = {}
 PARTY_NOTES = {
-    'PewDiePie': 'The most subscribed individual on YouTube, the top of the first Forbes rich list, and the creator Disney dropped. His audience outlasted every brand deal.',
-    'MrBeast': 'A channel that overtook a record label, and a chocolate bar that earned more than the videos.',
+    'PewDiePie': 'Top of the first Forbes rich list, and the creator Disney dropped. His audience outlasted every brand deal.',
+    'MrBeast': 'The creator behind Feastables, a chocolate business with its own place in Edition 06.',
     'Kylie Jenner': 'One post linked to a fall in Snap’s share price, and a cosmetics line Coty paid $600 million to control.',
     'Smosh': 'Top of a 2014 survey of American teenagers, and bought back by its founders eighteen years after they started it.',
     'Logan Paul': 'A boxing match that sold 773,000 paid streams, and the vlog that cost him YouTube’s premium programme.',

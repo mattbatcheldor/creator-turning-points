@@ -1,0 +1,16 @@
+{
+  "check_date": "2026-11-17",
+  "video_url": "https://www.youtube.com/watch?v=J---aiyznGQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/J---aiyznGQ/hqdefault.jpg",
+  "title": "Keyboard Cat! - THE ORIGINAL!",
+  "channel": "Keyboard Cat!",
+  "metadata_http_status": 200,
+  "source_dimensions": [
+    480,
+    360
+  ],
+  "download_sha256": "e0c4d0465944ac16b8e993ceda97dedc03a6fb5136f448e86a19880bd869d3ad",
+  "output_sha256": "70858d2b2c16a9506f1cc90d8a0d9e2927c546a3a24c8eed01c5882fe78905a2",
+  "conversion": "Preserved 4:3 footage with narrow side borders in 800 by 450 WebP; thin black source edges trimmed",
+  "visually_inspected": true
+}
