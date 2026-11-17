@@ -3,3 +3,4 @@ Unchanged audit: exit 1; 80 failures for 40 cases in Editions 05 to 07, each mis
 Protection checks: PASS; case IDs/order and non-media fields unchanged; Editions 01/02 and protected files byte-identical.
 The Index generated page restored to baseline after full build.
 Zero prohibited dashes.
+Screening integration corrected to existing builder token and CSS class names. Four rendered film cards and four YouTube data-video controls verified; no unresolved Edition 04 tokens.
